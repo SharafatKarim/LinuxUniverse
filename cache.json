@@ -749,6 +749,36 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186890",
+          "author": "Web Webster",
+          "description": "Gitea is an open-source code-hosting solution based on the Git platform. This guide will cover installing and configuring Gitea on a Debian 12 server and setting up your first Git repository.\nThe post How to Install Gitea DevOps Platform using Docker on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-gitea-devops-platform-using-docker-on-debian-12/",
+          "publishedOn": "2024-03-28T23:00:54.000Z",
+          "wordCount": 10190,
+          "title": "How to Install Gitea DevOps Platform using Docker on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188431",
+          "author": "Web Webster",
+          "description": "To provide an insight into the quality of software that is available, we have compiled a list of 15 high quality free Linux file managers. Hopefully, there will be something of interest for anyone who wishes to have more control over managing their files.\nThe post 15 Best Free and Open-Source Linux File Managers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/15-best-free-and-open-source-linux-file-managers/",
+          "publishedOn": "2024-03-28T15:30:47.000Z",
+          "wordCount": 10206,
+          "title": "15 Best Free and Open-Source Linux File Managers",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187318",
+          "author": "Web Webster",
+          "description": "This tutorial provides detailed steps for installing the handbrake on Ubuntu. We will install it on Ubuntu and Linux Mint systems using the Flatpak method.\nThe post How to Install HandBrake on Ubuntu and Linux Mint appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-handbrake-on-ubuntu-and-linux-mint/",
+          "publishedOn": "2024-03-28T02:00:53.000Z",
+          "wordCount": 10183,
+          "title": "How to Install HandBrake on Ubuntu and Linux Mint",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188374",
           "author": "Web Webster",
           "description": "In this tutorial, we will show you how to install Bitwarden on Manjaro. In today’s digital age, password management is crucial for maintaining online security. Bitwarden, a secure and free password manager, is an excellent choice for managing your passwords across all your devices.\nThe post How to Install Bitwarden on Manjaro appeared first on Linux Today.",
@@ -2417,76 +2447,6 @@
           "wordCount": 10219,
           "title": "How to Install the Icinga 2 Monitoring Software on Ubuntu 22.04",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187373",
-          "author": "Web Webster",
-          "description": "Learn how to easily disable the SSH welcome message on your Ubuntu server to improve your SSH experience with this step-by-step guide.\nThe post How to Disable SSH Welcome Message on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-disable-ssh-welcome-message-on-ubuntu/",
-          "publishedOn": "2024-02-28T03:32:24.000Z",
-          "wordCount": 10213,
-          "title": "How to Disable SSH Welcome Message on Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187343",
-          "author": "Web Webster",
-          "description": "Easily implement SSL on your site with ZeroSSL. Our guide covers free certificate setup, ensuring safe and encrypted user connections.\nThe post ZeroSSL: How to Secure Your Website with a Free SSL Certificate appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/zerossl-how-to-secure-your-website-with-a-free-ssl-certificate/",
-          "publishedOn": "2024-02-28T01:00:16.000Z",
-          "wordCount": 10174,
-          "title": "ZeroSSL: How to Secure Your Website with a Free SSL Certificate",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187358",
-          "author": "Web Webster",
-          "description": "We kick off this year with an interesting Arch-based Linux distribution called “Archcraft” that claims to be “just another Linux distribution” but can run with only 500 MB of RAM.\nThe post Archcraft: A Customized Lightweight Linux Distro Experience appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/archcraft-a-customized-lightweight-linux-distro-experience/",
-          "publishedOn": "2024-02-27T21:00:07.000Z",
-          "wordCount": 10177,
-          "title": "Archcraft: A Customized Lightweight Linux Distro Experience",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187322",
-          "author": "Web Webster",
-          "description": "There are three methods to install Node.js on AlmaLinux 9 or 8 utilizing the command-line terminal. These include the default appstream, NodeSource or NVM. Learn these methods in this tutorial.\nThe post Guide to Installing Node.js on AlmaLinux 9 or 8 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/guide-to-installing-node-js-on-almalinux-9-or-8/",
-          "publishedOn": "2024-02-27T19:00:36.000Z",
-          "wordCount": 10191,
-          "title": "Guide to Installing Node.js on AlmaLinux 9 or 8",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187306",
-          "author": "Web Webster",
-          "description": "Nextcloud AIO stands for Nextcloud All in One. It is a docker-based installer that makes deploying Nextcloud a breeze. In this tutorial, learn how to install Nextcloud AIO on Ubuntu 22.04.\nThe post How to Install Nextcloud AIO on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-nextcloud-aio-on-ubuntu-22-04/",
-          "publishedOn": "2024-02-27T18:00:52.000Z",
-          "wordCount": 10188,
-          "title": "How to Install Nextcloud AIO on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187643",
-          "author": "Web Webster",
-          "description": "In this guide, we delve into the practicalities of establishing an affordable self-hosted environment tailored for home labs, home offices, and small to medium-sized enterprises. Prioritizing a lean approach that minimizes both effort and cost, our goal is to navigate complexities within a reasonable timeframe.\nThe post How to Build a Self-Hosted Environment on Linux With Proxmox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-build-a-self-hosted-environment-on-linux-with-proxmox/",
-          "publishedOn": "2024-02-27T16:30:32.000Z",
-          "wordCount": 10205,
-          "title": "How to Build a Self-Hosted Environment on Linux With Proxmox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186816",
-          "author": "Web Webster",
-          "description": "Discover how to get rid of the persistent PackageKit message on your OpenSUSE system and enjoy hassle-free package management without interruptions in this guide.\nThe post How to Hide “PackageKit” Message in OpenSUSE appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-hide-packagekit-message-in-opensuse/",
-          "publishedOn": "2024-02-27T15:44:04.000Z",
-          "wordCount": 10180,
-          "title": "How to Hide “PackageKit” Message in OpenSUSE",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2495,6 +2455,196 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnRoZXN0YWNrLnRlY2hub2xvZ3kvcGFzc3dvcmQtbGVha2luZy11YnVudHUtYnVnL9IBAA",
+          "author": null,
+          "description": "Ubuntu hit with long-dormant password-leaking bug  The Stack",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRoZXN0YWNrLnRlY2hub2xvZ3kvcGFzc3dvcmQtbGVha2luZy11YnVudHUtYnVnL9IBAA?oc=5",
+          "publishedOn": "2024-03-28T23:17:17.000Z",
+          "wordCount": 5051,
+          "title": "Ubuntu hit with long-dormant password-leaking bug - The Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnRoZXN0YWNrLnRlY2hub2xvZ3kvcmVkaXMtZm9yay12YWxrZXktbGludXgtZm91bmRhdGlvbi_SAQA",
+          "author": null,
+          "description": "AWS, Google, Oracle back Redis fork Valkey  The Stack",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZXN0YWNrLnRlY2hub2xvZ3kvcmVkaXMtZm9yay12YWxrZXktbGludXgtZm91bmRhdGlvbi_SAQA?oc=5",
+          "publishedOn": "2024-03-28T22:45:11.000Z",
+          "wordCount": 5051,
+          "title": "AWS, Google, Oracle back Redis fork Valkey - The Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20va29kaS1naXZlcy11cC1vbi1wcGEv0gEA",
+          "author": null,
+          "description": "Kodi Moves to Flatpak for Linux Installations  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20va29kaS1naXZlcy11cC1vbi1wcGEv0gEA?oc=5",
+          "publishedOn": "2024-03-28T21:22:00.000Z",
+          "wordCount": 5051,
+          "title": "Kodi Moves to Flatpak for Linux Installations - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvZGVjYWRlLW9sZC1saW51eC13YWxsLWJ1Zy1oZWxwcy1tYWtlLWZha2Utc3Vkby1wcm9tcHRzLXN0ZWFsLXBhc3N3b3Jkcy_SAXpodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2RlY2FkZS1vbGQtbGludXgtd2FsbC1idWctaGVscHMtbWFrZS1mYWtlLXN1ZG8tcHJvbXB0cy1zdGVhbC1wYXNzd29yZHMvYW1wLw",
+          "author": null,
+          "description": "Decade-old Linux ‘wall’ bug helps make fake SUDO prompts, steal passwords  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvZGVjYWRlLW9sZC1saW51eC13YWxsLWJ1Zy1oZWxwcy1tYWtlLWZha2Utc3Vkby1wcm9tcHRzLXN0ZWFsLXBhc3N3b3Jkcy_SAXpodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2RlY2FkZS1vbGQtbGludXgtd2FsbC1idWctaGVscHMtbWFrZS1mYWtlLXN1ZG8tcHJvbXB0cy1zdGVhbC1wYXNzd29yZHMvYW1wLw?oc=5",
+          "publishedOn": "2024-03-28T21:03:49.000Z",
+          "wordCount": 5051,
+          "title": "Decade-old Linux ‘wall’ bug helps make fake SUDO prompts, steal passwords - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtZm91bmRhdGlvbi1mb3Jrcy10aGUtb3Blbi1zb3VyY2UtcmVkaXMtYXMtdmFsa2V5L9IBAA",
+          "author": null,
+          "description": "Linux Foundation Forks the Open Source Redis as 'Valkey'  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtZm91bmRhdGlvbi1mb3Jrcy10aGUtb3Blbi1zb3VyY2UtcmVkaXMtYXMtdmFsa2V5L9IBAA?oc=5",
+          "publishedOn": "2024-03-28T20:16:08.000Z",
+          "wordCount": 5051,
+          "title": "Linux Foundation Forks the Open Source Redis as 'Valkey' - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjgvdGhlLXB1cmUtdmVyc2lvbi1vZi1rb2RpLWZvci11YnVudHUtbGludXgtaXMtZGVhZC_SAQA",
+          "author": null,
+          "description": "The 'pure' version of Kodi for Ubuntu Linux is dead  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjgvdGhlLXB1cmUtdmVyc2lvbi1vZi1rb2RpLWZvci11YnVudHUtbGludXgtaXMtZGVhZC_SAQA?oc=5",
+          "publishedOn": "2024-03-28T19:42:18.000Z",
+          "wordCount": 5051,
+          "title": "The 'pure' version of Kodi for Ubuntu Linux is dead - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUNQVS1GYW1pbHktNi1FbmRpbmfSAQA",
+          "author": null,
+          "description": "Intel \"Family 6\" CPU Era Coming To An End Soon: Code Suggests Cooper Forest & Adams Lake  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUNQVS1GYW1pbHktNi1FbmRpbmfSAQA?oc=5",
+          "publishedOn": "2024-03-28T17:40:00.000Z",
+          "wordCount": 5051,
+          "title": "Intel \"Family 6\" CPU Era Coming To An End Soon: Code Suggests Cooper Forest & Adams Lake - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLGh0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L2FtZC1hdmlj0gEA",
+          "author": null,
+          "description": "How to enable AMD AVIC and speed up your VMs  Oracle",
+          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L2FtZC1hdmlj0gEA?oc=5",
+          "publishedOn": "2024-03-28T17:33:17.000Z",
+          "wordCount": 5051,
+          "title": "How to enable AMD AVIC and speed up your VMs - Oracle",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUZvdW5kYXRpb24tVmFsa2V50gEA",
+          "author": null,
+          "description": "Linux Foundation Launches Valkey As A Redis Fork  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUZvdW5kYXRpb24tVmFsa2V50gEA?oc=5",
+          "publishedOn": "2024-03-28T17:30:00.000Z",
+          "wordCount": 5051,
+          "title": "Linux Foundation Launches Valkey As A Redis Fork - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy9saW51eC12ZXJzaW9uLW9mLWRpbm9kYXNyYXQtc3BvdHRlZC1pbi5odG1s0gEA",
+          "author": null,
+          "description": "Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy9saW51eC12ZXJzaW9uLW9mLWRpbm9kYXNyYXQtc3BvdHRlZC1pbi5odG1s0gEA?oc=5",
+          "publishedOn": "2024-03-28T17:02:00.000Z",
+          "wordCount": 5051,
+          "title": "Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtbWV0ZW9ybGFrZS1saW51eC02OdIBAA",
+          "author": null,
+          "description": "Intel Core Ultra \"Meteor Lake\" Yields Faster Performance With Linux 6.9  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtbWV0ZW9ybGFrZS1saW51eC02OdIBAA?oc=5",
+          "publishedOn": "2024-03-28T15:10:00.000Z",
+          "wordCount": 5051,
+          "title": "Intel Core Ultra \"Meteor Lake\" Yields Faster Performance With Linux 6.9 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FybS1DaGluYS1aaG91eWktTlBVLUxpbnV4LVJGQ9IBAA",
+          "author": null,
+          "description": "Arm China Looking At Upstreaming Their \"Zhouyi\" NPU Driver Into The Linux Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FybS1DaGluYS1aaG91eWktTlBVLUxpbnV4LVJGQ9IBAA?oc=5",
+          "publishedOn": "2024-03-28T14:34:00.000Z",
+          "wordCount": 5051,
+          "title": "Arm China Looking At Upstreaming Their \"Zhouyi\" NPU Driver Into The Linux Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3F1YWQtYmFzZWQtb25saW5lLXNob290ZXItZW5saXN0ZWQtcmVpbmZvcmNlZC1ub3ctb24tc3RlYW0td2l0aC1saW51eC1zdXBwb3J0L9IBAA",
+          "author": null,
+          "description": "Squad-based online shooter Enlisted: Reinforced now on Steam with Linux support  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3F1YWQtYmFzZWQtb25saW5lLXNob290ZXItZW5saXN0ZWQtcmVpbmZvcmNlZC1ub3ctb24tc3RlYW0td2l0aC1saW51eC1zdXBwb3J0L9IBAA?oc=5",
+          "publishedOn": "2024-03-28T14:20:21.000Z",
+          "wordCount": 5051,
+          "title": "Squad-based online shooter Enlisted: Reinforced now on Steam with Linux support - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb2gtc25hcC1jYW5vbmljYWwtbm93LWRvaW5nLW1hbnVhbC1yZXZpZXdzLWZvci1uZXctcGFja2FnZXMtZHVlLXRvLXNjYW0tYXBwcy_SAQA",
+          "author": null,
+          "description": "Oh Snap! Canonical now doing manual reviews for new packages due to scam apps  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb2gtc25hcC1jYW5vbmljYWwtbm93LWRvaW5nLW1hbnVhbC1yZXZpZXdzLWZvci1uZXctcGFja2FnZXMtZHVlLXRvLXNjYW0tYXBwcy_SAQA?oc=5",
+          "publishedOn": "2024-03-28T13:15:02.000Z",
+          "wordCount": 5051,
+          "title": "Oh Snap! Canonical now doing manual reviews for new packages due to scam apps - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vc2VjdXJlbGlzdC5jb20vZGlub2Rhc3JhdC1saW51eC1pbXBsYW50LzExMjI4NC_SAQA",
+          "author": null,
+          "description": "Analysis of DinodasRAT Linux implant  Securelist",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vc2VjdXJlbGlzdC5jb20vZGlub2Rhc3JhdC1saW51eC1pbXBsYW50LzExMjI4NC_SAQA?oc=5",
+          "publishedOn": "2024-03-28T13:00:51.000Z",
+          "wordCount": 5051,
+          "title": "Analysis of DinodasRAT Linux implant - Securelist",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcHVua2Nha2UtZGxpY2lldXgtanVzdC1hZGRlZC1saW51eC1zdXBwb3J0LXRvLWEtd2hvbGUtYnVuY2gtb2YtZ2FtZXMv0gEA",
+          "author": null,
+          "description": "PUNKCAKE Délicieux just added Linux support to a whole bunch of games  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcHVua2Nha2UtZGxpY2lldXgtanVzdC1hZGRlZC1saW51eC1zdXBwb3J0LXRvLWEtd2hvbGUtYnVuY2gtb2YtZ2FtZXMv0gEA?oc=5",
+          "publishedOn": "2024-03-28T12:57:42.000Z",
+          "wordCount": 5051,
+          "title": "PUNKCAKE Délicieux just added Linux support to a whole bunch of games - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VST0ZTLUZTREFYLU5vdC1FeHBlcmltZW50YWzSAQA",
+          "author": null,
+          "description": "EROFS Drops \"Experimental\" Warning For FSDAX With Linux 6.9  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VST0ZTLUZTREFYLU5vdC1FeHBlcmltZW50YWzSAQA?oc=5",
+          "publishedOn": "2024-03-28T10:36:00.000Z",
+          "wordCount": 5051,
+          "title": "EROFS Drops \"Experimental\" Warning For FSDAX With Linux 6.9 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifGh0dHBzOi8vd3d3Lm5ld2VsZWN0cm9uaWNzLmNvLnVrL2NvbnRlbnQvbmV3cy9hY2hyb25peC1mcGdhcy1hZGQtc3VwcG9ydC1mb3ItYmx1ZXNwZWMtcy1saW51eC1jYXBhYmxlLXJpc2Mtdi1zb2Z0LXByb2Nlc3NvcnPSAQA",
+          "author": null,
+          "description": "Achronix FPGAs add support for Bluespec’s Linux-capable RISC-V soft processors  New Electronics",
+          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5ld2VsZWN0cm9uaWNzLmNvLnVrL2NvbnRlbnQvbmV3cy9hY2hyb25peC1mcGdhcy1hZGQtc3VwcG9ydC1mb3ItYmx1ZXNwZWMtcy1saW51eC1jYXBhYmxlLXJpc2Mtdi1zb2Z0LXByb2Nlc3NvcnPSAQA?oc=5",
+          "publishedOn": "2024-03-28T08:06:05.000Z",
+          "wordCount": 5051,
+          "title": "Achronix FPGAs add support for Bluespec’s Linux-capable RISC-V soft processors - New Electronics",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LmVsZWN0cm9uaWNzd2Vla2x5LmNvbS9uZXdzL2J1c2luZXNzLzgzODQ2MC0yMDI0LTAzL9IBAA",
+          "author": null,
+          "description": "THine's ISP THP7312 is available in the Linux mainline kernel  Electronics Weekly",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmVsZWN0cm9uaWNzd2Vla2x5LmNvbS9uZXdzL2J1c2luZXNzLzgzODQ2MC0yMDI0LTAzL9IBAA?oc=5",
+          "publishedOn": "2024-03-28T06:34:09.000Z",
+          "wordCount": 5051,
+          "title": "THine's ISP THP7312 is available in the Linux mainline kernel - Electronics Weekly",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMia2h0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlsYml0cy1hbm90aGVyLWxpbnV4LWxhcHRvcC11cGRhdGUtYW5vdGhlci1yb2NrY2hpcC1wcm9jZXNzb3ItYW5vdGhlci1waXhlbC05LWxlYWsv0gEA",
           "author": null,
@@ -2863,6 +3013,16 @@
           "publishedOn": "2024-03-26T09:37:54.000Z",
           "wordCount": 5051,
           "title": "Microsoft may be making it easier to install Linux distros in Windows 11 with a new UI for WSL - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2Jlc3QtbGludXgtZGlzdHJvcy0zNDExMDU4L9IBAA",
+          "author": null,
+          "description": "The best Linux distros for 2024  Android Authority",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2Jlc3QtbGludXgtZGlzdHJvcy0zNDExMDU4L9IBAA?oc=5",
+          "publishedOn": "2024-03-26T07:00:00.000Z",
+          "wordCount": 5051,
+          "title": "The best Linux distros for 2024 - Android Authority",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7924,136 +8084,6 @@
           "wordCount": 5005,
           "title": "Can the NES run Linux? The answer, surprisingly, is yes - Softonic EN",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDIvcmVtb3RlLXBsYXktYnJva2VuLW9uLXN0ZWFtLWRlY2std2l0aC10aGUtZmVicnVhcnktc3RhYmxlLXVwZGF0ZS_SAQA",
-          "author": null,
-          "description": "Remote Play broken on Steam Deck with the February stable update  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDIvcmVtb3RlLXBsYXktYnJva2VuLW9uLXN0ZWFtLWRlY2std2l0aC10aGUtZmVicnVhcnktc3RhYmxlLXVwZGF0ZS_SAQA?oc=5",
-          "publishedOn": "2024-02-28T12:40:54.000Z",
-          "wordCount": 5005,
-          "title": "Remote Play broken on Steam Deck with the February stable update - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLURSTS1MaW51eC02LjktUHVsbNIBAA",
-          "author": null,
-          "description": "Intel Xe Kernel GPU Driver Starts Landing SR-IOV Bits & Other Features For Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLURSTS1MaW51eC02LjktUHVsbNIBAA?oc=5",
-          "publishedOn": "2024-02-28T12:00:00.000Z",
-          "wordCount": 5005,
-          "title": "Intel Xe Kernel GPU Driver Starts Landing SR-IOV Bits & Other Features For Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzI4L25ld192ZXJzX2JjYWNoZWZzX3pmcy_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDIvMjgvbmV3X3ZlcnNfYmNhY2hlZnNfemZzLw",
-          "author": null,
-          "description": "On-disk format change beckons for brave early adopters of Bcachefs  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzI4L25ld192ZXJzX2JjYWNoZWZzX3pmcy_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDIvMjgvbmV3X3ZlcnNfYmNhY2hlZnNfemZzLw?oc=5",
-          "publishedOn": "2024-02-28T11:57:00.000Z",
-          "wordCount": 5005,
-          "title": "On-disk format change beckons for brave early adopters of Bcachefs - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtZGVza3RvcC1lbnZpcm9ubWVudC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV30gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1wbGFzbWEtNi1kZXNrdG9wLWVudmlyb25tZW50LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXcvYW1w",
-          "author": null,
-          "description": "KDE Plasma 6 Desktop Environment Officially Released, This Is What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtZGVza3RvcC1lbnZpcm9ubWVudC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV30gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1wbGFzbWEtNi1kZXNrdG9wLWVudmlyb25tZW50LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXcvYW1w?oc=5",
-          "publishedOn": "2024-02-28T10:28:08.000Z",
-          "wordCount": 5005,
-          "title": "KDE Plasma 6 Desktop Environment Officially Released, This Is What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS90YWlscy02LTAtcmVsZWFzZS_SAQA",
-          "author": null,
-          "description": "Privacy-First Linux Distro Tails 6.0 Releases With Debian 12 Bookworm Base  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS90YWlscy02LTAtcmVsZWFzZS_SAQA?oc=5",
-          "publishedOn": "2024-02-28T09:53:45.000Z",
-          "wordCount": 5005,
-          "title": "Privacy-First Linux Distro Tails 6.0 Releases With Debian 12 Bookworm Base - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZQOS1MaW51eC1LZXJuZWwtUnVzdC1WNEwyLVJGQ9IBAA",
-          "author": null,
-          "description": "Linux's V4L2 VP9 Codec Kernel Code Rewritten In Rust For Better Memory Safety  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZQOS1MaW51eC1LZXJuZWwtUnVzdC1WNEwyLVJGQ9IBAA?oc=5",
-          "publishedOn": "2024-02-28T01:12:00.000Z",
-          "wordCount": 5005,
-          "title": "Linux's V4L2 VP9 Codec Kernel Code Rewritten In Rust For Better Memory Safety - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDIvMjcvdGFpbHMtNi0wLWxpbnV4LXByaXZhY3ktYmlnLWJyb3RoZXIv0gEA",
-          "author": null,
-          "description": "Tails 6.0 Linux distribution: The ultimate privacy shield to thwart 'Big Brother'  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDIvMjcvdGFpbHMtNi0wLWxpbnV4LXByaXZhY3ktYmlnLWJyb3RoZXIv0gEA?oc=5",
-          "publishedOn": "2024-02-27T22:22:29.000Z",
-          "wordCount": 5005,
-          "title": "Tails 6.0 Linux distribution: The ultimate privacy shield to thwart 'Big Brother' - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9jcmFmdGluZy1jdXR0aW5nLWVkZ2UtYWktYXNzaXN0YW50cy11YnVudHXSAQA",
-          "author": null,
-          "description": "Crafting Cutting-Edge AI Assistants with Ubuntu  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9jcmFmdGluZy1jdXR0aW5nLWVkZ2UtYWktYXNzaXN0YW50cy11YnVudHXSAQA?oc=5",
-          "publishedOn": "2024-02-27T19:35:32.000Z",
-          "wordCount": 5005,
-          "title": "Crafting Cutting-Edge AI Assistants with Ubuntu - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L252bWUtb2YtYm9vdC1mcm9tLXNhbi11c2luZy10Y3DSAQA",
-          "author": null,
-          "description": "Blog Theme - Details  Oracle",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L252bWUtb2YtYm9vdC1mcm9tLXNhbi11c2luZy10Y3DSAQA?oc=5",
-          "publishedOn": "2024-02-27T19:01:30.000Z",
-          "wordCount": 5005,
-          "title": "Blog Theme - Details - Oracle",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFodHRwczovL21lZGl1bS5jb20vQGRldm9wc2xlYXJuaW5nL3VuZGVyc3RhbmRpbmctYnVmZmVyLW92ZXJmbG93LWVycm9ycy1pbi1saW51eC1uZXR3b3Jrcy1kNjlkODFjZTU1NTQ_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA",
-          "author": null,
-          "description": "📌 Understanding Buffer Overflow Errors in Linux Networks📌 | by Prashant Lakhera | Feb, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL21lZGl1bS5jb20vQGRldm9wc2xlYXJuaW5nL3VuZGVyc3RhbmRpbmctYnVmZmVyLW92ZXJmbG93LWVycm9ycy1pbi1saW51eC1uZXR3b3Jrcy1kNjlkODFjZTU1NTQ_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA?oc=5",
-          "publishedOn": "2024-02-27T17:13:28.000Z",
-          "wordCount": 5005,
-          "title": "📌 Understanding Buffer Overflow Errors in Linux Networks📌 | by Prashant Lakhera | Feb, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYWFyY2g2NC02NGsta2VybmVsLXBlcmbSAQA",
-          "author": null,
-          "description": "64K Kernel Page Size Performance Benefits For HPC Shown With NVIDIA's GH200 Grace CPU  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYWFyY2g2NC02NGsta2VybmVsLXBlcmbSAQA?oc=5",
-          "publishedOn": "2024-02-27T17:00:00.000Z",
-          "wordCount": 5005,
-          "title": "64K Kernel Page Size Performance Benefits For HPC Shown With NVIDIA's GH200 Grace CPU - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90YWlscy02LTAtb2ZmaWNpYWxseS1yZWxlYXNlZC1iYXNlZC1vbi1kZWJpYW4tMTItYm9va3dvcm0tYW5kLWdub21lLTQz0gFgaHR0cHM6Ly85dG81bGludXguY29tL3RhaWxzLTYtMC1vZmZpY2lhbGx5LXJlbGVhc2VkLWJhc2VkLW9uLWRlYmlhbi0xMi1ib29rd29ybS1hbmQtZ25vbWUtNDMvYW1w",
-          "author": null,
-          "description": "Tails 6.0 Officially Released, Based on Debian 12 “Bookworm” and GNOME 43  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90YWlscy02LTAtb2ZmaWNpYWxseS1yZWxlYXNlZC1iYXNlZC1vbi1kZWJpYW4tMTItYm9va3dvcm0tYW5kLWdub21lLTQz0gFgaHR0cHM6Ly85dG81bGludXguY29tL3RhaWxzLTYtMC1vZmZpY2lhbGx5LXJlbGVhc2VkLWJhc2VkLW9uLWRlYmlhbi0xMi1ib29rd29ybS1hbmQtZ25vbWUtNDMvYW1w?oc=5",
-          "publishedOn": "2024-02-27T15:45:21.000Z",
-          "wordCount": 5005,
-          "title": "Tails 6.0 Officially Released, Based on Debian 12 “Bookworm” and GNOME 43 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9hYnlzcy1sb2NrZXItcmFuc29td2FyZS_SATJodHRwczovL2diaGFja2Vycy5jb20vYWJ5c3MtbG9ja2VyLXJhbnNvbXdhcmUvYW1wLw",
-          "author": null,
-          "description": "Abyss Locker Ransomware Attacks Microsoft Windows and Linux Users  GBHackers",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9hYnlzcy1sb2NrZXItcmFuc29td2FyZS_SATJodHRwczovL2diaGFja2Vycy5jb20vYWJ5c3MtbG9ja2VyLXJhbnNvbXdhcmUvYW1wLw?oc=5",
-          "publishedOn": "2024-02-27T14:25:56.000Z",
-          "wordCount": 5005,
-          "title": "Abyss Locker Ransomware Attacks Microsoft Windows and Linux Users - GBHackers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8062,6 +8092,256 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Tails-27487.shtml",
+          "author": "Softpedia Linux",
+          "description": "An open source live Linux and Tor-based OS focused on Internet privacy and anonymity",
+          "link": "https://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Tails-27487.shtml",
+          "publishedOn": "2024-03-28T17:39:49.000Z",
+          "wordCount": 1678,
+          "title": "Tails 6.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tails_2.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Chat/Slack-for-Linux-103899.shtml",
+          "author": "Softpedia Linux",
+          "description": "Communicate and collaborate with your team easier and more efficiently with the help of Slack's official desktop client for Linux",
+          "link": "https://linux.softpedia.com/get/Communications/Chat/Slack-for-Linux-103899.shtml",
+          "publishedOn": "2024-03-28T17:13:03.000Z",
+          "wordCount": 1564,
+          "title": "Slack 4.37.94 Beta",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Slack-for-Linux_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/SeaMonkey-5360.shtml",
+          "author": "Softpedia Linux",
+          "description": "The all-in-one, open-source Internet application suite that bundles a web browser, an IRC chat app, a newsgroup and feed client, as well as various web development tools",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/SeaMonkey-5360.shtml",
+          "publishedOn": "2024-03-28T17:10:34.000Z",
+          "wordCount": 1308,
+          "title": "SeaMonkey 2.53.18.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SeaMonkey_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Radio-Alex-Kryuchkov-104423.shtml",
+          "author": "Softpedia Linux",
+          "description": "Listen to free and open-source radio stations from radio-browser.info directly on the desktop with the help of this simple app",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Radio-Alex-Kryuchkov-104423.shtml",
+          "publishedOn": "2024-03-28T17:02:20.000Z",
+          "wordCount": 1184,
+          "title": "Radio 1.0.13",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Radio-Alex-Kryuchkov_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Quick-Settings-Avatar-104374.shtml",
+          "author": "Softpedia Linux",
+          "description": "Improve the looks of GNOME 43's Quick Settings menu by adding a preview of your user avatar",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Quick-Settings-Avatar-104374.shtml",
+          "publishedOn": "2024-03-28T17:00:37.000Z",
+          "wordCount": 1203,
+          "title": "Quick Settings Avatar v7",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Quick-Settings-Avatar_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Panel-104508.shtml",
+          "author": "Softpedia Linux",
+          "description": "Get more control over how you play media on Ubuntu 23.04 (and onward) with the help of Audio Panel to Quick Settings, a small GNOME Shell extension that adds a dedicated audio panel",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Panel-104508.shtml",
+          "publishedOn": "2024-03-28T16:59:43.000Z",
+          "wordCount": 1349,
+          "title": "Quick Settings Audio Panel 46",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Quick-Settings-Audio-Panel_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Devices-Renamer-104543.shtml",
+          "author": "Softpedia Linux",
+          "description": "Change the names of audio devices displayed in GNOME's Quick Settings Audio Panel with the help of this neat little extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Devices-Renamer-104543.shtml",
+          "publishedOn": "2024-03-28T16:57:32.000Z",
+          "wordCount": 1221,
+          "title": "Quick Settings Audio Devices Renamer 4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Quick-Settings-Audio-Devices-Renamer_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Devices-Hider-104534.shtml",
+          "author": "Softpedia Linux",
+          "description": "Shorten the list of active audio devices from the Quick Settings menu of GNOME with the help of this nifty GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Quick-Settings-Audio-Devices-Hider-104534.shtml",
+          "publishedOn": "2024-03-28T16:56:49.000Z",
+          "wordCount": 1257,
+          "title": "Quick Settings Audio Devices Hider 13",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Quick-Settings-Audio-Devices-Hider_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/PDF-Metadata-Editor-104433.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortlessly edit the title, author, creator, producer, creation date, and many other details about your PDFs with the help this app",
+          "link": "https://linux.softpedia.com/get/Utilities/PDF-Metadata-Editor-104433.shtml",
+          "publishedOn": "2024-03-28T16:53:35.000Z",
+          "wordCount": 1268,
+          "title": "Paper Clip 5.5 / 5.5.1 Pre",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PDF-Metadata-Editor_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/NordPass-103869.shtml",
+          "author": "Softpedia Linux",
+          "description": "Make sure you never forget a password ever again with the help of NordPass, a password manager developed by the parent company NordVPN",
+          "link": "https://linux.softpedia.com/get/Security/NordPass-103869.shtml",
+          "publishedOn": "2024-03-28T16:42:54.000Z",
+          "wordCount": 1524,
+          "title": "NordPass 5.14.23",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/NordPass_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Programming/Interpreters/Node-js-95303.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very powerful command-line program to easily create scalable network applications",
+          "link": "https://linux.softpedia.com/get/Programming/Interpreters/Node-js-95303.shtml",
+          "publishedOn": "2024-03-28T16:36:03.000Z",
+          "wordCount": 1206,
+          "title": "Node.js 21.7.1 Current / 20.12.0 LTS",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Node-js_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/NewsFlash-104079.shtml",
+          "author": "Softpedia Linux",
+          "description": "Very efficient RSS reader that can be used for web-based RSS reader accounts and as a local RSS feed reader app",
+          "link": "https://linux.softpedia.com/get/Utilities/NewsFlash-104079.shtml",
+          "publishedOn": "2024-03-28T16:33:34.000Z",
+          "wordCount": 1274,
+          "title": "NewsFlash 3.2.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/NewsFlash_5.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/Mini-Text-104594.shtml",
+          "author": "Softpedia Linux",
+          "description": "Just a small and tiny text viewer that could come in handy for quick text edits on the desktop",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/Mini-Text-104594.shtml",
+          "publishedOn": "2024-03-28T16:28:17.000Z",
+          "wordCount": 1297,
+          "title": "Mini Text 0.2.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mini-Text_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Office/Office-Suites/Microsoft-Office-Electron-103949.shtml",
+          "author": "Softpedia Linux",
+          "description": "Electron app that wraps the web version of Microsoft Office and brings all the services to your Linux computer's desktop",
+          "link": "https://linux.softpedia.com/get/Office/Office-Suites/Microsoft-Office-Electron-103949.shtml",
+          "publishedOn": "2024-03-28T16:27:23.000Z",
+          "wordCount": 1331,
+          "title": "Microsoft Office - Electron 1.2.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-Office-Electron_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Flowtime-104326.shtml",
+          "author": "Softpedia Linux",
+          "description": "A nice Pomodoro app with a twist, it also displays statistics about your work habits",
+          "link": "https://linux.softpedia.com/get/Utilities/Flowtime-104326.shtml",
+          "publishedOn": "2024-03-28T15:46:08.000Z",
+          "wordCount": 1281,
+          "title": "Flowtime 6.5",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Flowtime_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Flatseal-104157.shtml",
+          "author": "Softpedia Linux",
+          "description": "Gain full control over the permissions of Flatpak apps on your system with the help of Flatseal",
+          "link": "https://linux.softpedia.com/get/Utilities/Flatseal-104157.shtml",
+          "publishedOn": "2024-03-28T15:44:22.000Z",
+          "wordCount": 1282,
+          "title": "Flatseal 2.1.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Flatseal_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Science-and-Engineering/Artificial-Intelligence/FET-29444.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and very useful little app designed to help you schedule timetables for schools, high-schools, and universities",
+          "link": "https://linux.softpedia.com/get/Science-and-Engineering/Artificial-Intelligence/FET-29444.shtml",
+          "publishedOn": "2024-03-28T15:41:58.000Z",
+          "wordCount": 1447,
+          "title": "FET 6.19.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/FET_2.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Fedora-Media-Writer-104222.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortlessly create bootable live USB drives with any edition of Fedora with the help of this nifty little app",
+          "link": "https://linux.softpedia.com/get/Utilities/Fedora-Media-Writer-104222.shtml",
+          "publishedOn": "2024-03-28T15:36:07.000Z",
+          "wordCount": 1255,
+          "title": "Fedora Media Writer 5.1.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Fedora-Media-Writer_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/Cryptomator-103936.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortless encrypt files and store them safely on your local machine or your favorite cloud server by relying on this easy-to-use app",
+          "link": "https://linux.softpedia.com/get/Security/Cryptomator-103936.shtml",
+          "publishedOn": "2024-03-28T15:24:24.000Z",
+          "wordCount": 1361,
+          "title": "Cryptomator 1.12.4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cryptomator_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Collision-Evangelos-Paterakis-104153.shtml",
+          "author": "Softpedia Linux",
+          "description": "Small and lightweight app that allows you to check the integrity/hash of your files/downloads",
+          "link": "https://linux.softpedia.com/get/Utilities/Collision-Evangelos-Paterakis-104153.shtml",
+          "publishedOn": "2024-03-28T15:16:31.000Z",
+          "wordCount": 1220,
+          "title": "Collision 3.8.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Collision-Evangelos-Paterakis_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/CoBang-103948.shtml",
+          "author": "Softpedia Linux",
+          "description": "Quickly scan QR codes on Linux from either your computer's webcam or from a typical static image with the help of this tiny app",
+          "link": "https://linux.softpedia.com/get/Utilities/CoBang-103948.shtml",
+          "publishedOn": "2024-03-28T15:14:05.000Z",
+          "wordCount": 1198,
+          "title": "CoBang 0.10.9",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/CoBang_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Cambalache-104570.shtml",
+          "author": "Softpedia Linux",
+          "description": "Build perfect GTK GUIs that are perfectly inline with GNOME's Code of Conduct by relying on this nice RAD tool",
+          "link": "https://linux.softpedia.com/get/Utilities/Cambalache-104570.shtml",
+          "publishedOn": "2024-03-28T15:11:39.000Z",
+          "wordCount": 1318,
+          "title": "Cambalache 0.90.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cambalache_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Blur-My-Shell-104071.shtml",
+          "author": "Softpedia Linux",
+          "description": "Give your GNOME desktop shell a more stylish look with the help of this little shell extesion",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Blur-My-Shell-104071.shtml",
+          "publishedOn": "2024-03-28T14:59:15.000Z",
+          "wordCount": 1288,
+          "title": "Blur My Shell 59",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Blur-My-Shell_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Email/Betterbird-104402.shtml",
+          "author": "Softpedia Linux",
+          "description": "A successful fork of Mozilla Thunderbird, Betterbird provides a more complete email client with exclusive features and a lot of other bug fixes",
+          "link": "https://linux.softpedia.com/get/Communications/Email/Betterbird-104402.shtml",
+          "publishedOn": "2024-03-28T14:56:40.000Z",
+          "wordCount": 1342,
+          "title": "Betterbird 115.9.0-bb26 Build 2 (22 March 2024)",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Betterbird_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/App-Hider-104493.shtml",
+          "author": "Softpedia Linux",
+          "description": "Make your GNOME app menu as stylish and minimalist as possible with the help of App Hider, a nifty little GNOME Shell extension that allows you to hide apps",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/App-Hider-104493.shtml",
+          "publishedOn": "2024-03-28T14:47:35.000Z",
+          "wordCount": 1266,
+          "title": "App Hider 20",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/App-Hider_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/gopeed-104681.shtml",
           "author": "Softpedia Linux",
@@ -10279,6 +10559,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "author": "Beau Carnes",
+          "description": "If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide",
+          "link": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "publishedOn": "2024-03-28T15:15:00.000Z",
+          "wordCount": 953,
+          "title": "Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/make.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "In JavaScript, you may encounter the term \"dead zone.\" While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "publishedOn": "2024-03-28T14:48:44.000Z",
+          "wordCount": 1434,
+          "title": "What is Dead Zone in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "author": "San B",
+          "description": "In March of 2024, Laravel 11 was released [https://blog.laravel.com/laravel-11-now-available]. And with it arrived a new tool in the Laravel ecosystem: Laravel Reverb [https://reverb.laravel.com/]. Reverb is a separate open-source package that's a first-party WebSocket server for Laravel applications. It helps facilitate real-time communication between client and server. Before this new package,",
+          "link": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "publishedOn": "2024-03-27T18:13:43.000Z",
+          "wordCount": 3619,
+          "title": "How to Build Real-Time Chat App with Laravel Reverb",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/laravel-reverb-react-chat-boolfalse.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "author": "Neha sharma",
+          "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
+          "link": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "publishedOn": "2024-03-27T16:43:00.000Z",
+          "wordCount": 4881,
+          "title": "New Features in React 19 – Updates with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "author": "Losalini Rokocakau",
+          "description": "In this tutorial, I'll teach you how to use the react-data-table-component  library in your React projects. You'll learn how to render a table that has features such as pagination, searching/filtering, and sorting.  I'll walk you through each step, from setting up a React and TypeScript project with Vite",
+          "link": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "publishedOn": "2024-03-27T15:40:38.000Z",
+          "wordCount": 2721,
+          "title": "How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-21.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
           "author": "Joan Ayebola",
           "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
@@ -11107,66 +11437,6 @@
           "wordCount": 2483,
           "title": "How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/katerina-pavlyuchkova-FQYCJSqER_0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "author": "Gabriel Tanner",
-          "description": "The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "publishedOn": "2024-02-28T13:00:00.000Z",
-          "wordCount": 4421,
-          "title": "How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/0*rFQhPUqebJY9N4Ue"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
-          "author": "Manish Shivanandhan",
-          "description": "In today’s fast-paced world, we’re bombarded with information. It’s like trying to drink water from a fire hose. That's where a text summarizer comes in. Imagine it as a filter that separates the essential bits from the overwhelming flood of words. In this article, I'll walk you through what a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
-          "publishedOn": "2024-02-28T10:13:47.000Z",
-          "wordCount": 1748,
-          "title": "How to Build A Text Summarizer Using Huggingface Transformers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/summary-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regex-in-javascript/",
-          "author": "Samyak Jain",
-          "description": "Regular expressions, also known as regex, are powerful tools for pattern matching and text manipulation. Whether you're validating user input, extracting data from strings, or performing advanced text processing tasks, understanding regex is essential for developers. This comprehensive guide will walk you through the fundamentals of regular expressions in JavaScript,",
-          "link": "https://www.freecodecamp.org/news/regex-in-javascript/",
-          "publishedOn": "2024-02-27T20:17:37.000Z",
-          "wordCount": 6302,
-          "title": "Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Regular-Expressions-in-JavaScript-Cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
-          "author": "Matéush",
-          "description": "In this tutorial, I will show you how using indices to render an array of components in React can be problematic. I'll also teach you how to mitigate array rendering issues with unique ids. As always, we'll work on a real world example and solve problem I stumbled across while",
-          "link": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
-          "publishedOn": "2024-02-27T19:18:13.000Z",
-          "wordCount": 1876,
-          "title": "How to Render an Array of Components in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Array-components.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
-          "author": "Beau Carnes",
-          "description": "In the ever-evolving landscape of artificial intelligence, staying ahead of the curve is important for both enthusiasts and professionals alike. And one of the most popular elements of AI right now is Generative AI. We just posted a comprehensive course about Generative AI on the freeCodeCamp.org YouTube channel. This course,",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
-          "publishedOn": "2024-02-27T18:25:16.000Z",
-          "wordCount": 1028,
-          "title": "Learn Generative AI in 30 Hours",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/genai.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
-          "author": "Sahil Mahapatra",
-          "description": "TypeScript, with its powerful type system, offers a feature called Generics, which enables developers to write reusable and type-safe code. Generics allow you to create components that can work over a variety of types rather than a single one. This article delves into TypeScript Generics, providing thorough explanations and code",
-          "link": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
-          "publishedOn": "2024-02-27T13:45:54.000Z",
-          "wordCount": 1450,
-          "title": "How TypeScript Generics Work – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
         }
       ]
     }
