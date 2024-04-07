@@ -12,6 +12,26 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=414748",
+          "author": "Linux Wolfman",
+          "description": "Quickly use the linux terminal to find which version of Ubuntu you are running on right now.  Follow the simple command line instructions and view the screen shots in this post.",
+          "link": "https://linuxhint.com/how-to-check-which-ubuntu-version-you-are-on/",
+          "publishedOn": "2024-04-07T01:14:04.000Z",
+          "wordCount": 3788,
+          "title": "How to check which Ubuntu Version you are on",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414693",
+          "author": "Prateek J",
+          "description": "Basic VIM editor commands to navigate your code or text documents in the most popular linux text editor are shown in this article.",
+          "link": "https://linuxhint.com/basic-vim-editor-commands/",
+          "publishedOn": "2024-04-06T15:32:00.000Z",
+          "wordCount": 5327,
+          "title": "Basic Vim Editor Commands",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=414718",
           "author": "Denis Kariuki",
           "description": "In the current era, Docker is an indispensable tool for developers to improve productivity. Docker is an application that allows packaging and running applications in an isolated environment. The isolated environment is the container; you can have multiple containers in one host. This post guides you on steps to follow to get Docker installed on […]",
@@ -2457,76 +2477,6 @@
           "wordCount": 10178,
           "title": "Fedora 41 Drops the GNOME Xorg Sessions",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188141",
-          "author": "Web Webster",
-          "description": "Ubuntu’s parent company — now powering millions of desktops, servers, and clouds — continues to seek the balance between delivering ‘Linux for Human Beings’ and embracing its responsibilities in the global tech market.\nThe post Canonical Turns 20: Shaping the Ubuntu Linux World appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/canonical-turns-20-shaping-the-ubuntu-linux-world/",
-          "publishedOn": "2024-03-08T03:00:08.000Z",
-          "wordCount": 10192,
-          "title": "Canonical Turns 20: Shaping the Ubuntu Linux World",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188143",
-          "author": "Web Webster",
-          "description": "Arch users, rejoice! Plasma 6 has arrived in stable repositories, embracing a new era of desktop sophistication today.\nThe post Plasma 6 Landed in Arch’s Stable Repositories appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/plasma-6-landed-in-archs-stable-repositories/",
-          "publishedOn": "2024-03-08T01:00:00.000Z",
-          "wordCount": 10166,
-          "title": "Plasma 6 Landed in Arch’s Stable Repositories",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188139",
-          "author": "Web Webster",
-          "description": "In the monthly update, the Linux Mint team introduces a new app in the works: Jargonaut.\nThe post Linux Mint Unveils A New User Support App: Jargonaut appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linux-mint-unveils-a-new-user-support-app-jargonaut/",
-          "publishedOn": "2024-03-07T23:00:03.000Z",
-          "wordCount": 10187,
-          "title": "Linux Mint Unveils A New User Support App: Jargonaut",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188153",
-          "author": "Web Webster",
-          "description": "Powered by the Linux 6.4 kernel series and built on top of SUSE Linux Enterprise 15 Service Pack 6 (SP6), openSUSE Leap 15.6 Beta ships with the KDE Plasma 5.27 LTS and GNOME 45 desktop environment series.\nThe post openSUSE Leap 15.6 Is Now Available for Public Beta Testing With GNOME 45 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/opensuse-leap-15-6-is-now-available-for-public-beta-testing-with-gnome-45/",
-          "publishedOn": "2024-03-07T21:00:01.000Z",
-          "wordCount": 10222,
-          "title": "openSUSE Leap 15.6 Is Now Available for Public Beta Testing With GNOME 45",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188154",
-          "author": "Web Webster",
-          "description": "With a focus on a clearer desktop experience, Ubuntu 24.04 (Noble Numbat) says goodbye to the GNOME games in the default installs.\nThe post Ubuntu 24.04 Drops GNOME Games from the Default Install appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-24-04-drops-gnome-games-from-the-default-install/",
-          "publishedOn": "2024-03-07T19:00:31.000Z",
-          "wordCount": 10192,
-          "title": "Ubuntu 24.04 Drops GNOME Games from the Default Install",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187647",
-          "author": "Web Webster",
-          "description": "Today, all doubts related to interactive vs. non-interactive and login vs. non-login shells will be cleared.\nThe post What Is Interactive Login and Non-Login Shell appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/what-is-interactive-login-and-non-login-shell/",
-          "publishedOn": "2024-03-07T17:30:42.000Z",
-          "wordCount": 10171,
-          "title": "What Is Interactive Login and Non-Login Shell",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188028",
-          "author": "Web Webster",
-          "description": "There are lots of issues getting non-Intel Wi-Fi modules to work well under Linux. Find out how to fix Wi-Fi that is not working on Linux.\nThe post Wi-Fi Not Working in Linux? Here’s How to Fix It appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/high-performance/wi-fi-not-working-in-linux-heres-how-to-fix-it/",
-          "publishedOn": "2024-03-07T15:47:24.000Z",
-          "wordCount": 10194,
-          "title": "Wi-Fi Not Working in Linux? Here’s How to Fix It",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2535,6 +2485,36 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vcnVubmluZy13aW5kb3dzLWFwcHMtb24tbGludXgtd2l0aC1ib3R0bGVzL9IBAA",
+          "author": null,
+          "description": "Running Windows Apps on Linux Is Easier Than Ever With This One Tool  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vcnVubmluZy13aW5kb3dzLWFwcHMtb24tbGludXgtd2l0aC1ib3R0bGVzL9IBAA?oc=5",
+          "publishedOn": "2024-04-06T18:00:00.000Z",
+          "wordCount": 5041,
+          "title": "Running Windows Apps on Linux Is Easier Than Ever With This One Tool - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0tERS1XYXlsYW5kLUV4cGxpY2l0LVN5bmMtR29hbNIBAA",
+          "author": null,
+          "description": "KDE On The Importance Of Wayland Explicit Sync  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0tERS1XYXlsYW5kLUV4cGxpY2l0LVN5bmMtR29hbNIBAA?oc=5",
+          "publishedOn": "2024-04-06T12:45:00.000Z",
+          "wordCount": 5041,
+          "title": "KDE On The Importance Of Wayland Explicit Sync - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rb2RpLTIxLTAtb21lZ2Etb3Blbi1zb3VyY2UtbWVkaWEtY2VudGVyLWlzLWhlcmUtd2l0aC1tYWpvci1jaGFuZ2Vz0gFdaHR0cHM6Ly85dG81bGludXguY29tL2tvZGktMjEtMC1vbWVnYS1vcGVuLXNvdXJjZS1tZWRpYS1jZW50ZXItaXMtaGVyZS13aXRoLW1ham9yLWNoYW5nZXMvYW1w",
+          "author": null,
+          "description": "Kodi 21.0 “Omega” Open-Source Media Center Is Here with Major Changes  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rb2RpLTIxLTAtb21lZ2Etb3Blbi1zb3VyY2UtbWVkaWEtY2VudGVyLWlzLWhlcmUtd2l0aC1tYWpvci1jaGFuZ2Vz0gFdaHR0cHM6Ly85dG81bGludXguY29tL2tvZGktMjEtMC1vbWVnYS1vcGVuLXNvdXJjZS1tZWRpYS1jZW50ZXItaXMtaGVyZS13aXRoLW1ham9yLWNoYW5nZXMvYW1w?oc=5",
+          "publishedOn": "2024-04-06T09:45:10.000Z",
+          "wordCount": 5041,
+          "title": "Kodi 21.0 “Omega” Open-Source Media Center Is Here with Major Changes - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLW5ldHBsYW4tMS0wLXdpdGgtc2ltdWx0YW5lb3VzLXdwYTItYW5kLXdwYTMtc3VwcG9ydNIBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLW5ldHBsYW4tMS0wLXdpdGgtc2ltdWx0YW5lb3VzLXdwYTItYW5kLXdwYTMtc3VwcG9ydC9hbXA",
           "author": null,
@@ -2546,6 +2526,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiigFodHRwczovL3d3dy5pdHByby5jb20vc29mdHdhcmUvb3Blbi1zb3VyY2UvbGludXgtZm91bmRhdGlvbi11bnZlaWxzLXJlZGlzLWFsdGVybmF0aXZlLXZhbGtleS13aXRoLWJhY2tpbmctZnJvbS1hd3MtZ29vZ2xlLWNsb3VkLWFuZC1vcmFjbGXSAQA",
+          "author": null,
+          "description": "Linux Foundation unveils Redis alternative, 'Valkey', with backing from AWS, Google Cloud, and Oracle  ITPro",
+          "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5pdHByby5jb20vc29mdHdhcmUvb3Blbi1zb3VyY2UvbGludXgtZm91bmRhdGlvbi11bnZlaWxzLXJlZGlzLWFsdGVybmF0aXZlLXZhbGtleS13aXRoLWJhY2tpbmctZnJvbS1hd3MtZ29vZ2xlLWNsb3VkLWFuZC1vcmFjbGXSAQA?oc=5",
+          "publishedOn": "2024-04-05T20:00:00.000Z",
+          "wordCount": 5041,
+          "title": "Linux Foundation unveils Redis alternative, 'Valkey', with backing from AWS, Google Cloud, and Oracle - ITPro",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMieWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyNC8wNC9nZXJtYW4tc3RhdGUtZ292LWRpdGNoaW5nLXdpbmRvd3MtZm9yLWxpbnV4LTMway13b3JrZXJzLW1pZ3JhdGluZy_SAQA",
           "author": null,
           "description": "German state gov. ditching Windows for Linux, 30K workers migrating  Ars Technica",
@@ -2553,6 +2543,16 @@
           "publishedOn": "2024-04-05T19:03:05.000Z",
           "wordCount": 5041,
           "title": "German state gov. ditching Windows for Linux, 30K workers migrating - Ars Technica",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RoaXMtYmFja2Rvb3ItYWxtb3N0LWluZmVjdGVkLWxpbnV4LWV2ZXJ5d2hlcmUtdGhlLXh6LXV0aWxzLWNsb3NlLWNhbGwv0gEA",
+          "author": null,
+          "description": "This backdoor almost infected Linux everywhere: The XZ Utils close call  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RoaXMtYmFja2Rvb3ItYWxtb3N0LWluZmVjdGVkLWxpbnV4LWV2ZXJ5d2hlcmUtdGhlLXh6LXV0aWxzLWNsb3NlLWNhbGwv0gEA?oc=5",
+          "publishedOn": "2024-04-05T18:36:00.000Z",
+          "wordCount": 5041,
+          "title": "This backdoor almost infected Linux everywhere: The XZ Utils close call - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2623,6 +2623,16 @@
           "publishedOn": "2024-04-05T09:27:33.000Z",
           "wordCount": 5041,
           "title": "Linux seeks lebensraum in Voleland for Germany - Fudzilla",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdHVybi1vbGQtcGMtaW50by1uYXMv0gEA",
+          "author": null,
+          "description": "How to turn an old PC into a NAS  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdHVybi1vbGQtcGMtaW50by1uYXMv0gEA?oc=5",
+          "publishedOn": "2024-04-04T23:30:00.000Z",
+          "wordCount": 5041,
+          "title": "How to turn an old PC into a NAS - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2776,6 +2786,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMieGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbi1hbm9ueW1vdXMtY29kZXItbmVhcmx5LWhhY2tlZC1hLWJpZy1jaHVuay1vZi10aGUtaW50ZXJuZXQtaG93LXdvcnJpZWQtc2hvdWxkLXdlLWJlLTIyNzE0M9IBAA",
+          "author": null,
+          "description": "An anonymous coder nearly hacked a big chunk of the internet. How worried should we be?  The Conversation Indonesia",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9hbi1hbm9ueW1vdXMtY29kZXItbmVhcmx5LWhhY2tlZC1hLWJpZy1jaHVuay1vZi10aGUtaW50ZXJuZXQtaG93LXdvcnJpZWQtc2hvdWxkLXdlLWJlLTIyNzE0M9IBAA?oc=5",
+          "publishedOn": "2024-04-04T05:43:50.000Z",
+          "wordCount": 5041,
+          "title": "An anonymous coder nearly hacked a big chunk of the internet. How worried should we be? - The Conversation Indonesia",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiRWh0dHBzOi8vbGFkYWlseXBvc3QuY29tL2NhdGNoLW9mLXRoZS13ZWVrLWJhY2tkb29yLW5lYXJseS1oaXRzLWxpbnV4L9IBAA",
           "author": null,
           "description": "Catch Of The Week: Backdoor Nearly Hits Linux  Los Alamos Daily Post",
@@ -2793,6 +2813,16 @@
           "publishedOn": "2024-04-04T00:08:00.000Z",
           "wordCount": 5022,
           "title": "Bcachefs Repair Code Reaching Complete & Robust Recovery - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vaGFja2Vybm9vbi5jb20vdG9vbHMtZm9yLWxpbnV4LWRpc3Ryby1ob3BwZXJzLWEtYmVnaW5uZXItZnJpZW5kbHktZ3VpZGXSAQA",
+          "author": null,
+          "description": "Tools for Linux Distro Hoppers: A Beginner-Friendly Guide  hackernoon.com",
+          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaGFja2Vybm9vbi5jb20vdG9vbHMtZm9yLWxpbnV4LWRpc3Ryby1ob3BwZXJzLWEtYmVnaW5uZXItZnJpZW5kbHktZ3VpZGXSAQA?oc=5",
+          "publishedOn": "2024-04-03T23:31:21.000Z",
+          "wordCount": 5041,
+          "title": "Tools for Linux Distro Hoppers: A Beginner-Friendly Guide - hackernoon.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7764,166 +7794,6 @@
           "wordCount": 5034,
           "title": "Proton Hotfix updated for Apex Legends to work again on Steam Deck / Linux - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3RlYW0tZGVjay1oaXRzLTE0MDAwLWdhbWVzLXJhdGVkLXBsYXlhYmxlLW9yLXZlcmlmaWVkL9IBAA",
-          "author": null,
-          "description": "Steam Deck hits over 14000 games rated Playable or Verified  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3RlYW0tZGVjay1oaXRzLTE0MDAwLWdhbWVzLXJhdGVkLXBsYXlhYmxlLW9yLXZlcmlmaWVkL9IBAA?oc=5",
-          "publishedOn": "2024-03-08T13:20:32.000Z",
-          "wordCount": 5032,
-          "title": "Steam Deck hits over 14000 games rated Playable or Verified - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vcmVzZWFyY2guY2hlY2twb2ludC5jb20vMjAyNC9tYWduZXQtZ29ibGluLXRhcmdldHMtcHVibGljbHktZmFjaW5nLXNlcnZlcnMtdXNpbmctMS1kYXktdnVsbmVyYWJpbGl0aWVzL9IBAA",
-          "author": null,
-          "description": "Magnet Goblin Targets Publicly Facing Servers Using 1-Day Vulnerabilities  Check Point Research",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vcmVzZWFyY2guY2hlY2twb2ludC5jb20vMjAyNC9tYWduZXQtZ29ibGluLXRhcmdldHMtcHVibGljbHktZmFjaW5nLXNlcnZlcnMtdXNpbmctMS1kYXktdnVsbmVyYWJpbGl0aWVzL9IBAA?oc=5",
-          "publishedOn": "2024-03-08T13:18:45.000Z",
-          "wordCount": 5033,
-          "title": "Magnet Goblin Targets Publicly Facing Servers Using 1-Day Vulnerabilities - Check Point Research",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcmV0cm8tZ2FtaW5nLWxpbnV4LWRpc3RyaWJ1dGlvbi1iYXRvY2VyYS0zOS1yZWxlYXNlZC_SAQA",
-          "author": null,
-          "description": "Retro-gaming Linux distribution Batocera 39 released | GamingOnLinux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcmV0cm8tZ2FtaW5nLWxpbnV4LWRpc3RyaWJ1dGlvbi1iYXRvY2VyYS0zOS1yZWxlYXNlZC_SAQA?oc=5",
-          "publishedOn": "2024-03-08T12:35:02.000Z",
-          "wordCount": 5034,
-          "title": "Retro-gaming Linux distribution Batocera 39 released | GamingOnLinux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1JbnB1dC1IeXBlclgtRGV2aWNlc9IBAA",
-          "author": null,
-          "description": "Linux 6.8 Squeezing In Support For A Few Newer HP HyperX Controllers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1JbnB1dC1IeXBlclgtRGV2aWNlc9IBAA?oc=5",
-          "publishedOn": "2024-03-08T11:56:00.000Z",
-          "wordCount": 5034,
-          "title": "Linux 6.8 Squeezing In Support For A Few Newer HP HyperX Controllers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLXBvd2VyLXVzZXJz0gEA",
-          "author": null,
-          "description": "Best Linux distro for power users of 2024  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLXBvd2VyLXVzZXJz0gEA?oc=5",
-          "publishedOn": "2024-03-08T11:41:44.000Z",
-          "wordCount": 5033,
-          "title": "Best Linux distro for power users of 2024 - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LW1hcmtldC1zaGFyZS1wYXNzZXMtNC1mb3ItZmlyc3QtdGltZS4yMDMzODA4L9IBAA",
-          "author": null,
-          "description": "Linux market share passes 4% for first time | [H]ard|Forum  HardForum",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LW1hcmtldC1zaGFyZS1wYXNzZXMtNC1mb3ItZmlyc3QtdGltZS4yMDMzODA4L9IBAA?oc=5",
-          "publishedOn": "2024-03-08T00:50:26.000Z",
-          "wordCount": 5034,
-          "title": "Linux market share passes 4% for first time | [H]ard|Forum - HardForum",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LW1hcmtldC1zaGFyZS1wYXNzZXMtNC1mb3ItZmlyc3QtdGltZS4yMDMzODA4L3Bvc3QtMTA0NTg0NTk4NNIBAA",
-          "author": null,
-          "description": "Linux market share passes 4% for first time | [H]ard|Forum  HardForum",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LW1hcmtldC1zaGFyZS1wYXNzZXMtNC1mb3ItZmlyc3QtdGltZS4yMDMzODA4L3Bvc3QtMTA0NTg0NTk4NNIBAA?oc=5",
-          "publishedOn": "2024-03-08T00:50:26.000Z",
-          "wordCount": 5033,
-          "title": "Linux market share passes 4% for first time | [H]ard|Forum - HardForum",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtcHJvamVjdC1ub3ctY29uc2lkZXJpbmctZHJvcHBpbmcteG9yZy1zZXNzaW9uLWZvci1mZWRvcmEtNDEtd29ya3N0YXRpb27SAWhodHRwczovLzl0bzVsaW51eC5jb20vZmVkb3JhLXByb2plY3Qtbm93LWNvbnNpZGVyaW5nLWRyb3BwaW5nLXhvcmctc2Vzc2lvbi1mb3ItZmVkb3JhLTQxLXdvcmtzdGF0aW9uL2FtcA",
-          "author": null,
-          "description": "Fedora Project Now Considering Dropping XOrg Session from Fedora 41 Workstation  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtcHJvamVjdC1ub3ctY29uc2lkZXJpbmctZHJvcHBpbmcteG9yZy1zZXNzaW9uLWZvci1mZWRvcmEtNDEtd29ya3N0YXRpb27SAWhodHRwczovLzl0bzVsaW51eC5jb20vZmVkb3JhLXByb2plY3Qtbm93LWNvbnNpZGVyaW5nLWRyb3BwaW5nLXhvcmctc2Vzc2lvbi1mb3ItZmVkb3JhLTQxLXdvcmtzdGF0aW9uL2FtcA?oc=5",
-          "publishedOn": "2024-03-07T22:33:58.000Z",
-          "wordCount": 5033,
-          "title": "Fedora Project Now Considering Dropping XOrg Session from Fedora 41 Workstation - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1QZXJmLVRvb2xzLVByb3Bvc2XSAQA",
-          "author": null,
-          "description": "Canonical Looking At Including Performance Tools In Ubuntu 24.04 By Default  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1QZXJmLVRvb2xzLVByb3Bvc2XSAQA?oc=5",
-          "publishedOn": "2024-03-07T21:45:00.000Z",
-          "wordCount": 5033,
-          "title": "Canonical Looking At Including Performance Tools In Ubuntu 24.04 By Default - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMDcvem9yaW4tb3MtMTctMS1saW51eC_SAQA",
-          "author": null,
-          "description": "Zorin OS 17.1 Linux distribution gets enhanced Windows app support — you can now escape Microsoft's stranglehold  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMDcvem9yaW4tb3MtMTctMS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-03-07T18:56:59.000Z",
-          "wordCount": 5033,
-          "title": "Zorin OS 17.1 Linux distribution gets enhanced Windows app support — you can now escape Microsoft's stranglehold - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS96b3Jpbi1vcy0xNy0xLXJlbGVhc2VkLXdpdGgtZW5oYW5jZWQtd2luZG93cy1hcHAtc3VwcG9ydC1lZHVjYXRpb24tZWRpdGlvbtIBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS96b3Jpbi1vcy0xNy0xLXJlbGVhc2VkLXdpdGgtZW5oYW5jZWQtd2luZG93cy1hcHAtc3VwcG9ydC1lZHVjYXRpb24tZWRpdGlvbi9hbXA",
-          "author": null,
-          "description": "Zorin OS 17.1 Released with Enhanced Windows App Support, Education Edition  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS96b3Jpbi1vcy0xNy0xLXJlbGVhc2VkLXdpdGgtZW5oYW5jZWQtd2luZG93cy1hcHAtc3VwcG9ydC1lZHVjYXRpb24tZWRpdGlvbtIBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS96b3Jpbi1vcy0xNy0xLXJlbGVhc2VkLXdpdGgtZW5oYW5jZWQtd2luZG93cy1hcHAtc3VwcG9ydC1lZHVjYXRpb24tZWRpdGlvbi9hbXA?oc=5",
-          "publishedOn": "2024-03-07T16:58:38.000Z",
-          "wordCount": 5033,
-          "title": "Zorin OS 17.1 Released with Enhanced Windows App Support, Education Edition - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMjE2OC1saW51eC1tYXJrZXQtc2hhcmUtZGVza3RvcC1jb21wdXRlcnMtcmVhY2hlcy1hbGwtdGltZS5odG1s0gEA",
-          "author": null,
-          "description": "Linux market share on desktop computers reaches an all-time high  TechSpot",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMjE2OC1saW51eC1tYXJrZXQtc2hhcmUtZGVza3RvcC1jb21wdXRlcnMtcmVhY2hlcy1hbGwtdGltZS5odG1s0gEA?oc=5",
-          "publishedOn": "2024-03-07T16:33:00.000Z",
-          "wordCount": 5033,
-          "title": "Linux market share on desktop computers reaches an all-time high - TechSpot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvZmVkb3JhLTQxLXdpbGwtZHJvcC1nbm9tZS14b3JnLXNlc3Npb24tYXMtZmFsbGJhY2stb3B0aW9uL2NvbW1lbnRfaWQ9MjU5MTEx0gEA",
-          "author": null,
-          "description": "Fedora Workstation 41 will drop GNOME X.Org session as fallback option  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvZmVkb3JhLTQxLXdpbGwtZHJvcC1nbm9tZS14b3JnLXNlc3Npb24tYXMtZmFsbGJhY2stb3B0aW9uL2NvbW1lbnRfaWQ9MjU5MTEx0gEA?oc=5",
-          "publishedOn": "2024-03-07T16:01:50.000Z",
-          "wordCount": 5033,
-          "title": "Fedora Workstation 41 will drop GNOME X.Org session as fallback option - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jbG91ZC1zZWN1cml0eS9zdGVhbHRoeS1iaWZyb3N0LXJhdC1saW51eC12YXJpYW50cy11c2UtdHlwb3NxdWF0dGluZy10by1ldmFkZS1kZXRlY3Rpb24t0gEA",
-          "author": null,
-          "description": "Linux Variants of Bifrost Trojan Evade Detection via Typosquatting  Dark Reading",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jbG91ZC1zZWN1cml0eS9zdGVhbHRoeS1iaWZyb3N0LXJhdC1saW51eC12YXJpYW50cy11c2UtdHlwb3NxdWF0dGluZy10by1ldmFkZS1kZXRlY3Rpb24t0gEA?oc=5",
-          "publishedOn": "2024-03-07T15:53:00.000Z",
-          "wordCount": 5033,
-          "title": "Linux Variants of Bifrost Trojan Evade Detection via Typosquatting - Dark Reading",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9zZWN1cml0eS90aGlzLW5ldy1saW51eC1tYWx3YXJlLWlzLXRhcmdldGluZy1zb21lLW1ham9yLXZpY3RpbXMtZG9ja2VyLWFwYWNoZS1oYWRvb3AtcmVkaXMtYW5kLWNvbmZsdWVuY2UtYWxsLXVuZGVyLWF0dGFja9IBAA",
-          "author": null,
-          "description": "This new Linux malware is targeting some major victims — Docker, Apache Hadoop, Redis and Confluence all under ...  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9zZWN1cml0eS90aGlzLW5ldy1saW51eC1tYWx3YXJlLWlzLXRhcmdldGluZy1zb21lLW1ham9yLXZpY3RpbXMtZG9ja2VyLWFwYWNoZS1oYWRvb3AtcmVkaXMtYW5kLWNvbmZsdWVuY2UtYWxsLXVuZGVyLWF0dGFja9IBAA?oc=5",
-          "publishedOn": "2024-03-07T15:21:58.000Z",
-          "wordCount": 5033,
-          "title": "This new Linux malware is targeting some major victims — Docker, Apache Hadoop, Redis and Confluence all under ... - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL21pc2NvbmZpZ3VyZWQtY2xvdWQtc2VydmVycy1zdWJqZWN0ZWQtdG8tbmV3LWxpbnV4LW1hbHdhcmUtYXR0YWNr0gEA",
-          "author": null,
-          "description": "Misconfigured cloud servers subjected to new Linux malware attack  SC Media",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL21pc2NvbmZpZ3VyZWQtY2xvdWQtc2VydmVycy1zdWJqZWN0ZWQtdG8tbmV3LWxpbnV4LW1hbHdhcmUtYXR0YWNr0gEA?oc=5",
-          "publishedOn": "2024-03-07T13:36:35.000Z",
-          "wordCount": 5033,
-          "title": "Misconfigured cloud servers subjected to new Linux malware attack - SC Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7932,6 +7802,276 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Vitals-104077.shtml",
+          "author": "Softpedia Linux",
+          "description": "Monitoring your computer's system resources from Linux's status bar with the help of this nifty little GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Vitals-104077.shtml",
+          "publishedOn": "2024-04-06T20:56:21.000Z",
+          "wordCount": 1273,
+          "title": "Vitals 67",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Vitals_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Tauon-Music-Box-104317.shtml",
+          "author": "Softpedia Linux",
+          "description": "Stylish, modern, and highly customizable music player for everyone on Linux and/or Windows",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Tauon-Music-Box-104317.shtml",
+          "publishedOn": "2024-04-06T20:20:10.000Z",
+          "wordCount": 1408,
+          "title": "Tauon Music Box 7.7.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tauon-Music-Box_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Share-Preview-104237.shtml",
+          "author": "Softpedia Linux",
+          "description": "Test sharable social media previews directly from the comforts of your Linux desktop with the help of this little app",
+          "link": "https://linux.softpedia.com/get/Utilities/Share-Preview-104237.shtml",
+          "publishedOn": "2024-04-06T19:48:05.000Z",
+          "wordCount": 1310,
+          "title": "Share Preview 0.5.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Share-Preview_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Office/Scheduling/Remindr-103969.shtml",
+          "author": "Softpedia Linux",
+          "description": "Get things done more efficiently with the help of Remindr - a simple yet efficient reminder app",
+          "link": "https://linux.softpedia.com/get/Office/Scheduling/Remindr-103969.shtml",
+          "publishedOn": "2024-04-06T18:44:48.000Z",
+          "wordCount": 1392,
+          "title": "Remindr 2.1.9",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Remindr_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Video/OBS-Studio-103908.shtml",
+          "author": "Softpedia Linux",
+          "description": "Create stunning video recordings and make your live streams as attractive as possible with the help of the OG screen capture tool - OBS Studio",
+          "link": "https://linux.softpedia.com/get/Multimedia/Video/OBS-Studio-103908.shtml",
+          "publishedOn": "2024-04-06T18:09:06.000Z",
+          "wordCount": 1625,
+          "title": "OBS Studio 30.1.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/OBS-Studio_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Net-speed-Simplified-104069.shtml",
+          "author": "Softpedia Linux",
+          "description": "Simple GNOME Shell extension that provides the easiest way of knowing your Internet speed",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Net-speed-Simplified-104069.shtml",
+          "publishedOn": "2024-04-06T18:01:34.000Z",
+          "wordCount": 1340,
+          "title": "Net speed Simplified 42",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Net-speed-Simplified_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/MusicPod-104465.shtml",
+          "author": "Softpedia Linux",
+          "description": "A sleek-looking music, podcast, and radio player application mainly developed for Ubuntu",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/MusicPod-104465.shtml",
+          "publishedOn": "2024-04-06T17:56:51.000Z",
+          "wordCount": 1333,
+          "title": "MusicPod 0+git.9665548",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/MusicPod_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and powerful IDE (Integrated Development Environment) built by Microsoft for numerous platforms, including Linux.",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
+          "publishedOn": "2024-04-06T17:35:57.000Z",
+          "wordCount": 1788,
+          "title": "Microsoft Visual Studio Code 1.88.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-Visual-Studio-Code_8.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Koodo-Reader-104259.shtml",
+          "author": "Softpedia Linux",
+          "description": "Super stylish and feature-packed, open-source and cross-platform eBook reader for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Koodo-Reader-104259.shtml",
+          "publishedOn": "2024-04-06T13:59:11.000Z",
+          "wordCount": 1439,
+          "title": "Koodo Reader 1.6.6",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Koodo-Reader_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Halftone-104537.shtml",
+          "author": "Softpedia Linux",
+          "description": "Compress images while also giving them that pixel art-style vibe with the help of this cool little app",
+          "link": "https://linux.softpedia.com/get/Utilities/Halftone-104537.shtml",
+          "publishedOn": "2024-04-06T13:40:02.000Z",
+          "wordCount": 1375,
+          "title": "Halftone 0.6.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Halftone_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Programming/Version-Control/GitHub-CLI-Official-103858.shtml",
+          "author": "Softpedia Linux",
+          "description": "Improve your workflow with GitHub by bringing it directly to the Terminal with the help of this efficient and lightweight, official command line tool",
+          "link": "https://linux.softpedia.com/get/Programming/Version-Control/GitHub-CLI-Official-103858.shtml",
+          "publishedOn": "2024-04-06T13:31:16.000Z",
+          "wordCount": 1479,
+          "title": "GitHub CLI 2.47.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GitHub-CLI-Official_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/IntelliJ-IDEA-Community-Edition-102968.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free, open-source Java and Android IDE that packs an impressive set of useful and powerful features",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/IntelliJ-IDEA-Community-Edition-102968.shtml",
+          "publishedOn": "2024-04-06T12:54:43.000Z",
+          "wordCount": 1360,
+          "title": "IntelliJ IDEA Community Edition 2024.1 Build 241.14494.240",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/IntelliJ-IDEA-Community-Edition_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/IntelliJ-IDEA-12698.shtml",
+          "author": "Softpedia Linux",
+          "description": "The premium edition of IntelliJ IDEA brings forth a series of incredible features over the Community Edition, including support for more languages and frameworks, and a plethora of deployment options",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/IntelliJ-IDEA-12698.shtml",
+          "publishedOn": "2024-04-06T12:54:22.000Z",
+          "wordCount": 1445,
+          "title": "IntelliJ IDEA Ultimate Edition 2024.1 Build 241.14494.240",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/IntelliJ-IDEA_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Fretboard-104574.shtml",
+          "author": "Softpedia Linux",
+          "description": "Figure out/find guitar chords for a song with the help of this beginner-friendly app",
+          "link": "https://linux.softpedia.com/get/Utilities/Fretboard-104574.shtml",
+          "publishedOn": "2024-04-06T12:40:34.000Z",
+          "wordCount": 1248,
+          "title": "Fretboard 6.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Fretboard_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/FreeTube-104245.shtml",
+          "author": "Softpedia Linux",
+          "description": "Watch YouTube from the comforts of your computer's desktop with the help of this useful client app that respects your privacy",
+          "link": "https://linux.softpedia.com/get/Utilities/FreeTube-104245.shtml",
+          "publishedOn": "2024-04-06T12:33:30.000Z",
+          "wordCount": 1532,
+          "title": "FreeTube 0.20.0 Beta",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/FreeTube_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Forge-Sparks-104539.shtml",
+          "author": "Softpedia Linux",
+          "description": "Get Git Forges notifications directly on your Linux desktop by relying on this nifty and tiny app",
+          "link": "https://linux.softpedia.com/get/Utilities/Forge-Sparks-104539.shtml",
+          "publishedOn": "2024-04-06T12:29:44.000Z",
+          "wordCount": 1399,
+          "title": "Forge Sparks 0.3.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Forge-Sparks_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Force-Quit-Megh-Parikh-104528.shtml",
+          "author": "Softpedia Linux",
+          "description": "A super small yet useful GNOME Shell extension that allows you to force quit apps by clicking its top bar icon",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Force-Quit-Megh-Parikh-104528.shtml",
+          "publishedOn": "2024-04-06T12:29:01.000Z",
+          "wordCount": 1280,
+          "title": "Force Quit 32",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Force-Quit-Megh-Parikh_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Foliate-103909.shtml",
+          "author": "Softpedia Linux",
+          "description": "Read all your favorite books, stories, manga, and comic books with the help of this stylish, open-source eBook reader",
+          "link": "https://linux.softpedia.com/get/Utilities/Foliate-103909.shtml",
+          "publishedOn": "2024-04-06T12:28:18.000Z",
+          "wordCount": 1378,
+          "title": "Foliate 3.1.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Foliate_2.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/encrypt0r-104035.shtml",
+          "author": "Softpedia Linux",
+          "description": "Encrypt and decrypt files with next to no effort on your part with the help of this tiny utility",
+          "link": "https://linux.softpedia.com/get/Security/encrypt0r-104035.shtml",
+          "publishedOn": "2024-04-06T12:17:33.000Z",
+          "wordCount": 1272,
+          "title": "encrypt0r 3.12.42",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/encrypt0r_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Elephicon-104378.shtml",
+          "author": "Softpedia Linux",
+          "description": "Quickly and effortlessly generate Apple ICNS and Microsoft ICO files from your PNGs with the help of this tiny app",
+          "link": "https://linux.softpedia.com/get/Utilities/Elephicon-104378.shtml",
+          "publishedOn": "2024-04-06T12:15:46.000Z",
+          "wordCount": 1305,
+          "title": "Elephicon 2.9.3",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Elephicon_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Dialect-104161.shtml",
+          "author": "Softpedia Linux",
+          "description": "Perform quick translations on your Linux desktop with the help of this very stylish and efficient GNOME app",
+          "link": "https://linux.softpedia.com/get/Utilities/Dialect-104161.shtml",
+          "publishedOn": "2024-04-06T12:13:40.000Z",
+          "wordCount": 1298,
+          "title": "Dialect 2.3.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Dialect_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/DataGrip-103911.shtml",
+          "author": "Softpedia Linux",
+          "description": "Properly manage all your databases from a single place with the help of JetBrains' specialized IDE",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/DataGrip-103911.shtml",
+          "publishedOn": "2024-04-06T12:11:59.000Z",
+          "wordCount": 1331,
+          "title": "DataGrip 2024.1.1 Build 241.14494.283",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/DataGrip_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Programming/Compilers/CMake-7924.shtml",
+          "author": "Softpedia Linux",
+          "description": "A cross-platform and Open Source build system for Linux and UNIX-like operating systems",
+          "link": "https://linux.softpedia.com/get/Programming/Compilers/CMake-7924.shtml",
+          "publishedOn": "2024-04-06T12:01:28.000Z",
+          "wordCount": 1300,
+          "title": "CMake 3.29.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/CMake_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Clipboard-Indicator-104031.shtml",
+          "author": "Softpedia Linux",
+          "description": "Manage your clipboard history with the help of this tiny, yet very useful GNOME shell extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Clipboard-Indicator-104031.shtml",
+          "publishedOn": "2024-04-06T11:56:19.000Z",
+          "wordCount": 1309,
+          "title": "Clipboard Indicator v60",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Clipboard-Indicator_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Boxy-SVG-104352.shtml",
+          "author": "Softpedia Linux",
+          "description": "One of the best free scalable vector graphics editors for macOS and Linux systems",
+          "link": "https://linux.softpedia.com/get/Utilities/Boxy-SVG-104352.shtml",
+          "publishedOn": "2024-04-06T11:24:44.000Z",
+          "wordCount": 1439,
+          "title": "Boxy SVG 4.29.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Boxy-SVG_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Bookup-104611.shtml",
+          "author": "Softpedia Linux",
+          "description": "Write notes fast and effortlessly with the help of Bookup, a notebook app for GNOME that uses the Markdown format for editing",
+          "link": "https://linux.softpedia.com/get/Utilities/Bookup-104611.shtml",
+          "publishedOn": "2024-04-06T11:22:25.000Z",
+          "wordCount": 1324,
+          "title": "Bookup 1.0.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Bookup_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/1Password-104083.shtml",
+          "author": "Softpedia Linux",
+          "description": "Store and access all your passwords with the help of one of the most popular and most secure passwords managers out there",
+          "link": "https://linux.softpedia.com/get/Security/1Password-104083.shtml",
+          "publishedOn": "2024-04-06T11:11:37.000Z",
+          "wordCount": 1689,
+          "title": "1Password 8.10.28 / 8.10.30-20 Beta",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/1Password_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/Xournal-PlusPlus-104180.shtml",
           "author": "Softpedia Linux",
@@ -7961,6 +8101,26 @@
           "wordCount": 1378,
           "title": "Ulauncher 5.15.7 / 6.0.0 Beta 6",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ulauncher_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/SaveDesktop-104471.shtml",
+          "author": "Softpedia Linux",
+          "description": "Save and load your current desktop environment configurations in mere seconds with the help of this useful app",
+          "link": "https://linux.softpedia.com/get/Utilities/SaveDesktop-104471.shtml",
+          "publishedOn": "2024-04-03T03:52:08.000Z",
+          "wordCount": 1364,
+          "title": "SaveDesktop 3.2.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SaveDesktop_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/QOwnNotes-104391.shtml",
+          "author": "Softpedia Linux",
+          "description": "Take notes, as well as organize and manage to-do lists, all with the help of this nice free, open-source, and cross-platform app that also comes with Nextcloud and ownCloud integration",
+          "link": "https://linux.softpedia.com/get/Utilities/QOwnNotes-104391.shtml",
+          "publishedOn": "2024-04-03T03:45:09.000Z",
+          "wordCount": 1672,
+          "title": "QOwnNotes 24.4.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/QOwnNotes_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/System/Nyrna-104422.shtml",
@@ -7993,6 +8153,16 @@
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mozilla-VPN_1.jpg"
         },
         {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Monophony-104445.shtml",
+          "author": "Softpedia Linux",
+          "description": "Listen to YouTube music without having to rely on a browser with the help of this nifty desktop app",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Monophony-104445.shtml",
+          "publishedOn": "2024-04-03T03:16:26.000Z",
+          "wordCount": 1256,
+          "title": "Monophony 2.8.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Monophony_1.jpg"
+        },
+        {
           "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Metadata-Cleaner-104154.shtml",
           "author": "Softpedia Linux",
           "description": "Remove all traces of metadata from your pictures and documents with the help of this sleek, little application",
@@ -8001,6 +8171,16 @@
           "wordCount": 1344,
           "title": "Metadata Cleaner 2.5.5",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Metadata-Cleaner_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Software-Distribution/Homebrew-104388.shtml",
+          "author": "Softpedia Linux",
+          "description": "The world's most popular, free, and open-source software package management system that can greatly simplify the installation of software on your Linux system, as well as install apps not found in your Linux official distro's repositories",
+          "link": "https://linux.softpedia.com/get/System/Software-Distribution/Homebrew-104388.shtml",
+          "publishedOn": "2024-04-03T02:44:23.000Z",
+          "wordCount": 1650,
+          "title": "Homebrew 4.2.16",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Homebrew_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/EasyScreenCast-104419.shtml",
@@ -8021,6 +8201,26 @@
           "wordCount": 1236,
           "title": "Caprine 2.59.3 / 2.60.1 Pre",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Caprine_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Office/News-Diary/Butterfly-LinwoodCloud-104252.shtml",
+          "author": "Softpedia Linux",
+          "description": "Write down notes, or simply paint and draw ideas by relying on this minimalist yet surprisingly capable and customizable note-taking app",
+          "link": "https://linux.softpedia.com/get/Office/News-Diary/Butterfly-LinwoodCloud-104252.shtml",
+          "publishedOn": "2024-04-03T01:06:44.000Z",
+          "wordCount": 1374,
+          "title": "Butterfly 2.0.3 / 2.1.0 Beta 4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Butterfly-LinwoodCloud_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/Buttercup-104096.shtml",
+          "author": "Softpedia Linux",
+          "description": "Store your passwords locally, or on the cloud, as well as generate strong new ones with the help of this simple app",
+          "link": "https://linux.softpedia.com/get/Security/Buttercup-104096.shtml",
+          "publishedOn": "2024-04-03T01:04:28.000Z",
+          "wordCount": 1356,
+          "title": "Buttercup 2.27.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Buttercup_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Multimedia/Audio/Audio-Sharing-104205.shtml",
@@ -9881,146 +10081,6 @@
           "wordCount": 1103,
           "title": "WebReady 1.0.2",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/WebReady_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
-          "author": "Softpedia Linux",
-          "description": "Explore unlimited customization options and a new to go about your daily work on the Internet with the help of Vivaldi, the next-generation web browser for power users",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
-          "publishedOn": "2024-03-07T15:35:01.000Z",
-          "wordCount": 1469,
-          "title": "Vivaldi 6.6.3271.48",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Vivaldi_1.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Varia-104643.shtml",
-          "author": "Softpedia Linux",
-          "description": "Sleek, fast, modern-looking, and super lightweight GTK4/Libadwaita download manager for Linux based on aria2",
-          "link": "https://linux.softpedia.com/get/Utilities/Varia-104643.shtml",
-          "publishedOn": "2024-03-07T15:29:47.000Z",
-          "wordCount": 1304,
-          "title": "Varia 2024.2.29-2",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Varia_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Upscayl-104305.shtml",
-          "author": "Softpedia Linux",
-          "description": "Enhance your low-res pictures with only a few mouse clicks by relying on this smart and interesting app",
-          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Upscayl-104305.shtml",
-          "publishedOn": "2024-03-07T15:26:44.000Z",
-          "wordCount": 1185,
-          "title": "Upscayl 2.10.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Upscayl_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Tonfotos-104393.shtml",
-          "author": "Softpedia Linux",
-          "description": "Super efficient tool that allows you to thoroughly organize large photo collections",
-          "link": "https://linux.softpedia.com/get/Utilities/Tonfotos-104393.shtml",
-          "publishedOn": "2024-03-07T15:17:50.000Z",
-          "wordCount": 1222,
-          "title": "Tonfotos 1.9.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tonfotos_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Filesharing/Tixati-103967.shtml",
-          "author": "Softpedia Linux",
-          "description": "Download torrents with the help of this surprisingly well-equipped and lightweight app",
-          "link": "https://linux.softpedia.com/get/Communications/Filesharing/Tixati-103967.shtml",
-          "publishedOn": "2024-03-07T15:14:05.000Z",
-          "wordCount": 1253,
-          "title": "Tixati 3.22",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tixati_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml",
-          "author": "Softpedia Linux",
-          "description": "Keep your multimedia collection thoroughly organized with the help of one of the best cross-platform multimedia management apps out there",
-          "link": "https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml",
-          "publishedOn": "2024-03-07T14:34:49.000Z",
-          "wordCount": 1390,
-          "title": "tinyMediaManager 5.0.3",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/tinyMediaManager_1.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Email/Mozilla-Thunderbird-Stable-63070.shtml",
-          "author": "Softpedia Linux",
-          "description": "The Thunderbird project provides a total redesign of the Mozilla e-mail component",
-          "link": "https://linux.softpedia.com/get/Communications/Email/Mozilla-Thunderbird-Stable-63070.shtml",
-          "publishedOn": "2024-03-07T14:34:17.000Z",
-          "wordCount": 1445,
-          "title": "Thunderbird 115.8.1 / 123.0b5 Beta",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mozilla-Thunderbird-Stable_6.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Thorium-Reader-103934.shtml",
-          "author": "Softpedia Linux",
-          "description": "Free, open-source, and cross-platform eBook reader based on the Readium Desktop toolkit",
-          "link": "https://linux.softpedia.com/get/Utilities/Thorium-Reader-103934.shtml",
-          "publishedOn": "2024-03-07T14:25:42.000Z",
-          "wordCount": 1246,
-          "title": "Thorium Reader 2.3.0 / 2.4.0 Alpha 1 (4444e4d)",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Thorium-Reader_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Textadept-104390.shtml",
-          "author": "Softpedia Linux",
-          "description": "Feature-packed and astonishingly extensible, free, open-source, and cross-platform text editor for Linux, macOS, and Windows",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Textadept-104390.shtml",
-          "publishedOn": "2024-03-07T14:20:32.000Z",
-          "wordCount": 1410,
-          "title": "Textadept 12.3 / eff1576 Nightly",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Textadept_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Syndic-104271.shtml",
-          "author": "Softpedia Linux",
-          "description": "Simple and lightweight feed reader app for Linux that can run on all types of desktops, as well as on Android",
-          "link": "https://linux.softpedia.com/get/Utilities/Syndic-104271.shtml",
-          "publishedOn": "2024-03-07T14:07:21.000Z",
-          "wordCount": 1273,
-          "title": "Syndic 1.4.3 / 2.0 Preview 1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Syndic_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Super-Productivity-104173.shtml",
-          "author": "Softpedia Linux",
-          "description": "A comprehensive and stylish To-do list app that also features Jira, GitLab and GitHub integration",
-          "link": "https://linux.softpedia.com/get/Utilities/Super-Productivity-104173.shtml",
-          "publishedOn": "2024-03-07T14:03:38.000Z",
-          "wordCount": 1181,
-          "title": "Super Productivity 8.0.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Super-Productivity_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Story-Architect-104362.shtml",
-          "author": "Softpedia Linux",
-          "description": "Write your dream screenplays, stories, and stage-plays with the help of this nicely designed screenwriting software",
-          "link": "https://linux.softpedia.com/get/Utilities/Story-Architect-104362.shtml",
-          "publishedOn": "2024-03-07T13:56:59.000Z",
-          "wordCount": 1617,
-          "title": "Story Architect (STARC) 0.7.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Story-Architect_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Spacedrive-104659.shtml",
-          "author": "Softpedia Linux",
-          "description": "Manage files across your system, all your devices, drives, and clouds from a single space with the help of Spacedrive",
-          "link": "https://linux.softpedia.com/get/Utilities/Spacedrive-104659.shtml",
-          "publishedOn": "2024-03-07T13:50:17.000Z",
-          "wordCount": 1435,
-          "title": "Spacedrive 0.2.5 Alpha",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Spacedrive_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Sleek-ransome1-104167.shtml",
-          "author": "Softpedia Linux",
-          "description": "Organize your tasks efficiently with the help of this stylish and modern Electron-based app based on the todo.txt syntax",
-          "link": "https://linux.softpedia.com/get/Utilities/Sleek-ransome1-104167.shtml",
-          "publishedOn": "2024-03-07T13:42:51.000Z",
-          "wordCount": 1167,
-          "title": "Sleek 2.0.11 / 2.0.12 RC 3",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Sleek-ransome1_1.jpg"
         }
       ]
     },
@@ -10245,21 +10305,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
-          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
-          "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5142,
-          "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
         }
       ]
     },
@@ -10268,6 +10313,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/",
+          "author": "Isaiah Cliford  Opoku",
+          "description": "Welcome to Git and GitHub for Beginners! This comprehensive guide is tailored to help you navigate the world of version control and collaboration. Whether you're a newbie just starting out or an experienced developer looking to brush up on your skills, this guide offers a step-by-step approach to understanding and",
+          "link": "https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/",
+          "publishedOn": "2024-04-06T01:38:29.000Z",
+          "wordCount": 5485,
+          "title": "How to Use Git and GitHub – a Guide for Beginners and Experienced Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Attractive.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/",
+          "author": "Chris Williams",
+          "description": "In 2024, knowing how to use Git and GitHub effectively is an indispensable skill set, and is vital for nearly every role.  Whether you’re a developer, DevOps engineer, project manager, data scientist, or even an architect, a solid understanding of Git and GitHub is no longer a nice-to-have, but",
+          "link": "https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/",
+          "publishedOn": "2024-04-05T18:39:59.000Z",
+          "wordCount": 17052,
+          "title": "GitHub Foundations Certification – Exam Prep Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Blue-Modern-Eye-Catching-Vlog-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/",
+          "author": "Iroro Chadere",
+          "description": "If you're considering a career in the Site Reliability Engineering (SRE) field, you should understand what SREs do, how to get started, and how to grow as an SRE.  In this article, we'll explore what you need to know to be an SRE, and how you can develop your",
+          "link": "https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/",
+          "publishedOn": "2024-04-05T18:24:12.000Z",
+          "wordCount": 4013,
+          "title": "A How to Start a Career in Site Reliability Engineering – SRE Career Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Career-guide-to-sre.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/",
           "author": "Quincy Larson",
@@ -10317,6 +10392,16 @@
           "wordCount": 2313,
           "title": "How to Use Bento Grids Design in Your Web Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/",
+          "author": "Dennis Temoye Charity",
+          "description": "Security is critical in the field of web development, particularly when dealing with user credentials such as passwords. One security procedure that's critical in web development is password hashing.  Password hashing guarantees that plaintext passwords are difficult for attackers to find, even in a situation where a database is",
+          "link": "https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/",
+          "publishedOn": "2024-04-03T22:01:00.000Z",
+          "wordCount": 2877,
+          "title": "How to Hash Passwords with bcrypt in Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/How-to-Hash-Password-With-Bcrypt-In-Nodejs.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
@@ -10927,56 +11012,6 @@
           "wordCount": 3328,
           "title": "SVG Toggle Button Tutorial – How to Handle Dark Mode with CSS and JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-crud-api-project/",
-          "author": "Victor Yakubu",
-          "description": "An API is a technology that powers communication between software applications on the internet. API stands for Application Programming Interface, and it is basically a set of rules and protocols that define how different software can interact with each other.  Imagine having two different programs: program A and program",
-          "link": "https://www.freecodecamp.org/news/create-crud-api-project/",
-          "publishedOn": "2024-03-08T11:04:53.000Z",
-          "wordCount": 4805,
-          "title": "How to Create a CRUD API – NodeJS and Express Project for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Swimm-Images-4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
-          "author": "Beau Carnes",
-          "description": "3D web experiences can provide engaging and interactive user interfaces. And one of the best JavaScript libraries to create these experiences is Three.js. We just posed a comprehensive Three.js course on the freeCodeCamp.org YouTube channel. This course is designed to guide you through the process of building an interactive 3D",
-          "link": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
-          "publishedOn": "2024-03-07T16:21:11.000Z",
-          "wordCount": 1433,
-          "title": "Build a 3D Art Gallery with Three.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/art2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
-          "author": "Matéush",
-          "description": "In this guide, you will learn how to set up React Testing Library in Next.js. We'll also talk about why you should always test your React applications. I'll discuss the features and benefits of using the React Testing Library to test your React applications and how to configure it with",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
-          "publishedOn": "2024-03-07T15:58:47.000Z",
-          "wordCount": 1904,
-          "title": "How to Set Up React Testing Library With Next.js – A Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Testing-next-RTL.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
-          "author": "TAPAS ADHIKARY",
-          "description": "When it comes to web development, it's hard to ignore React.js. It has been one of the leading user interface libraries for a decade, and it supports a lot of popular frameworks like Next.js in the background. If you are a React developer, you likely appreciate its component-based architecture, uni-directional",
-          "link": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
-          "publishedOn": "2024-03-07T15:33:49.000Z",
-          "wordCount": 3930,
-          "title": "How to Create an Inventory List with React useReducer, Axios, and JSON Server",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/inventory-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Tailwind is a CSS framework with pre-defined classes that you can combine to build modern and responsive websites. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you Tailwind CSS. You will go from the basics to actually building your own real-world projects. By",
-          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/",
-          "publishedOn": "2024-03-07T15:30:28.000Z",
-          "wordCount": 1090,
-          "title": "Learn Tailwind CSS in Spanish – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Version-2.png"
         }
       ]
     }
