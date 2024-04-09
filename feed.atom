@@ -2,10 +2,639 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SharafatKarim.github.io/LinuxHeadlines/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T01:18:46.483Z</updated>
+    <updated>2024-04-09T01:17:47.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://SharafatKarim.github.io/LinuxHeadlines/index.html"/>
     <link rel="self" href="https://SharafatKarim.github.io/LinuxHeadlines/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wine 9.6 Introduce Advanced AVX and More Direct2D Enhancements]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188624</id>
+        <link href="https://www.linuxtoday.com/news/wine-9-6-introduce-advanced-avx-and-more-direct2d-enhancements/"/>
+        <updated>2024-04-09T00:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Wine 9.6 brings advanced AVX support, Direct2D effects, RSA OAEP padding in BCrypt, and bug fixes. Here’s more on that!
+The post Wine 9.6 Introduce Advanced AVX and More Direct2D Enhancements appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg 7.0 Brings Experimental VVC Decoder & IAMF Support]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188610</id>
+        <link href="https://www.linuxtoday.com/news/ffmpeg-7-0-brings-experimental-vvc-decoder-iamf-support/"/>
+        <updated>2024-04-08T22:00:06.000Z</updated>
+        <summary type="html"><![CDATA[FFmpeg 7.0 ‘Dijkstra’ is a major release with experimental VVC decoding, IAMF support, a multithreaded CLI tool, and more.
+The post FFmpeg 7.0 Brings Experimental VVC Decoder & IAMF Support appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install VirtIO Drivers and QEMU Guest Agent on Windows 10/11 Proxmox VE Virtual Machines]]></title>
+        <id>https://linuxhint.com/?p=414982</id>
+        <link href="https://linuxhint.com/how-to-install-virtio-drivers-and-qemu-guest-agent-on-windows-10-11-proxmox-ve-virtual-machines/"/>
+        <updated>2024-04-08T21:21:07.000Z</updated>
+        <summary type="html"><![CDATA[For optimal performance and the best Proxmox VE integration, installing the VirtIO drivers and QEMU Guest Agent on your Windows 10/11 Proxmox VE virtual machine is very important. In this article, I am going to show you how to download the latest stable version of the VirtIO drivers ISO image for Windows and install the […]]]></summary>
+        <author>
+            <name>Shovon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Proto DataStore]]></title>
+        <id>https://www.freecodecamp.org/news/testing-proto-datastore/</id>
+        <link href="https://www.freecodecamp.org/news/testing-proto-datastore/"/>
+        <updated>2024-04-08T20:54:23.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article [https://medium.com/proandroiddev/android-proto-datastore-should-you-use-it-36ae997d00f2] , I described how you can use Proto DataStore in your application. I wrote that article as part of my experience in using Proto DataStore in one of my applications [https://play.google.com/store/apps/details?id=com.tomerpacific.todo]. Following that, I wanted to see what it would be like to write tests]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a First, AlmaLinux Patches a Security Hole That Remains Unpatched in Upstream RHEL]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188623</id>
+        <link href="https://www.linuxtoday.com/news/in-a-first-almalinux-patches-a-security-hole-that-remains-unpatched-in-upstream-rhel/"/>
+        <updated>2024-04-08T20:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Until last November’s release of AlmaLinux 9.3, you wouldn’t see AlmaLinux issuing a security patch to fix any hole that remains unpatched in RHEL, just as you would be unlikely to see Rocky Linux — another RHEL clone — issuing a patch for its distro until after Red Hat had fixed the same vulnerability in […]
+The post In a First, AlmaLinux Patches a Security Hole That Remains Unpatched in Upstream RHEL appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XZ Utils Supply Chain Attack: A Threat Actor Spent Two Years to Implement a Linux Backdoor - TechRepublic]]></title>
+        <id>CBMiN2h0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS94ei1iYWNrZG9vci1saW51eC_SAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS94ei1iYWNrZG9vci1saW51eC_SAQA?oc=5"/>
+        <updated>2024-04-08T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[XZ Utils Supply Chain Attack: A Threat Actor Spent Two Years to Implement a Linux Backdoor  TechRepublic]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EndeavourOS Bids Farewell to ARM Branch]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188648</id>
+        <link href="https://www.linuxtoday.com/news/endeavouros-bids-farewell-to-arm-branch/"/>
+        <updated>2024-04-08T18:00:35.000Z</updated>
+        <summary type="html"><![CDATA[After a vibrant five-year journey enhancing ARM device support, EndeavourOS ARM concludes, thanking its lead devs. Here’s more on that!
+The post EndeavourOS Bids Farewell to ARM Branch appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EndeavourOS ARM discontinued: A huge loss for the Linux community - BetaNews]]></title>
+        <id>CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMDgvZW5kZWF2b3Vyb3MtYXJtLWRpc2NvbnRpbnVlZC1saW51eC_SAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMDgvZW5kZWF2b3Vyb3MtYXJtLWRpc2NvbnRpbnVlZC1saW51eC_SAQA?oc=5"/>
+        <updated>2024-04-08T17:29:36.000Z</updated>
+        <summary type="html"><![CDATA[EndeavourOS ARM discontinued: A huge loss for the Linux community  BetaNews]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Explains Why Explicit Sync Will Finally Solve the NVIDIA/Wayland Issues]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188639</id>
+        <link href="https://www.linuxtoday.com/news/developer-explains-why-explicit-sync-will-finally-solve-the-nvidia-wayland-issues/"/>
+        <updated>2024-04-08T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever wondered why some Linux users are experiencing issues with an NVIDIA GPU on Wayland and you aren’t, KDE developer Xaver Hugl explains in a recent post why the explicit sync protocol will finally settle the score for everyone.
+The post Developer Explains Why Explicit Sync Will Finally Solve the NVIDIA/Wayland Issues appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 AES-XTS For Disk/File Encryption As Much As ~155% Faster For AMD Zen 4 CPUs - Phoronix]]></title>
+        <id>CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmFzdGVyLUFFUy1YVFPSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmFzdGVyLUFFUy1YVFPSAQA?oc=5"/>
+        <updated>2024-04-08T16:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.10 AES-XTS For Disk/File Encryption As Much As ~155% Faster For AMD Zen 4 CPUs  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EndeavourOS Devs Say “Goodbye” to Their ARM Branch, Maintainers Needed - 9to5Linux]]></title>
+        <id>CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1kZXZzLXNheS1nb29kYnllLXRvLXRoZWlyLWFybS1icmFuY2gtbWFpbnRhaW5lcnMtbmVlZGVk0gFdaHR0cHM6Ly85dG81bGludXguY29tL2VuZGVhdm91cm9zLWRldnMtc2F5LWdvb2RieWUtdG8tdGhlaXItYXJtLWJyYW5jaC1tYWludGFpbmVycy1uZWVkZWQvYW1w</id>
+        <link href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1kZXZzLXNheS1nb29kYnllLXRvLXRoZWlyLWFybS1icmFuY2gtbWFpbnRhaW5lcnMtbmVlZGVk0gFdaHR0cHM6Ly85dG81bGludXguY29tL2VuZGVhdm91cm9zLWRldnMtc2F5LWdvb2RieWUtdG8tdGhlaXItYXJtLWJyYW5jaC1tYWludGFpbmVycy1uZWVkZWQvYW1w?oc=5"/>
+        <updated>2024-04-08T16:23:45.000Z</updated>
+        <summary type="html"><![CDATA[EndeavourOS Devs Say “Goodbye” to Their ARM Branch, Maintainers Needed  9to5Linux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiVPN Releases Final Version and Announces Project Shutdown]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188640</id>
+        <link href="https://www.linuxtoday.com/news/pivpn-releases-final-version-and-announces-project-shutdown/"/>
+        <updated>2024-04-08T16:00:30.000Z</updated>
+        <summary type="html"><![CDATA[PiVPN’s journey concludes with v4.6.0. The last update brings bug fixes, refactors, and the addition of Pi-hole in unattended installs.
+The post PiVPN Releases Final Version and Announces Project Shutdown appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Of The Best Linux Distros For Beginners - SlashGear]]></title>
+        <id>CBMiQ2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU1MDY0Ni9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLWJlZ2lubmVycy_SAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU1MDY0Ni9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLWJlZ2lubmVycy_SAQA?oc=5"/>
+        <updated>2024-04-08T15:40:34.000Z</updated>
+        <summary type="html"><![CDATA[7 Of The Best Linux Distros For Beginners  SlashGear]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30,000 German Government PCs to Switch to LibreOffice]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188641</id>
+        <link href="https://www.linuxtoday.com/news/30000-german-government-pcs-to-switch-to-libreoffice/"/>
+        <updated>2024-04-08T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Schleswig-Holstein Government agencies to adopt Linux and LibreOffice to move away from vendor lock-in.
+The post 30,000 German Government PCs to Switch to LibreOffice appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install pip on Ubuntu 24.04]]></title>
+        <id>https://linuxhint.com/?p=415077</id>
+        <link href="https://linuxhint.com/install-pip-on-ubuntu-24-04/"/>
+        <updated>2024-04-08T14:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu is a preferred Linux distribution, especially for programmers and developers. When using Ubuntu 24.04, you must know how to install pip. As a Python developer or user, pip is a Python package manager that allows you to install and manage Python packages for your projects. Besides, when installing a package that requires some dependencies, […]]]></summary>
+        <author>
+            <name>Denis Kariuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland - Phoronix]]></title>
+        <id>CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcva2RlLXBsYXNtYS02LWFtZC1nYW1pbmfSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcva2RlLXBsYXNtYS02LWFtZC1nYW1pbmfSAQA?oc=5"/>
+        <updated>2024-04-08T14:41:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use the Reboot Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=415032</id>
+        <link href="https://linuxhint.com/how-to-use-the-reboot-command-in-linux/"/>
+        <updated>2024-04-08T14:18:46.000Z</updated>
+        <summary type="html"><![CDATA[As the name suggests, the reboot command is used reboot the Linux system right from the terminal.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iXsystems: No one is being 'marooned' by Debian focus – Blocks and Files - Blocks and Files]]></title>
+        <id>CBMiS2h0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjQvMDQvMDgvaXhzeXN0ZW1zLW5vLW9uZS1pcy1nZXR0aW5nLW1hcm9vbmVkL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjQvMDQvMDgvaXhzeXN0ZW1zLW5vLW9uZS1pcy1nZXR0aW5nLW1hcm9vbmVkL9IBAA?oc=5"/>
+        <updated>2024-04-08T14:05:17.000Z</updated>
+        <summary type="html"><![CDATA[iXsystems: No one is being 'marooned' by Debian focus – Blocks and Files  Blocks and Files]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Your Motherboard Model on Windows, macOS, and Linux - Lifehacker]]></title>
+        <id>CBMiU2h0dHBzOi8vbGlmZWhhY2tlci5jb20vdGVjaC9ob3ctdG8tZmluZC13aGF0LW1vdGhlcmJvYXJkLXlvdS1oYXZlLWxpbnV4LW1hYy13aW5kb3dz0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbGlmZWhhY2tlci5jb20vdGVjaC9ob3ctdG8tZmluZC13aGF0LW1vdGhlcmJvYXJkLXlvdS1oYXZlLWxpbnV4LW1hYy13aW5kb3dz0gEA?oc=5"/>
+        <updated>2024-04-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Find Your Motherboard Model on Windows, macOS, and Linux  Lifehacker]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buffer 0.9]]></title>
+        <id>https://linux.softpedia.com/get/Utilities/Buffer-104684.shtml</id>
+        <link href="https://linux.softpedia.com/get/Utilities/Buffer-104684.shtml"/>
+        <updated>2024-04-08T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[A stripped out writing app that's designed to help you write without distractions]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peppermint Mini ISOs Get a Major Update]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188633</id>
+        <link href="https://www.linuxtoday.com/news/peppermint-mini-isos-get-a-major-update/"/>
+        <updated>2024-04-08T13:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Peppermint Mini’s latest ISO updates enhance setup with direct firmware integration and a unified installer theme. Here’s more on that!
+The post Peppermint Mini ISOs Get a Major Update appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kodi 21.0 ‘Omega’ Rolls Out, Here’s What’s New]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=188631</id>
+        <link href="https://www.linuxtoday.com/news/kodi-21-0-omega-rolls-out-heres-whats-new/"/>
+        <updated>2024-04-08T13:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Kodi’s latest update, 21.0′ Omega,’ brings many improvements, including HiDPI support, speech recognition, DXVA Video Super Resolution, and more.
+The post Kodi 21.0 ‘Omega’ Rolls Out, Here’s What’s New appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use the history Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=415054</id>
+        <link href="https://linuxhint.com/how-to-use-the-history-command-in-linux/"/>
+        <updated>2024-04-08T13:25:05.000Z</updated>
+        <summary type="html"><![CDATA[History command is used to check the previously used commands in the terminal. It is good to check and copy the commands to work on Linux efficiently.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use the Rsync Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=415031</id>
+        <link href="https://linuxhint.com/how-to-use-the-rsync-command-in-linux/"/>
+        <updated>2024-04-08T12:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Synchronizing files and data among multiple servers is crucial for smooth functioning. Fortunately, many tools are available online for file synchronization, and Rsync is one of them. Rsync is one of the most popular and widely used utilities for remotely syncing data in Linux. Rsync features efficient file transfer, preservation of file metadata, updating existing […]]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install deb File on Ubuntu 24.04]]></title>
+        <id>https://linuxhint.com/?p=415036</id>
+        <link href="https://linuxhint.com/install-deb-file-on-ubuntu-24-04/"/>
+        <updated>2024-04-08T12:46:40.000Z</updated>
+        <summary type="html"><![CDATA[One way of installing packages in Ubuntu 24.04 is by installing their .DEB file. The .DEB extension is used with Debian software packages, and there are different approaches you can take to install the .DEB files on Ubuntu 24.04. This post gives five methods to install deb files on Ubuntu 24.04. Some methods are based […]]]></summary>
+        <author>
+            <name>Denis Kariuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Code 0.1.0]]></title>
+        <id>https://linux.softpedia.com/get/Utilities/Color-Code-104683.shtml</id>
+        <link href="https://linux.softpedia.com/get/Utilities/Color-Code-104683.shtml"/>
+        <updated>2024-04-08T12:25:54.000Z</updated>
+        <summary type="html"><![CDATA[A very stylish resistor color code calculator application for your GNOME desktop]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explicit Sync in Wayland is The Answer to NVIDIA Linux Problems! - It's FOSS News]]></title>
+        <id>CBMiL2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9leHBsaWNpdC1zeW5jLXdheWxhbmQv0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9leHBsaWNpdC1zeW5jLXdheWxhbmQv0gEA?oc=5"/>
+        <updated>2024-04-08T12:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Explicit Sync in Wayland is The Answer to NVIDIA Linux Problems!  It's FOSS News]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Adding Kernel-Mode FPU For Linux 6.10 To Enable Recent AMD Display Support - Phoronix]]></title>
+        <id>CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1MaW51eC02LjEwLUtlcm5lbC1GUFXSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1MaW51eC02LjEwLUtlcm5lbC1GUFXSAQA?oc=5"/>
+        <updated>2024-04-08T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V Adding Kernel-Mode FPU For Linux 6.10 To Enable Recent AMD Display Support  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Releases DTrace 2.0.0-1.14 For Linux Systems - Phoronix]]></title>
+        <id>CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0QtVHJhY2UtMi4wLjAtMS4xNNIBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0QtVHJhY2UtMi4wLjAtMS4xNNIBAA?oc=5"/>
+        <updated>2024-04-08T10:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Oracle Releases DTrace 2.0.0-1.14 For Linux Systems  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Overlay for Linux adds PulseAudio / PipeWire integration - GamingOnLinux]]></title>
+        <id>CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZGlzY29yZC1vdmVybGF5LWZvci1saW51eC1hZGRzLXB1bHNlYXVkaW8tcGlwZXdpcmUtaW50ZWdyYXRpb24v0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZGlzY29yZC1vdmVybGF5LWZvci1saW51eC1hZGRzLXB1bHNlYXVkaW8tcGlwZXdpcmUtaW50ZWdyYXRpb24v0gEA?oc=5"/>
+        <updated>2024-04-08T10:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Discord Overlay for Linux adds PulseAudio / PipeWire integration  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9to5Linux Weekly Roundup: April 7th, 2024 - 9to5Linux]]></title>
+        <id>CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtN3RoLTIwMjTSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWFwcmlsLTd0aC0yMDI0L2FtcA</id>
+        <link href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtN3RoLTIwMjTSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWFwcmlsLTd0aC0yMDI0L2FtcA?oc=5"/>
+        <updated>2024-04-08T10:25:49.000Z</updated>
+        <summary type="html"><![CDATA[9to5Linux Weekly Roundup: April 7th, 2024  9to5Linux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinyMediaManager 5.0.4]]></title>
+        <id>https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml</id>
+        <link href="https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml"/>
+        <updated>2024-04-08T10:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Keep your multimedia collection thoroughly organized with the help of one of the best cross-platform multimedia management apps out there]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rnote 0.10.2]]></title>
+        <id>https://linux.softpedia.com/get/Utilities/Rnote-104220.shtml</id>
+        <link href="https://linux.softpedia.com/get/Utilities/Rnote-104220.shtml"/>
+        <updated>2024-04-08T10:03:51.000Z</updated>
+        <summary type="html"><![CDATA[A sleek-looking and feature-packed, freehand note-taking app written in GTK4 and Rust]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.04 LTS aims to improve the energy efficiency of the Linux distribution on laptops - Notebookcheck.net]]></title>
+        <id>CBMihwFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9VYnVudHUtMjQtMDQtTFRTLWFpbXMtdG8taW1wcm92ZS10aGUtZW5lcmd5LWVmZmljaWVuY3ktb2YtdGhlLUxpbnV4LWRpc3RyaWJ1dGlvbi1vbi1sYXB0b3BzLjgyNDE2OS4wLmh0bWzSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9VYnVudHUtMjQtMDQtTFRTLWFpbXMtdG8taW1wcm92ZS10aGUtZW5lcmd5LWVmZmljaWVuY3ktb2YtdGhlLUxpbnV4LWRpc3RyaWJ1dGlvbi1vbi1sYXB0b3BzLjgyNDE2OS4wLmh0bWzSAQA?oc=5"/>
+        <updated>2024-04-08T09:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 24.04 LTS aims to improve the energy efficiency of the Linux distribution on laptops  Notebookcheck.net]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments 3.0.0]]></title>
+        <id>https://linux.softpedia.com/get/Communications/Filesharing/Fragments-Felix-Hacker-104088.shtml</id>
+        <link href="https://linux.softpedia.com/get/Communications/Filesharing/Fragments-Felix-Hacker-104088.shtml"/>
+        <updated>2024-04-08T09:34:24.000Z</updated>
+        <summary type="html"><![CDATA[A modern, stylish, and extremely clean-looking BitTorrent client for the GNOME desktop environment]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EncryptPad 0.5.0.4 Beta]]></title>
+        <id>https://linux.softpedia.com/get/Security/EncryptPad-103995.shtml</id>
+        <link href="https://linux.softpedia.com/get/Security/EncryptPad-103995.shtml"/>
+        <updated>2024-04-08T09:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Secure and encrypt your texts with the help of this cross-platform and open-source, little tool]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World in Rust – Example Program]]></title>
+        <id>https://www.freecodecamp.org/news/hello-world-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/hello-world-in-rust/"/>
+        <updated>2024-04-08T09:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says "Hello World!". Rust, known for being fast and safe, is no exception. Let's jump right in and create]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE's Xaver Hugl on why Wayland explicit sync is such a big deal - GamingOnLinux]]></title>
+        <id>CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQva2Rlcy14YXZlci1odWdsLW9uLXdoeS13YXlsYW5kLWV4cGxpY2l0LXN5bmMtaXMtc3VjaC1hLWJpZy1kZWFsL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQva2Rlcy14YXZlci1odWdsLW9uLXdoeS13YXlsYW5kLWV4cGxpY2l0LXN5bmMtaXMtc3VjaC1hLWJpZy1kZWFsL9IBAA?oc=5"/>
+        <updated>2024-04-08T08:51:43.000Z</updated>
+        <summary type="html"><![CDATA[KDE's Xaver Hugl on why Wayland explicit sync is such a big deal  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German government switches 30 thousand PCs to Linux and LibreOffice - Mezha.Media]]></title>
+        <id>CBMiZmh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL9IBamh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL2FtcC8</id>
+        <link href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL9IBamh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL2FtcC8?oc=5"/>
+        <updated>2024-04-08T08:47:02.000Z</updated>
+        <summary type="html"><![CDATA[German government switches 30 thousand PCs to Linux and LibreOffice  Mezha.Media]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Set Environment Variables in Linux]]></title>
+        <id>https://linuxhint.com/?p=414862</id>
+        <link href="https://linuxhint.com/how-to-set-environment-variables-in-linux/"/>
+        <updated>2024-04-08T08:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The environment variables store information about the computing environment. Here, we have explained the methods to set the environment variables in Linux.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clear Screen in Linux]]></title>
+        <id>https://linuxhint.com/?p=414825</id>
+        <link href="https://linuxhint.com/how-to-clear-screen-in-linux/"/>
+        <updated>2024-04-08T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux is full of commands that allow you to achieve every task with numerous commands. Having these text-based commands is handy; you can unleash the full potential of your Linux system. Moreover, the terminal is the most popular command line interface (CLI) for executing these commands. While working in the terminal, the screen gets cluttered […]]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Filesystem in Linux]]></title>
+        <id>https://linuxhint.com/?p=414853</id>
+        <link href="https://linuxhint.com/what-is-a-filesystem-in-linux/"/>
+        <updated>2024-04-08T08:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Linux is widely known for its robust filesystem. This hierarchical structure stores and organizes all kinds of data, including files and directories. It offers disk fragmentations, symbolic linking, journaling, file permission management, and more. Hence, a beginner must understand the basics of Linux’s filesystem to navigate and manage the system efficiently. In this article, you […]]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create a File in Linux]]></title>
+        <id>https://linuxhint.com/?p=414836</id>
+        <link href="https://linuxhint.com/how-to-create-a-file-in-linux/"/>
+        <updated>2024-04-08T08:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Learn to create files in Linux with ease! This guide includes the basics and advanced methods, making file management a breeze.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a User to a Group in Linux]]></title>
+        <id>https://linuxhint.com/?p=414902</id>
+        <link href="https://linuxhint.com/how-to-add-a-user-to-a-group-in-linux/"/>
+        <updated>2024-04-08T08:17:09.000Z</updated>
+        <summary type="html"><![CDATA[We have explained multiple commands to add a user to a group in Linux without facing any errors.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Anaconda on Linux]]></title>
+        <id>https://linuxhint.com/?p=414914</id>
+        <link href="https://linuxhint.com/how-to-install-anaconda-on-linux/"/>
+        <updated>2024-04-08T08:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Get Anaconda up and running on Linux with this simple guide. Perfect for anyone diving into data science or needing Python packages]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German state Schleswig-Holstein ditches Windows for Linux - Computing]]></title>
+        <id>CBMiWGh0dHBzOi8vd3d3LmNvbXB1dGluZy5jby51ay9uZXdzLzQxOTQyOTEvZ2VybWFuLXNjaGxlc3dpZy1ob2xzdGVpbi1kaXRjaGVzLXdpbmRvd3MtbGludXjSAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNvbXB1dGluZy5jby51ay9uZXdzLzQxOTQyOTEvZ2VybWFuLXNjaGxlc3dpZy1ob2xzdGVpbi1kaXRjaGVzLXdpbmRvd3MtbGludXjSAQA?oc=5"/>
+        <updated>2024-04-08T08:10:41.000Z</updated>
+        <summary type="html"><![CDATA[German state Schleswig-Holstein ditches Windows for Linux  Computing]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Zip Files in Linux]]></title>
+        <id>https://linuxhint.com/?p=414928</id>
+        <link href="https://linuxhint.com/how-to-zip-files-in-linux/"/>
+        <updated>2024-04-08T08:02:55.000Z</updated>
+        <summary type="html"><![CDATA[File compression is a process by which you can collectively contain a chunk of data in a single place. It eases file transferring, storage management, data organization, and more. In Linux, tar and zip are the two most common file compression formats. You can also compress the files and password-protect them. However, many Linux users […]]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out the Manjaro Linux lead talk about the Orange Pi NEO gaming handheld - GamingOnLinux]]></title>
+        <id>CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvY2hlY2stb3V0LXRoZS1tYW5qYXJvLWxpbnV4LWxlYWQtdGFsay1hYm91dC10aGUtb3JhbmdlLXBpLW5lby1nYW1pbmctaGFuZGhlbGQv0gEA</id>
+        <link href="https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvY2hlY2stb3V0LXRoZS1tYW5qYXJvLWxpbnV4LWxlYWQtdGFsay1hYm91dC10aGUtb3JhbmdlLXBpLW5lby1nYW1pbmctaGFuZGhlbGQv0gEA?oc=5"/>
+        <updated>2024-04-08T07:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Check out the Manjaro Linux lead talk about the Orange Pi NEO gaming handheld  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use dig Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=414888</id>
+        <link href="https://linuxhint.com/how-to-use-dig-command-in-linux/"/>
+        <updated>2024-04-08T07:36:52.000Z</updated>
+        <summary type="html"><![CDATA[The dig or Domain Information Groper command is used to query DNS servers for their records in Linux.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blanket 0.7.0]]></title>
+        <id>https://linux.softpedia.com/get/Multimedia/Audio/Blanket-104006.shtml</id>
+        <link href="https://linux.softpedia.com/get/Multimedia/Audio/Blanket-104006.shtml"/>
+        <updated>2024-04-08T07:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Increase your productivity and focus with the help of this refreshingly simple and gorgeous ambient sound app]]></summary>
+        <author>
+            <name>Softpedia Linux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use alias Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=414873</id>
+        <link href="https://linuxhint.com/how-to-use-alias-command-in-linux/"/>
+        <updated>2024-04-08T07:29:18.000Z</updated>
+        <summary type="html"><![CDATA[alias command is used to create shortcuts for long commands or a sequence of commands.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Apt in Linux]]></title>
+        <id>https://linuxhint.com/?p=414981</id>
+        <link href="https://linuxhint.com/what-is-apt-in-linux/"/>
+        <updated>2024-04-08T07:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Apt is the command-line utility that you can use to install and remove packages right from the terminal.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux changes vm.max_map_count to match Fedora, Ubuntu for better gaming - GamingOnLinux]]></title>
+        <id>CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYXJjaC1saW51eC1jaGFuZ2VzLXZtbWF4LW1hcC1jb3VudC10by1tYXRjaC1mZWRvcmEtdWJ1bnR1LWZvci1iZXR0ZXItZ2FtaW5nL9IBAA</id>
+        <link href="https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYXJjaC1saW51eC1jaGFuZ2VzLXZtbWF4LW1hcC1jb3VudC10by1tYXRjaC1mZWRvcmEtdWJ1bnR1LWZvci1iZXR0ZXItZ2FtaW5nL9IBAA?oc=5"/>
+        <updated>2024-04-08T07:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Arch Linux changes vm.max_map_count to match Fedora, Ubuntu for better gaming  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Screen Recorder in Linux]]></title>
+        <id>https://linuxhint.com/?p=414970</id>
+        <link href="https://linuxhint.com/how-to-use-screen-recorder-in-linux/"/>
+        <updated>2024-04-08T07:15:17.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple tools you can try to screen recorder in Linux with no hassles.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Cat Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=414959</id>
+        <link href="https://linuxhint.com/how-to-use-cat-command-in-linux/"/>
+        <updated>2024-04-08T07:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Explore the essentials of the cat command in Linux to manage and view files with ease. Perfect for tech enthusiasts!]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use YUM in Linux]]></title>
+        <id>https://linuxhint.com/?p=414956</id>
+        <link href="https://linuxhint.com/how-to-use-yum-in-linux/"/>
+        <updated>2024-04-08T07:11:47.000Z</updated>
+        <summary type="html"><![CDATA[Learn to easily manage your Linux software with YUM in this friendly, expert-written guide. Start updating like a pro!]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Kill a Process in Linux]]></title>
+        <id>https://linuxhint.com/?p=414948</id>
+        <link href="https://linuxhint.com/how-to-kill-a-process-in-linux/"/>
+        <updated>2024-04-08T07:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to efficiently terminate processes in Linux, ensuring optimal system performance and security.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use sudo in Linux]]></title>
+        <id>https://linuxhint.com/?p=414993</id>
+        <link href="https://linuxhint.com/how-to-use-sudo-in-linux/"/>
+        <updated>2024-04-08T07:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Master Linux commands with our guide on using sudo for secure system management and elevated privileges.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Games Launcher v2.14.1 Hotfix #1 fixes Proton on Linux and Steam Deck - GamingOnLinux]]></title>
+        <id>CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLXYyMTQxLWhvdGZpeC0xLWZpeGVzLXByb3Rvbi1vbi1saW51eC1hbmQtc3RlYW0tZGVjay_SAQA</id>
+        <link href="https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLXYyMTQxLWhvdGZpeC0xLWZpeGVzLXByb3Rvbi1vbi1saW51eC1hbmQtc3RlYW0tZGVjay_SAQA?oc=5"/>
+        <updated>2024-04-08T07:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Heroic Games Launcher v2.14.1 Hotfix #1 fixes Proton on Linux and Steam Deck  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Chown Command in Linux]]></title>
+        <id>https://linuxhint.com/?p=414997</id>
+        <link href="https://linuxhint.com/how-to-use-chown-command-in-linux/"/>
+        <updated>2024-04-08T07:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Explore the nuances of file and directory ownership in Linux with our expert guide on the chown command.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Check Load Average on Linux]]></title>
+        <id>https://linuxhint.com/?p=414814</id>
+        <link href="https://linuxhint.com/how-to-check-load-average-on-linux/"/>
+        <updated>2024-04-08T06:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to monitor your Linux system's performance with this comprehensive guide on checking load average.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create a Directory in Linux]]></title>
+        <id>https://linuxhint.com/?p=414793</id>
+        <link href="https://linuxhint.com/how-to-create-a-directory-in-linux/"/>
+        <updated>2024-04-08T06:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a directory in Linux with this easy-to-follow guide. Discover various methods, including command line tips and graphical interfaces, to organize your files efficiently.]]></summary>
+        <author>
+            <name>Prateek Jangid</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.9-rc3 Released With Many Bcachefs Patches - Phoronix]]></title>
         <id>CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzMtUmVsZWFzZWTSAQA</id>
@@ -10765,218 +11394,6 @@ The post Tbmk: A Tool to Bookmark Frequently Used Commands in Linux appeared fir
         <link href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1QLVN0YXRlLVRSWDQwLUxpbnV4LTYuOdIBAA?oc=5"/>
         <updated>2024-03-10T13:39:00.000Z</updated>
         <summary type="html"><![CDATA[Linux 6.9 To Allow AMD P-State With ACPI CPPC V2 For Threadripper 3000 Series CPUs  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.9 To Upgrade Rust Toolchain - Making More Features Stable - Phoronix]]></title>
-        <id>CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SdXN0LVVwZ3JhZGXSAQA</id>
-        <link href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SdXN0LVVwZ3JhZGXSAQA?oc=5"/>
-        <updated>2024-03-10T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.9 To Upgrade Rust Toolchain - Making More Features Stable  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effort Continues To Remove Most Of The SPARC 32-bit CPU Support From Linux - Phoronix]]></title>
-        <id>CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURyb3AtTW9zdC1TUEFSQzMyLXYy0gEA</id>
-        <link href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURyb3AtTW9zdC1TUEFSQzMyLXYy0gEA?oc=5"/>
-        <updated>2024-03-10T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Effort Continues To Remove Most Of The SPARC 32-bit CPU Support From Linux  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 reasons why desktop Linux is finally growing in popularity - MSN]]></title>
-        <id>CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbW9uZXkvb3RoZXIvNS1yZWFzb25zLXdoeS1kZXNrdG9wLWxpbnV4LWlzLWZpbmFsbHktZ3Jvd2luZy1pbi1wb3B1bGFyaXR5L2FyLUJCMWptT05F0gEA</id>
-        <link href="https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbW9uZXkvb3RoZXIvNS1yZWFzb25zLXdoeS1kZXNrdG9wLWxpbnV4LWlzLWZpbmFsbHktZ3Jvd2luZy1pbi1wb3B1bGFyaXR5L2FyLUJCMWptT05F0gEA?oc=5"/>
-        <updated>2024-03-10T06:03:37.000Z</updated>
-        <summary type="html"><![CDATA[5 reasons why desktop Linux is finally growing in popularity  MSN]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Desktop Launchers in Linux]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=187570</id>
-        <link href="https://www.linuxtoday.com/developer/how-to-create-desktop-launchers-in-linux/"/>
-        <updated>2024-03-10T01:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Launchers are shortcuts that give you easy access to your favorite applications, making it easy to open them without navigating through menus. In this guide, we will walk you through the simple process of creating launchers on a Linux desktop.
-The post How to Create Desktop Launchers in Linux appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 123.0.1 / 124.0b9 Beta]]></title>
-        <id>https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml</id>
-        <link href="https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml"/>
-        <updated>2024-03-09T19:27:28.000Z</updated>
-        <summary type="html"><![CDATA[The Linux version of one of the most popular and powerful web browser products on the entire Internet, Firefox]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joplin 2.14.19]]></title>
-        <id>https://linux.softpedia.com/get/Utilities/Joplin-104050.shtml</id>
-        <link href="https://linux.softpedia.com/get/Utilities/Joplin-104050.shtml"/>
-        <updated>2024-03-09T19:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Take notes, create to-do lists, and keep them synchronized on a wide range of devices with the help of this open-source, cross-platform app]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 122.0.2365.80 / 123.0.2420.20 Beta / 124.0.2438.2 Dev]]></title>
-        <id>https://linux.softpedia.com/get/Internet/HTTP-WWW-/Microsoft-Edge-103857.shtml</id>
-        <link href="https://linux.softpedia.com/get/Internet/HTTP-WWW-/Microsoft-Edge-103857.shtml"/>
-        <updated>2024-03-09T19:11:37.000Z</updated>
-        <summary type="html"><![CDATA[The new-age Microsoft browser, the Chromium-based Edge provides a fast, sleek, and secure online experience]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puddletag 2.3.0]]></title>
-        <id>https://linux.softpedia.com/get/Multimedia/Audio/puddletag-63517.shtml</id>
-        <link href="https://linux.softpedia.com/get/Multimedia/Audio/puddletag-63517.shtml"/>
-        <updated>2024-03-09T17:24:08.000Z</updated>
-        <summary type="html"><![CDATA[A nifty, albeit old-school looking, audio tag editor for Linux built on the same principles as the popular Mp3tag app for Windows]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Guard Lite 4.6.3 / 07eb444 Pre-release]]></title>
-        <id>https://linux.softpedia.com/get/Utilities/RSS-Guard-Lite-104396.shtml</id>
-        <link href="https://linux.softpedia.com/get/Utilities/RSS-Guard-Lite-104396.shtml"/>
-        <updated>2024-03-09T17:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Free and open-source RSS/ATOM feed reader that works on all major desktop platforms]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Best Free and Open-Source Single Sign-On Software]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=187644</id>
-        <link href="https://www.linuxtoday.com/security/6-best-free-and-open-source-single-sign-on-software/"/>
-        <updated>2024-03-09T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Single Sign-On (sometimes known as SSO) is an authentication process that allows users to log in to multiple independent applications with a single set of credentials.
-The post 6 Best Free and Open-Source Single Sign-On Software appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal 7.1.1 / 7.2.0 Beta 2]]></title>
-        <id>https://linux.softpedia.com/get/Communications/Chat/Signal-103855.shtml</id>
-        <link href="https://linux.softpedia.com/get/Communications/Chat/Signal-103855.shtml"/>
-        <updated>2024-03-09T16:53:06.000Z</updated>
-        <summary type="html"><![CDATA[Chat with family and friends using Signal, the most secure and privacy-focused messaging app currently on the market]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Desktop 4.15.1]]></title>
-        <id>https://linux.softpedia.com/get/Communications/Chat/Telegram-Desktop-103681.shtml</id>
-        <link href="https://linux.softpedia.com/get/Communications/Chat/Telegram-Desktop-103681.shtml"/>
-        <updated>2024-03-09T16:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Chat with friends and family, or host massive group chats with up to 200.000 other users with the help of Telegram, one of the most popular security-oriented messenger apps]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wike 3.0.0]]></title>
-        <id>https://linux.softpedia.com/get/Internet/HTTP-WWW-/Wike-104197.shtml</id>
-        <link href="https://linux.softpedia.com/get/Internet/HTTP-WWW-/Wike-104197.shtml"/>
-        <updated>2024-03-09T16:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Do all your Wikipedia research directly from the comforts of your GNOME desktop by relying on this wonderful Wikipedia reader app]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwarden 2024.2.1]]></title>
-        <id>https://linux.softpedia.com/get/Security/Bitwarden-103867.shtml</id>
-        <link href="https://linux.softpedia.com/get/Security/Bitwarden-103867.shtml"/>
-        <updated>2024-03-09T15:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Securely store your passwords, login details, and other sensitive information with the help of Bitwarden, one of the best and competitively priced password managers out there]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII Draw 0.3.0]]></title>
-        <id>https://linux.softpedia.com/get/Utilities/ASCII-Draw-104602.shtml</id>
-        <link href="https://linux.softpedia.com/get/Utilities/ASCII-Draw-104602.shtml"/>
-        <updated>2024-03-09T15:38:30.000Z</updated>
-        <summary type="html"><![CDATA[Draw clean-looking ASCII-based diagrams with the help of this easy-to-use application]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ark 24.02.0]]></title>
-        <id>https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml</id>
-        <link href="https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml"/>
-        <updated>2024-03-09T15:37:28.000Z</updated>
-        <summary type="html"><![CDATA[A lightweight yet very capable compression/decompression application for Linux distributions]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnet Goblin hackers use 1-day flaws to drop custom Linux malware - BleepingComputer]]></title>
-        <id>CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL9IBdmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL2FtcC8</id>
-        <link href="https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL9IBdmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL2FtcC8?oc=5"/>
-        <updated>2024-03-09T15:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Magnet Goblin hackers use 1-day flaws to drop custom Linux malware  BleepingComputer]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev News: Linux 6.9 To Top Ten Million Git Objects, Netlify's AI Deploy, and More - The New Stack]]></title>
-        <id>CBMiUmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZGV2LW5ld3MtbmZ0LW9mLWdpdGh1Yi1leHBsb2l0LW5ldGxpZnlzLWFpLWRlcGxveS1hbmQtbW9yZS_SAQA</id>
-        <link href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZGV2LW5ld3MtbmZ0LW9mLWdpdGh1Yi1leHBsb2l0LW5ldGxpZnlzLWFpLWRlcGxveS1hbmQtbW9yZS_SAQA?oc=5"/>
-        <updated>2024-03-09T15:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Dev News: Linux 6.9 To Top Ten Million Git Objects, Netlify's AI Deploy, and More  The New Stack]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.8 Is Very Exciting With Intel Xe Driver, Raspberry Pi 5 Graphics & New Hardware - Phoronix]]></title>
-        <id>CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlc9IBAA</id>
-        <link href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlc9IBAA?oc=5"/>
-        <updated>2024-03-09T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.8 Is Very Exciting With Intel Xe Driver, Raspberry Pi 5 Graphics & New Hardware  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebReady 1.0.2]]></title>
-        <id>https://linux.softpedia.com/get/Utilities/WebReady-104676.shtml</id>
-        <link href="https://linux.softpedia.com/get/Utilities/WebReady-104676.shtml"/>
-        <updated>2024-03-09T14:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Small, fast, free and open-source app that allows you to create web-ready animations with a few mouse clicks]]></summary>
-        <author>
-            <name>Softpedia Linux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify Linux and Docker Command Lines with Bash Completion - The New Stack]]></title>
-        <id>CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2ltcGxpZnktbGludXgtYW5kLWRvY2tlci1jb21tYW5kLWxpbmVzLXdpdGgtYmFzaC1jb21wbGV0aW9uL9IBAA</id>
-        <link href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2ltcGxpZnktbGludXgtYW5kLWRvY2tlci1jb21tYW5kLWxpbmVzLXdpdGgtYmFzaC1jb21wbGV0aW9uL9IBAA?oc=5"/>
-        <updated>2024-03-09T14:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Simplify Linux and Docker Command Lines with Bash Completion  The New Stack]]></summary>
         <author>
             <name>"linux" - Google News</name>
         </author>

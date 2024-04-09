@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=414982",
+          "author": "Shovon",
+          "description": "For optimal performance and the best Proxmox VE integration, installing the VirtIO drivers and QEMU Guest Agent on your Windows 10/11 Proxmox VE virtual machine is very important. In this article, I am going to show you how to download the latest stable version of the VirtIO drivers ISO image for Windows and install the […]",
+          "link": "https://linuxhint.com/how-to-install-virtio-drivers-and-qemu-guest-agent-on-windows-10-11-proxmox-ve-virtual-machines/",
+          "publishedOn": "2024-04-08T21:21:07.000Z",
+          "wordCount": 5070,
+          "title": "How to Install VirtIO Drivers and QEMU Guest Agent on Windows 10/11 Proxmox VE Virtual Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415077",
+          "author": "Denis Kariuki",
+          "description": "Ubuntu is a preferred Linux distribution, especially for programmers and developers. When using Ubuntu 24.04, you must know how to install pip. As a Python developer or user, pip is a Python package manager that allows you to install and manage Python packages for your projects. Besides, when installing a package that requires some dependencies, […]",
+          "link": "https://linuxhint.com/install-pip-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-08T14:46:06.000Z",
+          "wordCount": 4931,
+          "title": "How to Install pip on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415032",
+          "author": "Prateek Jangid",
+          "description": "As the name suggests, the reboot command is used reboot the Linux system right from the terminal.",
+          "link": "https://linuxhint.com/how-to-use-the-reboot-command-in-linux/",
+          "publishedOn": "2024-04-08T14:18:46.000Z",
+          "wordCount": 4848,
+          "title": "How To Use the Reboot Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415054",
+          "author": "Prateek Jangid",
+          "description": "History command is used to check the previously used commands in the terminal. It is good to check and copy the commands to work on Linux efficiently.",
+          "link": "https://linuxhint.com/how-to-use-the-history-command-in-linux/",
+          "publishedOn": "2024-04-08T13:25:05.000Z",
+          "wordCount": 3889,
+          "title": "How To Use the history Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415031",
+          "author": "Prateek Jangid",
+          "description": "Synchronizing files and data among multiple servers is crucial for smooth functioning. Fortunately, many tools are available online for file synchronization, and Rsync is one of them. Rsync is one of the most popular and widely used utilities for remotely syncing data in Linux. Rsync features efficient file transfer, preservation of file metadata, updating existing […]",
+          "link": "https://linuxhint.com/how-to-use-the-rsync-command-in-linux/",
+          "publishedOn": "2024-04-08T12:59:48.000Z",
+          "wordCount": 4153,
+          "title": "How To Use the Rsync Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415036",
+          "author": "Denis Kariuki",
+          "description": "One way of installing packages in Ubuntu 24.04 is by installing their .DEB file. The .DEB extension is used with Debian software packages, and there are different approaches you can take to install the .DEB files on Ubuntu 24.04. This post gives five methods to install deb files on Ubuntu 24.04. Some methods are based […]",
+          "link": "https://linuxhint.com/install-deb-file-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-08T12:46:40.000Z",
+          "wordCount": 5125,
+          "title": "Install deb File on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414862",
+          "author": "Prateek Jangid",
+          "description": "The environment variables store information about the computing environment. Here, we have explained the methods to set the environment variables in Linux.",
+          "link": "https://linuxhint.com/how-to-set-environment-variables-in-linux/",
+          "publishedOn": "2024-04-08T08:30:58.000Z",
+          "wordCount": 4710,
+          "title": "How To Set Environment Variables in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414825",
+          "author": "Prateek Jangid",
+          "description": "Linux is full of commands that allow you to achieve every task with numerous commands. Having these text-based commands is handy; you can unleash the full potential of your Linux system. Moreover, the terminal is the most popular command line interface (CLI) for executing these commands. While working in the terminal, the screen gets cluttered […]",
+          "link": "https://linuxhint.com/how-to-clear-screen-in-linux/",
+          "publishedOn": "2024-04-08T08:28:00.000Z",
+          "wordCount": 4744,
+          "title": "How to Clear Screen in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414853",
+          "author": "Prateek Jangid",
+          "description": "Linux is widely known for its robust filesystem. This hierarchical structure stores and organizes all kinds of data, including files and directories. It offers disk fragmentations, symbolic linking, journaling, file permission management, and more. Hence, a beginner must understand the basics of Linux’s filesystem to navigate and manage the system efficiently. In this article, you […]",
+          "link": "https://linuxhint.com/what-is-a-filesystem-in-linux/",
+          "publishedOn": "2024-04-08T08:25:54.000Z",
+          "wordCount": 4931,
+          "title": "What is a Filesystem in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414836",
+          "author": "Prateek Jangid",
+          "description": "Learn to create files in Linux with ease! This guide includes the basics and advanced methods, making file management a breeze.",
+          "link": "https://linuxhint.com/how-to-create-a-file-in-linux/",
+          "publishedOn": "2024-04-08T08:20:42.000Z",
+          "wordCount": 3844,
+          "title": "How To Create a File in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414902",
+          "author": "Prateek Jangid",
+          "description": "We have explained multiple commands to add a user to a group in Linux without facing any errors.",
+          "link": "https://linuxhint.com/how-to-add-a-user-to-a-group-in-linux/",
+          "publishedOn": "2024-04-08T08:17:09.000Z",
+          "wordCount": 4673,
+          "title": "How to Add a User to a Group in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414914",
+          "author": "Prateek Jangid",
+          "description": "Get Anaconda up and running on Linux with this simple guide. Perfect for anyone diving into data science or needing Python packages",
+          "link": "https://linuxhint.com/how-to-install-anaconda-on-linux/",
+          "publishedOn": "2024-04-08T08:14:18.000Z",
+          "wordCount": 4884,
+          "title": "How To Install Anaconda on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414928",
+          "author": "Prateek Jangid",
+          "description": "File compression is a process by which you can collectively contain a chunk of data in a single place. It eases file transferring, storage management, data organization, and more. In Linux, tar and zip are the two most common file compression formats. You can also compress the files and password-protect them. However, many Linux users […]",
+          "link": "https://linuxhint.com/how-to-zip-files-in-linux/",
+          "publishedOn": "2024-04-08T08:02:55.000Z",
+          "wordCount": 4904,
+          "title": "How to Zip Files in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414888",
+          "author": "Prateek Jangid",
+          "description": "The dig or Domain Information Groper command is used to query DNS servers for their records in Linux.",
+          "link": "https://linuxhint.com/how-to-use-dig-command-in-linux/",
+          "publishedOn": "2024-04-08T07:36:52.000Z",
+          "wordCount": 4736,
+          "title": "How To Use dig Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414873",
+          "author": "Prateek Jangid",
+          "description": "alias command is used to create shortcuts for long commands or a sequence of commands.",
+          "link": "https://linuxhint.com/how-to-use-alias-command-in-linux/",
+          "publishedOn": "2024-04-08T07:29:18.000Z",
+          "wordCount": 4686,
+          "title": "How To Use alias Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414981",
+          "author": "Prateek Jangid",
+          "description": "Apt is the command-line utility that you can use to install and remove packages right from the terminal.",
+          "link": "https://linuxhint.com/what-is-apt-in-linux/",
+          "publishedOn": "2024-04-08T07:22:11.000Z",
+          "wordCount": 3927,
+          "title": "What Is Apt in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414970",
+          "author": "Prateek Jangid",
+          "description": "There are multiple tools you can try to screen recorder in Linux with no hassles.",
+          "link": "https://linuxhint.com/how-to-use-screen-recorder-in-linux/",
+          "publishedOn": "2024-04-08T07:15:17.000Z",
+          "wordCount": 4869,
+          "title": "How To Use Screen Recorder in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414959",
+          "author": "Prateek Jangid",
+          "description": "Explore the essentials of the cat command in Linux to manage and view files with ease. Perfect for tech enthusiasts!",
+          "link": "https://linuxhint.com/how-to-use-cat-command-in-linux/",
+          "publishedOn": "2024-04-08T07:13:41.000Z",
+          "wordCount": 4701,
+          "title": "How To Use Cat Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414956",
+          "author": "Prateek Jangid",
+          "description": "Learn to easily manage your Linux software with YUM in this friendly, expert-written guide. Start updating like a pro!",
+          "link": "https://linuxhint.com/how-to-use-yum-in-linux/",
+          "publishedOn": "2024-04-08T07:11:47.000Z",
+          "wordCount": 4669,
+          "title": "How to Use YUM in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414948",
+          "author": "Prateek Jangid",
+          "description": "Discover how to efficiently terminate processes in Linux, ensuring optimal system performance and security.",
+          "link": "https://linuxhint.com/how-to-kill-a-process-in-linux/",
+          "publishedOn": "2024-04-08T07:09:22.000Z",
+          "wordCount": 4691,
+          "title": "How To Kill a Process in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414993",
+          "author": "Prateek Jangid",
+          "description": "Master Linux commands with our guide on using sudo for secure system management and elevated privileges.",
+          "link": "https://linuxhint.com/how-to-use-sudo-in-linux/",
+          "publishedOn": "2024-04-08T07:07:11.000Z",
+          "wordCount": 4530,
+          "title": "How to Use sudo in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414997",
+          "author": "Prateek Jangid",
+          "description": "Explore the nuances of file and directory ownership in Linux with our expert guide on the chown command.",
+          "link": "https://linuxhint.com/how-to-use-chown-command-in-linux/",
+          "publishedOn": "2024-04-08T07:02:20.000Z",
+          "wordCount": 4690,
+          "title": "How To Use Chown Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414814",
+          "author": "Prateek Jangid",
+          "description": "Learn how to monitor your Linux system's performance with this comprehensive guide on checking load average.",
+          "link": "https://linuxhint.com/how-to-check-load-average-on-linux/",
+          "publishedOn": "2024-04-08T06:59:08.000Z",
+          "wordCount": 4768,
+          "title": "How To Check Load Average on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=414793",
+          "author": "Prateek Jangid",
+          "description": "Learn how to create a directory in Linux with this easy-to-follow guide. Discover various methods, including command line tips and graphical interfaces, to organize your files efficiently.",
+          "link": "https://linuxhint.com/how-to-create-a-directory-in-linux/",
+          "publishedOn": "2024-04-08T06:58:16.000Z",
+          "wordCount": 4821,
+          "title": "How To Create a Directory in Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=414748",
           "author": "Linux Wolfman",
           "description": "Quickly use the linux terminal to find which version of Ubuntu you are running on right now.  Follow the simple command line instructions and view the screen shots in this post.",
@@ -788,6 +1028,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188624",
+          "author": "Web Webster",
+          "description": "Wine 9.6 brings advanced AVX support, Direct2D effects, RSA OAEP padding in BCrypt, and bug fixes. Here’s more on that!\nThe post Wine 9.6 Introduce Advanced AVX and More Direct2D Enhancements appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/wine-9-6-introduce-advanced-avx-and-more-direct2d-enhancements/",
+          "publishedOn": "2024-04-09T00:30:41.000Z",
+          "wordCount": 10171,
+          "title": "Wine 9.6 Introduce Advanced AVX and More Direct2D Enhancements",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188610",
+          "author": "Web Webster",
+          "description": "FFmpeg 7.0 ‘Dijkstra’ is a major release with experimental VVC decoding, IAMF support, a multithreaded CLI tool, and more.\nThe post FFmpeg 7.0 Brings Experimental VVC Decoder & IAMF Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/ffmpeg-7-0-brings-experimental-vvc-decoder-iamf-support/",
+          "publishedOn": "2024-04-08T22:00:06.000Z",
+          "wordCount": 10184,
+          "title": "FFmpeg 7.0 Brings Experimental VVC Decoder & IAMF Support",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188623",
+          "author": "Web Webster",
+          "description": "Until last November’s release of AlmaLinux 9.3, you wouldn’t see AlmaLinux issuing a security patch to fix any hole that remains unpatched in RHEL, just as you would be unlikely to see Rocky Linux — another RHEL clone — issuing a patch for its distro until after Red Hat had fixed the same vulnerability in […]\nThe post In a First, AlmaLinux Patches a Security Hole That Remains Unpatched in Upstream RHEL appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/in-a-first-almalinux-patches-a-security-hole-that-remains-unpatched-in-upstream-rhel/",
+          "publishedOn": "2024-04-08T20:00:55.000Z",
+          "wordCount": 10240,
+          "title": "In a First, AlmaLinux Patches a Security Hole That Remains Unpatched in Upstream RHEL",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188648",
+          "author": "Web Webster",
+          "description": "After a vibrant five-year journey enhancing ARM device support, EndeavourOS ARM concludes, thanking its lead devs. Here’s more on that!\nThe post EndeavourOS Bids Farewell to ARM Branch appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/endeavouros-bids-farewell-to-arm-branch/",
+          "publishedOn": "2024-04-08T18:00:35.000Z",
+          "wordCount": 10182,
+          "title": "EndeavourOS Bids Farewell to ARM Branch",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188639",
+          "author": "Web Webster",
+          "description": "If you’ve ever wondered why some Linux users are experiencing issues with an NVIDIA GPU on Wayland and you aren’t, KDE developer Xaver Hugl explains in a recent post why the explicit sync protocol will finally settle the score for everyone.\nThe post Developer Explains Why Explicit Sync Will Finally Solve the NVIDIA/Wayland Issues appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/developer-explains-why-explicit-sync-will-finally-solve-the-nvidia-wayland-issues/",
+          "publishedOn": "2024-04-08T17:00:11.000Z",
+          "wordCount": 10232,
+          "title": "Developer Explains Why Explicit Sync Will Finally Solve the NVIDIA/Wayland Issues",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188640",
+          "author": "Web Webster",
+          "description": "PiVPN’s journey concludes with v4.6.0. The last update brings bug fixes, refactors, and the addition of Pi-hole in unattended installs.\nThe post PiVPN Releases Final Version and Announces Project Shutdown appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/pivpn-releases-final-version-and-announces-project-shutdown/",
+          "publishedOn": "2024-04-08T16:00:30.000Z",
+          "wordCount": 10187,
+          "title": "PiVPN Releases Final Version and Announces Project Shutdown",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188641",
+          "author": "Web Webster",
+          "description": "Schleswig-Holstein Government agencies to adopt Linux and LibreOffice to move away from vendor lock-in.\nThe post 30,000 German Government PCs to Switch to LibreOffice appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/30000-german-government-pcs-to-switch-to-libreoffice/",
+          "publishedOn": "2024-04-08T15:00:16.000Z",
+          "wordCount": 10195,
+          "title": "30,000 German Government PCs to Switch to LibreOffice",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188633",
+          "author": "Web Webster",
+          "description": "Peppermint Mini’s latest ISO updates enhance setup with direct firmware integration and a unified installer theme. Here’s more on that!\nThe post Peppermint Mini ISOs Get a Major Update appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/peppermint-mini-isos-get-a-major-update/",
+          "publishedOn": "2024-04-08T13:38:22.000Z",
+          "wordCount": 10176,
+          "title": "Peppermint Mini ISOs Get a Major Update",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188631",
+          "author": "Web Webster",
+          "description": "Kodi’s latest update, 21.0′ Omega,’ brings many improvements, including HiDPI support, speech recognition, DXVA Video Super Resolution, and more.\nThe post Kodi 21.0 ‘Omega’ Rolls Out, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kodi-21-0-omega-rolls-out-heres-whats-new/",
+          "publishedOn": "2024-04-08T13:31:40.000Z",
+          "wordCount": 10172,
+          "title": "Kodi 21.0 ‘Omega’ Rolls Out, Here’s What’s New",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188605",
           "author": "Web Webster",
@@ -2377,26 +2707,6 @@
           "wordCount": 10179,
           "title": "Tbmk: A Tool to Bookmark Frequently Used Commands in Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187570",
-          "author": "Web Webster",
-          "description": "Launchers are shortcuts that give you easy access to your favorite applications, making it easy to open them without navigating through menus. In this guide, we will walk you through the simple process of creating launchers on a Linux desktop.\nThe post How to Create Desktop Launchers in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-create-desktop-launchers-in-linux/",
-          "publishedOn": "2024-03-10T01:00:08.000Z",
-          "wordCount": 10193,
-          "title": "How to Create Desktop Launchers in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187644",
-          "author": "Web Webster",
-          "description": "Single Sign-On (sometimes known as SSO) is an authentication process that allows users to log in to multiple independent applications with a single set of credentials.\nThe post 6 Best Free and Open-Source Single Sign-On Software appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/6-best-free-and-open-source-single-sign-on-software/",
-          "publishedOn": "2024-03-09T17:00:53.000Z",
-          "wordCount": 10160,
-          "title": "6 Best Free and Open-Source Single Sign-On Software",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2405,6 +2715,206 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS94ei1iYWNrZG9vci1saW51eC_SAQA",
+          "author": null,
+          "description": "XZ Utils Supply Chain Attack: A Threat Actor Spent Two Years to Implement a Linux Backdoor  TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS94ei1iYWNrZG9vci1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-04-08T18:45:00.000Z",
+          "wordCount": 8717,
+          "title": "XZ Utils Supply Chain Attack: A Threat Actor Spent Two Years to Implement a Linux Backdoor - TechRepublic",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMDgvZW5kZWF2b3Vyb3MtYXJtLWRpc2NvbnRpbnVlZC1saW51eC_SAQA",
+          "author": null,
+          "description": "EndeavourOS ARM discontinued: A huge loss for the Linux community  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMDgvZW5kZWF2b3Vyb3MtYXJtLWRpc2NvbnRpbnVlZC1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-04-08T17:29:36.000Z",
+          "wordCount": 8717,
+          "title": "EndeavourOS ARM discontinued: A huge loss for the Linux community - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmFzdGVyLUFFUy1YVFPSAQA",
+          "author": null,
+          "description": "Linux 6.10 AES-XTS For Disk/File Encryption As Much As ~155% Faster For AMD Zen 4 CPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmFzdGVyLUFFUy1YVFPSAQA?oc=5",
+          "publishedOn": "2024-04-08T16:52:00.000Z",
+          "wordCount": 8717,
+          "title": "Linux 6.10 AES-XTS For Disk/File Encryption As Much As ~155% Faster For AMD Zen 4 CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1kZXZzLXNheS1nb29kYnllLXRvLXRoZWlyLWFybS1icmFuY2gtbWFpbnRhaW5lcnMtbmVlZGVk0gFdaHR0cHM6Ly85dG81bGludXguY29tL2VuZGVhdm91cm9zLWRldnMtc2F5LWdvb2RieWUtdG8tdGhlaXItYXJtLWJyYW5jaC1tYWludGFpbmVycy1uZWVkZWQvYW1w",
+          "author": null,
+          "description": "EndeavourOS Devs Say “Goodbye” to Their ARM Branch, Maintainers Needed  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1kZXZzLXNheS1nb29kYnllLXRvLXRoZWlyLWFybS1icmFuY2gtbWFpbnRhaW5lcnMtbmVlZGVk0gFdaHR0cHM6Ly85dG81bGludXguY29tL2VuZGVhdm91cm9zLWRldnMtc2F5LWdvb2RieWUtdG8tdGhlaXItYXJtLWJyYW5jaC1tYWludGFpbmVycy1uZWVkZWQvYW1w?oc=5",
+          "publishedOn": "2024-04-08T16:23:45.000Z",
+          "wordCount": 8717,
+          "title": "EndeavourOS Devs Say “Goodbye” to Their ARM Branch, Maintainers Needed - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU1MDY0Ni9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLWJlZ2lubmVycy_SAQA",
+          "author": null,
+          "description": "7 Of The Best Linux Distros For Beginners  SlashGear",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU1MDY0Ni9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLWJlZ2lubmVycy_SAQA?oc=5",
+          "publishedOn": "2024-04-08T15:40:34.000Z",
+          "wordCount": 8717,
+          "title": "7 Of The Best Linux Distros For Beginners - SlashGear",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcva2RlLXBsYXNtYS02LWFtZC1nYW1pbmfSAQA",
+          "author": null,
+          "description": "AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcva2RlLXBsYXNtYS02LWFtZC1nYW1pbmfSAQA?oc=5",
+          "publishedOn": "2024-04-08T14:41:00.000Z",
+          "wordCount": 8717,
+          "title": "AMD Radeon Linux Gaming Performance At Parity Between KDE Plasma 6.0 X11 vs. Wayland - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjQvMDQvMDgvaXhzeXN0ZW1zLW5vLW9uZS1pcy1nZXR0aW5nLW1hcm9vbmVkL9IBAA",
+          "author": null,
+          "description": "iXsystems: No one is being 'marooned' by Debian focus – Blocks and Files  Blocks and Files",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjQvMDQvMDgvaXhzeXN0ZW1zLW5vLW9uZS1pcy1nZXR0aW5nLW1hcm9vbmVkL9IBAA?oc=5",
+          "publishedOn": "2024-04-08T14:05:17.000Z",
+          "wordCount": 8717,
+          "title": "iXsystems: No one is being 'marooned' by Debian focus – Blocks and Files - Blocks and Files",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vbGlmZWhhY2tlci5jb20vdGVjaC9ob3ctdG8tZmluZC13aGF0LW1vdGhlcmJvYXJkLXlvdS1oYXZlLWxpbnV4LW1hYy13aW5kb3dz0gEA",
+          "author": null,
+          "description": "How to Find Your Motherboard Model on Windows, macOS, and Linux  Lifehacker",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbGlmZWhhY2tlci5jb20vdGVjaC9ob3ctdG8tZmluZC13aGF0LW1vdGhlcmJvYXJkLXlvdS1oYXZlLWxpbnV4LW1hYy13aW5kb3dz0gEA?oc=5",
+          "publishedOn": "2024-04-08T14:00:00.000Z",
+          "wordCount": 8717,
+          "title": "How to Find Your Motherboard Model on Windows, macOS, and Linux - Lifehacker",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9leHBsaWNpdC1zeW5jLXdheWxhbmQv0gEA",
+          "author": null,
+          "description": "Explicit Sync in Wayland is The Answer to NVIDIA Linux Problems!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9leHBsaWNpdC1zeW5jLXdheWxhbmQv0gEA?oc=5",
+          "publishedOn": "2024-04-08T12:04:15.000Z",
+          "wordCount": 8717,
+          "title": "Explicit Sync in Wayland is The Answer to NVIDIA Linux Problems! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1MaW51eC02LjEwLUtlcm5lbC1GUFXSAQA",
+          "author": null,
+          "description": "RISC-V Adding Kernel-Mode FPU For Linux 6.10 To Enable Recent AMD Display Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1MaW51eC02LjEwLUtlcm5lbC1GUFXSAQA?oc=5",
+          "publishedOn": "2024-04-08T11:01:00.000Z",
+          "wordCount": 8717,
+          "title": "RISC-V Adding Kernel-Mode FPU For Linux 6.10 To Enable Recent AMD Display Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0QtVHJhY2UtMi4wLjAtMS4xNNIBAA",
+          "author": null,
+          "description": "Oracle Releases DTrace 2.0.0-1.14 For Linux Systems  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0QtVHJhY2UtMi4wLjAtMS4xNNIBAA?oc=5",
+          "publishedOn": "2024-04-08T10:48:00.000Z",
+          "wordCount": 8717,
+          "title": "Oracle Releases DTrace 2.0.0-1.14 For Linux Systems - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZGlzY29yZC1vdmVybGF5LWZvci1saW51eC1hZGRzLXB1bHNlYXVkaW8tcGlwZXdpcmUtaW50ZWdyYXRpb24v0gEA",
+          "author": null,
+          "description": "Discord Overlay for Linux adds PulseAudio / PipeWire integration  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZGlzY29yZC1vdmVybGF5LWZvci1saW51eC1hZGRzLXB1bHNlYXVkaW8tcGlwZXdpcmUtaW50ZWdyYXRpb24v0gEA?oc=5",
+          "publishedOn": "2024-04-08T10:32:39.000Z",
+          "wordCount": 8717,
+          "title": "Discord Overlay for Linux adds PulseAudio / PipeWire integration - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtN3RoLTIwMjTSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWFwcmlsLTd0aC0yMDI0L2FtcA",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: April 7th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtN3RoLTIwMjTSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWFwcmlsLTd0aC0yMDI0L2FtcA?oc=5",
+          "publishedOn": "2024-04-08T10:25:49.000Z",
+          "wordCount": 8717,
+          "title": "9to5Linux Weekly Roundup: April 7th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9VYnVudHUtMjQtMDQtTFRTLWFpbXMtdG8taW1wcm92ZS10aGUtZW5lcmd5LWVmZmljaWVuY3ktb2YtdGhlLUxpbnV4LWRpc3RyaWJ1dGlvbi1vbi1sYXB0b3BzLjgyNDE2OS4wLmh0bWzSAQA",
+          "author": null,
+          "description": "Ubuntu 24.04 LTS aims to improve the energy efficiency of the Linux distribution on laptops  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9VYnVudHUtMjQtMDQtTFRTLWFpbXMtdG8taW1wcm92ZS10aGUtZW5lcmd5LWVmZmljaWVuY3ktb2YtdGhlLUxpbnV4LWRpc3RyaWJ1dGlvbi1vbi1sYXB0b3BzLjgyNDE2OS4wLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-04-08T09:47:48.000Z",
+          "wordCount": 8717,
+          "title": "Ubuntu 24.04 LTS aims to improve the energy efficiency of the Linux distribution on laptops - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQva2Rlcy14YXZlci1odWdsLW9uLXdoeS13YXlsYW5kLWV4cGxpY2l0LXN5bmMtaXMtc3VjaC1hLWJpZy1kZWFsL9IBAA",
+          "author": null,
+          "description": "KDE's Xaver Hugl on why Wayland explicit sync is such a big deal  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQva2Rlcy14YXZlci1odWdsLW9uLXdoeS13YXlsYW5kLWV4cGxpY2l0LXN5bmMtaXMtc3VjaC1hLWJpZy1kZWFsL9IBAA?oc=5",
+          "publishedOn": "2024-04-08T08:51:43.000Z",
+          "wordCount": 8717,
+          "title": "KDE's Xaver Hugl on why Wayland explicit sync is such a big deal - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL9IBamh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL2FtcC8",
+          "author": null,
+          "description": "German government switches 30 thousand PCs to Linux and LibreOffice  Mezha.Media",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL9IBamh0dHBzOi8vbWV6aGEubWVkaWEvZW4vMjAyNC8wNC8wOC9nZXJtYW4tZ292ZXJubWVudC1zd2l0Y2hlcy0zMC10aG91c2FuZC1wY3MtdG8tbGludXgtYW5kLWxpYnJlb2ZmaWNlL2FtcC8?oc=5",
+          "publishedOn": "2024-04-08T08:47:02.000Z",
+          "wordCount": 8717,
+          "title": "German government switches 30 thousand PCs to Linux and LibreOffice - Mezha.Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmNvbXB1dGluZy5jby51ay9uZXdzLzQxOTQyOTEvZ2VybWFuLXNjaGxlc3dpZy1ob2xzdGVpbi1kaXRjaGVzLXdpbmRvd3MtbGludXjSAQA",
+          "author": null,
+          "description": "German state Schleswig-Holstein ditches Windows for Linux  Computing",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNvbXB1dGluZy5jby51ay9uZXdzLzQxOTQyOTEvZ2VybWFuLXNjaGxlc3dpZy1ob2xzdGVpbi1kaXRjaGVzLXdpbmRvd3MtbGludXjSAQA?oc=5",
+          "publishedOn": "2024-04-08T08:10:41.000Z",
+          "wordCount": 8717,
+          "title": "German state Schleswig-Holstein ditches Windows for Linux - Computing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvY2hlY2stb3V0LXRoZS1tYW5qYXJvLWxpbnV4LWxlYWQtdGFsay1hYm91dC10aGUtb3JhbmdlLXBpLW5lby1nYW1pbmctaGFuZGhlbGQv0gEA",
+          "author": null,
+          "description": "Check out the Manjaro Linux lead talk about the Orange Pi NEO gaming handheld  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvY2hlY2stb3V0LXRoZS1tYW5qYXJvLWxpbnV4LWxlYWQtdGFsay1hYm91dC10aGUtb3JhbmdlLXBpLW5lby1nYW1pbmctaGFuZGhlbGQv0gEA?oc=5",
+          "publishedOn": "2024-04-08T07:42:58.000Z",
+          "wordCount": 8717,
+          "title": "Check out the Manjaro Linux lead talk about the Orange Pi NEO gaming handheld - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYXJjaC1saW51eC1jaGFuZ2VzLXZtbWF4LW1hcC1jb3VudC10by1tYXRjaC1mZWRvcmEtdWJ1bnR1LWZvci1iZXR0ZXItZ2FtaW5nL9IBAA",
+          "author": null,
+          "description": "Arch Linux changes vm.max_map_count to match Fedora, Ubuntu for better gaming  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYXJjaC1saW51eC1jaGFuZ2VzLXZtbWF4LW1hcC1jb3VudC10by1tYXRjaC1mZWRvcmEtdWJ1bnR1LWZvci1iZXR0ZXItZ2FtaW5nL9IBAA?oc=5",
+          "publishedOn": "2024-04-08T07:19:55.000Z",
+          "wordCount": 8717,
+          "title": "Arch Linux changes vm.max_map_count to match Fedora, Ubuntu for better gaming - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLXYyMTQxLWhvdGZpeC0xLWZpeGVzLXByb3Rvbi1vbi1saW51eC1hbmQtc3RlYW0tZGVjay_SAQA",
+          "author": null,
+          "description": "Heroic Games Launcher v2.14.1 Hotfix #1 fixes Proton on Linux and Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLXYyMTQxLWhvdGZpeC0xLWZpeGVzLXByb3Rvbi1vbi1saW51eC1hbmQtc3RlYW0tZGVjay_SAQA?oc=5",
+          "publishedOn": "2024-04-08T07:06:58.000Z",
+          "wordCount": 8717,
+          "title": "Heroic Games Launcher v2.14.1 Hotfix #1 fixes Proton on Linux and Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzMtUmVsZWFzZWTSAQA",
           "author": null,
@@ -7644,76 +8154,6 @@
           "wordCount": 5034,
           "title": "Linux 6.9 To Allow AMD P-State With ACPI CPPC V2 For Threadripper 3000 Series CPUs - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SdXN0LVVwZ3JhZGXSAQA",
-          "author": null,
-          "description": "Linux 6.9 To Upgrade Rust Toolchain - Making More Features Stable  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SdXN0LVVwZ3JhZGXSAQA?oc=5",
-          "publishedOn": "2024-03-10T10:46:00.000Z",
-          "wordCount": 5034,
-          "title": "Linux 6.9 To Upgrade Rust Toolchain - Making More Features Stable - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURyb3AtTW9zdC1TUEFSQzMyLXYy0gEA",
-          "author": null,
-          "description": "Effort Continues To Remove Most Of The SPARC 32-bit CPU Support From Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURyb3AtTW9zdC1TUEFSQzMyLXYy0gEA?oc=5",
-          "publishedOn": "2024-03-10T10:33:00.000Z",
-          "wordCount": 5034,
-          "title": "Effort Continues To Remove Most Of The SPARC 32-bit CPU Support From Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbW9uZXkvb3RoZXIvNS1yZWFzb25zLXdoeS1kZXNrdG9wLWxpbnV4LWlzLWZpbmFsbHktZ3Jvd2luZy1pbi1wb3B1bGFyaXR5L2FyLUJCMWptT05F0gEA",
-          "author": null,
-          "description": "5 reasons why desktop Linux is finally growing in popularity  MSN",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tY2EvbW9uZXkvb3RoZXIvNS1yZWFzb25zLXdoeS1kZXNrdG9wLWxpbnV4LWlzLWZpbmFsbHktZ3Jvd2luZy1pbi1wb3B1bGFyaXR5L2FyLUJCMWptT05F0gEA?oc=5",
-          "publishedOn": "2024-03-10T06:03:37.000Z",
-          "wordCount": 5034,
-          "title": "5 reasons why desktop Linux is finally growing in popularity - MSN",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL9IBdmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL2FtcC8",
-          "author": null,
-          "description": "Magnet Goblin hackers use 1-day flaws to drop custom Linux malware  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL9IBdmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbWFnbmV0LWdvYmxpbi1oYWNrZXJzLXVzZS0xLWRheS1mbGF3cy10by1kcm9wLWN1c3RvbS1saW51eC1tYWx3YXJlL2FtcC8?oc=5",
-          "publishedOn": "2024-03-09T15:08:16.000Z",
-          "wordCount": 5033,
-          "title": "Magnet Goblin hackers use 1-day flaws to drop custom Linux malware - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZGV2LW5ld3MtbmZ0LW9mLWdpdGh1Yi1leHBsb2l0LW5ldGxpZnlzLWFpLWRlcGxveS1hbmQtbW9yZS_SAQA",
-          "author": null,
-          "description": "Dev News: Linux 6.9 To Top Ten Million Git Objects, Netlify's AI Deploy, and More  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZGV2LW5ld3MtbmZ0LW9mLWdpdGh1Yi1leHBsb2l0LW5ldGxpZnlzLWFpLWRlcGxveS1hbmQtbW9yZS_SAQA?oc=5",
-          "publishedOn": "2024-03-09T15:06:10.000Z",
-          "wordCount": 5032,
-          "title": "Dev News: Linux 6.9 To Top Ten Million Git Objects, Netlify's AI Deploy, and More - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlc9IBAA",
-          "author": null,
-          "description": "Linux 6.8 Is Very Exciting With Intel Xe Driver, Raspberry Pi 5 Graphics & New Hardware  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlc9IBAA?oc=5",
-          "publishedOn": "2024-03-09T14:43:00.000Z",
-          "wordCount": 5033,
-          "title": "Linux 6.8 Is Very Exciting With Intel Xe Driver, Raspberry Pi 5 Graphics & New Hardware - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2ltcGxpZnktbGludXgtYW5kLWRvY2tlci1jb21tYW5kLWxpbmVzLXdpdGgtYmFzaC1jb21wbGV0aW9uL9IBAA",
-          "author": null,
-          "description": "Simplify Linux and Docker Command Lines with Bash Completion  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2ltcGxpZnktbGludXgtYW5kLWRvY2tlci1jb21tYW5kLWxpbmVzLXdpdGgtYmFzaC1jb21wbGV0aW9uL9IBAA?oc=5",
-          "publishedOn": "2024-03-09T14:07:25.000Z",
-          "wordCount": 5033,
-          "title": "Simplify Linux and Docker Command Lines with Bash Completion - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7722,6 +8162,76 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Buffer-104684.shtml",
+          "author": "Softpedia Linux",
+          "description": "A stripped out writing app that's designed to help you write without distractions",
+          "link": "https://linux.softpedia.com/get/Utilities/Buffer-104684.shtml",
+          "publishedOn": "2024-04-08T13:51:28.000Z",
+          "wordCount": 1273,
+          "title": "Buffer 0.9",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Buffer_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Color-Code-104683.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very stylish resistor color code calculator application for your GNOME desktop",
+          "link": "https://linux.softpedia.com/get/Utilities/Color-Code-104683.shtml",
+          "publishedOn": "2024-04-08T12:25:54.000Z",
+          "wordCount": 1281,
+          "title": "Color Code 0.1.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Color-Code_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml",
+          "author": "Softpedia Linux",
+          "description": "Keep your multimedia collection thoroughly organized with the help of one of the best cross-platform multimedia management apps out there",
+          "link": "https://linux.softpedia.com/get/Communications/Filesharing/tinyMediaManager-104392.shtml",
+          "publishedOn": "2024-04-08T10:23:45.000Z",
+          "wordCount": 1584,
+          "title": "tinyMediaManager 5.0.4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/tinyMediaManager_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Rnote-104220.shtml",
+          "author": "Softpedia Linux",
+          "description": "A sleek-looking and feature-packed, freehand note-taking app written in GTK4 and Rust",
+          "link": "https://linux.softpedia.com/get/Utilities/Rnote-104220.shtml",
+          "publishedOn": "2024-04-08T10:03:51.000Z",
+          "wordCount": 1389,
+          "title": "Rnote 0.10.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Rnote_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Filesharing/Fragments-Felix-Hacker-104088.shtml",
+          "author": "Softpedia Linux",
+          "description": "A modern, stylish, and extremely clean-looking BitTorrent client for the GNOME desktop environment",
+          "link": "https://linux.softpedia.com/get/Communications/Filesharing/Fragments-Felix-Hacker-104088.shtml",
+          "publishedOn": "2024-04-08T09:34:24.000Z",
+          "wordCount": 1366,
+          "title": "Fragments 3.0.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Fragments-Felix-Hacker_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/EncryptPad-103995.shtml",
+          "author": "Softpedia Linux",
+          "description": "Secure and encrypt your texts with the help of this cross-platform and open-source, little tool",
+          "link": "https://linux.softpedia.com/get/Security/EncryptPad-103995.shtml",
+          "publishedOn": "2024-04-08T09:26:19.000Z",
+          "wordCount": 1361,
+          "title": "EncryptPad 0.5.0.4 Beta",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/EncryptPad_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Blanket-104006.shtml",
+          "author": "Softpedia Linux",
+          "description": "Increase your productivity and focus with the help of this refreshingly simple and gorgeous ambient sound app",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Blanket-104006.shtml",
+          "publishedOn": "2024-04-08T07:35:01.000Z",
+          "wordCount": 1387,
+          "title": "Blanket 0.7.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Blanket_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
           "author": "Softpedia Linux",
@@ -9941,126 +10451,6 @@
           "wordCount": 1141,
           "title": "AntiMicroX 3.4.0",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/AntiMicroX_1.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml",
-          "author": "Softpedia Linux",
-          "description": "The Linux version of one of the most popular and powerful web browser products on the entire Internet, Firefox",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml",
-          "publishedOn": "2024-03-09T19:27:28.000Z",
-          "wordCount": 1545,
-          "title": "Firefox 123.0.1 / 124.0b9 Beta",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mozilla-Firefox-Stable_1.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Joplin-104050.shtml",
-          "author": "Softpedia Linux",
-          "description": "Take notes, create to-do lists, and keep them synchronized on a wide range of devices with the help of this open-source, cross-platform app",
-          "link": "https://linux.softpedia.com/get/Utilities/Joplin-104050.shtml",
-          "publishedOn": "2024-03-09T19:18:47.000Z",
-          "wordCount": 1400,
-          "title": "Joplin 2.14.19",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Joplin_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Microsoft-Edge-103857.shtml",
-          "author": "Softpedia Linux",
-          "description": "The new-age Microsoft browser, the Chromium-based Edge provides a fast, sleek, and secure online experience",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Microsoft-Edge-103857.shtml",
-          "publishedOn": "2024-03-09T19:11:37.000Z",
-          "wordCount": 1645,
-          "title": "Microsoft Edge 122.0.2365.80 / 123.0.2420.20 Beta / 124.0.2438.2 Dev",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-Edge_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/puddletag-63517.shtml",
-          "author": "Softpedia Linux",
-          "description": "A nifty, albeit old-school looking, audio tag editor for Linux built on the same principles as the popular Mp3tag app for Windows",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/puddletag-63517.shtml",
-          "publishedOn": "2024-03-09T17:24:08.000Z",
-          "wordCount": 1121,
-          "title": "Puddletag 2.3.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/puddletag_6.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/RSS-Guard-Lite-104396.shtml",
-          "author": "Softpedia Linux",
-          "description": "Free and open-source RSS/ATOM feed reader that works on all major desktop platforms",
-          "link": "https://linux.softpedia.com/get/Utilities/RSS-Guard-Lite-104396.shtml",
-          "publishedOn": "2024-03-09T17:07:44.000Z",
-          "wordCount": 1323,
-          "title": "RSS Guard Lite 4.6.3 / 07eb444 Pre-release",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/RSS-Guard-Lite_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Chat/Signal-103855.shtml",
-          "author": "Softpedia Linux",
-          "description": "Chat with family and friends using Signal, the most secure and privacy-focused messaging app currently on the market",
-          "link": "https://linux.softpedia.com/get/Communications/Chat/Signal-103855.shtml",
-          "publishedOn": "2024-03-09T16:53:06.000Z",
-          "wordCount": 1545,
-          "title": "Signal 7.1.1 / 7.2.0 Beta 2",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Signal_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Chat/Telegram-Desktop-103681.shtml",
-          "author": "Softpedia Linux",
-          "description": "Chat with friends and family, or host massive group chats with up to 200.000 other users with the help of Telegram, one of the most popular security-oriented messenger apps",
-          "link": "https://linux.softpedia.com/get/Communications/Chat/Telegram-Desktop-103681.shtml",
-          "publishedOn": "2024-03-09T16:47:10.000Z",
-          "wordCount": 1544,
-          "title": "Telegram Desktop 4.15.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Telegram-Desktop_7.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Wike-104197.shtml",
-          "author": "Softpedia Linux",
-          "description": "Do all your Wikipedia research directly from the comforts of your GNOME desktop by relying on this wonderful Wikipedia reader app",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Wike-104197.shtml",
-          "publishedOn": "2024-03-09T16:38:50.000Z",
-          "wordCount": 1192,
-          "title": "Wike 3.0.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Wike_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Security/Bitwarden-103867.shtml",
-          "author": "Softpedia Linux",
-          "description": "Securely store your passwords, login details, and other sensitive information with the help of Bitwarden, one of the best and competitively priced password managers out there",
-          "link": "https://linux.softpedia.com/get/Security/Bitwarden-103867.shtml",
-          "publishedOn": "2024-03-09T15:43:29.000Z",
-          "wordCount": 1487,
-          "title": "Bitwarden 2024.2.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Bitwarden_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/ASCII-Draw-104602.shtml",
-          "author": "Softpedia Linux",
-          "description": "Draw clean-looking ASCII-based diagrams with the help of this easy-to-use application",
-          "link": "https://linux.softpedia.com/get/Utilities/ASCII-Draw-104602.shtml",
-          "publishedOn": "2024-03-09T15:38:30.000Z",
-          "wordCount": 1090,
-          "title": "ASCII Draw 0.3.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/ASCII-Draw_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
-          "author": "Softpedia Linux",
-          "description": "A lightweight yet very capable compression/decompression application for Linux distributions",
-          "link": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
-          "publishedOn": "2024-03-09T15:37:28.000Z",
-          "wordCount": 1100,
-          "title": "Ark 24.02.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ark_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/WebReady-104676.shtml",
-          "author": "Softpedia Linux",
-          "description": "Small, fast, free and open-source app that allows you to create web-ready animations with a few mouse clicks",
-          "link": "https://linux.softpedia.com/get/Utilities/WebReady-104676.shtml",
-          "publishedOn": "2024-03-09T14:34:54.000Z",
-          "wordCount": 1103,
-          "title": "WebReady 1.0.2",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/WebReady_1.jpg"
         }
       ]
     },
@@ -10278,6 +10668,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/testing-proto-datastore/",
+          "author": "Tomer Ben Rachel",
+          "description": "In a previous article [https://medium.com/proandroiddev/android-proto-datastore-should-you-use-it-36ae997d00f2] , I described how you can use Proto DataStore in your application. I wrote that article as part of my experience in using Proto DataStore in one of my applications [https://play.google.com/store/apps/details?id=com.tomerpacific.todo]. Following that, I wanted to see what it would be like to write tests",
+          "link": "https://www.freecodecamp.org/news/testing-proto-datastore/",
+          "publishedOn": "2024-04-08T20:54:23.000Z",
+          "wordCount": 1599,
+          "title": "How to Test Proto DataStore",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/alexander-schimmeck-QX0SWFpB2ho-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hello-world-in-rust/",
+          "author": "Sahil Mahapatra",
+          "description": "Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says \"Hello World!\". Rust, known for being fast and safe, is no exception. Let's jump right in and create",
+          "link": "https://www.freecodecamp.org/news/hello-world-in-rust/",
+          "publishedOn": "2024-04-08T09:21:17.000Z",
+          "wordCount": 1086,
+          "title": "Hello World in Rust – Example Program",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Neon-Green-Motivational.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/",
           "author": "Isaiah Cliford  Opoku",
