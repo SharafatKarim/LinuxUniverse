@@ -12,6 +12,66 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=415406",
+          "author": "Denis Kariuki",
+          "description": "To utilize Anaconda on Ubuntu 24.04, install the conda utility for your Python flavor. This post shares the steps for installing conda for Python 3, and we will install version 2024.2-1. Read on!",
+          "link": "https://linuxhint.com/install-conda-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-11T19:18:28.000Z",
+          "wordCount": 5061,
+          "title": "Install Conda on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415396",
+          "author": "Denis Kariuki",
+          "description": "Java isn’t pre-installed on Ubuntu. As such, you must know what steps are required to quickly install Java before you start using it for your projects. Reading this post will arm you with a simple procedure to install Java on Ubuntu 24.04.",
+          "link": "https://linuxhint.com/install-java-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-11T15:12:34.000Z",
+          "wordCount": 4975,
+          "title": "Install Java on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415380",
+          "author": "Denis Kariuki",
+          "description": "The Node Package Manager (NPM) is a tool that allows developers to install and work with different JavaScript packages efficiently. Installing NPM involves installing Node.js, and this post shares all the insights you need to install NPM.",
+          "link": "https://linuxhint.com/install-npm-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-11T14:57:30.000Z",
+          "wordCount": 5061,
+          "title": "Install NPM on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415362",
+          "author": "Prateek Jangid",
+          "description": "The grep command includes pattern recognition, defining case sensitivity, searching multiple files, recursive search, and many more.",
+          "link": "https://linuxhint.com/how-to-use-grep-in-linux/",
+          "publishedOn": "2024-04-11T07:48:29.000Z",
+          "wordCount": 4966,
+          "title": "How To Use Grep Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415347",
+          "author": "Prateek Jangid",
+          "description": "Linux has features to control access from permissions and ownership. It offers simple ways to change file permissions without hassles.",
+          "link": "https://linuxhint.com/how-to-change-file-permissions-in-linux/",
+          "publishedOn": "2024-04-11T07:13:39.000Z",
+          "wordCount": 5469,
+          "title": "How to Change File Permissions in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415336",
+          "author": "Prateek Jangid",
+          "description": "The traceroute command is used to map the path packets take while traveling to a specific destination.",
+          "link": "https://linuxhint.com/how-to-use-traceroute-command-in-linux/",
+          "publishedOn": "2024-04-11T06:48:59.000Z",
+          "wordCount": 4885,
+          "title": "How To Use Traceroute Command in Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=415322",
           "author": "Prateek Jangid",
           "description": "The htop command is used to manage system processes, monitor resources, and perform other administration task.",
@@ -898,6 +958,76 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188671",
+          "author": "Web Webster",
+          "description": "Stalwart’s latest update brings a web-based email server management interface for easy mail server admin and enhanced performance.\nThe post Stalwart 0.7.0 Mail Server Introduces Web Admin Interface appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/stalwart-0-7-0-mail-server-introduces-web-admin-interface/",
+          "publishedOn": "2024-04-12T00:00:31.000Z",
+          "wordCount": 9978,
+          "title": "Stalwart 0.7.0 Mail Server Introduces Web Admin Interface",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188666",
+          "author": "Web Webster",
+          "description": "Ente introduces self-hosting via Docker, offering a secure, open-source photo backup alternative to Google Photos with end-to-end encryption.\nThe post Ente Photos Unveils Self-Hosting for Enhanced Privacy and Control appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/ente-photos-unveils-self-hosting-for-enhanced-privacy-and-control/",
+          "publishedOn": "2024-04-11T22:00:19.000Z",
+          "wordCount": 10174,
+          "title": "Ente Photos Unveils Self-Hosting for Enhanced Privacy and Control",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188665",
+          "author": "Web Webster",
+          "description": "OpenSSL 3.3 has been released today as a major update to this powerful, open-source, cross-platform, and free software library that provides secure communications over computer networks for applications and websites.\nThe post OpenSSL 3.3 Released With Support for QLog for Tracing QUIC Connections appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/openssl-3-3-released-with-support-for-qlog-for-tracing-quic-connections/",
+          "publishedOn": "2024-04-11T20:40:00.000Z",
+          "wordCount": 10195,
+          "title": "OpenSSL 3.3 Released With Support for QLog for Tracing QUIC Connections",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188662",
+          "author": "Web Webster",
+          "description": "Canonical, the maker of Ubuntu, announced the launch of Ubuntu Pro for Devices, bringing security and long-term compliance to IoT deployments.\nThe post Canonical Announces Ubuntu Pro for Devices Subscription for IoT Deployments appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/canonical-announces-ubuntu-pro-for-devices-subscription-for-iot-deployments/",
+          "publishedOn": "2024-04-11T18:00:04.000Z",
+          "wordCount": 10186,
+          "title": "Canonical Announces Ubuntu Pro for Devices Subscription for IoT Deployments",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188699",
+          "author": "Web Webster",
+          "description": "Grafana Loki 3.0 enhances log management with advanced query filters and comprehensive OpenTelemetry support.\nThe post Grafana Loki 3.0 Released With Native OpenTelemetry Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/grafana-loki-3-0-released-with-native-opentelemetry-support/",
+          "publishedOn": "2024-04-11T17:00:39.000Z",
+          "wordCount": 10160,
+          "title": "Grafana Loki 3.0 Released With Native OpenTelemetry Support",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188681",
+          "author": "Web Webster",
+          "description": "A week after finding a malicious backdoor, GitHub has safely restored access to the XZ Utils repo for developers worldwide.\nThe post GitHub Restores Access to XZ Utils Repository appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/github-restores-access-to-xz-utils-repository/",
+          "publishedOn": "2024-04-11T15:00:02.000Z",
+          "wordCount": 10166,
+          "title": "GitHub Restores Access to XZ Utils Repository",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188680",
+          "author": "Web Webster",
+          "description": "GStreamer’s latest 1.24.2 release fixes security flaws and bugs, including notable fixes in H.264 parsing, WavPack typefinding, and more.gr\nThe post GStreamer 1.24.2 Brings Security & Bug Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/gstreamer-1-24-2-brings-security-bug-fixes/",
+          "publishedOn": "2024-04-11T14:00:43.000Z",
+          "wordCount": 10164,
+          "title": "GStreamer 1.24.2 Brings Security & Bug Fixes",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188408",
           "author": "Web Webster",
@@ -2497,56 +2627,6 @@
           "wordCount": 10175,
           "title": "Cross-Industry Giants Unite for Speedometer 3.0",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188207",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to installing and experiencing the latest Linux Gnome desktop environment with DistroBox.\nThe post Try Out the Latest Linux Gnome DE With DistroBox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/try-out-the-latest-linux-gnome-de-with-distrobox/",
-          "publishedOn": "2024-03-13T02:38:27.000Z",
-          "wordCount": 10186,
-          "title": "Try Out the Latest Linux Gnome DE With DistroBox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188196",
-          "author": "Web Webster",
-          "description": "Extend your NAS server functionalities to the maximum with OpenMediaVault’s K3s plugin, bringing cutting-edge container management.\nThe post OpenMediaVault 7 NAS Gains Kubernetes Capabilities appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/openmediavault-7-nas-gains-kubernetes-capabilities/",
-          "publishedOn": "2024-03-13T00:00:20.000Z",
-          "wordCount": 10173,
-          "title": "OpenMediaVault 7 NAS Gains Kubernetes Capabilities",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188192",
-          "author": "Web Webster",
-          "description": "The end of an era for X11 is here, as Fedora 41 embraces Wayland. Discover the reasons behind this change and what it means for users.\nThe post X11 No More: Fedora 41 Paves the Way for Wayland appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/x11-no-more-fedora-41-paves-the-way-for-wayland/",
-          "publishedOn": "2024-03-12T17:00:56.000Z",
-          "wordCount": 10190,
-          "title": "X11 No More: Fedora 41 Paves the Way for Wayland",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188227",
-          "author": "Web Webster",
-          "description": "A financially motivated threat actor is using known vulnerabilities to target public-facing services and deliver custom malware to unpatched Windows and Linux systems.\nThe post Hackers Leverage 1-Day Vulnerabilities to Deliver Custom Linux Malware appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/hackers-leverage-1-day-vulnerabilities-to-deliver-custom-linux-malware/",
-          "publishedOn": "2024-03-12T16:00:27.000Z",
-          "wordCount": 10213,
-          "title": "Hackers Leverage 1-Day Vulnerabilities to Deliver Custom Linux Malware",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188225",
-          "author": "Web Webster",
-          "description": "Kdenlive’s latest update brings major improvements: better Wayland support, native performance boosts, and a focus on stability.\nThe post Kdenlive 24.02 Debuts With Qt6 and KDE Frameworks 6 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kdenlive-24-02-debuts-with-qt6-and-kde-frameworks-6/",
-          "publishedOn": "2024-03-12T15:06:03.000Z",
-          "wordCount": 10170,
-          "title": "Kdenlive 24.02 Debuts With Qt6 and KDE Frameworks 6",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2555,6 +2635,156 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiSWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvYS1saW51eC1tYWNoaW5lLWZvci1hLWZldy1idWNrcy1hMTEwNmRmNDA3YzLSAU1odHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL2EtbGludXgtbWFjaGluZS1mb3ItYS1mZXctYnVja3MtYTExMDZkZjQwN2MyLmFtcA",
+          "author": null,
+          "description": "A Linux Machine for a Few Bucks  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvYS1saW51eC1tYWNoaW5lLWZvci1hLWZldy1idWNrcy1hMTEwNmRmNDA3YzLSAU1odHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL2EtbGludXgtbWFjaGluZS1mb3ItYS1mZXctYnVja3MtYTExMDZkZjQwN2MyLmFtcA?oc=5",
+          "publishedOn": "2024-04-11T22:10:24.000Z",
+          "wordCount": 8717,
+          "title": "A Linux Machine for a Few Bucks - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMDQtbHRzLWJldGEtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQtd2l0aC1nbm9tZS00Ni1saW51eC02LTjSAWVodHRwczovLzl0bzVsaW51eC5jb20vdWJ1bnR1LTI0LTA0LWx0cy1iZXRhLWlzLW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLXdpdGgtZ25vbWUtNDYtbGludXgtNi04L2FtcA",
+          "author": null,
+          "description": "Ubuntu 24.04 LTS Beta Is Now Available for Download with GNOME 46, Linux 6.8  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMDQtbHRzLWJldGEtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQtd2l0aC1nbm9tZS00Ni1saW51eC02LTjSAWVodHRwczovLzl0bzVsaW51eC5jb20vdWJ1bnR1LTI0LTA0LWx0cy1iZXRhLWlzLW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLXdpdGgtZ25vbWUtNDYtbGludXgtNi04L2FtcA?oc=5",
+          "publishedOn": "2024-04-11T20:59:21.000Z",
+          "wordCount": 8717,
+          "title": "Ubuntu 24.04 LTS Beta Is Now Available for Download with GNOME 46, Linux 6.8 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiJmh0dHBzOi8vZ2FtZXJhbnQuY29tL2xpbnV4LWJlc3QtZ2FtZXMv0gEA",
+          "author": null,
+          "description": "8 Best Games For Linux  GameRant",
+          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZ2FtZXJhbnQuY29tL2xpbnV4LWJlc3QtZ2FtZXMv0gEA?oc=5",
+          "publishedOn": "2024-04-11T19:30:00.000Z",
+          "wordCount": 8717,
+          "title": "8 Best Games For Linux - GameRant",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiKWh0dHBzOi8vY2RtLmxpbmsvMjAyNC8wNC9zaW5ldmliZXMtbGludXgv0gEA",
+          "author": null,
+          "description": "Penguin parade: Sinevibes now does Linux - CDM Create Digital Music  Create Digital Music",
+          "link": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vY2RtLmxpbmsvMjAyNC8wNC9zaW5ldmliZXMtbGludXgv0gEA?oc=5",
+          "publishedOn": "2024-04-11T19:25:26.000Z",
+          "wordCount": 8717,
+          "title": "Penguin parade: Sinevibes now does Linux - CDM Create Digital Music - Create Digital Music",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvcmlvdC1nYW1lcy10YWxrLXZhbmd1YXJkLWFudGktY2hlYXQtZm9yLWxlYWd1ZS1vZi1sZWdlbmRzLWFuZC13aHktaXRzLWEtbm8tZm9yLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "Riot Games talk Vanguard anti-cheat for League of Legends and why it's a no for Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvcmlvdC1nYW1lcy10YWxrLXZhbmd1YXJkLWFudGktY2hlYXQtZm9yLWxlYWd1ZS1vZi1sZWdlbmRzLWFuZC13aHktaXRzLWEtbm8tZm9yLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2024-04-11T19:16:00.000Z",
+          "wordCount": 8717,
+          "title": "Riot Games talk Vanguard anti-cheat for League of Legends and why it's a no for Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmRhaWx5ZWFzdGVybm5ld3MuY29tLzIwMjQvMDQvMTEvY29sdW1uLXRoZS1zcGlyaXQtb2YtbGludXgtYW5kLXRoZS1hdHRlbnRpb24tZWNvbm9teS_SAQA",
+          "author": null,
+          "description": "COLUMN: The spirit of Linux and the attention economy  The Daily Eastern News",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5ZWFzdGVybm5ld3MuY29tLzIwMjQvMDQvMTEvY29sdW1uLXRoZS1zcGlyaXQtb2YtbGludXgtYW5kLXRoZS1hdHRlbnRpb24tZWNvbm9teS_SAQA?oc=5",
+          "publishedOn": "2024-04-11T19:05:09.000Z",
+          "wordCount": 8717,
+          "title": "COLUMN: The spirit of Linux and the attention economy - The Daily Eastern News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvdWJ1bnR1LTI0MDQtdHI3OTgweNIBAA",
+          "author": null,
+          "description": "Ubuntu 24.04 Brings Some Performance Gains For AMD Threadripper 7980X / System76 Thelio Major  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvdWJ1bnR1LTI0MDQtdHI3OTgweNIBAA?oc=5",
+          "publishedOn": "2024-04-11T17:01:00.000Z",
+          "wordCount": 8717,
+          "title": "Ubuntu 24.04 Brings Some Performance Gains For AMD Threadripper 7980X / System76 Thelio Major - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDQvMTEvbGludXgtZnUtZ2V0dGluZy1zdGFydGVkLXdpdGgtc3lzdGVtZC_SAQA",
+          "author": null,
+          "description": "Linux Fu: Getting Started With Systemd  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDQvMTEvbGludXgtZnUtZ2V0dGluZy1zdGFydGVkLXdpdGgtc3lzdGVtZC_SAQA?oc=5",
+          "publishedOn": "2024-04-11T14:00:00.000Z",
+          "wordCount": 8717,
+          "title": "Linux Fu: Getting Started With Systemd - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFodHRwczovL21lZGl1bS5jb20vQGRpZ2l0YWwuaHVtYW4vaHR0cC0yLWNvbnRpbnVhdGlvbi10aGUtbmV3LWRkb3MtYWZmZWN0aW5nLW1vc3QtbGludXgtc2VydmVycy1iNTM2MmQ0MjdhODM_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA",
+          "author": null,
+          "description": "HTTP/2 CONTINUATION the new DDOS affecting most Linux Servers  Medium",
+          "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL21lZGl1bS5jb20vQGRpZ2l0YWwuaHVtYW4vaHR0cC0yLWNvbnRpbnVhdGlvbi10aGUtbmV3LWRkb3MtYWZmZWN0aW5nLW1vc3QtbGludXgtc2VydmVycy1iNTM2MmQ0MjdhODM_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA?oc=5",
+          "publishedOn": "2024-04-11T13:22:16.000Z",
+          "wordCount": 8717,
+          "title": "HTTP/2 CONTINUATION the new DDOS affecting most Linux Servers - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L3RvcC1saW51eC1jb21tYW5kcy1mb3ItZGFpbHktdXNlLWluLTIwMjQv0gEA",
+          "author": null,
+          "description": "Top Linux Commands for Daily Use in 2024  Analytics Insight",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFuYWx5dGljc2luc2lnaHQubmV0L3RvcC1saW51eC1jb21tYW5kcy1mb3ItZGFpbHktdXNlLWluLTIwMjQv0gEA?oc=5",
+          "publishedOn": "2024-04-11T12:56:04.000Z",
+          "wordCount": 8717,
+          "title": "Top Linux Commands for Daily Use in 2024 - Analytics Insight",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL29wZW4tc291cmNlLWNvbW11bml0eXMtc3dpZnQtcmVzcG9uc2UtdGh3YXJ0cy1tYXNzaXZlLWxpbnV4LWJhY2tkb29yLWF0dGFjay_SAQA",
+          "author": null,
+          "description": "Open Source Community's Swift Response Thwarts Massive Linux Backdoor Attack  Analytics India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYW5hbHl0aWNzaW5kaWFtYWcuY29tL29wZW4tc291cmNlLWNvbW11bml0eXMtc3dpZnQtcmVzcG9uc2UtdGh3YXJ0cy1tYXNzaXZlLWxpbnV4LWJhY2tkb29yLWF0dGFjay_SAQA?oc=5",
+          "publishedOn": "2024-04-11T12:47:21.000Z",
+          "wordCount": 8717,
+          "title": "Open Source Community's Swift Response Thwarts Massive Linux Backdoor Attack - Analytics India Magazine",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LnNlY3VyaXR5bWFnYXppbmUuY29tL2FydGljbGVzLzEwMDU1OC1hLXZ1bG5lcmFiaWxpdHktaW4tbGludXgtZGlzdHJpYnV0aW9ucy1tYXktYWxsb3ctdW5hdXRob3JpemVkLWFjY2Vzc9IBAA",
+          "author": null,
+          "description": "A vulnerability in Linux distributions may allow unauthorized access  Security Magazine",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNlY3VyaXR5bWFnYXppbmUuY29tL2FydGljbGVzLzEwMDU1OC1hLXZ1bG5lcmFiaWxpdHktaW4tbGludXgtZGlzdHJpYnV0aW9ucy1tYXktYWxsb3ctdW5hdXRob3JpemVkLWFjY2Vzc9IBAA?oc=5",
+          "publishedOn": "2024-04-11T12:00:00.000Z",
+          "wordCount": 8717,
+          "title": "A vulnerability in Linux distributions may allow unauthorized access - Security Magazine",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0xpbnV4LWRlc2t0b3AtY29udGludWVzLXRvLWdyb3ctd2l0aC1mb3VyLXBlci1jZW50LW1hcmtldC1zaGFyZS44MjU4NzQuMC5odG1s0gEA",
+          "author": null,
+          "description": "Linux desktop continues to grow with four per cent market share  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0xpbnV4LWRlc2t0b3AtY29udGludWVzLXRvLWdyb3ctd2l0aC1mb3VyLXBlci1jZW50LW1hcmtldC1zaGFyZS44MjU4NzQuMC5odG1s0gEA?oc=5",
+          "publishedOn": "2024-04-11T11:31:49.000Z",
+          "wordCount": 8717,
+          "title": "Linux desktop continues to grow with four per cent market share - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMTEvbmF0aXZlLXNwZWN0cmUtdjItZXhwbG9pdC1wdXRzLWludGVsLXN5c3RlbXMtcnVubmluZy1saW51eC1hdC1yaXNrL9IBAA",
+          "author": null,
+          "description": "Native Spectre v2 exploit puts Intel systems running Linux at risk  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMTEvbmF0aXZlLXNwZWN0cmUtdjItZXhwbG9pdC1wdXRzLWludGVsLXN5c3RlbXMtcnVubmluZy1saW51eC1hdC1yaXNrL9IBAA?oc=5",
+          "publishedOn": "2024-04-11T09:05:31.000Z",
+          "wordCount": 8717,
+          "title": "Native Spectre v2 exploit puts Intel systems running Linux at risk - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihQFodHRwczovL21lZGl1bS5jb20vQGJlYXRtZWthbmlrL2xpbnV4LWZyb20tYmFzZW1lbnQtYnVybmVyLXRvLWFsbW9zdC1jb29sLWNvdXNpbi00M2MzMTBhMjIxMGU_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA",
+          "author": null,
+          "description": "Linux: From Basement Burner to Almost-Cool Cousin  Medium",
+          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL21lZGl1bS5jb20vQGJlYXRtZWthbmlrL2xpbnV4LWZyb20tYmFzZW1lbnQtYnVybmVyLXRvLWFsbW9zdC1jb29sLWNvdXNpbi00M2MzMTBhMjIxMGU_cmVzcG9uc2VzT3Blbj10cnVlJnNvcnRCeT1SRVZFUlNFX0NIUk9O0gEA?oc=5",
+          "publishedOn": "2024-04-11T05:10:23.000Z",
+          "wordCount": 8717,
+          "title": "Linux: From Basement Burner to Almost-Cool Cousin - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0x1dHJpcy0wLjUuMTctUmVsZWFzZWTSAQA",
           "author": null,
@@ -2633,6 +2863,16 @@
           "publishedOn": "2024-04-10T16:41:00.000Z",
           "wordCount": 8717,
           "title": "Turbostat Becomes Semi-Useful To Non-Root Users - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixQFodHRwczovL2lvdGJ1c2luZXNzbmV3cy5jb20vMjAyNC8wNC8xMC80OTE4NC1maWJvY29tLXRvLXVudmVpbC1hLXNlcmllcy1vZi1saW51eC1iYXNlZC1lZGdlLWFpLXNvbHV0aW9ucy1tYXN0ZXJpbmctdGhlLXBlYWstcGVyZm9ybWFuY2UtZm9yLWluZHVzdHJpYWwtYXBwbGljYXRpb25zLXBvd2VyZWQtYnktcXVhbGNvbW0tdGVjaG5vbG9naWVzL9IByQFodHRwczovL2lvdGJ1c2luZXNzbmV3cy5jb20vMjAyNC8wNC8xMC80OTE4NC1maWJvY29tLXRvLXVudmVpbC1hLXNlcmllcy1vZi1saW51eC1iYXNlZC1lZGdlLWFpLXNvbHV0aW9ucy1tYXN0ZXJpbmctdGhlLXBlYWstcGVyZm9ybWFuY2UtZm9yLWluZHVzdHJpYWwtYXBwbGljYXRpb25zLXBvd2VyZWQtYnktcXVhbGNvbW0tdGVjaG5vbG9naWVzL2FtcC8",
+          "author": null,
+          "description": "Fibocom to Unveil a Series of Linux-based Edge AI Solutions Mastering the Peak Performance for Industrial A...  IoT Business News",
+          "link": "https://news.google.com/rss/articles/CBMixQFodHRwczovL2lvdGJ1c2luZXNzbmV3cy5jb20vMjAyNC8wNC8xMC80OTE4NC1maWJvY29tLXRvLXVudmVpbC1hLXNlcmllcy1vZi1saW51eC1iYXNlZC1lZGdlLWFpLXNvbHV0aW9ucy1tYXN0ZXJpbmctdGhlLXBlYWstcGVyZm9ybWFuY2UtZm9yLWluZHVzdHJpYWwtYXBwbGljYXRpb25zLXBvd2VyZWQtYnktcXVhbGNvbW0tdGVjaG5vbG9naWVzL9IByQFodHRwczovL2lvdGJ1c2luZXNzbmV3cy5jb20vMjAyNC8wNC8xMC80OTE4NC1maWJvY29tLXRvLXVudmVpbC1hLXNlcmllcy1vZi1saW51eC1iYXNlZC1lZGdlLWFpLXNvbHV0aW9ucy1tYXN0ZXJpbmctdGhlLXBlYWstcGVyZm9ybWFuY2UtZm9yLWluZHVzdHJpYWwtYXBwbGljYXRpb25zLXBvd2VyZWQtYnktcXVhbGNvbW0tdGVjaG5vbG9naWVzL2FtcC8?oc=5",
+          "publishedOn": "2024-04-10T16:07:37.000Z",
+          "wordCount": 8717,
+          "title": "Fibocom to Unveil a Series of Linux-based Edge AI Solutions Mastering the Peak Performance for Industrial A... - IoT Business News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2796,6 +3036,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLXdpbmRvd3MtdXNlcnPSAQA",
+          "author": null,
+          "description": "Best Linux distro for Windows users of 2024  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryb3MtZm9yLXdpbmRvd3MtdXNlcnPSAQA?oc=5",
+          "publishedOn": "2024-04-09T14:19:16.000Z",
+          "wordCount": 8717,
+          "title": "Best Linux distro for Windows users of 2024 - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9ncGFydGVkLWxpdmUtaXMtbm93LXBhdGNoZWQtYWdhaW5zdC10aGUteHotYmFja2Rvb3ItcG93ZXJlZC1ieS1saW51eC1rZXJuZWwtNi030gFpaHR0cHM6Ly85dG81bGludXguY29tL2dwYXJ0ZWQtbGl2ZS1pcy1ub3ctcGF0Y2hlZC1hZ2FpbnN0LXRoZS14ei1iYWNrZG9vci1wb3dlcmVkLWJ5LWxpbnV4LWtlcm5lbC02LTcvYW1w",
           "author": null,
           "description": "GParted Live Is Now Patched Against the XZ Backdoor, Powered by Linux Kernel 6.7  9to5Linux",
@@ -2883,6 +3133,16 @@
           "publishedOn": "2024-04-09T09:53:00.000Z",
           "wordCount": 8717,
           "title": "Nouveau GSP Fix On The Way For Regression That Broke Ampere GPU Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEwL3VidW50dS0yNC0wNC1yZWxlYXNlLWRhdGUtc2V0LWZvci1hcHJpbC0yNS0yMDI00gFXaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTAvdWJ1bnR1LTI0LTA0LXJlbGVhc2UtZGF0ZS1zZXQtZm9yLWFwcmlsLTI1LTIwMjQvYW1w",
+          "author": null,
+          "description": "Ubuntu 24.04 Release Date Set for April 25, 2024  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEwL3VidW50dS0yNC0wNC1yZWxlYXNlLWRhdGUtc2V0LWZvci1hcHJpbC0yNS0yMDI00gFXaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTAvdWJ1bnR1LTI0LTA0LXJlbGVhc2UtZGF0ZS1zZXQtZm9yLWFwcmlsLTI1LTIwMjQvYW1w?oc=5",
+          "publishedOn": "2024-04-09T07:00:00.000Z",
+          "wordCount": 8717,
+          "title": "Ubuntu 24.04 Release Date Set for April 25, 2024 - OMG! Ubuntu!",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7594,206 +7854,6 @@
           "wordCount": 5033,
           "title": "LVFS/Fwupd Ponders 2025 Plans: Servers, Desktop Motherboards & More - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLUtNRC1NZXNhLTI0LjEtRGVmYXVsdNIBAA",
-          "author": null,
-          "description": "Mesa 24.1 Enables Intel Xe Kernel Driver Support By Default  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLUtNRC1NZXNhLTI0LjEtRGVmYXVsdNIBAA?oc=5",
-          "publishedOn": "2024-03-13T11:47:00.000Z",
-          "wordCount": 5033,
-          "title": "Mesa 24.1 Enables Intel Xe Kernel Driver Support By Default - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1EUk3SAQA",
-          "author": null,
-          "description": "Linux 6.9 Graphics Drivers Prepare For RDNA3 Refresh & RDNA4, More Intel Xe Driver Work  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1EUk3SAQA?oc=5",
-          "publishedOn": "2024-03-13T10:21:00.000Z",
-          "wordCount": 5033,
-          "title": "Linux 6.9 Graphics Drivers Prepare For RDNA3 Refresh & RDNA4, More Intel Xe Driver Work - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzEzL2ZlZG9yYV80MV9kcm9wc194X2dub21lL9IBQ2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMy8xMy9mZWRvcmFfNDFfZHJvcHNfeF9nbm9tZS8",
-          "author": null,
-          "description": "Fedora 41's GNOME to go Wayland-only, says goodbye to X.org  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzEzL2ZlZG9yYV80MV9kcm9wc194X2dub21lL9IBQ2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMy8xMy9mZWRvcmFfNDFfZHJvcHNfeF9nbm9tZS8?oc=5",
-          "publishedOn": "2024-03-13T09:30:00.000Z",
-          "wordCount": 5033,
-          "title": "Fedora 41's GNOME to go Wayland-only, says goodbye to X.org - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wb3N0bWFya2V0b3Mtc3lzdGVtZC_SAQA",
-          "author": null,
-          "description": "postmarketOS is Bringing Systemd to Linux Phones  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wb3N0bWFya2V0b3Mtc3lzdGVtZC_SAQA?oc=5",
-          "publishedOn": "2024-03-13T05:33:03.000Z",
-          "wordCount": 5033,
-          "title": "postmarketOS is Bringing Systemd to Linux Phones - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiGGh0dHBzOi8vaXRzZm9zcy5jb20vdXB0L9IBAA",
-          "author": null,
-          "description": "UPT: Universal Package Management Tool for Linux  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiGGh0dHBzOi8vaXRzZm9zcy5jb20vdXB0L9IBAA?oc=5",
-          "publishedOn": "2024-03-13T05:14:51.000Z",
-          "wordCount": 5033,
-          "title": "UPT: Universal Package Management Tool for Linux - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL25ldy1ydXN0LWJhc2VkLWJhY2tkb29yLWF0dGFja2luZy_SAURodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9uZXctcnVzdC1iYXNlZC1iYWNrZG9vci1hdHRhY2tpbmcvYW1wLw",
-          "author": null,
-          "description": "New Rust-based Backdoor Attacking Windows and Linux Systems  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL25ldy1ydXN0LWJhc2VkLWJhY2tkb29yLWF0dGFja2luZy_SAURodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9uZXctcnVzdC1iYXNlZC1iYWNrZG9vci1hdHRhY2tpbmcvYW1wLw?oc=5",
-          "publishedOn": "2024-03-13T02:56:34.000Z",
-          "wordCount": 5033,
-          "title": "New Rust-based Backdoor Attacking Windows and Linux Systems - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9kdWFsLWJvb3Qtd2luZG93cy0xMS1saW51eC_SAQA",
-          "author": null,
-          "description": "How to dual-boot Windows 11 and Linux on your PC  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9kdWFsLWJvb3Qtd2luZG93cy0xMS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-03-12T22:30:00.000Z",
-          "wordCount": 5033,
-          "title": "How to dual-boot Windows 11 and Linux on your PC - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAzLzEyL2Rib3MtbmFicy04LTVtLWNoYWxsZW5nZS1saW51eC1kYXRhYmFzZS1wb3dlcmVkLW9wZXJhdGluZy1zeXN0ZW0v0gEA",
-          "author": null,
-          "description": "DBOS nabs $8.5M to challenge Linux with a database-powered operating system  SiliconANGLE News",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAzLzEyL2Rib3MtbmFicy04LTVtLWNoYWxsZW5nZS1saW51eC1kYXRhYmFzZS1wb3dlcmVkLW9wZXJhdGluZy1zeXN0ZW0v0gEA?oc=5",
-          "publishedOn": "2024-03-12T19:54:49.000Z",
-          "wordCount": 5032,
-          "title": "DBOS nabs $8.5M to challenge Linux with a database-powered operating system - SiliconANGLE News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctbW91bnQtdWJ1bnR1L9IBAA",
-          "author": null,
-          "description": "How to mount in Ubuntu  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctbW91bnQtdWJ1bnR1L9IBAA?oc=5",
-          "publishedOn": "2024-03-12T19:30:00.000Z",
-          "wordCount": 5032,
-          "title": "How to mount in Ubuntu - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9rYW9zLWxpbnV4LTIwMjQtMDMtaXMtb3V0LXRvLWRlbGl2ZXItYS1zdGFibGUta2RlLXBsYXNtYS02LWV4cGVyaWVuY2XSAV9odHRwczovLzl0bzVsaW51eC5jb20va2Fvcy1saW51eC0yMDI0LTAzLWlzLW91dC10by1kZWxpdmVyLWEtc3RhYmxlLWtkZS1wbGFzbWEtNi1leHBlcmllbmNlL2FtcA",
-          "author": null,
-          "description": "KaOS Linux 2024.03 Is Out to Deliver a Stable KDE Plasma 6 Experience  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9rYW9zLWxpbnV4LTIwMjQtMDMtaXMtb3V0LXRvLWRlbGl2ZXItYS1zdGFibGUta2RlLXBsYXNtYS02LWV4cGVyaWVuY2XSAV9odHRwczovLzl0bzVsaW51eC5jb20va2Fvcy1saW51eC0yMDI0LTAzLWlzLW91dC10by1kZWxpdmVyLWEtc3RhYmxlLWtkZS1wbGFzbWEtNi1leHBlcmllbmNlL2FtcA?oc=5",
-          "publishedOn": "2024-03-12T19:16:16.000Z",
-          "wordCount": 5032,
-          "title": "KaOS Linux 2024.03 Is Out to Deliver a Stable KDE Plasma 6 Experience - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTIvc2FicmVudC11c2ItYy0yLTUtZ2lnYWJpdC1ldGhlcm5ldC1hZGFwdGVyLXJldmlldy_SAQA",
-          "author": null,
-          "description": "Sabrent launches NT-25GA USB-C to 2.5 Gigabit Ethernet (2.5GbE) adapter for Windows, macOS and Linux  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTIvc2FicmVudC11c2ItYy0yLTUtZ2lnYWJpdC1ldGhlcm5ldC1hZGFwdGVyLXJldmlldy_SAQA?oc=5",
-          "publishedOn": "2024-03-12T18:45:00.000Z",
-          "wordCount": 5032,
-          "title": "Sabrent launches NT-25GA USB-C to 2.5 Gigabit Ethernet (2.5GbE) adapter for Windows, macOS and Linux - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL9IBZ2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtLz9hbXA",
-          "author": null,
-          "description": "The Cloud Outgrows Linux, And Sparks A New Operating System  The Next Platform",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL9IBZ2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtLz9hbXA?oc=5",
-          "publishedOn": "2024-03-12T18:13:56.000Z",
-          "wordCount": 5033,
-          "title": "The Cloud Outgrows Linux, And Sparks A New Operating System - The Next Platform",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL9IBZ2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL2FtcC8",
-          "author": null,
-          "description": "The Cloud Outgrows Linux, And Sparks A New Operating System  The Next Platform",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL9IBZ2h0dHBzOi8vd3d3Lm5leHRwbGF0Zm9ybS5jb20vMjAyNC8wMy8xMi90aGUtY2xvdWQtb3V0Z3Jvd3MtbGludXgtYW5kLXNwYXJrcy1hLW5ldy1vcGVyYXRpbmctc3lzdGVtL2FtcC8?oc=5",
-          "publishedOn": "2024-03-12T18:13:56.000Z",
-          "wordCount": 5032,
-          "title": "The Cloud Outgrows Linux, And Sparks A New Operating System - The Next Platform",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1hcmNoLTIwMjQtU2VjdXJpdHnSAQA",
-          "author": null,
-          "description": "New Intel CPU Microcode & \"RFDS\" Linux Kernel Patch For New Security Vulnerabilities  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1hcmNoLTIwMjQtU2VjdXJpdHnSAQA?oc=5",
-          "publishedOn": "2024-03-12T17:50:00.000Z",
-          "wordCount": 5032,
-          "title": "New Intel CPU Microcode & \"RFDS\" Linux Kernel Patch For New Security Vulnerabilities - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMC0yLWltcHJvdmVzLW5pZ2h0LWNvbG9yLWRpc2NvdmVyLXBsYXNtYS13YXlsYW5kLWFuZC1tb3Jl0gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1wbGFzbWEtNi0wLTItaW1wcm92ZXMtbmlnaHQtY29sb3ItZGlzY292ZXItcGxhc21hLXdheWxhbmQtYW5kLW1vcmUvYW1w",
-          "author": null,
-          "description": "KDE Plasma 6.0.2 Improves Night Color, Discover, Plasma Wayland, and More  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMC0yLWltcHJvdmVzLW5pZ2h0LWNvbG9yLWRpc2NvdmVyLXBsYXNtYS13YXlsYW5kLWFuZC1tb3Jl0gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1wbGFzbWEtNi0wLTItaW1wcm92ZXMtbmlnaHQtY29sb3ItZGlzY292ZXItcGxhc21hLXdheWxhbmQtYW5kLW1vcmUvYW1w?oc=5",
-          "publishedOn": "2024-03-12T17:42:46.000Z",
-          "wordCount": 5032,
-          "title": "KDE Plasma 6.0.2 Improves Night Color, Discover, Plasma Wayland, and More - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1hZGRzLXBlcmZvcm1hbmNlLW1vbml0b3JpbmctcGF0Y2hlcy1mb3ItemVuLTUtY3B1LWVuYWJsZW1lbnQtb24tbGludXgv0gFjaHR0cHM6Ly93Y2NmdGVjaC5jb20vYW1kLWFkZHMtcGVyZm9ybWFuY2UtbW9uaXRvcmluZy1wYXRjaGVzLWZvci16ZW4tNS1jcHUtZW5hYmxlbWVudC1vbi1saW51eC9hbXAv",
-          "author": null,
-          "description": "AMD Adds Performance Monitoring Patches For Zen 5 CPU Enablement on Linux  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1hZGRzLXBlcmZvcm1hbmNlLW1vbml0b3JpbmctcGF0Y2hlcy1mb3ItemVuLTUtY3B1LWVuYWJsZW1lbnQtb24tbGludXgv0gFjaHR0cHM6Ly93Y2NmdGVjaC5jb20vYW1kLWFkZHMtcGVyZm9ybWFuY2UtbW9uaXRvcmluZy1wYXRjaGVzLWZvci16ZW4tNS1jcHUtZW5hYmxlbWVudC1vbi1saW51eC9hbXAv?oc=5",
-          "publishedOn": "2024-03-12T16:30:00.000Z",
-          "wordCount": 5032,
-          "title": "AMD Adds Performance Monitoring Patches For Zen 5 CPU Enablement on Linux - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1BTUQtRVBZQy05MDA00gEA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS To Help Further Boost AMD EPYC 9004 Series Performance  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1BTUQtRVBZQy05MDA00gEA?oc=5",
-          "publishedOn": "2024-03-12T16:22:00.000Z",
-          "wordCount": 5032,
-          "title": "Ubuntu 24.04 LTS To Help Further Boost AMD EPYC 9004 Series Performance - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1BUElDLXg4Ni1DUFUtVG9wb2xvZ3nSAQA",
-          "author": null,
-          "description": "Linux 6.9 Lands Reworked Topology Code For Better Hybrid CPU Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1BUElDLXg4Ni1DUFUtVG9wb2xvZ3nSAQA?oc=5",
-          "publishedOn": "2024-03-12T15:37:00.000Z",
-          "wordCount": 5032,
-          "title": "Linux 6.9 Lands Reworked Topology Code For Better Hybrid CPU Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vYXdzLmFtYXpvbi5jb20vYWJvdXQtYXdzL3doYXRzLW5ldy8yMDI0LzAzL2F3cy1wYXJhbGxlbGNsdXN0ZXItMy05LXJoZWwtcm9ja3ktbGludXgtZHluYW1pYy11cGRhdGVzL9IBAA",
-          "author": null,
-          "description": "AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates  AWS Blog",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXdzLmFtYXpvbi5jb20vYWJvdXQtYXdzL3doYXRzLW5ldy8yMDI0LzAzL2F3cy1wYXJhbGxlbGNsdXN0ZXItMy05LXJoZWwtcm9ja3ktbGludXgtZHluYW1pYy11cGRhdGVzL9IBAA?oc=5",
-          "publishedOn": "2024-03-12T15:11:07.000Z",
-          "wordCount": 5033,
-          "title": "AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates - AWS Blog",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYmxvZy9saW51eC12cy13aW5kb3dzL9IBAA",
-          "author": null,
-          "description": "Is Linux Really More Secure than Windows? | PIA VPN  Privacy News Online",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYmxvZy9saW51eC12cy13aW5kb3dzL9IBAA?oc=5",
-          "publishedOn": "2024-03-12T14:20:26.000Z",
-          "wordCount": 5032,
-          "title": "Is Linux Really More Secure than Windows? | PIA VPN - Privacy News Online",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7821,6 +7881,36 @@
           "wordCount": 1794,
           "title": "Sniffnet 1.3.0",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Sniffnet_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Ryujinx-104604.shtml",
+          "author": "Softpedia Linux",
+          "description": "Take your Nintendo Switch games to a whole other level with the help Ryujinx, one of the best open-source and cross-platform Nintendo Switch emulator software",
+          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Ryujinx-104604.shtml",
+          "publishedOn": "2024-04-10T11:57:36.000Z",
+          "wordCount": 1839,
+          "title": "Ryujinx 1.1.1272",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ryujinx_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/WebStorm-103942.shtml",
+          "author": "Softpedia Linux",
+          "description": "Take your JavaScript development experience to the next level with the help of JetBrains' WebStorm IDE",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/WebStorm-103942.shtml",
+          "publishedOn": "2024-04-10T11:17:11.000Z",
+          "wordCount": 1632,
+          "title": "WebStorm 2024.1 Build 241.14494.235",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/WebStorm_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Opera-271.shtml",
+          "author": "Softpedia Linux",
+          "description": "Browser the Internet faster and easier, while having access to a plethora of unique features with one of the best browsers out there - Opera for Linux",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Opera-271.shtml",
+          "publishedOn": "2024-04-10T11:08:59.000Z",
+          "wordCount": 2652,
+          "title": "Opera One 109.0.5097.38 / 111.0.5131.0 Developer",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Opera_10.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Minder-104090.shtml",
@@ -7953,6 +8043,16 @@
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Fragments-Felix-Hacker_1.jpg"
         },
         {
+          "id": "https://linux.softpedia.com/get/Communications/Chat/Ferdium-104583.shtml",
+          "author": "Softpedia Linux",
+          "description": "Organize and centralize all your apps, webapps, and web services in one place with the help of Ferdium, a free and open-source hard-fork of Ferdi",
+          "link": "https://linux.softpedia.com/get/Communications/Chat/Ferdium-104583.shtml",
+          "publishedOn": "2024-04-08T09:31:32.000Z",
+          "wordCount": 1935,
+          "title": "Ferdium 6.7.2 / 6.7.3 Nightly 7",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ferdium_1.jpg"
+        },
+        {
           "id": "https://linux.softpedia.com/get/Security/EncryptPad-103995.shtml",
           "author": "Softpedia Linux",
           "description": "Secure and encrypt your texts with the help of this cross-platform and open-source, little tool",
@@ -8041,6 +8141,16 @@
           "wordCount": 1622,
           "title": "Spacedrive 0.2.11 Alpha",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Spacedrive_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Smile-Lorenzo-Paderi-104562.shtml",
+          "author": "Softpedia Linux",
+          "description": "A nifty little emoji picker for Linux with support for custom and localized tags, custom shortcuts, skin tone selector, and a few other features",
+          "link": "https://linux.softpedia.com/get/Utilities/Smile-Lorenzo-Paderi-104562.shtml",
+          "publishedOn": "2024-04-06T19:58:31.000Z",
+          "wordCount": 1583,
+          "title": "Smile 2.9.4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Smile-Lorenzo-Paderi_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Communications/Chat/Signal-103855.shtml",
@@ -10299,6 +10409,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/beginners-guide-to-langchain/",
+          "author": "Jacob Lee",
+          "description": "Large language models (LLMs) are incredibly powerful general reasoning tools that are useful in a wide range of situations.  But working with LLMs presents challenges that are different from building traditional software:  * Calls tend to be slow, and streams generate output as it becomes available.  *",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-langchain/",
+          "publishedOn": "2024-04-11T23:11:37.000Z",
+          "wordCount": 3014,
+          "title": "How to Use LangChain to Build With LLMs – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/freecodecamp_cover_image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/best-practices-for-writing-accessible-technical-documentation/",
+          "author": "Ezinne Anne Emilia",
+          "description": "When you're writing technical documentation for a project or a tool you're working on, you'll want it to be accessible. This means that it will cater to and be usable by the diverse global audience on the web. Web accessibility aims to make it possible for anyone to access web",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-writing-accessible-technical-documentation/",
+          "publishedOn": "2024-04-11T23:03:04.000Z",
+          "wordCount": 2840,
+          "title": "How to Write Accessible Technical Documentation – Best Practices with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/20240401_161256_0000.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
+          "author": "Rajdeep Singh",
+          "description": "Markdown [https://en.wikipedia.org/wiki/Markdown] is a lightweight, open-source, easy-to-read and easy-to-write method of formatting text that you can use as plain text in any IDE or editor. When writing on GitHub, you can use Markdown syntax and HTML elements to extend Markdown's functionality. You can use Markdown syntax everywhere in GitHub, such",
+          "link": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
+          "publishedOn": "2024-04-11T19:08:04.000Z",
+          "wordCount": 3038,
+          "title": "Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/freecodecampl-github.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
+          "author": "Beau Carnes",
+          "description": "To become a great backend developer, you need to build a lot of projects. We just posted a course on the freeCodeCamp.org YouTube channel that will help you improve your backend development skills by teaching you to build three full projects. Tomi Tokko developed this course. He's a popular teacher,",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
+          "publishedOn": "2024-04-11T15:26:09.000Z",
+          "wordCount": 953,
+          "title": "Learn Backend Development by Building Three Projects [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/tomi.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
+          "author": "Beau Carnes",
+          "description": "There are many ways that AI can help speed up web development. We just posted a course on the freeCodeCamp.org YouTube channel that will show you how to convert Figma designs into working code with just one click using AI. Ania Kubów developed this course. She is one of our",
+          "link": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
+          "publishedOn": "2024-04-11T14:12:38.000Z",
+          "wordCount": 1049,
+          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/locofy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
+          "author": "Timothy Olanrewaju",
+          "description": "In this article, we'll delve into a thorough comparison of React state and refs, exploring their suitability for specific scenarios. When faced with the need to store data in your React application, the first question that comes to mind is: \"Will the data change at some point during the component's",
+          "link": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
+          "publishedOn": "2024-04-11T13:07:51.000Z",
+          "wordCount": 1681,
+          "title": "React State vs Refs – Differences and Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/STATE-VS-REF.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
+          "author": "Gage Schaffer",
+          "description": "Just recently, my manager tasked me to create an automatic report. I designed the report to be simple. It included a few numbers from a database and some basic mathematical operations. I was excited to finally be able to show off my  amazing Python skills to the company. I",
+          "link": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
+          "publishedOn": "2024-04-11T00:09:53.000Z",
+          "wordCount": 2323,
+          "title": "Error Handling in Python – try, except, else, & finally Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/game-over-screen.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
           "author": "Anshul Sanghi",
           "description": "Recently, there's been a massive amount of effort put into developing novel image processing techniques. And many of them are derived from digital signal processing methods such as Fourier and Wavelet transforms.  These techniques have not only enabled a wide range of image processing techniques such as noise reduction,",
@@ -10947,36 +11127,6 @@
           "wordCount": 1255,
           "title": "How to Build Better AI Workflows with Langchain",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/1700940849777.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/",
-          "author": "Jessica Wilkins",
-          "description": "Arrays are common data structures in JavaScript, and it is important to know how to work with them. Common operations on arrays include adding or removing elements from the beginning, end or at a specific index. In this article, you will learn how to work with the built in JavaScript",
-          "link": "https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/",
-          "publishedOn": "2024-03-13T12:34:33.000Z",
-          "wordCount": 1945,
-          "title": "How to Add and Remove Elements from Arrays in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mohammad-rahmani-unwXUc_Pqi4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
-          "author": "Fatuma Abdullahi",
-          "description": "In this article, you'll build a task manager application that has some artificial intelligence capabilities and is voice-enabled, sortable, and searchable.  As an extra, the application will have dark mode support that respects the users' system preferences. The application will be able to create, read, update and delete (CRUD)",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
-          "publishedOn": "2024-03-13T09:21:45.000Z",
-          "wordCount": 9350,
-          "title": "How to Build an AI-enhanced Task App with React and Appwrite",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-3--20-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
-          "author": "Beau Carnes",
-          "description": "Are you gearing up for coding interviews and looking to strengthen your grasp on JavaScript algorithms? We just posted a course on the FfreeCodeCamp.org YouTube channel that will equips you with the essential skills to excel in Leetcode-style coding challenges. Let's explore what this course has to offer. Mukhtar from",
-          "link": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
-          "publishedOn": "2024-03-12T17:37:39.000Z",
-          "wordCount": 1049,
-          "title": "Top 10 JavaScript Algorithms for Coding Challenges",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/jsalgs.png"
         }
       ]
     }
