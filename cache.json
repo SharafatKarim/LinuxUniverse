@@ -12,6 +12,36 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=415473",
+          "author": "Shovon",
+          "description": "In a lab environment, lots of new users will be using JupyterHub. The default Authenticator of JupyterHub allows only the Linux system users to log in to JupyterHub. So, if you want to create a new JupyterHub user, you will have to create a new Linux user. Creating new Linux users manually might be a […]",
+          "link": "https://linuxhint.com/how-to-configure-firstuseauthenticator-on-jupyterhub/",
+          "publishedOn": "2024-04-13T19:19:06.000Z",
+          "wordCount": 4221,
+          "title": "How to Configure FirstUseAuthenticator on JupyterHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415434",
+          "author": "Denis Kariuki",
+          "description": "MySQL is a reliable and widely used DBMS that utilizes SQL and a relational model to manage data. MySQL is installed as part of LAMP in Linux, but you can install it separately.",
+          "link": "https://linuxhint.com/install-mysql-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-13T09:40:04.000Z",
+          "wordCount": 5051,
+          "title": "Install MySQL on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415421",
+          "author": "Shovon",
+          "description": "Task Manager is an app on the Windows 10/11 operating system that is used to monitor the running apps and services of your Windows 10/11 operating system. The Task Manager app is also used for monitoring the CPU, memory, disk, network, GPU, and other hardware usage information. A few screenshots of the Windows Task Manager […]",
+          "link": "https://linuxhint.com/6-ways-of-opening-the-task-manager-app-on-windows-10-11/",
+          "publishedOn": "2024-04-13T04:57:36.000Z",
+          "wordCount": 4880,
+          "title": "6 Ways of Opening the Task Manager app on Windows 10/11",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=415406",
           "author": "Denis Kariuki",
           "description": "To utilize Anaconda on Ubuntu 24.04, install the conda utility for your Python flavor. This post shares the steps for installing conda for Python 3, and we will install version 2024.2-1. Read on!",
@@ -918,6 +948,46 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188656",
+          "author": "Web Webster",
+          "description": "Learn the simple steps to install Java on Fedora Linux in this quick guide for a smooth setup. Get started with Java development on Fedora now.\nThe post How to Install Java on Fedora Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-java-on-fedora-linux/",
+          "publishedOn": "2024-04-13T22:00:24.000Z",
+          "wordCount": 10188,
+          "title": "How to Install Java on Fedora Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188670",
+          "author": "Web Webster",
+          "description": "In this tutorial, we will show you how to install the open-source version of Magento 2.4.7 on Ubuntu 24.04 OS.\nThe post How to Install Magento 2.4.7 on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-magento-2-4-7-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-13T16:00:04.000Z",
+          "wordCount": 10174,
+          "title": "How to Install Magento 2.4.7 on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/developer/4e698a652a5ad6c41a25939106f9849d/",
+          "author": null,
+          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/4e698a652a5ad6c41a25939106f9849d/",
+          "publishedOn": "2024-04-13T12:20:01.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188732",
+          "author": "Web Webster",
+          "description": "NodeBB is modern forum software powered by Node.js framework. It uses MongoDB, PostgreSQL, or Redis database to store data. In this tutorial, you will learn how to install the NodeBB forum using Nginx on a Ubuntu 22.04 server.\nThe post How to Install NodeBB Forum on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-nodebb-forum-on-ubuntu-22-04/",
+          "publishedOn": "2024-04-13T02:00:38.000Z",
+          "wordCount": 10195,
+          "title": "How to Install NodeBB Forum on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188599",
           "author": "Web Webster",
@@ -2477,126 +2547,6 @@
           "wordCount": 10219,
           "title": "System 76 Says Cosmic Desktop Is Late but on Schedule",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188288",
-          "author": "Web Webster",
-          "description": "The latest Sparky 7.3 brings the Debian 12.5 package base, Linux kernel 6.1 LTS, LibreOffice 7.4.7, KDE Plasma 5.27.5, and more.\nThe post Sparky Linux 7.3 Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparky-linux-7-3-released-heres-whats-new/",
-          "publishedOn": "2024-03-15T13:00:07.000Z",
-          "wordCount": 10187,
-          "title": "Sparky Linux 7.3 Released, Here’s What’s New",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186823",
-          "author": "Web Webster",
-          "description": "Here’s a list of the best desktop email clients available on the Linux platform along with their features.\nThe post Top 8 Best Email Clients for Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/it-management/top-8-best-email-clients-for-linux/",
-          "publishedOn": "2024-03-15T02:00:52.000Z",
-          "wordCount": 10187,
-          "title": "Top 8 Best Email Clients for Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188223",
-          "author": "Web Webster",
-          "description": "In this guide, you will learn about Android Studio, its features, and different ways to install Android Studio on your preferred Linux distribution.\nThe post How to Install Latest Android Studio (Iguana) on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-latest-android-studio-iguana-on-linux/",
-          "publishedOn": "2024-03-15T00:45:54.000Z",
-          "wordCount": 10191,
-          "title": "How to Install Latest Android Studio (Iguana) on Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188188",
-          "author": "Web Webster",
-          "description": "Fedora Media Writer is a free and open-source application to write any ISO image to your USB stick on Linux, Windows, and macOS.\nThe post How to Install and Use Fedora Media Writer on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/it-management/how-to-install-and-use-fedora-media-writer-on-linux/",
-          "publishedOn": "2024-03-14T22:46:36.000Z",
-          "wordCount": 10199,
-          "title": "How to Install and Use Fedora Media Writer on Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/d7094950008d0a736d194ae5a36b3ddd/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/d7094950008d0a736d194ae5a36b3ddd/",
-          "publishedOn": "2024-03-14T21:19:18.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/60f8f5ea20cbe70bd56b12f72f89077b/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/60f8f5ea20cbe70bd56b12f72f89077b/",
-          "publishedOn": "2024-03-14T21:19:15.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/ac360db89264ec42cddb2efb2d34b4dd/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ac360db89264ec42cddb2efb2d34b4dd/",
-          "publishedOn": "2024-03-14T21:19:13.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188218",
-          "author": "Web Webster",
-          "description": "An integrated development environment (IDE) (sometimes known as an integrated design environment or integrated debugging environment) is a software application that provides comprehensive facilities to programmers for software development.\nThe post 26 Best Free & Open Source Linux Integrated Development Environments appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/26-best-free-open-source-linux-integrated-development-environments/",
-          "publishedOn": "2024-03-14T20:03:52.000Z",
-          "wordCount": 10197,
-          "title": "26 Best Free & Open Source Linux Integrated Development Environments",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188268",
-          "author": "Web Webster",
-          "description": "Krita in 2024: Prioritizing Qt6 porting, enhanced comic book frameworks, and exploring AI in art without compromising ethics.\nThe post Krita’s 2024 Roadmap Unveils AI Research and Major Overhauls appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kritas-2024-roadmap-unveils-ai-research-and-major-overhauls/",
-          "publishedOn": "2024-03-14T18:00:23.000Z",
-          "wordCount": 10193,
-          "title": "Krita’s 2024 Roadmap Unveils AI Research and Major Overhauls",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188220",
-          "author": "Web Webster",
-          "description": "The cloning software job is to take all disk data and convert them into a single .img file and give it to you, so you can copy it to another hard drive. Here, we present the best free disk cloning and backup tools for Linux in 2024.\nThe post 8 Best Open-Source Disk Cloning & Backup Tools for Linux (2024) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/8-best-open-source-disk-cloning-backup-tools-for-linux-2024/",
-          "publishedOn": "2024-03-14T17:00:00.000Z",
-          "wordCount": 10217,
-          "title": "8 Best Open-Source Disk Cloning & Backup Tools for Linux (2024)",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188193",
-          "author": "Web Webster",
-          "description": "This tutorial will be helpful for beginners who want to install yq on Ubuntu 22.04 LTS, Ubuntu 20.04, and Linux Mint 21.3.\nThe post How to Install yq on Ubuntu and LinuxMint appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-yq-on-ubuntu-and-linuxmint/",
-          "publishedOn": "2024-03-14T16:00:31.000Z",
-          "wordCount": 10189,
-          "title": "How to Install yq on Ubuntu and LinuxMint",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188257",
-          "author": "Web Webster",
-          "description": "CachyOS’s streamlined March 2024 release introduces Plasma 6 with Wayland, new CDNs, and refined filesystems.\nThe post Goodbye GNOME ISO: CachyOS March Release Prioritizes Plasma 6 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/goodbye-gnome-iso-cachyos-march-release-prioritizes-plasma-6/",
-          "publishedOn": "2024-03-14T15:34:55.000Z",
-          "wordCount": 10176,
-          "title": "Goodbye GNOME ISO: CachyOS March Release Prioritizes Plasma 6",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2605,6 +2555,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbW9uZXkvb3RoZXIvNS1vZi10aGUtbW9zdC11bmRlcnJhdGVkLWxpbnV4LWRpc3Ryb3MvYXItQkIxaE0zdnjSAQA",
+          "author": null,
+          "description": "5 of the most underrated Linux distros  MSN",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbW9uZXkvb3RoZXIvNS1vZi10aGUtbW9zdC11bmRlcnJhdGVkLWxpbnV4LWRpc3Ryb3MvYXItQkIxaE0zdnjSAQA?oc=5",
+          "publishedOn": "2024-04-13T22:23:02.000Z",
+          "wordCount": 8717,
+          "title": "5 of the most underrated Linux distros - MSN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMTAtYW5kLWRlYmlhbi0xMy10cml4aWUtdG8tZmVhdHVyZS1hLXJlZmluZWQtY29tbWFuZC1saW5lLWludGVyZmFjZdIBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMTAtYW5kLWRlYmlhbi0xMy10cml4aWUtdG8tZmVhdHVyZS1hLXJlZmluZWQtY29tbWFuZC1saW5lLWludGVyZmFjZS9hbXA",
+          "author": null,
+          "description": "Ubuntu 24.10 and Debian Trixie Are Getting a Refined APT Command-Line Interface  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMTAtYW5kLWRlYmlhbi0xMy10cml4aWUtdG8tZmVhdHVyZS1hLXJlZmluZWQtY29tbWFuZC1saW5lLWludGVyZmFjZdIBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjQtMTAtYW5kLWRlYmlhbi0xMy10cml4aWUtdG8tZmVhdHVyZS1hLXJlZmluZWQtY29tbWFuZC1saW5lLWludGVyZmFjZS9hbXA?oc=5",
+          "publishedOn": "2024-04-13T18:37:15.000Z",
+          "wordCount": 8717,
+          "title": "Ubuntu 24.10 and Debian Trixie Are Getting a Refined APT Command-Line Interface - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vbWVkaXVtLmNvbS9AYm91dG5hcnUvdGhlLWxpbnV4LXByb2Nlc3Mtam91cm5leS1rZG1mbHVzaC1rZXJuZWwtZGV2aWNlLW1hcHBlci1mbHVzaC0wNjExNTUzNWE0ZjHSAQA",
+          "author": null,
+          "description": "The Linux Process Journey — kdmflush (Kernel Device Mapper Flush)  Medium",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbWVkaXVtLmNvbS9AYm91dG5hcnUvdGhlLWxpbnV4LXByb2Nlc3Mtam91cm5leS1rZG1mbHVzaC1rZXJuZWwtZGV2aWNlLW1hcHBlci1mbHVzaC0wNjExNTUzNWE0ZjHSAQA?oc=5",
+          "publishedOn": "2024-04-13T15:40:18.000Z",
+          "wordCount": 8717,
+          "title": "The Linux Process Journey — kdmflush (Kernel Device Mapper Flush) - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBlci1DUFUtTlVNQS1Ob2RlLUNwdW1hc2vSAQA",
+          "author": null,
+          "description": "Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBlci1DUFUtTlVNQS1Ob2RlLUNwdW1hc2vSAQA?oc=5",
+          "publishedOn": "2024-04-13T13:30:00.000Z",
+          "wordCount": 8717,
+          "title": "Linux 6.10 To Account For NUMA Node When Allocating Per-CPU Cpumasks - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3Lmlnb3JzbGFiLmRlL2VuL2F0dGVudGlvbi1saW51eC11c2Vycy1yYWR2LWJyaW5ncy1oYXJkd2FyZS1hY2NlbGVyYXRlZC1oLTI2NGgtMjY1LWVuY29kaW5nLWZvci1hbWQtZ3B1cy_SAQA",
+          "author": null,
+          "description": "Attention Linux users! RADV brings hardware-accelerated H.264/H.265 encoding for AMD GPUs  igorslab.de",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lmlnb3JzbGFiLmRlL2VuL2F0dGVudGlvbi1saW51eC11c2Vycy1yYWR2LWJyaW5ncy1oYXJkd2FyZS1hY2NlbGVyYXRlZC1oLTI2NGgtMjY1LWVuY29kaW5nLWZvci1hbWQtZ3B1cy_SAQA?oc=5",
+          "publishedOn": "2024-04-13T04:00:00.000Z",
+          "wordCount": 8717,
+          "title": "Attention Linux users! RADV brings hardware-accelerated H.264/H.265 encoding for AMD GPUs - igorslab.de",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiP2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMTIvZGF2aW5jaS1yZXNvbHZlLTE5LXB1YmxpYy1iZXRhL9IBAA",
           "author": null,
@@ -2736,6 +2736,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzEyL2djY18xNF9zaW5rc19pdGFuaWMv0gE_aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzEyL2djY18xNF9zaW5rc19pdGFuaWMv",
+          "author": null,
+          "description": "GCC 14 dropping IA64 support is final nail in the coffin for Itanium architecture  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzEyL2djY18xNF9zaW5rc19pdGFuaWMv0gE_aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzEyL2djY18xNF9zaW5rc19pdGFuaWMv?oc=5",
+          "publishedOn": "2024-04-12T10:30:00.000Z",
+          "wordCount": 8717,
+          "title": "GCC 14 dropping IA64 support is final nail in the coffin for Itanium architecture - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RVWEVETy1SeXplbi04ODQ1SFMtTGludXjSAQA",
           "author": null,
           "description": "TUXEDO Computers Launches First Linux Laptop With AMD Ryzen 7 8845HS  Phoronix",
@@ -2813,6 +2823,16 @@
           "publishedOn": "2024-04-11T20:59:21.000Z",
           "wordCount": 8717,
           "title": "Ubuntu 24.04 LTS Beta Is Now Available for Download with GNOME 46, Linux 6.8 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9pbnN0YWxsLWFkYi13aW5kb3dzLW1hY29zLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "How to install ADB on Windows, macOS, and Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9pbnN0YWxsLWFkYi13aW5kb3dzLW1hY29zLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2024-04-11T19:30:00.000Z",
+          "wordCount": 8717,
+          "title": "How to install ADB on Windows, macOS, and Linux - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2913,6 +2933,16 @@
           "publishedOn": "2024-04-11T12:00:00.000Z",
           "wordCount": 8717,
           "title": "A vulnerability in Linux distributions may allow unauthorized access - Security Magazine",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYnJvdGF0by1hYnlzc2FsLXRlcnJvcnMtaXMtZ29pbmctdG8tcnVpbi1teS1mcmVlLXRpbWUtZXNwZWNpYWxseS13aXRoLWNvLW9wL9IBAA",
+          "author": null,
+          "description": "Brotato: Abyssal Terrors is going to ruin my free time, especially with co-op  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvYnJvdGF0by1hYnlzc2FsLXRlcnJvcnMtaXMtZ29pbmctdG8tcnVpbi1teS1mcmVlLXRpbWUtZXNwZWNpYWxseS13aXRoLWNvLW9wL9IBAA?oc=5",
+          "publishedOn": "2024-04-11T11:59:22.000Z",
+          "wordCount": 8717,
+          "title": "Brotato: Abyssal Terrors is going to ruin my free time, especially with co-op - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7634,186 +7664,6 @@
           "wordCount": 5033,
           "title": "Zorin OS, a Windows-oriented Linux distribution, has received version 17.1 - Mezha.Media",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvYmF6eml0ZS1saW51eC12MjQwLWZpeGVzLWFzdXMtYWxseS1hbmQtbGVub3ZvLWxlZ2lvbi1nby1zdXNwZW5kLWlzc3Vlcy_SAQA",
-          "author": null,
-          "description": "Bazzite Linux v2.4.0 fixes ASUS Ally and Lenovo Legion Go suspend issues  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvYmF6eml0ZS1saW51eC12MjQwLWZpeGVzLWFzdXMtYWxseS1hbmQtbGVub3ZvLWxlZ2lvbi1nby1zdXNwZW5kLWlzc3Vlcy_SAQA?oc=5",
-          "publishedOn": "2024-03-15T10:34:01.000Z",
-          "wordCount": 5033,
-          "title": "Bazzite Linux v2.4.0 fixes ASUS Ally and Lenovo Legion Go suspend issues - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01vYmlsZXllLUV5ZVE1LUxpbnV4LTYuOdIBAA",
-          "author": null,
-          "description": "Mobileye EyeQ5 SoC Support Upstreamed In Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01vYmlsZXllLUV5ZVE1LUxpbnV4LTYuOdIBAA?oc=5",
-          "publishedOn": "2024-03-15T10:16:00.000Z",
-          "wordCount": 5033,
-          "title": "Mobileye EyeQ5 SoC Support Upstreamed In Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL2NvbXB1dGluZy9icm93c2Vycy9taWNyb3NvZnRzLXRlc3RpbmctYW4taWRlYS10by1wcm9tb3RlLWJpbmctaW4td2luZG93cy0xMS1hbmQtaXRzLXNvLWF3ZnVsLWl0LW1ha2VzLW1lLXdhbnQtdG8taW5zdGFsbC1saW51eNIBAA",
-          "author": null,
-          "description": "Microsoft's testing an idea to promote Bing in Windows 11 – and it's so awful, it makes me want to install Linux  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL2NvbXB1dGluZy9icm93c2Vycy9taWNyb3NvZnRzLXRlc3RpbmctYW4taWRlYS10by1wcm9tb3RlLWJpbmctaW4td2luZG93cy0xMS1hbmQtaXRzLXNvLWF3ZnVsLWl0LW1ha2VzLW1lLXdhbnQtdG8taW5zdGFsbC1saW51eNIBAA?oc=5",
-          "publishedOn": "2024-03-15T09:58:53.000Z",
-          "wordCount": 5033,
-          "title": "Microsoft's testing an idea to promote Bing in Windows 11 – and it's so awful, it makes me want to install Linux - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzE1L3pvcmluX29zXzE3XzEv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzAzLzE1L3pvcmluX29zXzE3XzEv",
-          "author": null,
-          "description": "Fresh version of Windows user-friendly Zorin OS arrives to tempt the Linux-wary  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzE1L3pvcmluX29zXzE3XzEv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzAzLzE1L3pvcmluX29zXzE3XzEv?oc=5",
-          "publishedOn": "2024-03-15T09:32:00.000Z",
-          "wordCount": 5033,
-          "title": "Fresh version of Windows user-friendly Zorin OS arrives to tempt the Linux-wary - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vdGVkaXVtLmNvLzIwMjQvMDMvMTQvZnVsbC10aW1lLWxpbnV4LXR3by1tb250aHMtbGF0ZXIv0gEA",
-          "author": null,
-          "description": "Switching To Linux Full-Time: My Thoughts Two Months Later  Tedium: The Dull Side of the Internet",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vdGVkaXVtLmNvLzIwMjQvMDMvMTQvZnVsbC10aW1lLWxpbnV4LXR3by1tb250aHMtbGF0ZXIv0gEA?oc=5",
-          "publishedOn": "2024-03-15T01:32:08.000Z",
-          "wordCount": 5033,
-          "title": "Switching To Linux Full-Time: My Thoughts Two Months Later - Tedium: The Dull Side of the Internet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1WRklP0gEA",
-          "author": null,
-          "description": "Linux 6.9 VFIO Updates Bring A New Driver For NVIDIA's Grace-Hopper Superchip  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1WRklP0gEA?oc=5",
-          "publishedOn": "2024-03-15T00:33:00.000Z",
-          "wordCount": 5033,
-          "title": "Linux 6.9 VFIO Updates Bring A New Driver For NVIDIA's Grace-Hopper Superchip - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtbGF1bmNoZXMtZGVza3RvcC1hcHAtd2luZG93cy1tYWNvcy1saW51eC_SAQA",
-          "author": null,
-          "description": "Proton Mail launches desktop app for Windows, macOS, and Linux  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtbGF1bmNoZXMtZGVza3RvcC1hcHAtd2luZG93cy1tYWNvcy1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-03-14T21:21:47.000Z",
-          "wordCount": 5033,
-          "title": "Proton Mail launches desktop app for Windows, macOS, and Linux - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAzL3Byb3Rvbi1tYWlsLWRlc2t0b3AtYXBwLWxpbnV40gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjQvMDMvcHJvdG9uLW1haWwtZGVza3RvcC1hcHAtbGludXgvYW1w",
-          "author": null,
-          "description": "Proton Mail’s New Desktop App is Available for Linux  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAzL3Byb3Rvbi1tYWlsLWRlc2t0b3AtYXBwLWxpbnV40gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjQvMDMvcHJvdG9uLW1haWwtZGVza3RvcC1hcHAtbGludXgvYW1w?oc=5",
-          "publishedOn": "2024-03-14T21:17:07.000Z",
-          "wordCount": 5033,
-          "title": "Proton Mail’s New Desktop App is Available for Linux - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaG5ldHdvcmtpbmcvdHV0b3JpYWwvSG93LXRvLXVzZS10aGUtTEZUUC1jbGllbnQtdG8tZG93bmxvYWQtZmlsZXPSAQA",
-          "author": null,
-          "description": "How to use the LFTP client to download files  TechTarget",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaG5ldHdvcmtpbmcvdHV0b3JpYWwvSG93LXRvLXVzZS10aGUtTEZUUC1jbGllbnQtdG8tZG93bmxvYWQtZmlsZXPSAQA?oc=5",
-          "publishedOn": "2024-03-14T20:00:39.000Z",
-          "wordCount": 5033,
-          "title": "How to use the LFTP client to download files - TechTarget",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWluc3RpbmN0LW1pMzAweC1yb2NtNtIBAA",
-          "author": null,
-          "description": "Harnessing Incredible AI Compute Power Atop Open-Source Software: 8 x AMD MI300X Accelerators On Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWluc3RpbmN0LW1pMzAweC1yb2NtNtIBAA?oc=5",
-          "publishedOn": "2024-03-14T19:00:00.000Z",
-          "wordCount": 5033,
-          "title": "Harnessing Incredible AI Compute Power Atop Open-Source Software: 8 x AMD MI300X Accelerators On Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1zaGFyZS1maWxlcy1hY3Jvc3MteW91ci1uZXR3b3JrLWZyb20tdGhlc2UtcG9wdWxhci1saW51eC1ndWlzL9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaG93LXRvLXNoYXJlLWZpbGVzLWFjcm9zcy15b3VyLW5ldHdvcmstZnJvbS10aGVzZS1wb3B1bGFyLWxpbnV4LWd1aXMv",
-          "author": null,
-          "description": "How to share files across your network from these popular Linux GUIs  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1zaGFyZS1maWxlcy1hY3Jvc3MteW91ci1uZXR3b3JrLWZyb20tdGhlc2UtcG9wdWxhci1saW51eC1ndWlzL9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaG93LXRvLXNoYXJlLWZpbGVzLWFjcm9zcy15b3VyLW5ldHdvcmstZnJvbS10aGVzZS1wb3B1bGFyLWxpbnV4LWd1aXMv?oc=5",
-          "publishedOn": "2024-03-14T17:59:00.000Z",
-          "wordCount": 5033,
-          "title": "How to share files across your network from these popular Linux GUIs - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL21lemhhLm1lZGlhL2VuLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtaGFzLXJlbGVhc2VkLWEtZGVza3RvcC1wcm9ncmFtLWZvci13aW5kb3dzLWFuZC1tYWNvcy10aGUtbGludXgtdmVyc2lvbi1pcy1zdGlsbC1pbi1iZXRhL9IBigFodHRwczovL21lemhhLm1lZGlhL2VuLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtaGFzLXJlbGVhc2VkLWEtZGVza3RvcC1wcm9ncmFtLWZvci13aW5kb3dzLWFuZC1tYWNvcy10aGUtbGludXgtdmVyc2lvbi1pcy1zdGlsbC1pbi1iZXRhL2FtcC8",
-          "author": null,
-          "description": "Proton Mail has released a desktop program for Windows and macOS, the Linux version is still in beta  Mezha.Media",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL21lemhhLm1lZGlhL2VuLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtaGFzLXJlbGVhc2VkLWEtZGVza3RvcC1wcm9ncmFtLWZvci13aW5kb3dzLWFuZC1tYWNvcy10aGUtbGludXgtdmVyc2lvbi1pcy1zdGlsbC1pbi1iZXRhL9IBigFodHRwczovL21lemhhLm1lZGlhL2VuLzIwMjQvMDMvMTQvcHJvdG9uLW1haWwtaGFzLXJlbGVhc2VkLWEtZGVza3RvcC1wcm9ncmFtLWZvci13aW5kb3dzLWFuZC1tYWNvcy10aGUtbGludXgtdmVyc2lvbi1pcy1zdGlsbC1pbi1iZXRhL2FtcC8?oc=5",
-          "publishedOn": "2024-03-14T17:56:19.000Z",
-          "wordCount": 5033,
-          "title": "Proton Mail has released a desktop program for Windows and macOS, the Linux version is still in beta - Mezha.Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Tb3VuZC1VcGRhdGVz0gEA",
-          "author": null,
-          "description": "Intel & AMD Enjoy SoundWire Updates With Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Tb3VuZC1VcGRhdGVz0gEA?oc=5",
-          "publishedOn": "2024-03-14T16:50:00.000Z",
-          "wordCount": 5033,
-          "title": "Intel & AMD Enjoy SoundWire Updates With Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc2VhLW9mLXRoaWV2ZXMtZ2V0cy1lYXN5LWFudGktY2hlYXQtdGhhbmtmdWxseS1lbmFibGVkLWZvci1zdGVhbS1kZWNrLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "Sea of Thieves gets Easy Anti-Cheat - thankfully enabled for Steam Deck / Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc2VhLW9mLXRoaWV2ZXMtZ2V0cy1lYXN5LWFudGktY2hlYXQtdGhhbmtmdWxseS1lbmFibGVkLWZvci1zdGVhbS1kZWNrLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2024-03-14T16:39:14.000Z",
-          "wordCount": 5033,
-          "title": "Sea of Thieves gets Easy Anti-Cheat - thankfully enabled for Steam Deck / Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LmljbGFyaWZpZWQuY29tLzkzMDc1L3Byb3Rvbi1sYXVuY2hlcy1kZXNrdG9wLW1haWwtYXBwLWZvci1tYWMtd2luZG93cy1saW51eNIBW2h0dHBzOi8vd3d3LmljbGFyaWZpZWQuY29tLzkzMDc1L3Byb3Rvbi1sYXVuY2hlcy1kZXNrdG9wLW1haWwtYXBwLWZvci1tYWMtd2luZG93cy1saW51eC9hbXA",
-          "author": null,
-          "description": "Proton Launches Desktop Mail App for Mac, Windows, Linux  iClarified",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmljbGFyaWZpZWQuY29tLzkzMDc1L3Byb3Rvbi1sYXVuY2hlcy1kZXNrdG9wLW1haWwtYXBwLWZvci1tYWMtd2luZG93cy1saW51eNIBW2h0dHBzOi8vd3d3LmljbGFyaWZpZWQuY29tLzkzMDc1L3Byb3Rvbi1sYXVuY2hlcy1kZXNrdG9wLW1haWwtYXBwLWZvci1tYWMtd2luZG93cy1saW51eC9hbXA?oc=5",
-          "publishedOn": "2024-03-14T16:12:26.000Z",
-          "wordCount": 5033,
-          "title": "Proton Launches Desktop Mail App for Mac, Windows, Linux - iClarified",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03Ni1yZWZyZXNoZXMtaXRzLWFkZGVyLXdzLWxpbnV4LWxhcHRvcC13aXRoLWFuLWh4LWNsYXNzLTE0dGgtZ2VuLWludGVsLWNwddIBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03Ni1yZWZyZXNoZXMtaXRzLWFkZGVyLXdzLWxpbnV4LWxhcHRvcC13aXRoLWFuLWh4LWNsYXNzLTE0dGgtZ2VuLWludGVsLWNwdS9hbXA",
-          "author": null,
-          "description": "System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03Ni1yZWZyZXNoZXMtaXRzLWFkZGVyLXdzLWxpbnV4LWxhcHRvcC13aXRoLWFuLWh4LWNsYXNzLTE0dGgtZ2VuLWludGVsLWNwddIBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03Ni1yZWZyZXNoZXMtaXRzLWFkZGVyLXdzLWxpbnV4LWxhcHRvcC13aXRoLWFuLWh4LWNsYXNzLTE0dGgtZ2VuLWludGVsLWNwdS9hbXA?oc=5",
-          "publishedOn": "2024-03-14T15:45:33.000Z",
-          "wordCount": 5033,
-          "title": "System76 Refreshes Its Adder WS Linux Laptop with an HX-Class 14th Gen Intel CPU - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTQvc3lzdGVtNzYtYWRkZXItd3MtMTR0aC1nZW4taW50ZWwtY3B1LWxpbnV4LWxhcHRvcC_SAQA",
-          "author": null,
-          "description": "System76 launches refreshed Adder WS Linux laptop with 14th Gen Intel CPU  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMTQvc3lzdGVtNzYtYWRkZXItd3MtMTR0aC1nZW4taW50ZWwtY3B1LWxpbnV4LWxhcHRvcC_SAQA?oc=5",
-          "publishedOn": "2024-03-14T15:00:09.000Z",
-          "wordCount": 5033,
-          "title": "System76 launches refreshed Adder WS Linux laptop with 14th Gen Intel CPU - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3Vuc2hpbmUtZ2FtZS1zdHJlYW1pbmctYXBwLWZvci1tb29ubGlnaHQtdjAyMjEtb3V0LXdpdGgtbW9yZS1saW51eC1pbXByb3ZlbWVudHMv0gEA",
-          "author": null,
-          "description": "Sunshine game streaming app for Moonlight v0.22.1 out with more Linux improvements  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3Vuc2hpbmUtZ2FtZS1zdHJlYW1pbmctYXBwLWZvci1tb29ubGlnaHQtdjAyMjEtb3V0LXdpdGgtbW9yZS1saW51eC1pbXByb3ZlbWVudHMv0gEA?oc=5",
-          "publishedOn": "2024-03-14T14:39:30.000Z",
-          "wordCount": 5033,
-          "title": "Sunshine game streaming app for Moonlight v0.22.1 out with more Linux improvements - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7822,6 +7672,86 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/simple64-104686.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very user-friendly and powerful N64 emulator that should provide a good out-of-the-box experience",
+          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/simple64-104686.shtml",
+          "publishedOn": "2024-04-13T10:42:22.000Z",
+          "wordCount": 1647,
+          "title": "simple64 2024.03.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/simple64_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Super-Productivity-104173.shtml",
+          "author": "Softpedia Linux",
+          "description": "A comprehensive and stylish To-do list app that also features Jira, GitLab and GitHub integration",
+          "link": "https://linux.softpedia.com/get/Utilities/Super-Productivity-104173.shtml",
+          "publishedOn": "2024-04-13T08:17:25.000Z",
+          "wordCount": 1593,
+          "title": "Super Productivity 8.0.5",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Super-Productivity_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Programming/Version-Control/SmartSVN-8997.shtml",
+          "author": "Softpedia Linux",
+          "description": "This is a commercial SVN (Subversion) client for Linux, Windows and Mac operating systems",
+          "link": "https://linux.softpedia.com/get/Programming/Version-Control/SmartSVN-8997.shtml",
+          "publishedOn": "2024-04-13T08:10:36.000Z",
+          "wordCount": 1787,
+          "title": "SmartSVN 14.4.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SmartSVN_4.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Video/PlasmaTube-104448.shtml",
+          "author": "Softpedia Linux",
+          "description": "A smooth, modern and simple YouTube video player specifically designed for your Plasma KDE desktop",
+          "link": "https://linux.softpedia.com/get/Multimedia/Video/PlasmaTube-104448.shtml",
+          "publishedOn": "2024-04-13T07:52:12.000Z",
+          "wordCount": 1580,
+          "title": "PlasmaTube 24.02.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PlasmaTube_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Backup/Pika-Backup-104182.shtml",
+          "author": "Softpedia Linux",
+          "description": "Gorgeous and dead-easy to use utility that allows you to backup your data locally, on external storage devices, and even remote drives",
+          "link": "https://linux.softpedia.com/get/System/Backup/Pika-Backup-104182.shtml",
+          "publishedOn": "2024-04-13T07:48:28.000Z",
+          "wordCount": 1762,
+          "title": "Pika Backup 0.7.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Pika-Backup_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Video/GPU-Screen-Recorder-104319.shtml",
+          "author": "Softpedia Linux",
+          "description": "Record your desktop activity offline, perform live streaming, or capture those nice gaming instant replays, all with the help of this nice NVIDIA-based screen recorder",
+          "link": "https://linux.softpedia.com/get/Multimedia/Video/GPU-Screen-Recorder-104319.shtml",
+          "publishedOn": "2024-04-13T07:22:22.000Z",
+          "wordCount": 1712,
+          "title": "GPU Screen Recorder 3.7.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GPU-Screen-Recorder_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Curtail-104192.shtml",
+          "author": "Softpedia Linux",
+          "description": "Compress PNGs, JPEGs, and WEBPs with the help of this nifty, little image compression app for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Curtail-104192.shtml",
+          "publishedOn": "2024-04-13T06:19:02.000Z",
+          "wordCount": 1645,
+          "title": "Curtail 1.9.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Curtail_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
+          "author": "Softpedia Linux",
+          "description": "A lightweight yet very capable compression/decompression application for Linux distributions",
+          "link": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
+          "publishedOn": "2024-04-13T06:04:00.000Z",
+          "wordCount": 1548,
+          "title": "Ark 24.02.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ark_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/StreamController-104685.shtml",
           "author": "Softpedia Linux",
@@ -7871,6 +7801,16 @@
           "wordCount": 1704,
           "title": "PowerShell 7.4.2 / 7.5.0 Preview 2",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-PowerShell_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/PHP-52-7504.shtml",
+          "author": "Softpedia Linux",
+          "description": "A high-level scripting language that can be used to develop Web-based applications",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/PHP-52-7504.shtml",
+          "publishedOn": "2024-04-12T10:25:31.000Z",
+          "wordCount": 1548,
+          "title": "PHP 8.3.6 / 7.4.29 / 7.4.33",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PHP-52_1.gif"
         },
         {
           "id": "https://linux.softpedia.com/get/Utilities/HiFile-104318.shtml",
@@ -8151,6 +8091,16 @@
           "wordCount": 1387,
           "title": "Blanket 0.7.0",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Blanket_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Monitoring/Astra-Monitor-104649.shtml",
+          "author": "Softpedia Linux",
+          "description": "A new, cutting-edge, feature-packed and uber-customizable system monitoring that comes in the form of a GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/System/Monitoring/Astra-Monitor-104649.shtml",
+          "publishedOn": "2024-04-08T07:32:38.000Z",
+          "wordCount": 1896,
+          "title": "Astra Monitor v19 Beta",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Astra-Monitor_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
@@ -10359,6 +10309,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/",
+          "author": "Tatev Aslanyan",
+          "description": "Karl Pearson was a British mathematician who once said \"Statistics is the grammar of science\". This holds true especially for Computer and Information Sciences, Physical Science, and Biological Science.  When you are getting started with your journey in Data Science, Data Analytics, Machine Learning, or AI (including Generative AI)",
+          "link": "https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/",
+          "publishedOn": "2024-04-12T23:08:39.000Z",
+          "wordCount": 15219,
+          "title": "Learn Statistics for Data Science, Machine Learning, and AI – Full Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Learn-Statistics-Cover-Version-2--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/explore-mocking-in-net/",
           "author": "Grant Riordan",
           "description": "Let's go on a journey to demystify the concept of mocking in .NET software development. Let's delve into how straightforward and accessible mocking truly is. Join me as we navigate through this subject, as I cover:  * Understanding mocking: Why it's necessary for building a robust testing",
@@ -11077,36 +11037,6 @@
           "wordCount": 876,
           "title": "From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/phoebe-voong-fadel-freecodecamp-podcast.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/back-end-developer/",
-          "author": "Beau Carnes",
-          "description": "Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a back end developer, this is where to start. We just released our back end developer",
-          "link": "https://www.freecodecamp.org/news/back-end-developer/",
-          "publishedOn": "2024-03-14T14:18:54.000Z",
-          "wordCount": 1896,
-          "title": "Back End Developer Roadmap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/backendroadmap.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/install-neovim-with-nvchad/",
-          "author": "Rajdeep Singh",
-          "description": "Neovim [https://neovim.io/] is a popular IDE and is a solid alternative to VS Code. Neovim supports every major programming language and allows you to build anything, anywhere.  Neovim can be a bit problematic to start with, especially for newcomers. Writing a Neovim configuration from scratch is often difficult. To",
-          "link": "https://www.freecodecamp.org/news/install-neovim-with-nvchad/",
-          "publishedOn": "2024-03-14T14:17:07.000Z",
-          "wordCount": 1221,
-          "title": "How to Install Neovim Using the nvchad Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/How-to-Install-Neovim-Using-the-nvchad-Framework.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/",
-          "author": "Daniel Asaboro",
-          "description": "Programming can be a rollercoaster ride. It catapults you from feeling like a genius to feeling utterly clueless, and back again — all in the blink of an eye.  What's even more wild is that this cycle repeats itself countless times throughout the day, and for the entirety of",
-          "link": "https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/",
-          "publishedOn": "2024-03-14T13:37:45.000Z",
-          "wordCount": 5028,
-          "title": "How to Use and Create Streams from Scratch in Dart and Flutter – a Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/stream-controller-1.png"
         }
       ]
     }
