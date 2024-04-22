@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=415918",
+          "author": "Shovon",
+          "description": "You can passthrough USB devices from your Proxmox VE host to any of your Proxmox VE virtual machines (VMs) and access the USB devices from the Proxmox VE virtual machines in the same way as you do on any other computers. In this article, I will show you how to passthrough USB devices to a […]",
+          "link": "https://linuxhint.com/how-to-passthrough-usb-devices-to-proxmox-ve-8-virtual-machines-vms/",
+          "publishedOn": "2024-04-21T16:07:01.000Z",
+          "wordCount": 5339,
+          "title": "How to Passthrough USB Devices to Proxmox VE 8 Virtual Machines (VMs)",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=415877",
           "author": "Shovon",
           "description": "Nested Virtualization is a CPU feature of AMD and Intel processors that allows virtual machines to run their own hypervisor program (i.e. VirtualBox, VMware Workstation Pro/Player, VMware vSphere/ESXi, KVM/QEMU, Proxmox VE) and virtual machines. Simply put, nested virtualization allows a virtual machine to run more virtual machines in it (using the same or a different […]",
@@ -2277,66 +2287,6 @@
           "wordCount": 10196,
           "title": "How to Install Moodle on Debian 12",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188393",
-          "author": "Web Webster",
-          "description": "Starting with Redis 7.4, licensing will change to RSALv2 and SSPLv1. Fedora is considering removing it from its repositories.\nThe post Redis NoSQL Key/Value Store Is No More Open Source Software appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/redis-nosql-key-value-store-is-no-more-open-source-software/",
-          "publishedOn": "2024-03-23T02:00:39.000Z",
-          "wordCount": 10188,
-          "title": "Redis NoSQL Key/Value Store Is No More Open Source Software",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188392",
-          "author": "Web Webster",
-          "description": "Time to put on your birthday hat and sing Happy Birthday. Today the AlmaLinux OS Foundation turns three!\nThe post Happy Third Birthday to the AlmaLinux OS Foundation! appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/happy-third-birthday-to-the-almalinux-os-foundation/",
-          "publishedOn": "2024-03-23T00:00:33.000Z",
-          "wordCount": 10178,
-          "title": "Happy Third Birthday to the AlmaLinux OS Foundation!",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188390",
-          "author": "Web Webster",
-          "description": "Recently, Canonical announced a set of default wallpapers that will be used in the upcoming Ubuntu 24.04 LTS release, with both official and community offerings. Let’s take a brief look at them.\nThe post Ubuntu 24.04 LTS Wallpapers Are Here: Don’t Miss Them! appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-24-04-lts-wallpapers-are-here-dont-miss-them/",
-          "publishedOn": "2024-03-22T20:00:24.000Z",
-          "wordCount": 10199,
-          "title": "Ubuntu 24.04 LTS Wallpapers Are Here: Don’t Miss Them!",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188399",
-          "author": "Web Webster",
-          "description": "The KDE Project released today KDE Gear 24.02.1 as the first maintenance update to the latest KDE Gear 24.02 software suite, bringing bug fixes and improvements for many of the default KDE applications.\nThe post KDE Gear 24.02.1 Improves Dolphin, Spectacle, Okular, & Other KDE Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-gear-24-02-1-improves-dolphin-spectacle-okular-other-kde-apps/",
-          "publishedOn": "2024-03-22T17:30:43.000Z",
-          "wordCount": 10210,
-          "title": "KDE Gear 24.02.1 Improves Dolphin, Spectacle, Okular, & Other KDE Apps",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188412",
-          "author": "Web Webster",
-          "description": "Expect TrueNAS CORE 13.3 in June ’24, based on FreeBSD 13.3, with enhancements in Samba, OpenZFS, SMART, and vital bug/security fixes.  \nThe post iXsystems Confirms Ongoing Support for Both TrueNAS CORE & SCALE appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ixsystems-confirms-ongoing-support-for-both-truenas-core-scale/",
-          "publishedOn": "2024-03-22T16:49:21.000Z",
-          "wordCount": 10199,
-          "title": "iXsystems Confirms Ongoing Support for Both TrueNAS CORE & SCALE",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188401",
-          "author": "Web Webster",
-          "description": "Linux hardware vendor System76 unveiled a new Lemur Pro Linux-powered notebook today with a brand-new design and Intel Core Ultra processors.\nThe post System76 Unveils New Lemur Pro Linux Laptop With Intel Core Ultra Processors appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/system76-unveils-new-lemur-pro-linux-laptop-with-intel-core-ultra-processors/",
-          "publishedOn": "2024-03-22T15:55:21.000Z",
-          "wordCount": 10217,
-          "title": "System76 Unveils New Lemur Pro Linux Laptop With Intel Core Ultra Processors",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2345,6 +2295,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMijQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9BbmJlckRlY2stUG9wdWxhci1BbmJlcm5pYy1yZXRyby1nYW1pbmctaGFuZGhlbGQtdHJhbnNmb3JtZWQtaW50by1MaW51eC10ZXJtaW5hbC13aXRoLURJWS1wcm9qZWN0LjgyOTkyMS4wLmh0bWzSAQA",
+          "author": null,
+          "description": "AnberDeck: Popular Anbernic retro gaming handheld transformed into Linux terminal with DIY project  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9BbmJlckRlY2stUG9wdWxhci1BbmJlcm5pYy1yZXRyby1nYW1pbmctaGFuZGhlbGQtdHJhbnNmb3JtZWQtaW50by1MaW51eC10ZXJtaW5hbC13aXRoLURJWS1wcm9qZWN0LjgyOTkyMS4wLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-04-21T22:44:54.000Z",
+          "wordCount": 8911,
+          "title": "AnberDeck: Popular Anbernic retro gaming handheld transformed into Linux terminal with DIY project - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzUtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Linux 6.9-rc5 Released: The Diffstat \"Looks A Bit Wonky\" But Not Bad  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzUtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2024-04-21T20:47:00.000Z",
+          "wordCount": 8911,
+          "title": "Linux 6.9-rc5 Released: The Diffstat \"Looks A Bit Wonky\" But Not Bad - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnluZXRuZXdzLmNvbS9idXNpbmVzcy9hcnRpY2xlL3Mxd3ZmYWd6YdIBAA",
+          "author": null,
+          "description": "How one Microsoft staffer saved humanity  Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnluZXRuZXdzLmNvbS9idXNpbmVzcy9hcnRpY2xlL3Mxd3ZmYWd6YdIBAA?oc=5",
+          "publishedOn": "2024-04-21T20:19:22.000Z",
+          "wordCount": 8911,
+          "title": "How one Microsoft staffer saved humanity - Ynetnews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1SRE5BMy1QbHVzLUZpcm13YXJlLUZpbGVz0gEA",
+          "author": null,
+          "description": "AMD Posts RDNA3+ Firmware Files For Linux Users  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1SRE5BMy1QbHVzLUZpcm13YXJlLUZpbGVz0gEA?oc=5",
+          "publishedOn": "2024-04-21T14:25:00.000Z",
+          "wordCount": 8911,
+          "title": "AMD Posts RDNA3+ Firmware Files For Linux Users - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FjZXItQXNwaXJlLU9uZS1MaW51eC02LjEwLUVD0gEA",
+          "author": null,
+          "description": "Acer Aspire One ARM Laptop To Have \"Almost Full\" Support With Linux 6.10  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FjZXItQXNwaXJlLU9uZS1MaW51eC02LjEwLUVD0gEA?oc=5",
+          "publishedOn": "2024-04-21T10:46:00.000Z",
+          "wordCount": 8911,
+          "title": "Acer Aspire One ARM Laptop To Have \"Almost Full\" Support With Linux 6.10 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzUteDg2LVVyZ2VudNIBAA",
+          "author": null,
+          "description": "Linux 6.9-rc5 Picking Up Fixes For Intel FRED, BHI & GFNI/VAES Checks  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1yYzUteDg2LVVyZ2VudNIBAA?oc=5",
+          "publishedOn": "2024-04-21T10:08:00.000Z",
+          "wordCount": 8911,
+          "title": "Linux 6.9-rc5 Picking Up Fixes For Intel FRED, BHI & GFNI/VAES Checks - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMifWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvZWRpdG9yaWFscy9mb3JnZXQtdWJ1bnR1LTI0MDQtbHRzLXdoYXQteW91LXJlYWxseS13YW50LXRvLWRvd25sb2FkLXRoaXMtbW9udGgtaXMtZmVkb3JhLXNpbHZlcmJsdWUtNDAv0gF2aHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvZm9yZ2V0LXVidW50dS0yNDA0LWx0cy13aGF0LXlvdS1yZWFsbHktd2FudC10by1kb3dubG9hZC10aGlzLW1vbnRoLWlzLWZlZG9yYS1zaWx2ZXJibHVlLTQwLw",
           "author": null,
@@ -7534,86 +7544,6 @@
           "wordCount": 5053,
           "title": "Cloud-native community celebrates Kubernetes’ 'Linux moment' and its growing role in enterprise AI - SiliconANGLE News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtcnVuLWEtc2luZ2xlLWNvbW1hbmQtYWNyb3NzLW11bHRpcGxlLXNlcnZlcnMtd2l0aC1zc2gv0gEA",
-          "author": null,
-          "description": "Linux: Run a Single Command across Multiple Servers with SSH  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtcnVuLWEtc2luZ2xlLWNvbW1hbmQtYWNyb3NzLW11bHRpcGxlLXNlcnZlcnMtd2l0aC1zc2gv0gEA?oc=5",
-          "publishedOn": "2024-03-23T13:07:10.000Z",
-          "wordCount": 5053,
-          "title": "Linux: Run a Single Command across Multiple Servers with SSH - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVJ1c3QtS01TLVJWS01T0gEA",
-          "author": null,
-          "description": "Rust Bindings Posted For KMS Drivers, VKMS Ported To Rust  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVJ1c3QtS01TLVJWS01T0gEA?oc=5",
-          "publishedOn": "2024-03-23T10:57:00.000Z",
-          "wordCount": 5053,
-          "title": "Rust Bindings Posted For KMS Drivers, VKMS Ported To Rust - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dTTC1EZWZhdWx0cy1ETlMtVHVubmVsaW5n0gEA",
-          "author": null,
-          "description": "Microsoft Enables DNS Tunneling By Default For WSL - More Reliable Networking  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dTTC1EZWZhdWx0cy1ETlMtVHVubmVsaW5n0gEA?oc=5",
-          "publishedOn": "2024-03-22T18:00:00.000Z",
-          "wordCount": 5053,
-          "title": "Microsoft Enables DNS Tunneling By Default For WSL - More Reliable Networking - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vbGlsaXB1dGluZy5jb20vc3lzdGVtNzYtcGFuZ29saW4tNC1wb3VuZC1saW51eC1sYXB0b3AtdXBkYXRlZC13aXRoLXJ5emVuLTctNzg0MHUtcHJvY2Vzc29yLWFuZC0xNi0xLWluY2gtZGlzcGxheS_SAQA",
-          "author": null,
-          "description": "System76 Pangolin Linux laptop updated with Ryzen 7 7840U processor and 16.1 inch display  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbGlsaXB1dGluZy5jb20vc3lzdGVtNzYtcGFuZ29saW4tNC1wb3VuZC1saW51eC1sYXB0b3AtdXBkYXRlZC13aXRoLXJ5emVuLTctNzg0MHUtcHJvY2Vzc29yLWFuZC0xNi0xLWluY2gtZGlzcGxheS_SAQA?oc=5",
-          "publishedOn": "2024-03-22T17:42:57.000Z",
-          "wordCount": 5053,
-          "title": "System76 Pangolin Linux laptop updated with Ryzen 7 7840U processor and 16.1 inch display - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SSVNDLVbSAQA",
-          "author": null,
-          "description": "Linux 6.9 Adds New RISC-V Vector-Accelerated Crypto Routines  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SSVNDLVbSAQA?oc=5",
-          "publishedOn": "2024-03-22T16:53:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Adds New RISC-V Vector-Accelerated Crypto Routines - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Mb29uZ0FyY2jSAQA",
-          "author": null,
-          "description": "LoongArch Enables More Kernel Functionality With Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Mb29uZ0FyY2jSAQA?oc=5",
-          "publishedOn": "2024-03-22T14:30:00.000Z",
-          "wordCount": 5053,
-          "title": "LoongArch Enables More Kernel Functionality With Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3lzdGVtNzYtcmVsZWFzZS11cGdyYWRlZC1sZW11ci1wcm8tbGFwdG9wLXBsdXMtYS1kZXNrdG9wLXNhbGUtbm93LW9uL9IBAA",
-          "author": null,
-          "description": "System76 release upgraded Lemur Pro laptop, plus a desktop sale now on  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvc3lzdGVtNzYtcmVsZWFzZS11cGdyYWRlZC1sZW11ci1wcm8tbGFwdG9wLXBsdXMtYS1kZXNrdG9wLXNhbGUtbm93LW9uL9IBAA?oc=5",
-          "publishedOn": "2024-03-22T14:18:55.000Z",
-          "wordCount": 5053,
-          "title": "System76 release upgraded Lemur Pro laptop, plus a desktop sale now on - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9hY2lkcG91ci13aXBlci1saW51eC11a3JhaW5lL9IBAA",
-          "author": null,
-          "description": "New AcidPour Wiper Targeting Linux Devices Spotted in Ukraine  Infosecurity Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9hY2lkcG91ci13aXBlci1saW51eC11a3JhaW5lL9IBAA?oc=5",
-          "publishedOn": "2024-03-22T13:45:00.000Z",
-          "wordCount": 5053,
-          "title": "New AcidPour Wiper Targeting Linux Devices Spotted in Ukraine - Infosecurity Magazine",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7622,6 +7552,76 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Beaver-Notes-104690.shtml",
+          "author": "Softpedia Linux",
+          "description": "Keep your notes safe and synchronized between multiple devices with the help of Beaver Notes, a free and open-source note-taking app that's built with usability and privacy in mind",
+          "link": "https://linux.softpedia.com/get/Utilities/Beaver-Notes-104690.shtml",
+          "publishedOn": "2024-04-21T19:27:24.000Z",
+          "wordCount": 1708,
+          "title": "Beaver Notes 3.0.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Beaver-Notes_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Youtube-Downloader-104274.shtml",
+          "author": "Softpedia Linux",
+          "description": "Download YouTube videos or audio files with the help of this nice Electron-based app",
+          "link": "https://linux.softpedia.com/get/Utilities/Youtube-Downloader-104274.shtml",
+          "publishedOn": "2024-04-21T14:26:56.000Z",
+          "wordCount": 1588,
+          "title": "Youtube Downloader 3.17.4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Youtube-Downloader_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/VoiceGen-104295.shtml",
+          "author": "Softpedia Linux",
+          "description": "Simple and powerful text to speech utility that comes with support for multiple voice offline/online engines",
+          "link": "https://linux.softpedia.com/get/Utilities/VoiceGen-104295.shtml",
+          "publishedOn": "2024-04-21T14:21:43.000Z",
+          "wordCount": 1522,
+          "title": "VoiceGen 2.1.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/VoiceGen_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Reco-104287.shtml",
+          "author": "Softpedia Linux",
+          "description": "Record ideas, thoughts, songs, or audio with the help of this nice little application",
+          "link": "https://linux.softpedia.com/get/Utilities/Reco-104287.shtml",
+          "publishedOn": "2024-04-21T13:00:53.000Z",
+          "wordCount": 1584,
+          "title": "Reco 5.0.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Reco_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Monitoring/Mission-Center-104584.shtml",
+          "author": "Softpedia Linux",
+          "description": "Monitor your system's resource usage with the help of fast and stylish GTK application",
+          "link": "https://linux.softpedia.com/get/System/Monitoring/Mission-Center-104584.shtml",
+          "publishedOn": "2024-04-21T12:15:44.000Z",
+          "wordCount": 1749,
+          "title": "Mission Center 0.4.5",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mission-Center_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Custom-Hot-Corners-Extended-104074.shtml",
+          "author": "Softpedia Linux",
+          "description": "Improve your productivity with the help of this nifty GNOME Shell extension that allows you to trigger various actions on the corners and edges of your screen",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Custom-Hot-Corners-Extended-104074.shtml",
+          "publishedOn": "2024-04-21T11:06:35.000Z",
+          "wordCount": 1641,
+          "title": "Custom Hot Corners - Extended 40",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Custom-Hot-Corners-Extended_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Converter-Khaleel-Al-Adhami-104387.shtml",
+          "author": "Softpedia Linux",
+          "description": "Convert images with the help of this stylish, GTK4+/Libadwaita frontend for ImageMagick",
+          "link": "https://linux.softpedia.com/get/Utilities/Converter-Khaleel-Al-Adhami-104387.shtml",
+          "publishedOn": "2024-04-21T11:01:46.000Z",
+          "wordCount": 1642,
+          "title": "Converter 2.2.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Converter-Khaleel-Al-Adhami_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/balenaEtcher-103904.shtml",
           "author": "Softpedia Linux",
@@ -10068,16 +10068,6 @@
           "wordCount": 1861,
           "title": "The Power of :has() in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377635"
-        },
-        {
-          "id": "https://css-tricks.com/?p=377565",
-          "author": "Chris DeMars",
-          "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
-          "publishedOn": "2024-03-22T18:52:31.000Z",
-          "wordCount": 1946,
-          "title": "Accessible Forms with Pseudo Classes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
         }
       ]
     },
@@ -11037,26 +11027,6 @@
           "wordCount": 1852,
           "title": "How to Troubleshoot Your Network on Linux – OSI Model Troubleshooting Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/",
-          "author": "Vahe Aslanyan",
-          "description": "As a developer, you'll want to create a digital space that mirrors your unique skills and persona. And a stellar personal portfolio website can help you make your mark in the digital universe.  Imagine a space that not only highlights your finest achievements but also attracts potential clients and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/",
-          "publishedOn": "2024-03-22T21:40:39.000Z",
-          "wordCount": 7647,
-          "title": "How to Create a Great Personal Portfolio Page – a Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/How-to-Create-a-Great-Personal-Portfolio-Page-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/",
-          "author": "Quincy Larson",
-          "description": "In this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Jessica Lord, AKA JLord. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, Jessica created the Electon team at GitHub. Electron is a library for building",
-          "link": "https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/",
-          "publishedOn": "2024-03-22T14:51:00.000Z",
-          "wordCount": 892,
-          "title": "From Architect to Developer at GitHub with Jessica Lord [freeCodeCamp Podcast #116]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Jessica-Lord-JLord-GitHub-Dev-freeCodeCamp-Podcast.jpeg"
         }
       ]
     }
