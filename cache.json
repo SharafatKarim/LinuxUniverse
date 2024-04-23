@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=415933",
+          "author": "Denis Kariuki",
+          "description": "If you prefer KDE over GNOME, you can install the KDE on Ubuntu 24.04. You can install its full or standard version, and we've covered the steps to do so. Read on!",
+          "link": "https://linuxhint.com/how-to-install-kde-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-22T08:37:38.000Z",
+          "wordCount": 4095,
+          "title": "How to Install KDE on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=415918",
           "author": "Shovon",
           "description": "You can passthrough USB devices from your Proxmox VE host to any of your Proxmox VE virtual machines (VMs) and access the USB devices from the Proxmox VE virtual machines in the same way as you do on any other computers. In this article, I will show you how to passthrough USB devices to a […]",
@@ -828,6 +838,66 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188830",
+          "author": "Web Webster",
+          "description": "Variable refresh rate support is now available in Niri, enhancing your visual experience with smoother animations.\nThe post Niri 0.1.5 Wayland Compositor Brings More Than Just Aesthetics appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/niri-0-1-5-wayland-compositor-brings-more-than-just-aesthetics/",
+          "publishedOn": "2024-04-23T00:00:48.000Z",
+          "wordCount": 10166,
+          "title": "Niri 0.1.5 Wayland Compositor Brings More Than Just Aesthetics",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188828",
+          "author": "Web Webster",
+          "description": "Thunderbird’s next major release includes Rust integration for improved Microsoft Exchange support, eliminating the need for third-party add-ons.\nThe post Thunderbird Plans for Rust Integration with Microsoft Exchange Service Native Implementation appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/thunderbird-plans-for-rust-integration-with-microsoft-exchange-service-native-implementation/",
+          "publishedOn": "2024-04-22T20:00:42.000Z",
+          "wordCount": 10181,
+          "title": "Thunderbird Plans for Rust Integration with Microsoft Exchange Service Native Implementation",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188827",
+          "author": "Web Webster",
+          "description": "After democratically held elections, Jonathan Carter stepped down as the Debian project leader, passing the role to Andreas Tille.\nThe post Andreas Tille Is the New Debian Project Leader appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/andreas-tille-is-the-new-debian-project-leader/",
+          "publishedOn": "2024-04-22T18:00:04.000Z",
+          "wordCount": 10176,
+          "title": "Andreas Tille Is the New Debian Project Leader",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188843",
+          "author": "Web Webster",
+          "description": "Audacity’s latest update brings cloud saving, enhanced beat detection, pitch adjustment, and non-destructive pitch changes.\nThe post Audacity 3.5 Adds Cloud Projects & Advanced Tempo Detection appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/audacity-3-5-adds-cloud-projects-advanced-tempo-detection/",
+          "publishedOn": "2024-04-22T17:30:36.000Z",
+          "wordCount": 10161,
+          "title": "Audacity 3.5 Adds Cloud Projects & Advanced Tempo Detection",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188842",
+          "author": "Web Webster",
+          "description": "What are the differences between Ubuntu 22.04 and Ubuntu 24.04? Should you upgrade to Ubuntu 24.04? Find out more here.\nThe post Ubuntu 22.04 vs 24.04: What Has Changed? appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/ubuntu-22-04-vs-24-04-what-has-changed/",
+          "publishedOn": "2024-04-22T16:00:29.000Z",
+          "wordCount": 10169,
+          "title": "Ubuntu 22.04 vs 24.04: What Has Changed?",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188841",
+          "author": "Web Webster",
+          "description": "EdgeDB 5.0 graph-relational database introduces branching functions to align database and code branches for efficient schema changes.\nThe post EdgeDB 5.0 Launches with Branching Functionality appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/edgedb-5-0-launches-with-branching-functionality/",
+          "publishedOn": "2024-04-22T15:25:00.000Z",
+          "wordCount": 10162,
+          "title": "EdgeDB 5.0 Launches with Branching Functionality",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188740",
           "author": "Web Webster",
@@ -2277,16 +2347,6 @@
           "wordCount": 10184,
           "title": "How to Install Symfony Framework in Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188367",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install Moodle on Debian 12. Moodle stands out as a beacon of open-source learning management systems (LMS). Renowned for its flexibility and robustness, Moodle caters to educators’ and learners‘ diverse needs, offering a platform for creating personalized learning environments.\nThe post How to Install Moodle on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-moodle-on-debian-12/",
-          "publishedOn": "2024-03-23T17:00:53.000Z",
-          "wordCount": 10196,
-          "title": "How to Install Moodle on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2295,6 +2355,206 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtLUxpbnV4LTRLLVNjYWxpbmctQ2hhbmdl0gEA",
+          "author": null,
+          "description": "Steam On Linux Changes The Default Scaling Factor For 4K Displays  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtLUxpbnV4LTRLLVNjYWxpbmctQ2hhbmdl0gEA?oc=5",
+          "publishedOn": "2024-04-23T00:20:00.000Z",
+          "wordCount": 8744,
+          "title": "Steam On Linux Changes The Default Scaling Factor For 4K Displays - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2ZpcmVmb3gtbmlnaHRseS1pcy1ub3ctYXZhaWxhYmxlLWZvci1saW51eC1vbi1hcm02NNIBW2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2ZpcmVmb3gtbmlnaHRseS1pcy1ub3ctYXZhaWxhYmxlLWZvci1saW51eC1vbi1hcm02NC9hbXA",
+          "author": null,
+          "description": "Firefox Nightly is Now Available for Linux on ARM64  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2ZpcmVmb3gtbmlnaHRseS1pcy1ub3ctYXZhaWxhYmxlLWZvci1saW51eC1vbi1hcm02NNIBW2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2ZpcmVmb3gtbmlnaHRseS1pcy1ub3ctYXZhaWxhYmxlLWZvci1saW51eC1vbi1hcm02NC9hbXA?oc=5",
+          "publishedOn": "2024-04-22T23:11:04.000Z",
+          "wordCount": 8744,
+          "title": "Firefox Nightly is Now Available for Linux on ARM64 - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xBQ1QtMC41LjQtQU1ER1BVLVV0aWxpdHnSAQA",
+          "author": null,
+          "description": "Linux AMDGPU Control Application Adds vBIOS Dumping, Fan Control Hysteresis  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xBQ1QtMC41LjQtQU1ER1BVLVV0aWxpdHnSAQA?oc=5",
+          "publishedOn": "2024-04-22T19:30:00.000Z",
+          "wordCount": 8744,
+          "title": "Linux AMDGPU Control Application Adds vBIOS Dumping, Fan Control Hysteresis - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjIvb3Blbi1zb3VyY2UtYXVkYWNpdHktMy01L9IBAA",
+          "author": null,
+          "description": "Open-source audio editor Audacity 3.5 available for Windows, Linux, and Mac  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjIvb3Blbi1zb3VyY2UtYXVkYWNpdHktMy01L9IBAA?oc=5",
+          "publishedOn": "2024-04-22T19:07:43.000Z",
+          "wordCount": 8744,
+          "title": "Open-source audio editor Audacity 3.5 available for Windows, Linux, and Mac - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLWFsbC1rZXJuZWwtYnVncy1hcmUtc2VjdXJpdHktYnVncy1ob3ctZG8teW91LWtlZXAteW91ci1saW51eC1zYWZlL9IBAA",
+          "author": null,
+          "description": "If all kernel bugs are security bugs, how do you keep your Linux safe?  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLWFsbC1rZXJuZWwtYnVncy1hcmUtc2VjdXJpdHktYnVncy1ob3ctZG8teW91LWtlZXAteW91ci1saW51eC1zYWZlL9IBAA?oc=5",
+          "publishedOn": "2024-04-22T19:04:00.000Z",
+          "wordCount": 8744,
+          "title": "If all kernel bugs are security bugs, how do you keep your Linux safe? - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1maXJtd2FyZS11cGRhdGVyLWZ3dXBkLTEtOS0xNy1hZGRzLXN1cHBvcnQtZm9yLW1vcmUtYXN1cy1hbmQtcmVhbHRlay1kZXZpY2Vz0gFsaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWZpcm13YXJlLXVwZGF0ZXItZnd1cGQtMS05LTE3LWFkZHMtc3VwcG9ydC1mb3ItbW9yZS1hc3VzLWFuZC1yZWFsdGVrLWRldmljZXMvYW1w",
+          "author": null,
+          "description": "Linux Firmware Updater Fwupd 1.9.17 Adds Support for More Asus and Realtek Devices  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1maXJtd2FyZS11cGRhdGVyLWZ3dXBkLTEtOS0xNy1hZGRzLXN1cHBvcnQtZm9yLW1vcmUtYXN1cy1hbmQtcmVhbHRlay1kZXZpY2Vz0gFsaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWZpcm13YXJlLXVwZGF0ZXItZnd1cGQtMS05LTE3LWFkZHMtc3VwcG9ydC1mb3ItbW9yZS1hc3VzLWFuZC1yZWFsdGVrLWRldmljZXMvYW1w?oc=5",
+          "publishedOn": "2024-04-22T17:40:59.000Z",
+          "wordCount": 8744,
+          "title": "Linux Firmware Updater Fwupd 1.9.17 Adds Support for More Asus and Realtek Devices - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01TSS1XTUktUGxhdGZvcm0tRHJpdmVyLUxpbnV40gEA",
+          "author": null,
+          "description": "Reverse Engineered MSI WMI Platform Driver Being Worked On For Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01TSS1XTUktUGxhdGZvcm0tRHJpdmVyLUxpbnV40gEA?oc=5",
+          "publishedOn": "2024-04-22T16:55:00.000Z",
+          "wordCount": 8744,
+          "title": "Reverse Engineered MSI WMI Platform Driver Being Worked On For Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzIyL2ZlZG9yYV80MF9hdF9yY19zdGFnZS_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDQvMjIvZmVkb3JhXzQwX2F0X3JjX3N0YWdlLw",
+          "author": null,
+          "description": "Fedora 40 is just around the corner with more spins and flavors than ever  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzIyL2ZlZG9yYV80MF9hdF9yY19zdGFnZS_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDQvMjIvZmVkb3JhXzQwX2F0X3JjX3N0YWdlLw?oc=5",
+          "publishedOn": "2024-04-22T16:00:00.000Z",
+          "wordCount": 8744,
+          "title": "Fedora 40 is just around the corner with more spins and flavors than ever - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2FsbWFsaW51eC05LTQtYmV0YS1pcy1vdXQtNC1yZWFzb25zLXRvLWNvbnNpZGVyLWl0LWZvci15b3VyLWRlc2t0b3Av0gEA",
+          "author": null,
+          "description": "AlmaLinux 9.4 beta is out: 4 reasons to consider it for your desktop  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2FsbWFsaW51eC05LTQtYmV0YS1pcy1vdXQtNC1yZWFzb25zLXRvLWNvbnNpZGVyLWl0LWZvci15b3VyLWRlc2t0b3Av0gEA?oc=5",
+          "publishedOn": "2024-04-22T15:11:00.000Z",
+          "wordCount": 8744,
+          "title": "AlmaLinux 9.4 beta is out: 4 reasons to consider it for your desktop - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtLURlY2stSU1VLUZvci1ISUQtRHJpdmVy0gEA",
+          "author": null,
+          "description": "Steam Deck Motion Sensors Being Worked On For Linux's HID-Steam Driver  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtLURlY2stSU1VLUZvci1ISUQtRHJpdmVy0gEA?oc=5",
+          "publishedOn": "2024-04-22T14:04:00.000Z",
+          "wordCount": 8744,
+          "title": "Steam Deck Motion Sensors Being Worked On For Linux's HID-Steam Driver - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LndoYXRlY2guY29tL29nL21hcmtldHMtcmVzZWFyY2gvaXQvODEyMzMwLWxpbnV4LXNvZnR3YXJlLW1hcmtldC1hdC0xNS0zLWdyb3d0aC12YWx1ZS10cmFwLW9yLW9wcG9ydHVuaXR50gF4aHR0cHM6Ly93d3cud2hhdGVjaC5jb20vb2cvbWFya2V0cy1yZXNlYXJjaC9pdC84MTIzMzAtbGludXgtc29mdHdhcmUtbWFya2V0LWF0LTE1LTMtZ3Jvd3RoLXZhbHVlLXRyYXAtb3Itb3Bwb3J0dW5pdHkvYW1w",
+          "author": null,
+          "description": "Linux Software Market at 15.3% Growth - Value Trap Or Opportunity?  WhaTech",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LndoYXRlY2guY29tL29nL21hcmtldHMtcmVzZWFyY2gvaXQvODEyMzMwLWxpbnV4LXNvZnR3YXJlLW1hcmtldC1hdC0xNS0zLWdyb3d0aC12YWx1ZS10cmFwLW9yLW9wcG9ydHVuaXR50gF4aHR0cHM6Ly93d3cud2hhdGVjaC5jb20vb2cvbWFya2V0cy1yZXNlYXJjaC9pdC84MTIzMzAtbGludXgtc29mdHdhcmUtbWFya2V0LWF0LTE1LTMtZ3Jvd3RoLXZhbHVlLXRyYXAtb3Itb3Bwb3J0dW5pdHkvYW1w?oc=5",
+          "publishedOn": "2024-04-22T12:11:43.000Z",
+          "wordCount": 8744,
+          "title": "Linux Software Market at 15.3% Growth - Value Trap Or Opportunity? - WhaTech",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vZ2lnYXppbmUubmV0L2dzY19uZXdzL2VuLzIwMjQwNDIyLWxpbnVzLXRvcnZhbGRzLWNoYXQv0gEA",
+          "author": null,
+          "description": "Linux creator Linus Torvalds talks about the 'XZ Utils issue,' 'open source development,' 'RISC-V,' 'the rise of AI,' and more  GIGAZINE（ギガジン）",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZ2lnYXppbmUubmV0L2dzY19uZXdzL2VuLzIwMjQwNDIyLWxpbnVzLXRvcnZhbGRzLWNoYXQv0gEA?oc=5",
+          "publishedOn": "2024-04-22T12:00:00.000Z",
+          "wordCount": 8744,
+          "title": "Linux creator Linus Torvalds talks about the 'XZ Utils issue,' 'open source development,' 'RISC-V,' 'the rise of AI,' and more - GIGAZINE（ギガジン）",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvdW5kZXJzdGFuZGluZy1zcGVjdHJlLXYyLWEtbmV3LXRocmVhdC10by1saW51eC1zeXN0ZW1zL9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvdW5kZXJzdGFuZGluZy1zcGVjdHJlLXYyLWEtbmV3LXRocmVhdC10by1saW51eC1zeXN0ZW1zL2FtcC8",
+          "author": null,
+          "description": "Understanding Spectre V2: A New Threat to Linux Systems  Security Boulevard",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvdW5kZXJzdGFuZGluZy1zcGVjdHJlLXYyLWEtbmV3LXRocmVhdC10by1saW51eC1zeXN0ZW1zL9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvdW5kZXJzdGFuZGluZy1zcGVjdHJlLXYyLWEtbmV3LXRocmVhdC10by1saW51eC1zeXN0ZW1zL2FtcC8?oc=5",
+          "publishedOn": "2024-04-22T11:08:12.000Z",
+          "wordCount": 8744,
+          "title": "Understanding Spectre V2: A New Threat to Linux Systems - Security Boulevard",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxpbnV4LURpc3BsYXktQmF0dGxlbWFnZdIBAA",
+          "author": null,
+          "description": "Intel Enabling Linux Driver Display Support For Upcoming \"Battlemage\" GPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxpbnV4LURpc3BsYXktQmF0dGxlbWFnZdIBAA?oc=5",
+          "publishedOn": "2024-04-22T11:05:00.000Z",
+          "wordCount": 8744,
+          "title": "Intel Enabling Linux Driver Display Support For Upcoming \"Battlemage\" GPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1TRVYtU05QLUh5cGVydmlzb3ItdjE00gEA",
+          "author": null,
+          "description": "AMD SEV-SNP Hypervisor Support Nears The Mainline Linux Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1TRVYtU05QLUh5cGVydmlzb3ItdjE00gEA?oc=5",
+          "publishedOn": "2024-04-22T10:32:00.000Z",
+          "wordCount": 8744,
+          "title": "AMD SEV-SNP Hypervisor Support Nears The Mainline Linux Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvc3Vuc2hpbmUtZ2FtZS1zdHJlYW1pbmctdXBkYXRlLWhhcy1mcmFtZS10aW1pbmctaW1wcm92ZW1lbnRzLWZvci1saW51eC_SAQA",
+          "author": null,
+          "description": "Sunshine game streaming update has frame timing improvements for Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvc3Vuc2hpbmUtZ2FtZS1zdHJlYW1pbmctdXBkYXRlLWhhcy1mcmFtZS10aW1pbmctaW1wcm92ZW1lbnRzLWZvci1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-04-22T10:12:52.000Z",
+          "wordCount": 8744,
+          "title": "Sunshine game streaming update has frame timing improvements for Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvcGFya2luZy1nYXJhZ2UtcmFsbHktY2lyY3VpdC1jb21pbmctYnktZGV2LW9mLWplbGx5Y2FyLXdpdGgtbGludXgtc3RlYW0tZGVjay1zdXBwb3J0L9IBAA",
+          "author": null,
+          "description": "Parking Garage Rally Circuit coming by dev of JellyCar with Linux / Steam Deck support  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvcGFya2luZy1nYXJhZ2UtcmFsbHktY2lyY3VpdC1jb21pbmctYnktZGV2LW9mLWplbGx5Y2FyLXdpdGgtbGludXgtc3RlYW0tZGVjay1zdXBwb3J0L9IBAA?oc=5",
+          "publishedOn": "2024-04-22T09:56:33.000Z",
+          "wordCount": 8744,
+          "title": "Parking Garage Rally Circuit coming by dev of JellyCar with Linux / Steam Deck support - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtMjFzdC0yMDI00gFCaHR0cHM6Ly85dG81bGludXguY29tLzl0bzVsaW51eC13ZWVrbHktcm91bmR1cC1hcHJpbC0yMXN0LTIwMjQvYW1w",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: April 21st, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtYXByaWwtMjFzdC0yMDI00gFCaHR0cHM6Ly85dG81bGludXguY29tLzl0bzVsaW51eC13ZWVrbHktcm91bmR1cC1hcHJpbC0yMXN0LTIwMjQvYW1w?oc=5",
+          "publishedOn": "2024-04-22T09:26:07.000Z",
+          "wordCount": 8744,
+          "title": "9to5Linux Weekly Roundup: April 21st, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vd3d3LmZ1ZHppbGxhLmNvbS9uZXdzL2FpLzU4ODU1LXRvcnZhbGRzLXRoaW5rcy1haS1pcy1hLWh1Z2UtbGF1Z2jSAQA",
+          "author": null,
+          "description": "Torvalds thinks AI is a huge laugh  Fudzilla",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmZ1ZHppbGxhLmNvbS9uZXdzL2FpLzU4ODU1LXRvcnZhbGRzLXRoaW5rcy1haS1pcy1hLWh1Z2UtbGF1Z2jSAQA?oc=5",
+          "publishedOn": "2024-04-22T09:10:05.000Z",
+          "wordCount": 8744,
+          "title": "Torvalds thinks AI is a huge laugh - Fudzilla",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yMi90ZXN0aW5nLW50dHRjcC1pcGVyZjMtYWx0ZXJuYXRpdmUtd2luZG93cy0xMS1saW51eC_SAWFodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjQvMDQvMjIvdGVzdGluZy1udHR0Y3AtaXBlcmYzLWFsdGVybmF0aXZlLXdpbmRvd3MtMTEtbGludXgvP2FtcD0x",
+          "author": null,
+          "description": "Testing ntttcp as an iperf3 alternative in Windows 11 (and Linux)  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yMi90ZXN0aW5nLW50dHRjcC1pcGVyZjMtYWx0ZXJuYXRpdmUtd2luZG93cy0xMS1saW51eC_SAWFodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjQvMDQvMjIvdGVzdGluZy1udHR0Y3AtaXBlcmYzLWFsdGVybmF0aXZlLXdpbmRvd3MtMTEtbGludXgvP2FtcD0x?oc=5",
+          "publishedOn": "2024-04-22T08:00:18.000Z",
+          "wordCount": 8744,
+          "title": "Testing ntttcp as an iperf3 alternative in Windows 11 (and Linux) - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMijQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9BbmJlckRlY2stUG9wdWxhci1BbmJlcm5pYy1yZXRyby1nYW1pbmctaGFuZGhlbGQtdHJhbnNmb3JtZWQtaW50by1MaW51eC10ZXJtaW5hbC13aXRoLURJWS1wcm9qZWN0LjgyOTkyMS4wLmh0bWzSAQA",
           "author": null,
@@ -7464,86 +7724,6 @@
           "wordCount": 5053,
           "title": "Linux 6.9 Delivers More Improvements To The SLUB Allocator - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1IYXJkZW5pbmfSAQA",
-          "author": null,
-          "description": "Linux 6.9 Sees Further Security Hardening  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1IYXJkZW5pbmfSAQA?oc=5",
-          "publishedOn": "2024-03-24T10:58:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Sees Further Security Hardening - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1JT191cmluZ9IBAA",
-          "author": null,
-          "description": "IO_uring With Linux 6.9 Gains Truncate Support, Per-Ring NAPI  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1JT191cmluZ9IBAA?oc=5",
-          "publishedOn": "2024-03-24T10:43:00.000Z",
-          "wordCount": 5053,
-          "title": "IO_uring With Linux 6.9 Gains Truncate Support, Per-Ring NAPI - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Xb3JrcXVldWXSAQA",
-          "author": null,
-          "description": "Linux 6.9 Sees Invasive & Significant Changes To Workqueues  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1Xb3JrcXVldWXSAQA?oc=5",
-          "publishedOn": "2024-03-23T20:30:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Sees Invasive & Significant Changes To Workqueues - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1FREFD0gEA",
-          "author": null,
-          "description": "AMD FRU Memory Poison Manager Makes It In For Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1FREFD0gEA?oc=5",
-          "publishedOn": "2024-03-23T20:12:00.000Z",
-          "wordCount": 5053,
-          "title": "AMD FRU Memory Poison Manager Makes It In For Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RJUlQtNS1JbnRlbC1MaW51eC1HcmFwaGljc9IBAA",
-          "author": null,
-          "description": "DIRT 5 Now Runs On Intel Arc Graphics Under Linux With Driver Workaround  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RJUlQtNS1JbnRlbC1MaW51eC1HcmFwaGljc9IBAA?oc=5",
-          "publishedOn": "2024-03-23T20:05:00.000Z",
-          "wordCount": 5053,
-          "title": "DIRT 5 Now Runs On Intel Arc Graphics Under Linux With Driver Workaround - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LTYtOS1hZGRzLW5ldy1yaXNjLXYtdmVjdG9yLWFjY2VsZXJhdGVkLWNyeXB0by1yb3V0aW5lcy4yMDM0MDk0L9IBAA",
-          "author": null,
-          "description": "Linux 6.9 Adds New RISC-V Vector-Accelerated Crypto Routines  HardForum",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LTYtOS1hZGRzLW5ldy1yaXNjLXYtdmVjdG9yLWFjY2VsZXJhdGVkLWNyeXB0by1yb3V0aW5lcy4yMDM0MDk0L9IBAA?oc=5",
-          "publishedOn": "2024-03-23T20:03:20.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Adds New RISC-V Vector-Accelerated Crypto Routines - HardForum",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1IYXJkd2FyZS1Nb25pdG9yaW5n0gEA",
-          "author": null,
-          "description": "Linux 6.9 Expands Hardware Monitoring Support For More AIO CPU Coolers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1IYXJkd2FyZS1Nb25pdG9yaW5n0gEA?oc=5",
-          "publishedOn": "2024-03-23T19:05:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Expands Hardware Monitoring Support For More AIO CPU Coolers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAzLzIzL2Nsb3VkLW5hdGl2ZS1jb21tdW5pdHktY2VsZWJyYXRlcy1rdWJlcm5ldGVzLWxpbnV4LW1vbWVudC1ncm93aW5nLXJvbGUtZW50ZXJwcmlzZS1haS_SAQA",
-          "author": null,
-          "description": "Cloud-native community celebrates Kubernetes’ 'Linux moment' and its growing role in enterprise AI  SiliconANGLE News",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAzLzIzL2Nsb3VkLW5hdGl2ZS1jb21tdW5pdHktY2VsZWJyYXRlcy1rdWJlcm5ldGVzLWxpbnV4LW1vbWVudC1ncm93aW5nLXJvbGUtZW50ZXJwcmlzZS1haS_SAQA?oc=5",
-          "publishedOn": "2024-03-23T18:05:45.000Z",
-          "wordCount": 5053,
-          "title": "Cloud-native community celebrates Kubernetes’ 'Linux moment' and its growing role in enterprise AI - SiliconANGLE News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7552,6 +7732,26 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Uptime-Indicator-95428.shtml",
+          "author": "Softpedia Linux",
+          "description": "Always know for how long your system is running with the help of this nifty, little GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Uptime-Indicator-95428.shtml",
+          "publishedOn": "2024-04-22T13:18:44.000Z",
+          "wordCount": 1545,
+          "title": "Uptime Indicator 26",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Uptime-Indicator_2.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Upscayl-104305.shtml",
+          "author": "Softpedia Linux",
+          "description": "Enhance your low-res pictures with only a few mouse clicks by relying on this smart and interesting app",
+          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Upscayl-104305.shtml",
+          "publishedOn": "2024-04-22T13:17:58.000Z",
+          "wordCount": 1656,
+          "title": "Upscayl 2.10.0 / 2.10.9 Pre",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Upscayl_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/Beaver-Notes-104690.shtml",
           "author": "Softpedia Linux",
@@ -10278,6 +10478,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/",
+          "author": "Kayode Adeniyi",
+          "description": "These days, software is being developed and deployed at a very rapid pace. It makes it easy to understand how the saying “move fast and break things” became commonplace.  In an era where agile development is the go-to practice for quick feature releases and feedback, it's easy for security",
+          "link": "https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/",
+          "publishedOn": "2024-04-22T21:26:27.000Z",
+          "wordCount": 3049,
+          "title": "How Feature Flags and Role-Based Access Control Can Help Secure Your DevOps Process",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/pete-alexopoulos-IssFEVzKV1w-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-debug-node-js-applications/",
+          "author": "Yogesh Chavan",
+          "description": "In this tutorial, you will learn the easiest and most efficient way to debug Node.js application code. So let's get started. Want to watch the video version of this tutorial? You can check out the video below: Table Of Contents  * How You Usually Debug Node.js Applications  *",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-node-js-applications/",
+          "publishedOn": "2024-04-22T19:50:47.000Z",
+          "wordCount": 1664,
+          "title": "How to Debug Node.js Applications Using the debugger; Statement",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/debug_node_js_code_thumbnail-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-sql-for-analytics/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to enhance your data skills and become proficient in SQL? We just posted a comprehensive, 11-hour SQL course on the freeCodeCamp.org YouTube channel. It will teach you to handle complex database queries. Vlad Gheorghe created this cou...",
+          "link": "https://www.freecodecamp.org/news/learn-sql-for-analytics/",
+          "publishedOn": "2024-04-22T17:24:49.000Z",
+          "wordCount": 837,
+          "title": "Learn SQL for Analytics",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/",
           "author": "Quincy Larson",
