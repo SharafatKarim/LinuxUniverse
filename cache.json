@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=416040",
+          "author": "Shovon",
+          "description": "While installing different drivers on your Linux system, you may need to check if UEFI Secure Boot is enabled/disabled on your computer as you may need to perform different installation steps depending on the UEFI Secure Boot status of your computer. For example, some Linux distributions (i.e. Ubuntu) automatically signs the NVIDIA kernel modules while […]",
+          "link": "https://linuxhint.com/how-to-check-if-uefi-secure-boot-is-enabled-disabled-on-linux/",
+          "publishedOn": "2024-04-24T20:17:38.000Z",
+          "wordCount": 4609,
+          "title": "How to Check if UEFI Secure Boot is Enabled/Disabled on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=416021",
+          "author": "Denis Kariuki",
+          "description": "LAMP stands for Linux, Apache, MySQL, and PHP. The open-source stack comes bundled together when you want to host dynamic web apps or websites developed in PHP.",
+          "link": "https://linuxhint.com/how-to-install-lamp-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-24T15:09:09.000Z",
+          "wordCount": 5219,
+          "title": "How to Install LAMP on Ubuntu 24.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415419",
+          "author": "Prateek Jangid",
+          "description": "There are various simple ways you can use to create a the files in bash. We have explained multiple commands to create bash files from the terminal.",
+          "link": "https://linuxhint.com/how-to-create-file-in-bash/",
+          "publishedOn": "2024-04-24T10:23:05.000Z",
+          "wordCount": 3803,
+          "title": "How to Create File in Bash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415998",
+          "author": "Shovon",
+          "description": "OpenCL is an open-source library for running compute tasks on GPUs. OpenCL enables 3D hardware acceleration for supported applications (i.e. LibreOffice) using the GPU hardware (i.e. Intel iGPU) you have installed on your computer. So, unless OpenCL is installed, OpenCL-supported applications (i.e. LibreOffice) will not have hardware acceleration enabled and may not perform well (i.e. […]",
+          "link": "https://linuxhint.com/how-to-install-opencl-for-intel-gpu-on-fedora-40/",
+          "publishedOn": "2024-04-24T08:55:28.000Z",
+          "wordCount": 4674,
+          "title": "How to Install OpenCL for Intel GPU on Fedora 40+",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=415981",
           "author": "Denis Kariuki",
           "description": "MongoDB is a non-relational database that stores data as documents. The database is open-source, and by adding its repository to your source list, you will manage to install it on your Ubuntu 24.04. This post walks you through every required step.",
@@ -2337,116 +2377,6 @@
           "wordCount": 10159,
           "title": "GNOME 46 Arrives in openSUSE Tumbleweed & Aeon",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/9a1e645ab98c1afb5738ea0473eba1dd-2/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/9a1e645ab98c1afb5738ea0473eba1dd-2/",
-          "publishedOn": "2024-03-26T03:29:30.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/9a1e645ab98c1afb5738ea0473eba1dd/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/9a1e645ab98c1afb5738ea0473eba1dd/",
-          "publishedOn": "2024-03-26T03:29:27.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/88121834a29cdd453ca696c4fec1bc5f/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/88121834a29cdd453ca696c4fec1bc5f/",
-          "publishedOn": "2024-03-26T03:29:22.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188443",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to changing default web browser on Ubuntu and other Linux distros running GNOME, KDE, or XFCE via GUI and CLI.\nThe post How to Change Default Web Browser on Ubuntu (GUI and CLI) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-change-default-web-browser-on-ubuntu-gui-and-cli/",
-          "publishedOn": "2024-03-26T00:00:27.000Z",
-          "wordCount": 10195,
-          "title": "How to Change Default Web Browser on Ubuntu (GUI and CLI)",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188450",
-          "author": "Web Webster",
-          "description": "Wine 9.5 introduces improvements in Minidump support and bug fixes for a smoother operation. Here’s more on that.\nThe post Wine 9.5 Rolls Out With New Features and Dozens of Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/wine-9-5-rolls-out-with-new-features-and-dozens-of-fixes/",
-          "publishedOn": "2024-03-25T22:00:31.000Z",
-          "wordCount": 10189,
-          "title": "Wine 9.5 Rolls Out With New Features and Dozens of Fixes",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188426",
-          "author": "Web Webster",
-          "description": "Podman 5.0 released with major upgrades for Windows & Mac, featuring a code rewrite, enhanced hypervisor support, and more.\nThe post Podman 5.0 Container Management Tool Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/podman-5-0-container-management-tool-released/",
-          "publishedOn": "2024-03-25T20:00:42.000Z",
-          "wordCount": 10179,
-          "title": "Podman 5.0 Container Management Tool Released",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188436",
-          "author": "Web Webster",
-          "description": "Screen recording on Linux is easy with Kooha 2.3, which features a streamlined interface, improved area selection, and more.\nThe post Kooha’s New Update 2.3: Simplifying Linux Screen Recording appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/koohas-new-update-2-3-simplifying-linux-screen-recording/",
-          "publishedOn": "2024-03-25T18:00:41.000Z",
-          "wordCount": 9990,
-          "title": "Kooha’s New Update 2.3: Simplifying Linux Screen Recording",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188434",
-          "author": "Web Webster",
-          "description": "Snap Store takes action against malicious app uploads, implementing a manual approval policy for new applications. Here’s more on that!\nThe post Snap Store Now Requires Manual Review for the Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/snap-store-now-requires-manual-review-for-the-apps/",
-          "publishedOn": "2024-03-25T17:00:14.000Z",
-          "wordCount": 10187,
-          "title": "Snap Store Now Requires Manual Review for the Apps",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188439",
-          "author": "Web Webster",
-          "description": "Red Hat announced earlier this week that the company has started work on a new open-source graphics driver for NVIDIA GPUs written in Rust, called Nova.\nThe post Red Hat Announces Nova, a Rust-Based GSP-Only Driver for NVIDIA GPUs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/red-hat-announces-nova-a-rust-based-gsp-only-driver-for-nvidia-gpus/",
-          "publishedOn": "2024-03-25T16:30:48.000Z",
-          "wordCount": 10204,
-          "title": "Red Hat Announces Nova, a Rust-Based GSP-Only Driver for NVIDIA GPUs",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188440",
-          "author": "Web Webster",
-          "description": "The development of the Linux kernel continues with Linux 6.9 as the next major kernel series, and Linus Torvalds announced today the availability of the first Release Candidate (RC) milestone for public testing.\nThe post Linus Torvalds Announces the First Linux Kernel 6.9 Release Candidate appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linus-torvalds-announces-the-first-linux-kernel-6-9-release-candidate/",
-          "publishedOn": "2024-03-25T15:00:39.000Z",
-          "wordCount": 10200,
-          "title": "Linus Torvalds Announces the First Linux Kernel 6.9 Release Candidate",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188438",
-          "author": "Web Webster",
-          "description": "GNOME 46 hits Arch’s stable repositories just four days post-launch, bringing the latest features to users.\nThe post GNOME 46 Desktop Environment Landed in Arch Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gnome-46-desktop-environment-landed-in-arch-linux/",
-          "publishedOn": "2024-03-25T14:43:32.000Z",
-          "wordCount": 10170,
-          "title": "GNOME 46 Desktop Environment Landed in Arch Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2455,6 +2385,196 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC10YXJnei11YnVudHUv0gEA",
+          "author": null,
+          "description": "How to extract and install a tar.gz file on Ubuntu  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC10YXJnei11YnVudHUv0gEA?oc=5",
+          "publishedOn": "2024-04-24T23:30:00.000Z",
+          "wordCount": 8729,
+          "title": "How to extract and install a tar.gz file on Ubuntu - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZNIBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZC9hbXA",
+          "author": null,
+          "description": "Clapper Video Player for Linux Gets First Update in 2 Years  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZNIBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZC9hbXA?oc=5",
+          "publishedOn": "2024-04-24T20:07:16.000Z",
+          "wordCount": 8729,
+          "title": "Clapper Video Player for Linux Gets First Update in 2 Years - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vZmVkb3JhLXdvcmtzdGF0aW9uLTQwLXJlbGVhc2Uv0gEA",
+          "author": null,
+          "description": "Fedora Linux 40 Now Available With GNOME 46 Desktop  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vZmVkb3JhLXdvcmtzdGF0aW9uLTQwLXJlbGVhc2Uv0gEA?oc=5",
+          "publishedOn": "2024-04-24T19:40:00.000Z",
+          "wordCount": 8729,
+          "title": "Fedora Linux 40 Now Available With GNOME 46 Desktop - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigQFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvY3B1cy9tb3JlLWFtZC16ZW4tNS1zdHJpeC1wb2ludC1jcHVzLXNwb3R0ZWQtbGludXgtcGF0Y2gtbm90ZXMtc3VnZ2VzdC11cC10by02NC1tb2RlbHPSAQA",
+          "author": null,
+          "description": "More AMD Zen 5 Strix Point CPUs spotted — Linux patch notes suggest up to 64 models  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvY3B1cy9tb3JlLWFtZC16ZW4tNS1zdHJpeC1wb2ludC1jcHVzLXNwb3R0ZWQtbGludXgtcGF0Y2gtbm90ZXMtc3VnZ2VzdC11cC10by02NC1tb2RlbHPSAQA?oc=5",
+          "publishedOn": "2024-04-24T19:11:27.000Z",
+          "wordCount": 8729,
+          "title": "More AMD Zen 5 Strix Point CPUs spotted — Linux patch notes suggest up to 64 models - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC16ZW4tNS1wYXRjaGVzLWxpbnV4LW5ldy1jcHUtbW9kZWxzL9IBQGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC16ZW4tNS1wYXRjaGVzLWxpbnV4LW5ldy1jcHUtbW9kZWxzL2FtcC8",
+          "author": null,
+          "description": "AMD Pushes Out Zen 5 Patches At Linux, New CPU Models Added To Kernel  Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC16ZW4tNS1wYXRjaGVzLWxpbnV4LW5ldy1jcHUtbW9kZWxzL9IBQGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC16ZW4tNS1wYXRjaGVzLWxpbnV4LW5ldy1jcHUtbW9kZWxzL2FtcC8?oc=5",
+          "publishedOn": "2024-04-24T17:50:00.000Z",
+          "wordCount": 8729,
+          "title": "AMD Pushes Out Zen 5 Patches At Linux, New CPU Models Added To Kernel - Wccftech",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vZnVuY3Rpb25hbC1zYWZldHktYXNzZXNzbWVudC1mb3Itb3Blbi1zb3VyY2UtYXV0b21vdGl2ZS1saW51eC_SAQA",
+          "author": null,
+          "description": "Functional safety assessment for open source automotive Linux ...  eeNews Europe",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vZnVuY3Rpb25hbC1zYWZldHktYXNzZXNzbWVudC1mb3Itb3Blbi1zb3VyY2UtYXV0b21vdGl2ZS1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-04-24T16:32:26.000Z",
+          "wordCount": 8729,
+          "title": "Functional safety assessment for open source automotive Linux ... - eeNews Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvc2VtaS1vcGVuLXdvcmxkLXBhcGVyLXBsYW5lLWFkdmVudHVyZS1wYXBlci1za3ktY29taW5nLXRvLWxpbnV4LWFuZC1zdGVhbS1kZWNrL9IBAA",
+          "author": null,
+          "description": "Semi-open world paper plane adventure 'Paper Sky' coming to Linux and Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvc2VtaS1vcGVuLXdvcmxkLXBhcGVyLXBsYW5lLWFkdmVudHVyZS1wYXBlci1za3ktY29taW5nLXRvLWxpbnV4LWFuZC1zdGVhbS1kZWNrL9IBAA?oc=5",
+          "publishedOn": "2024-04-24T16:03:45.000Z",
+          "wordCount": 8729,
+          "title": "Semi-open world paper plane adventure 'Paper Sky' coming to Linux and Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNC8yNC90cmFuc2Zvcm1pbmctYS1tYWMtNjhrLXByb2dyYW0taW50by1hLWxpbnV4LWRhZW1vbi_SAQA",
+          "author": null,
+          "description": "Transforming a Mac 68k program into a Linux Daemon  Adafruit Blog",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNC8yNC90cmFuc2Zvcm1pbmctYS1tYWMtNjhrLXByb2dyYW0taW50by1hLWxpbnV4LWRhZW1vbi_SAQA?oc=5",
+          "publishedOn": "2024-04-24T16:01:47.000Z",
+          "wordCount": 8729,
+          "title": "Transforming a Mac 68k program into a Linux Daemon - Adafruit Blog",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMDk0OTgzL3VzaW5nLXRoZS1hcHJvcG9zLWNvbW1hbmQtb24tbGludXguaHRtbNIBWWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMDk0OTgzL3VzaW5nLXRoZS1hcHJvcG9zLWNvbW1hbmQtb24tbGludXguaHRtbC9hbXAv",
+          "author": null,
+          "description": "Using the apropos command on Linux  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMDk0OTgzL3VzaW5nLXRoZS1hcHJvcG9zLWNvbW1hbmQtb24tbGludXguaHRtbNIBWWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMDk0OTgzL3VzaW5nLXRoZS1hcHJvcG9zLWNvbW1hbmQtb24tbGludXguaHRtbC9hbXAv?oc=5",
+          "publishedOn": "2024-04-24T14:33:06.000Z",
+          "wordCount": 8729,
+          "title": "Using the apropos command on Linux - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW9zLWxpZmVrZWVwZXItbGludXgtaGlnaC1hdmFpbGFiaWxpdHktMTMxOTAwNDE3Lmh0bWzSAQA",
+          "author": null,
+          "description": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy  Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW9zLWxpZmVrZWVwZXItbGludXgtaGlnaC1hdmFpbGFiaWxpdHktMTMxOTAwNDE3Lmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-04-24T13:19:00.000Z",
+          "wordCount": 8729,
+          "title": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy - Yahoo Finance",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9saW51eC1vbi1iaXRjb2luLWJpdHZteC1mcmFtZXdvcmvSAQA",
+          "author": null,
+          "description": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs  Cointelegraph",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9saW51eC1vbi1iaXRjb2luLWJpdHZteC1mcmFtZXdvcmvSAQA?oc=5",
+          "publishedOn": "2024-04-24T13:02:35.000Z",
+          "wordCount": 8729,
+          "title": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs - Cointelegraph",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFodHRwczovL3d3dy50cmFkaW5ndmlldy5jb20vbmV3cy9jb2ludGVsZWdyYXBoOmFhODBkYmM5NzA5NGI6MC1saW51eC1vbi1iaXRjb2luLW9wZW4tc291cmNlLWZyYW1ld29yay1iaXR2bXgtZW52aXNpb25zLWJ0Yy1wb3dlcmVkLXByb2dyYW1zL9IBAA",
+          "author": null,
+          "description": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs  TradingView",
+          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50cmFkaW5ndmlldy5jb20vbmV3cy9jb2ludGVsZWdyYXBoOmFhODBkYmM5NzA5NGI6MC1saW51eC1vbi1iaXRjb2luLW9wZW4tc291cmNlLWZyYW1ld29yay1iaXR2bXgtZW52aXNpb25zLWJ0Yy1wb3dlcmVkLXByb2dyYW1zL9IBAA?oc=5",
+          "publishedOn": "2024-04-24T13:00:00.000Z",
+          "wordCount": 8729,
+          "title": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs - TradingView",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC45LVJlbGVhc2Vk0gEA",
+          "author": null,
+          "description": "Polychromatic 0.9 OpenRazer GUI Frontend Released With Port To PyQt6  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC45LVJlbGVhc2Vk0gEA?oc=5",
+          "publishedOn": "2024-04-24T10:50:00.000Z",
+          "wordCount": 8729,
+          "title": "Polychromatic 0.9 OpenRazer GUI Frontend Released With Port To PyQt6 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RydWVOQVMtU0NBTEUtMjQuMDTSAQA",
+          "author": null,
+          "description": "TrueNAS SCALE 24.04 Released For A Wonderful NAS Platform  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RydWVOQVMtU0NBTEUtMjQuMDTSAQA?oc=5",
+          "publishedOn": "2024-04-24T10:37:00.000Z",
+          "wordCount": 8729,
+          "title": "TrueNAS SCALE 24.04 Released For A Wonderful NAS Platform - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigQFodHRwczovL3d3dy5wY2dhbWVyLmNvbS9oYXJkd2FyZS9wcm9jZXNzb3JzL3JkbmEtMy1lZGdlcy1jbG9zZXItYXMtYW1kLWhpbnRzLWF0LXJlZnJlc2hlZC1ncHUtYXJjaGl0ZWN0dXJlLWluLWl0cy1saW51eC1maXJtd2FyZS_SAQA",
+          "author": null,
+          "description": "RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware  PC Gamer",
+          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wY2dhbWVyLmNvbS9oYXJkd2FyZS9wcm9jZXNzb3JzL3JkbmEtMy1lZGdlcy1jbG9zZXItYXMtYW1kLWhpbnRzLWF0LXJlZnJlc2hlZC1ncHUtYXJjaGl0ZWN0dXJlLWluLWl0cy1saW51eC1maXJtd2FyZS_SAQA?oc=5",
+          "publishedOn": "2024-04-24T10:13:25.000Z",
+          "wordCount": 8729,
+          "title": "RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware - PC Gamer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmxhdGh1Yi1mb3ItbGludXgtYXBwcy1oYXMtYmVlbi1naXZlbi1xdWl0ZS10aGUtbWFrZW92ZXIv0gEA",
+          "author": null,
+          "description": "Flathub for Linux apps has been given quite the makeover  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmxhdGh1Yi1mb3ItbGludXgtYXBwcy1oYXMtYmVlbi1naXZlbi1xdWl0ZS10aGUtbWFrZW92ZXIv0gEA?oc=5",
+          "publishedOn": "2024-04-24T10:12:41.000Z",
+          "wordCount": 8729,
+          "title": "Flathub for Linux apps has been given quite the makeover - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L1NsaW1ib29rLUZlZG9yYS0yLWxhcHRvcC1hdmFpbGFibGUtaW4tMTQtYW5kLTE2LXdpdGgtRmVkb3JhLUxpbnV4LTQwLjgzMDk3Ny4wLmh0bWzSAQA",
+          "author": null,
+          "description": "Slimbook Fedora 2 laptop available in 14\" and 16\" with Fedora Linux 40  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L1NsaW1ib29rLUZlZG9yYS0yLWxhcHRvcC1hdmFpbGFibGUtaW4tMTQtYW5kLTE2LXdpdGgtRmVkb3JhLUxpbnV4LTQwLjgzMDk3Ny4wLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-04-24T09:28:28.000Z",
+          "wordCount": 8729,
+          "title": "Slimbook Fedora 2 laptop available in 14\" and 16\" with Fedora Linux 40 - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0ZlZG9yYS00MC1MaW51eC1kaXN0cmlidXRpb24tb2ZmaWNpYWxseS1yZWxlYXNlZC44MzA5MTUuMC5odG1s0gEA",
+          "author": null,
+          "description": "Fedora 40 Linux distribution officially released - NotebookCheck.net News  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0ZlZG9yYS00MC1MaW51eC1kaXN0cmlidXRpb24tb2ZmaWNpYWxseS1yZWxlYXNlZC44MzA5MTUuMC5odG1s0gEA?oc=5",
+          "publishedOn": "2024-04-24T08:08:27.000Z",
+          "wordCount": 8729,
+          "title": "Fedora 40 Linux distribution officially released - NotebookCheck.net News - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zdHJlbmd0aGVuaW5nLWxpbnV4LXNlY3VyaXR5LWF1ZGl0aW5nLW9wZW5zY2Fw0gEA",
+          "author": null,
+          "description": "Strengthening Linux Security by Auditing with OpenSCAP  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zdHJlbmd0aGVuaW5nLWxpbnV4LXNlY3VyaXR5LWF1ZGl0aW5nLW9wZW5zY2Fw0gEA?oc=5",
+          "publishedOn": "2024-04-23T21:07:19.000Z",
+          "wordCount": 8729,
+          "title": "Strengthening Linux Security by Auditing with OpenSCAP - Linux Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiU2h0dHBzOi8vbGlsaXB1dGluZy5jb20vZmVkb3JhLWxpbnV4LTQwLWJyaW5ncy1nbm9tZS00Ni1saW51eC02LTgtYW5kLW90aGVyLXVwZGF0ZXMv0gEA",
           "author": null,
@@ -2786,6 +2906,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiOGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdGFnL2luc3RhbGwtbGludXgtbWFjYm9vay1wcm8v0gEA",
+          "author": null,
+          "description": "How to Install and Dual Boot Linux on Your Mac  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdGFnL2luc3RhbGwtbGludXgtbWFjYm9vay1wcm8v0gEA?oc=5",
+          "publishedOn": "2024-04-22T12:00:00.000Z",
+          "wordCount": 8729,
+          "title": "How to Install and Dual Boot Linux on Your Mac - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiPmh0dHBzOi8vZ2lnYXppbmUubmV0L2dzY19uZXdzL2VuLzIwMjQwNDIyLWxpbnVzLXRvcnZhbGRzLWNoYXQv0gEA",
           "author": null,
           "description": "Linux creator Linus Torvalds talks about the 'XZ Utils issue,' 'open source development,' 'RISC-V,' 'the rise of AI,' and more  GIGAZINE（ギガジン）",
@@ -2873,6 +3003,16 @@
           "publishedOn": "2024-04-22T08:00:18.000Z",
           "wordCount": 8744,
           "title": "Testing ntttcp as an iperf3 alternative in Windows 11 (and Linux) - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifGh0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L2xlYXBwLXV0aWxpdHktc3VwcG9ydHMtb3JhY2xlLWxpbnV4LTctdG8tb3JhY2xlLWxpbnV4LTgtdXBncmFkZXMtZm9yLW9yYWNsZS1kYXRhYmFzZS0xOWPSAQA",
+          "author": null,
+          "description": "Leapp utility supports Oracle Linux 7 to Oracle Linux 8 upgrades for Oracle Database 19c  Oracle",
+          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYmxvZ3Mub3JhY2xlLmNvbS9saW51eC9wb3N0L2xlYXBwLXV0aWxpdHktc3VwcG9ydHMtb3JhY2xlLWxpbnV4LTctdG8tb3JhY2xlLWxpbnV4LTgtdXBncmFkZXMtZm9yLW9yYWNsZS1kYXRhYmFzZS0xOWPSAQA?oc=5",
+          "publishedOn": "2024-04-22T07:00:00.000Z",
+          "wordCount": 8729,
+          "title": "Leapp utility supports Oracle Linux 7 to Oracle Linux 8 upgrades for Oracle Database 19c - Oracle",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7614,306 +7754,6 @@
           "wordCount": 5051,
           "title": "Nova, a Rust-based Linux driver for NVIDIA GPUs announced - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1EZXByZWNhdGVzLUVYVDLSAQA",
-          "author": null,
-          "description": "Linux 6.9 Deprecates The EXT2 File-System Driver  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1EZXByZWNhdGVzLUVYVDLSAQA?oc=5",
-          "publishedOn": "2024-03-26T13:20:00.000Z",
-          "wordCount": 5051,
-          "title": "Linux 6.9 Deprecates The EXT2 File-System Driver - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vcHVsc2UyLmNvbS9zYW5kZmx5LXNlY3VyaXR5LWFnZW50bGVzcy1saW51eC1zZWN1cml0eS1jb21wYW55LXJhaXNlcy1zZWVkLWZ1bmRpbmcv0gFdaHR0cHM6Ly9wdWxzZTIuY29tL3NhbmRmbHktc2VjdXJpdHktYWdlbnRsZXNzLWxpbnV4LXNlY3VyaXR5LWNvbXBhbnktcmFpc2VzLXNlZWQtZnVuZGluZy9hbXAv",
-          "author": null,
-          "description": "Sandfly Security: Agentless Linux Security Company Raises Seed Funding  Pulse 2.0",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vcHVsc2UyLmNvbS9zYW5kZmx5LXNlY3VyaXR5LWFnZW50bGVzcy1saW51eC1zZWN1cml0eS1jb21wYW55LXJhaXNlcy1zZWVkLWZ1bmRpbmcv0gFdaHR0cHM6Ly9wdWxzZTIuY29tL3NhbmRmbHktc2VjdXJpdHktYWdlbnRsZXNzLWxpbnV4LXNlY3VyaXR5LWNvbXBhbnktcmFpc2VzLXNlZWQtZnVuZGluZy9hbXAv?oc=5",
-          "publishedOn": "2024-03-26T13:10:49.000Z",
-          "wordCount": 5051,
-          "title": "Sandfly Security: Agentless Linux Security Company Raises Seed Funding - Pulse 2.0",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirwFodHRwczovL3d3dy5iYWtlcnNmaWVsZC5jb20vYXAvbmV3cy9wb3dlcmZ1bC1uZXctd2ViLW1hbmFnZW1lbnQtY29uc29sZS1mb3Itc2lvcy1saWZla2VlcGVyLWZvci1saW51eC1kcmFtYXRpY2FsbHktc2ltcGxpZmllcy9hcnRpY2xlXzU3YTNmZTViLTA3OTUtNTg2Zi1hNmJlLTdlOTc0NTJiZjBkZC5odG1s0gEA",
-          "author": null,
-          "description": "Powerful New Web Management Console for SIOS LifeKeeper for Linux Dramatically Simplifies ...  The Bakersfield Californian",
-          "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5iYWtlcnNmaWVsZC5jb20vYXAvbmV3cy9wb3dlcmZ1bC1uZXctd2ViLW1hbmFnZW1lbnQtY29uc29sZS1mb3Itc2lvcy1saWZla2VlcGVyLWZvci1saW51eC1kcmFtYXRpY2FsbHktc2ltcGxpZmllcy9hcnRpY2xlXzU3YTNmZTViLTA3OTUtNTg2Zi1hNmJlLTdlOTc0NTJiZjBkZC5odG1s0gEA?oc=5",
-          "publishedOn": "2024-03-26T12:03:07.000Z",
-          "wordCount": 5051,
-          "title": "Powerful New Web Management Console for SIOS LifeKeeper for Linux Dramatically Simplifies ... - The Bakersfield Californian",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wb3dlcmZ1bC1tYW5hZ2VtZW50LWNvbnNvbGUtc2lvcy1saWZla2VlcGVyLTEyMDEwMDUxMS5odG1s0gEA",
-          "author": null,
-          "description": "Powerful New Web Management Console for SIOS LifeKeeper for Linux Dramatically Simplifies Application High ...  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9wb3dlcmZ1bC1tYW5hZ2VtZW50LWNvbnNvbGUtc2lvcy1saWZla2VlcGVyLTEyMDEwMDUxMS5odG1s0gEA?oc=5",
-          "publishedOn": "2024-03-26T12:01:00.000Z",
-          "wordCount": 5051,
-          "title": "Powerful New Web Management Console for SIOS LifeKeeper for Linux Dramatically Simplifies Application High ... - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitgFodHRwczovL3d3dy5jaHJvbmljbGUtdHJpYnVuZS5jb20vbmV3cy93aXJlL2FjaHJvbml4LWZwZ2FzLWFkZC1zdXBwb3J0LWZvci1ibHVlc3BlYy1zLWxpbnV4LWNhcGFibGUtcmlzYy12LXNvZnQtcHJvY2Vzc29ycy10by1lbmFibGUvYXJ0aWNsZV80NzE3Njc5Yi0yMjFmLTUxZmEtOGRiYy0wNTc1YmUwYjBjOTUuaHRtbNIBAA",
-          "author": null,
-          "description": "Achronix FPGAs Add Support for Bluespec's Linux-capable RISC-V Soft Processors to Enable Scalable Processing  Chronicle-Tribune",
-          "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5jaHJvbmljbGUtdHJpYnVuZS5jb20vbmV3cy93aXJlL2FjaHJvbml4LWZwZ2FzLWFkZC1zdXBwb3J0LWZvci1ibHVlc3BlYy1zLWxpbnV4LWNhcGFibGUtcmlzYy12LXNvZnQtcHJvY2Vzc29ycy10by1lbmFibGUvYXJ0aWNsZV80NzE3Njc5Yi0yMjFmLTUxZmEtOGRiYy0wNTc1YmUwYjBjOTUuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-03-26T12:00:21.000Z",
-          "wordCount": 5051,
-          "title": "Achronix FPGAs Add Support for Bluespec's Linux-capable RISC-V Soft Processors to Enable Scalable Processing - Chronicle-Tribune",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdWJ1bnR1LWZhdm9yaXRlLWxpbnV4LWRpc3Ryb3MtMjAyNC1yYW5rZWQv0gEA",
-          "author": null,
-          "description": "Ubuntu Is Still My Favorite: Top Linux Distros in 2024, Ranked  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdWJ1bnR1LWZhdm9yaXRlLWxpbnV4LWRpc3Ryb3MtMjAyNC1yYW5rZWQv0gEA?oc=5",
-          "publishedOn": "2024-03-26T12:00:00.000Z",
-          "wordCount": 5051,
-          "title": "Ubuntu Is Still My Favorite: Top Linux Distros in 2024, Ranked - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDMyNjE1NjYxNi9lbi9BY2hyb25peC1GUEdBcy1BZGQtU3VwcG9ydC1mb3ItQmx1ZXNwZWMlRTIlODAlOTlzLUxpbnV4LWNhcGFibGUtUklTQy1WLVNvZnQtUHJvY2Vzc29ycy10by1FbmFibGUtU2NhbGFibGUtUHJvY2Vzc2luZ9IBAA",
-          "author": null,
-          "description": "Achronix FPGAs Add Support for Bluespec's Linux-capable RISC-V Soft Processors to Enable Scalable Processing  Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDMyNjE1NjYxNi9lbi9BY2hyb25peC1GUEdBcy1BZGQtU3VwcG9ydC1mb3ItQmx1ZXNwZWMlRTIlODAlOTlzLUxpbnV4LWNhcGFibGUtUklTQy1WLVNvZnQtUHJvY2Vzc29ycy10by1FbmFibGUtU2NhbGFibGUtUHJvY2Vzc2luZ9IBAA?oc=5",
-          "publishedOn": "2024-03-26T12:00:00.000Z",
-          "wordCount": 5051,
-          "title": "Achronix FPGAs Add Support for Bluespec's Linux-capable RISC-V Soft Processors to Enable Scalable Processing - Business Wire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzI2L2htcmNfbGludXhfcGF5ZV90b29scy_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDMvMjYvaG1yY19saW51eF9wYXllX3Rvb2xzLw",
-          "author": null,
-          "description": "Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzI2L2htcmNfbGludXhfcGF5ZV90b29scy_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDMvMjYvaG1yY19saW51eF9wYXllX3Rvb2xzLw?oc=5",
-          "publishedOn": "2024-03-26T11:45:00.000Z",
-          "wordCount": 5051,
-          "title": "Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd2NjZnRlY2guY29tL2ludGVsLWFyYy1hNzUwZS1hNTgwZS1ncmFwaGljcy1jYXJkLXBjaS1pZHMtc3BvdHRlZC1pbi1saW51eC1kcml2ZXItbmV3LXJlZnJlc2gv0gFpaHR0cHM6Ly93Y2NmdGVjaC5jb20vaW50ZWwtYXJjLWE3NTBlLWE1ODBlLWdyYXBoaWNzLWNhcmQtcGNpLWlkcy1zcG90dGVkLWluLWxpbnV4LWRyaXZlci1uZXctcmVmcmVzaC9hbXAv",
-          "author": null,
-          "description": "Intel Arc A750E & A580E Graphics Card PCI IDs Spotted In Linux Driver, New Refresh?  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd2NjZnRlY2guY29tL2ludGVsLWFyYy1hNzUwZS1hNTgwZS1ncmFwaGljcy1jYXJkLXBjaS1pZHMtc3BvdHRlZC1pbi1saW51eC1kcml2ZXItbmV3LXJlZnJlc2gv0gFpaHR0cHM6Ly93Y2NmdGVjaC5jb20vaW50ZWwtYXJjLWE3NTBlLWE1ODBlLWdyYXBoaWNzLWNhcmQtcGNpLWlkcy1zcG90dGVkLWluLWxpbnV4LWRyaXZlci1uZXctcmVmcmVzaC9hbXAv?oc=5",
-          "publishedOn": "2024-03-26T11:35:00.000Z",
-          "wordCount": 5051,
-          "title": "Intel Arc A750E & A580E Graphics Card PCI IDs Spotted In Linux Driver, New Refresh? - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb3JhbmdlLXBpLW5lby1saW51eC1nYW1pbmctaGFuZGhlbGQtc3RhcnRzLWF0LTQ5OS13aXRoLXJ5emVuLTc4NDB1LXJ5emVuLTg4NDB1LWF0LTU5OS_SAQA",
-          "author": null,
-          "description": "Orange Pi Neo Linux gaming handheld starts at $499 with Ryzen 7840U, Ryzen 8840U at $599  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb3JhbmdlLXBpLW5lby1saW51eC1nYW1pbmctaGFuZGhlbGQtc3RhcnRzLWF0LTQ5OS13aXRoLXJ5emVuLTc4NDB1LXJ5emVuLTg4NDB1LWF0LTU5OS_SAQA?oc=5",
-          "publishedOn": "2024-03-26T11:08:24.000Z",
-          "wordCount": 5051,
-          "title": "Orange Pi Neo Linux gaming handheld starts at $499 with Ryzen 7840U, Ryzen 8840U at $599 - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LXgzMi1TaGFkb3ctU3RhY2tz0gEA",
-          "author": null,
-          "description": "Linux Enabling Shadow Stack Support For x32  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LXgzMi1TaGFkb3ctU3RhY2tz0gEA?oc=5",
-          "publishedOn": "2024-03-26T10:43:00.000Z",
-          "wordCount": 5051,
-          "title": "Linux Enabling Shadow Stack Support For x32 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZBLUFQSS1saWJ2YS0yLjIx0gEA",
-          "author": null,
-          "description": "Intel VA-API 2.21 Library Adds Intel Xe Kernel Driver Support, AV1 & Windows Fixes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZBLUFQSS1saWJ2YS0yLjIx0gEA?oc=5",
-          "publishedOn": "2024-03-26T10:33:00.000Z",
-          "wordCount": 5051,
-          "title": "Intel VA-API 2.21 Library Adds Intel Xe Kernel Driver Support, AV1 & Windows Fixes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvdWJ1bnR1LTI0MDQtaW5jcmVhc2VzLXZtLW1heC1tYXAtY291bnQtZm9yLXNtb290aGVyLWxpbnV4LWdhbWluZy_SAQA",
-          "author": null,
-          "description": "Ubuntu 24.04 increases vm.max_map_count for smoother Linux gaming  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvdWJ1bnR1LTI0MDQtaW5jcmVhc2VzLXZtLW1heC1tYXAtY291bnQtZm9yLXNtb290aGVyLWxpbnV4LWdhbWluZy_SAQA?oc=5",
-          "publishedOn": "2024-03-26T10:29:27.000Z",
-          "wordCount": 5051,
-          "title": "Ubuntu 24.04 increases vm.max_map_count for smoother Linux gaming - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vb3ZlcmtpbGwud3RmL29yYW5nZS1waS1uZW8tcHJpY2luZy_SAQA",
-          "author": null,
-          "description": "The Orange Pi gaming handheld starts at $499  Overkill.wtf",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vb3ZlcmtpbGwud3RmL29yYW5nZS1waS1uZW8tcHJpY2luZy_SAQA?oc=5",
-          "publishedOn": "2024-03-26T10:01:09.000Z",
-          "wordCount": 5051,
-          "title": "The Orange Pi gaming handheld starts at $499 - Overkill.wtf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjYvbWljcm9zb2Z0LW1heS1iZS1tYWtpbmctaXQtZWFzaWVyLXRvLWluc3RhbGwtbGludXgtZGlzdHJvcy1pbi13aW5kb3dzLTExLXdpdGgtYS1uZXctdWktZm9yLXdzbC_SAQA",
-          "author": null,
-          "description": "Microsoft may be making it easier to install Linux distros in Windows 11 with a new UI for WSL  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjYvbWljcm9zb2Z0LW1heS1iZS1tYWtpbmctaXQtZWFzaWVyLXRvLWluc3RhbGwtbGludXgtZGlzdHJvcy1pbi13aW5kb3dzLTExLXdpdGgtYS1uZXctdWktZm9yLXdzbC_SAQA?oc=5",
-          "publishedOn": "2024-03-26T09:37:54.000Z",
-          "wordCount": 5051,
-          "title": "Microsoft may be making it easier to install Linux distros in Windows 11 with a new UI for WSL - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2Jlc3QtbGludXgtZGlzdHJvcy0zNDExMDU4L9IBAA",
-          "author": null,
-          "description": "The best Linux distros for 2024  Android Authority",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2Jlc3QtbGludXgtZGlzdHJvcy0zNDExMDU4L9IBAA?oc=5",
-          "publishedOn": "2024-03-26T07:00:00.000Z",
-          "wordCount": 5051,
-          "title": "The best Linux distros for 2024 - Android Authority",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xpbnV4LWFkbWlucy1iZXdhcmUtZmFrZS1wdXR0eS_SAUFodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9saW51eC1hZG1pbnMtYmV3YXJlLWZha2UtcHV0dHkvYW1wLw",
-          "author": null,
-          "description": "Linux Admins Beware! Fake PuTTY Client That Rhadamanthys Stealer  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xpbnV4LWFkbWlucy1iZXdhcmUtZmFrZS1wdXR0eS_SAUFodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9saW51eC1hZG1pbnMtYmV3YXJlLWZha2UtcHV0dHkvYW1wLw?oc=5",
-          "publishedOn": "2024-03-26T06:01:57.000Z",
-          "wordCount": 5051,
-          "title": "Linux Admins Beware! Fake PuTTY Client That Rhadamanthys Stealer - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjYvdWdyZWVuLW5hcy1uYXN5bmMv0gEA",
-          "author": null,
-          "description": "UGREEN enters Network Attached Storage (NAS) market with diverse Linux-based NASync lineup  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjYvdWdyZWVuLW5hcy1uYXN5bmMv0gEA?oc=5",
-          "publishedOn": "2024-03-26T04:03:43.000Z",
-          "wordCount": 5051,
-          "title": "UGREEN enters Network Attached Storage (NAS) market with diverse Linux-based NASync lineup - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvc2NhbGUtMjF4LWEtY29tbXVuaXR5LWV2ZW50LWFib3V0LW11Y2gtbW9yZS10aGFuLWxpbnV4L9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvc2NhbGUtMjF4LWEtY29tbXVuaXR5LWV2ZW50LWFib3V0LW11Y2gtbW9yZS10aGFuLWxpbnV4L2FtcC8",
-          "author": null,
-          "description": "SCaLE 21x: A Community Event About Much More Than Linux  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvc2NhbGUtMjF4LWEtY29tbXVuaXR5LWV2ZW50LWFib3V0LW11Y2gtbW9yZS10aGFuLWxpbnV4L9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvc2NhbGUtMjF4LWEtY29tbXVuaXR5LWV2ZW50LWFib3V0LW11Y2gtbW9yZS10aGFuLWxpbnV4L2FtcC8?oc=5",
-          "publishedOn": "2024-03-26T02:12:43.000Z",
-          "wordCount": 5051,
-          "title": "SCaLE 21x: A Community Event About Much More Than Linux - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjUvdWJ1bnR1LWxpbnV4LTEyLXllYXJzLXN1cHBvcnQv0gEA",
-          "author": null,
-          "description": "Ubuntu Linux LTS releases get up to 12 years of support — if you pay for it  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDMvMjUvdWJ1bnR1LWxpbnV4LTEyLXllYXJzLXN1cHBvcnQv0gEA?oc=5",
-          "publishedOn": "2024-03-25T21:55:37.000Z",
-          "wordCount": 5053,
-          "title": "Ubuntu Linux LTS releases get up to 12 years of support — if you pay for it - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL215LWZhdm9yaXRlLWxpbnV4LXRleHQtZWRpdG9ycy1hbmQtd2h5LXlvdS1zaG91bGQtYmUtdXNpbmctb25lL9IBAA",
-          "author": null,
-          "description": "My favorite Linux text editors (and why you should be using one)  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL215LWZhdm9yaXRlLWxpbnV4LXRleHQtZWRpdG9ycy1hbmQtd2h5LXlvdS1zaG91bGQtYmUtdXNpbmctb25lL9IBAA?oc=5",
-          "publishedOn": "2024-03-25T21:40:00.000Z",
-          "wordCount": 5053,
-          "title": "My favorite Linux text editors (and why you should be using one) - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9LREUtUGxhc21hLXRoZW1pbmctc2VjdXJpdHktbmlnaHRtYXJlLXNjcmlwdGluZy1mZWF0dXJlLWNhbi1ydW4tcm9vdC1jb21tYW5kcy1pbmNsdWRpbmctdGhlLXdvcnN0LUxpbnV4LW1lbWUuODE3OTA5LjAuaHRtbNIBAA",
-          "author": null,
-          "description": "KDE Plasma theming security nightmare: scripting feature can run root commands including the worst Linux meme  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9LREUtUGxhc21hLXRoZW1pbmctc2VjdXJpdHktbmlnaHRtYXJlLXNjcmlwdGluZy1mZWF0dXJlLWNhbi1ydW4tcm9vdC1jb21tYW5kcy1pbmNsdWRpbmctdGhlLXdvcnN0LUxpbnV4LW1lbWUuODE3OTA5LjAuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-03-25T20:19:59.000Z",
-          "wordCount": 5053,
-          "title": "KDE Plasma theming security nightmare: scripting feature can run root commands including the worst Linux meme - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZpdmUtbGludXgtZmlsZS1hbmQtZm9sZGVyLW1hbmFnZW1lbnQtY29tbWFuZHMteW91LW5lZWQtdG8ta25vdy_SAQA",
-          "author": null,
-          "description": "Five Linux file and folder management commands you need to know  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZpdmUtbGludXgtZmlsZS1hbmQtZm9sZGVyLW1hbmFnZW1lbnQtY29tbWFuZHMteW91LW5lZWQtdG8ta25vdy_SAQA?oc=5",
-          "publishedOn": "2024-03-25T19:46:00.000Z",
-          "wordCount": 5053,
-          "title": "Five Linux file and folder management commands you need to know - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzI1L2tlcm5lbF82XzlfcmMxL9IBOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMy8yNS9rZXJuZWxfNl85X3JjMS8",
-          "author": null,
-          "description": "First release candidate of Linux kernel 6.9 looks 'fairly normal,' says Torvalds  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAzLzI1L2tlcm5lbF82XzlfcmMxL9IBOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMy8yNS9rZXJuZWxfNl85X3JjMS8?oc=5",
-          "publishedOn": "2024-03-25T19:01:00.000Z",
-          "wordCount": 5053,
-          "title": "First release candidate of Linux kernel 6.9 looks 'fairly normal,' says Torvalds - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0xpbnV4LWJhc2VkLU9yYW5nZS1QaS1OZW8tZ2FtaW5nLWhhbmRoZWxkLXdpdGgtQU1ELVJ5emVuLTctc3RhcnRzLWF0LTQ5OS44MTc5MDguMC5odG1s0gEA",
-          "author": null,
-          "description": "Linux-based Orange Pi Neo gaming handheld with AMD Ryzen 7 starts at $499  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0xpbnV4LWJhc2VkLU9yYW5nZS1QaS1OZW8tZ2FtaW5nLWhhbmRoZWxkLXdpdGgtQU1ELVJ5emVuLTctc3RhcnRzLWF0LTQ5OS44MTc5MDguMC5odG1s0gEA?oc=5",
-          "publishedOn": "2024-03-25T18:10:11.000Z",
-          "wordCount": 5053,
-          "title": "Linux-based Orange Pi Neo gaming handheld with AMD Ryzen 7 starts at $499 - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdWJ1bnR1LWxpbnV4LWxlZ2FjeS1zdXBwb3J0LXByb2dyYW0v0gEA",
-          "author": null,
-          "description": "Ubuntu Linux LTS Releases Can Now Get 12 Years of Updates  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdWJ1bnR1LWxpbnV4LWxlZ2FjeS1zdXBwb3J0LXByb2dyYW0v0gEA?oc=5",
-          "publishedOn": "2024-03-25T17:45:00.000Z",
-          "wordCount": 5053,
-          "title": "Ubuntu Linux LTS Releases Can Now Get 12 Years of Updates - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjktZmVhdHVyZXPSAQA",
-          "author": null,
-          "description": "Linux 6.9 Features: DM VDO, AMD Preferred Core, Intel FRED & Larger Console Fonts  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjktZmVhdHVyZXPSAQA?oc=5",
-          "publishedOn": "2024-03-25T17:00:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Features: DM VDO, AMD Preferred Core, Intel FRED & Larger Console Fonts - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2luZG93cy1zdWJzeXN0ZW0tZm9yLWxpbnV4LW1pZ2h0LWdldC1lYXNpZXItdG8tdXNlL9IBAA",
-          "author": null,
-          "description": "Windows Subsystem for Linux Might Get Easier to Use  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2luZG93cy1zdWJzeXN0ZW0tZm9yLWxpbnV4LW1pZ2h0LWdldC1lYXNpZXItdG8tdXNlL9IBAA?oc=5",
-          "publishedOn": "2024-03-25T15:59:00.000Z",
-          "wordCount": 5053,
-          "title": "Windows Subsystem for Linux Might Get Easier to Use - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vbGlsaXB1dGluZy5jb20vb3JhbmdlLXBpLW5lby1saW51eC1oYW5kaGVsZC1nYW1pbmctcGMtdG8tc2VsbC1mb3ItNDk5LWFuZC11cC_SAQA",
-          "author": null,
-          "description": "Orange Pi Neo Linux handheld gaming PC to sell for $499 and up  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbGlsaXB1dGluZy5jb20vb3JhbmdlLXBpLW5lby1saW51eC1oYW5kaGVsZC1nYW1pbmctcGMtdG8tc2VsbC1mb3ItNDk5LWFuZC11cC_SAQA?oc=5",
-          "publishedOn": "2024-03-25T15:06:30.000Z",
-          "wordCount": 5053,
-          "title": "Orange Pi Neo Linux handheld gaming PC to sell for $499 and up - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SQU0tSHVnZVRMQi1Cb290LUZhc3TSAQA",
-          "author": null,
-          "description": "Linux 6.9 Will Boot Much Faster For Systems With Large Amounts Of RAM  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1SQU0tSHVnZVRMQi1Cb290LUZhc3TSAQA?oc=5",
-          "publishedOn": "2024-03-25T14:21:00.000Z",
-          "wordCount": 5053,
-          "title": "Linux 6.9 Will Boot Much Faster For Systems With Large Amounts Of RAM - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9981,496 +9821,6 @@
           "wordCount": 1428,
           "title": "WTMB (Window Thumbnails) v6",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/WTMB-Window-Thumbnails_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/PyCharm-103925.shtml",
-          "author": "Softpedia Linux",
-          "description": "The best Python IDE for professional developers, casual coders, and even students",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/PyCharm-103925.shtml",
-          "publishedOn": "2024-03-25T23:01:29.000Z",
-          "wordCount": 1397,
-          "title": "PyCharm 2023.3.5 Build 233.15026.15 / 2024.1 Build 241.14494.200 RC",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PyCharm_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Workbench-104364.shtml",
-          "author": "Softpedia Linux",
-          "description": "Learn the ropes of GNOME GUI prototyping with the help of this nifty open-source app",
-          "link": "https://linux.softpedia.com/get/Utilities/Workbench-104364.shtml",
-          "publishedOn": "2024-03-25T22:34:24.000Z",
-          "wordCount": 1254,
-          "title": "Workbench 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Workbench_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Weather-or-Not-104638.shtml",
-          "author": "Softpedia Linux",
-          "description": "The perfect supporting extension for the popular GNOME Weather extension, an extension that displays the current weather directly in the top bar",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Weather-or-Not-104638.shtml",
-          "publishedOn": "2024-03-25T22:31:43.000Z",
-          "wordCount": 1373,
-          "title": "Weather or Not v46",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Weather-or-Not_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/Gnome/Weather-Giovanni-Campagna-104194.shtml",
-          "author": "Softpedia Linux",
-          "description": "Keep track of the weather in your area or surrounding areas with the help of this nifty little app",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/Gnome/Weather-Giovanni-Campagna-104194.shtml",
-          "publishedOn": "2024-03-25T22:30:08.000Z",
-          "wordCount": 1245,
-          "title": "Weather 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Weather-Giovanni-Campagna_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Lock-screen-background-104089.shtml",
-          "author": "Softpedia Linux",
-          "description": "NIfty, little GNOME Shell extension that allows you to add custom images to GNOME's lock screen",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Lock-screen-background-104089.shtml",
-          "publishedOn": "2024-03-25T22:20:04.000Z",
-          "wordCount": 1226,
-          "title": "Lock screen background 35",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Lock-screen-background_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Hide-Top-Bar-Thomas-Vogt-104522.shtml",
-          "author": "Softpedia Linux",
-          "description": "Maximize space on your display or eliminate as many distractions as possible with the help of this nifty GNOME Shell extension that hides the Top Bar",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Hide-Top-Bar-Thomas-Vogt-104522.shtml",
-          "publishedOn": "2024-03-25T22:11:41.000Z",
-          "wordCount": 1482,
-          "title": "Hide Top Bar 116",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Hide-Top-Bar-Thomas-Vogt_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/TopHat-104529.shtml",
-          "author": "Softpedia Linux",
-          "description": "A stylish and very functional system resource monitor that comes in the form of a GNOME Shell extension",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/TopHat-104529.shtml",
-          "publishedOn": "2024-03-25T22:06:39.000Z",
-          "wordCount": 1398,
-          "title": "TopHat 14",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/TopHat_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/UpNote-104075.shtml",
-          "author": "Softpedia Linux",
-          "description": "Organize your work and thoughts with the help of this modern, very capable, and cross-platform note-taking app",
-          "link": "https://linux.softpedia.com/get/Utilities/UpNote-104075.shtml",
-          "publishedOn": "2024-03-25T22:03:55.000Z",
-          "wordCount": 1473,
-          "title": "UpNote 9.2.2 / 1.2.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/UpNote_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Tidal-hifi-104266.shtml",
-          "author": "Softpedia Linux",
-          "description": "Enjoy your favorite music on Tidal from the comforts of your Linux desktop with the help of this Electron-based app",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Tidal-hifi-104266.shtml",
-          "publishedOn": "2024-03-25T21:58:45.000Z",
-          "wordCount": 1341,
-          "title": "Tidal-hifi 5.10.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tidal-hifi_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Sweeper-104312.shtml",
-          "author": "Softpedia Linux",
-          "description": "Clean all unwanted traces of user activity on a Linux system with the help of this app",
-          "link": "https://linux.softpedia.com/get/Utilities/Sweeper-104312.shtml",
-          "publishedOn": "2024-03-25T21:53:12.000Z",
-          "wordCount": 1196,
-          "title": "Sweeper 24.02.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Sweeper_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Sticky-Notes-Angelo-Verlain-104458.shtml",
-          "author": "Softpedia Linux",
-          "description": "Enjoy a smooth and traditional \"sticky notes\" experience and ensure you always stay productive with the help of this nifty app",
-          "link": "https://linux.softpedia.com/get/Utilities/Sticky-Notes-Angelo-Verlain-104458.shtml",
-          "publishedOn": "2024-03-25T21:45:38.000Z",
-          "wordCount": 1275,
-          "title": "Sticky Notes 0.2.5",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Sticky-Notes-Angelo-Verlain_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Spedread-104304.shtml",
-          "author": "Softpedia Linux",
-          "description": "Focus on the general idea, and less on everything else with the help of this nifty app for speed reading",
-          "link": "https://linux.softpedia.com/get/Utilities/Spedread-104304.shtml",
-          "publishedOn": "2024-03-25T21:42:59.000Z",
-          "wordCount": 1216,
-          "title": "Spedread 2.4.6",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Spedread_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Soundscape-104619.shtml",
-          "author": "Softpedia Linux",
-          "description": "Improve your focus with the help of this free and open-source ambient sound app",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Soundscape-104619.shtml",
-          "publishedOn": "2024-03-25T21:40:26.000Z",
-          "wordCount": 1275,
-          "title": "Soundscape 1.4.6",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Soundscape_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Snapshot-104494.shtml",
-          "author": "Softpedia Linux",
-          "description": "GNOME's potentially next camera app, Snapshot may replace the already classic Cheese webcam utility",
-          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Snapshot-104494.shtml",
-          "publishedOn": "2024-03-25T21:38:45.000Z",
-          "wordCount": 1273,
-          "title": "Snapshot 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Snapshot_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Security/Secrets-Falk-Alexander-Seidl-104215.shtml",
-          "author": "Softpedia Linux",
-          "description": "Stylish and powerful password manager that uses the KeePass v.4 format and integrates with GNOME perfectly",
-          "link": "https://linux.softpedia.com/get/Security/Secrets-Falk-Alexander-Seidl-104215.shtml",
-          "publishedOn": "2024-03-25T21:25:04.000Z",
-          "wordCount": 1365,
-          "title": "Secrets 9.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Secrets-Falk-Alexander-Seidl_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/System/Monitoring/RunCat-104414.shtml",
-          "author": "Softpedia Linux",
-          "description": "Find out your computer's CPU usage at any given time by looking at the cat thanks to this funny and useful GNOME Shell extension",
-          "link": "https://linux.softpedia.com/get/System/Monitoring/RunCat-104414.shtml",
-          "publishedOn": "2024-03-25T21:20:27.000Z",
-          "wordCount": 1238,
-          "title": "RunCat 27",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/RunCat_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Relaxator-104217.shtml",
-          "author": "Softpedia Linux",
-          "description": "Play relaxing sounds in order to relax or boost productivity by relying on this minimalist app",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Relaxator-104217.shtml",
-          "publishedOn": "2024-03-25T21:13:51.000Z",
-          "wordCount": 1243,
-          "title": "Relaxator 1.0.10",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Relaxator_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Recorder-104216.shtml",
-          "author": "Softpedia Linux",
-          "description": "No-frills little recording app that allows you to record audio in MP3 format and offers the option for playback",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Recorder-104216.shtml",
-          "publishedOn": "2024-03-25T21:12:32.000Z",
-          "wordCount": 1200,
-          "title": "Recorder 1.0.17",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Recorder_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Filesharing/qBittorrent-12765.shtml",
-          "author": "Softpedia Linux",
-          "description": "A torrent client that provides a real alternative to the popular µTorrent BitTorrent client",
-          "link": "https://linux.softpedia.com/get/Communications/Filesharing/qBittorrent-12765.shtml",
-          "publishedOn": "2024-03-25T21:06:34.000Z",
-          "wordCount": 1290,
-          "title": "qBittorrent 4.6.4 / 5.0.0 Beta 1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/qBittorrent_4.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/Pulsar-Atom-104668.shtml",
-          "author": "Softpedia Linux",
-          "description": "The spiritual successor of Atom, Pulsar aims to keep the legacy of Atom alive by taking everything that made it great as well as by improving on every single aspect",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/Pulsar-Atom-104668.shtml",
-          "publishedOn": "2024-03-25T20:43:42.000Z",
-          "wordCount": 1522,
-          "title": "Pulsar 1.115.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Pulsar-Atom_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Planner-Alain-M-104033.shtml",
-          "author": "Softpedia Linux",
-          "description": "Simple, free, and open-source task manager/planner for your daily and professional needs",
-          "link": "https://linux.softpedia.com/get/Utilities/Planner-Alain-M-104033.shtml",
-          "publishedOn": "2024-03-25T20:36:29.000Z",
-          "wordCount": 1304,
-          "title": "Planify 4.5.8",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Planner-Alain-M_6.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Office/Office-Suites/OneNote-Patrik-Laszlo-103885.shtml",
-          "author": "Softpedia Linux",
-          "description": "Get work done in OneNote without the help of your browser by relying on this open-source, Electron-based app",
-          "link": "https://linux.softpedia.com/get/Office/Office-Suites/OneNote-Patrik-Laszlo-103885.shtml",
-          "publishedOn": "2024-03-25T20:29:38.000Z",
-          "wordCount": 1309,
-          "title": "P3X OneNote 2024.4.160",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/OneNote-Patrik-Laszlo_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Communications/Filesharing/OnionShare-103905.shtml",
-          "author": "Softpedia Linux",
-          "description": "Securely share and receive files, as well as host websites using the famous Tor network with the help of this efficient app",
-          "link": "https://linux.softpedia.com/get/Communications/Filesharing/OnionShare-103905.shtml",
-          "publishedOn": "2024-03-25T20:20:04.000Z",
-          "wordCount": 1416,
-          "title": "OnionShare 2.6.2",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/OnionShare_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Obfuscate-Bilal-Elmoussaoui-104201.shtml",
-          "author": "Softpedia Linux",
-          "description": "Protect your privacy and hide private information from various photos/screenshots with the help of this small editor",
-          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Obfuscate-Bilal-Elmoussaoui-104201.shtml",
-          "publishedOn": "2024-03-25T19:55:55.000Z",
-          "wordCount": 1269,
-          "title": "Obfuscate 0.0.10",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Obfuscate-Bilal-Elmoussaoui_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Notepad-Alex-Kryuchkov-104218.shtml",
-          "author": "Softpedia Linux",
-          "description": "Effortlessly create notes on Linux with the help of this straightforward note-taking app",
-          "link": "https://linux.softpedia.com/get/Utilities/Notepad-Alex-Kryuchkov-104218.shtml",
-          "publishedOn": "2024-03-25T19:54:28.000Z",
-          "wordCount": 1174,
-          "title": "Notepad 1.2.6",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Notepad-Alex-Kryuchkov_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Nostalgia-104509.shtml",
-          "author": "Softpedia Linux",
-          "description": "Relieve the feeling of GNOME releases of the past with the help of Nostalgia, a small app that allows you to set GNOME wallpapers (historic GNOME wallpapers)",
-          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Nostalgia-104509.shtml",
-          "publishedOn": "2024-03-25T19:52:41.000Z",
-          "wordCount": 1311,
-          "title": "Nostalgia 0.10",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Nostalgia_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Security/Mullvad-VPN-104472.shtml",
-          "author": "Softpedia Linux",
-          "description": "Protect your online privacy with the help of this well established VPN service that has bespoke clients for all major OSes out there",
-          "link": "https://linux.softpedia.com/get/Security/Mullvad-VPN-104472.shtml",
-          "publishedOn": "2024-03-25T19:51:38.000Z",
-          "wordCount": 1402,
-          "title": "Mullvad VPN 2024.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mullvad-VPN_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Mousai-104191.shtml",
-          "author": "Softpedia Linux",
-          "description": "Discover songs on your Linux computer, from either the microphone or from the desktop, with the help of this Shazam-like desktop app",
-          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Mousai-104191.shtml",
-          "publishedOn": "2024-03-25T19:38:02.000Z",
-          "wordCount": 1241,
-          "title": "Mousai 0.7.7",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mousai_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Lorem-104510.shtml",
-          "author": "Softpedia Linux",
-          "description": "Effortlessly generate Lorem Ipsum text from the comforts of your Linux desktop with the help of this lightweight app",
-          "link": "https://linux.softpedia.com/get/Utilities/Lorem-104510.shtml",
-          "publishedOn": "2024-03-25T19:21:37.000Z",
-          "wordCount": 1193,
-          "title": "Lorem 1.4",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Lorem_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Kooha-104172.shtml",
-          "author": "Softpedia Linux",
-          "description": "Record screen activity on Linux with the help of this stylish and efficient screen recorder app for GNOME that also works on Wayland",
-          "link": "https://linux.softpedia.com/get/Utilities/Kooha-104172.shtml",
-          "publishedOn": "2024-03-25T19:12:38.000Z",
-          "wordCount": 1325,
-          "title": "Kooha 2.3.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Kooha_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/KMagnifier-104281.shtml",
-          "author": "Softpedia Linux",
-          "description": "Small and useful utility for Linux that allows users with visual disabilities to magnify parts of the screen",
-          "link": "https://linux.softpedia.com/get/Utilities/KMagnifier-104281.shtml",
-          "publishedOn": "2024-03-25T19:09:52.000Z",
-          "wordCount": 1253,
-          "title": "KMagnifier 24.02.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/KMagnifier_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/System/KDiskFree-104597.shtml",
-          "author": "Softpedia Linux",
-          "description": "Simple KDE app that displays available the free space on each device on your system",
-          "link": "https://linux.softpedia.com/get/System/KDiskFree-104597.shtml",
-          "publishedOn": "2024-03-25T19:08:32.000Z",
-          "wordCount": 1194,
-          "title": "KDiskFree 24.02.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/KDiskFree_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Science-and-Engineering/Chemistry/Kalzium-2404.shtml",
-          "author": "Softpedia Linux",
-          "description": "An open-source periodic table of the elements on KDE and any Linux operating system",
-          "link": "https://linux.softpedia.com/get/Science-and-Engineering/Chemistry/Kalzium-2404.shtml",
-          "publishedOn": "2024-03-25T19:06:54.000Z",
-          "wordCount": 1253,
-          "title": "Kalzium 24.02.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Kalzium_4.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/HopToDesk-104398.shtml",
-          "author": "Softpedia Linux",
-          "description": "Share your screen with other computers of devices, as well as remotely control other computers' desktops, all with the help of this free and open-source app",
-          "link": "https://linux.softpedia.com/get/Utilities/HopToDesk-104398.shtml",
-          "publishedOn": "2024-03-25T18:58:00.000Z",
-          "wordCount": 1386,
-          "title": "HopToDesk 1.41.8",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/HopToDesk_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/GPaste-104648.shtml",
-          "author": "Softpedia Linux",
-          "description": "Probably the best clipboard manager for GNOME desktops, GPaste is the spiritual successor of parcellite and provides users with tons of nice features and sleek looks",
-          "link": "https://linux.softpedia.com/get/Utilities/GPaste-104648.shtml",
-          "publishedOn": "2024-03-25T18:24:37.000Z",
-          "wordCount": 1401,
-          "title": "GPaste 45.1 / 2.9.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GPaste_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Google-Chrome-48046.shtml",
-          "author": "Softpedia Linux",
-          "description": "Browse the Internet in a fast, secure, and easy way with Google's popular browser that  boasts sublime integration with all other Google products",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Google-Chrome-48046.shtml",
-          "publishedOn": "2024-03-25T18:22:50.000Z",
-          "wordCount": 1600,
-          "title": "Google Chrome 123.0.6312.58 / 124.0.6367.8 Beta / 125.0.6368.2 Dev",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Google-Chrome_7.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Gitify-103975.shtml",
-          "author": "Softpedia Linux",
-          "description": "Get all your GitHub notifications on your computer's desktop with the help of this small app that sits in the top bar",
-          "link": "https://linux.softpedia.com/get/Utilities/Gitify-103975.shtml",
-          "publishedOn": "2024-03-25T18:11:39.000Z",
-          "wordCount": 1249,
-          "title": "Gitify 5.0.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Gitify_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Security/Forgetpass-104316.shtml",
-          "author": "Softpedia Linux",
-          "description": "Effortless and securely generate passwords for various websites with the help of this nifty open-source password generator app",
-          "link": "https://linux.softpedia.com/get/Security/Forgetpass-104316.shtml",
-          "publishedOn": "2024-03-25T17:58:03.000Z",
-          "wordCount": 1229,
-          "title": "Forgetpass 1.0.16",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Forgetpass_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/File-managers/Filelight-2419.shtml",
-          "author": "Softpedia Linux",
-          "description": "Visualize disk usage on your Linux computer with the help of this nice app that displays information via modern pie charts",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/File-managers/Filelight-2419.shtml",
-          "publishedOn": "2024-03-25T17:47:44.000Z",
-          "wordCount": 1209,
-          "title": "Filelight 24.02.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Filelight_3.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Evince-3819.shtml",
-          "author": "Softpedia Linux",
-          "description": "A lightweight document viewer utility implemented into the GNOME desktop environment",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Evince-3819.shtml",
-          "publishedOn": "2024-03-25T17:41:21.000Z",
-          "wordCount": 1199,
-          "title": "Evince 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Evince_1.png"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Emblem-104511.shtml",
-          "author": "Softpedia Linux",
-          "description": "Neat little app that's part of the GNOME Circle and that allows you to swiftly generate project avatars for your Matrix rooms or Git Forges projects",
-          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Emblem-104511.shtml",
-          "publishedOn": "2024-03-25T17:12:03.000Z",
-          "wordCount": 1194,
-          "title": "Emblem 1.4.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Emblem_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/D-Spy-104671.shtml",
-          "author": "Softpedia Linux",
-          "description": "A super fast and very sleek-looking Linux application for exploring D-Bus connections",
-          "link": "https://linux.softpedia.com/get/Utilities/D-Spy-104671.shtml",
-          "publishedOn": "2024-03-25T17:10:29.000Z",
-          "wordCount": 1296,
-          "title": "D-Spy 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/D-Spy_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Desktop-Files-Creator-104443.shtml",
-          "author": "Softpedia Linux",
-          "description": "Create .desktop files or application starters for any app with the help of this simple tool",
-          "link": "https://linux.softpedia.com/get/Utilities/Desktop-Files-Creator-104443.shtml",
-          "publishedOn": "2024-03-25T17:08:40.000Z",
-          "wordCount": 1279,
-          "title": "Desktop Files Creator 1.2.6",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Desktop-Files-Creator_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Connections-104195.shtml",
-          "author": "Softpedia Linux",
-          "description": "Get access to and control other desktop operating systems with the help of this useful app",
-          "link": "https://linux.softpedia.com/get/Utilities/Connections-104195.shtml",
-          "publishedOn": "2024-03-25T17:01:35.000Z",
-          "wordCount": 1255,
-          "title": "Connections 46.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Connections_3.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Citations-104496.shtml",
-          "author": "Softpedia Linux",
-          "description": "Super stylish app designed specifically so you can manage your bibliographies using the BibTeX format",
-          "link": "https://linux.softpedia.com/get/Utilities/Citations-104496.shtml",
-          "publishedOn": "2024-03-25T16:52:13.000Z",
-          "wordCount": 1194,
-          "title": "Citations 0.6.3",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Citations_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/ChatGPT-Desktop-104470.shtml",
-          "author": "Softpedia Linux",
-          "description": "Enjoy everything ChatGPT has to offer from the comforts of your Linux desktop by giving this nice app a try",
-          "link": "https://linux.softpedia.com/get/Utilities/ChatGPT-Desktop-104470.shtml",
-          "publishedOn": "2024-03-25T16:44:49.000Z",
-          "wordCount": 1240,
-          "title": "ChatGPT Desktop 1.0.5",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/ChatGPT-Desktop_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cemu-104606.shtml",
-          "author": "Softpedia Linux",
-          "description": "Run your Wii U games directly on your PC with the help of Cemu, probably the most well-rounded Wii U emulator out there",
-          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cemu-104606.shtml",
-          "publishedOn": "2024-03-25T16:43:52.000Z",
-          "wordCount": 1381,
-          "title": "Cemu 2.0 / 2.0-73 Experimental",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cemu_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cartridges-104475.shtml",
-          "author": "Softpedia Linux",
-          "description": "Launch all your games from under a single roof by relying on this nifty Linux game launcher",
-          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cartridges-104475.shtml",
-          "publishedOn": "2024-03-25T16:41:35.000Z",
-          "wordCount": 1262,
-          "title": "Cartridges 2.8.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cartridges_2.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Break-Timer-104094.shtml",
-          "author": "Softpedia Linux",
-          "description": "Improve your health with the help of this nifty little app that reminds you when and how to take breaks",
-          "link": "https://linux.softpedia.com/get/Utilities/Break-Timer-104094.shtml",
-          "publishedOn": "2024-03-25T15:21:25.000Z",
-          "wordCount": 1264,
-          "title": "Break Timer 3.1.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Break-Timer_3.jpg"
         }
       ]
     },
@@ -10516,6 +9866,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.",
+          "link": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "publishedOn": "2024-04-24T15:00:00.000Z",
+          "wordCount": 5699,
+          "title": "Using AI For Neurodiversity And Building Inclusive Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -10718,6 +10083,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
+          "author": "oghenekparobo stephen",
+          "description": "In this article, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, presenting a superior and more secure authentication scheme.  By implementing this advanced approach, we unveil a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table Of",
+          "link": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
+          "publishedOn": "2024-04-24T18:41:00.000Z",
+          "wordCount": 7927,
+          "title": "How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/How-to-Implement-JSON-Web-Tokens-in-PHP-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
+          "author": "Anshul Sanghi",
+          "description": "In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If",
+          "link": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
+          "publishedOn": "2024-04-24T17:49:17.000Z",
+          "wordCount": 12698,
+          "title": "Procedural Macros in Rust – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Procedural-Macros-in-Rust-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/webflow-crash-course/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...",
+          "link": "https://www.freecodecamp.org/news/webflow-crash-course/",
+          "publishedOn": "2024-04-24T17:15:23.000Z",
+          "wordCount": 926,
+          "title": "Webflow Crash Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989079880/5e5dfceb-38ee-4b4a-9fa8-77643a1023ef.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
+          "author": "Beau Carnes",
+          "description": "freeCodeCamp just published a video course that will teach you how to create a powerful photo management app using Next.js – similar to the popular Google Photos app. Colby Fayock created this course. He's an experienced teacher and works for Cloudin...",
+          "link": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
+          "publishedOn": "2024-04-24T17:07:29.000Z",
+          "wordCount": 1092,
+          "title": "Learn Next.js by Building a Cloud Photo App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989096807/bbb28c76-9a35-476c-a58f-59819efe9e65.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
+          "publishedOn": "2024-04-24T15:36:15.000Z",
+          "wordCount": 1169,
+          "title": "Build a Responsive Website with HTML and CSS - Course in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713808669840/d79f8ee5-b159-4a71-a0be-4ff3b52b3f5d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
+          "author": "Damilola Oladele",
+          "description": "Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In",
+          "link": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
+          "publishedOn": "2024-04-24T14:39:28.000Z",
+          "wordCount": 2535,
+          "title": "How to Use Object-Oriented Programming in Python – Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/WhatsApp-Image-2024-04-24-at-8.25.07-AM.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
           "author": "Jaja Ibifubara David",
@@ -11477,46 +10902,6 @@
           "wordCount": 1744,
           "title": "How Do Open Source Software Lifecycles Work?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "author": "Jaja Ibifubara David",
-          "description": "I know what you're thinking, but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications, dissecting",
-          "link": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "publishedOn": "2024-03-25T22:33:05.000Z",
-          "wordCount": 4306,
-          "title": "React Navigation – How to Build a Breadcrumb Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Breadcrumb-article-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "author": "Beau Carnes",
-          "description": "The ability to analyze and interpret data is indispensable across many different industries. And you don't even need to buy any software to expertly analyize data. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you about data analytics through hands-on projects, leveraging a suite of",
-          "link": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "publishedOn": "2024-03-25T19:57:04.000Z",
-          "wordCount": 978,
-          "title": "Unlock the Power of Data Analytics with Free Google Services",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/dataanalytics.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "author": "Akande Olalekan Toheeb",
-          "description": "What comes to mind when you hear the term \"the Cloud\"? Do you envision the vast expanse of the sky, with its billowy clouds and soaring birds? In the realm of technology, the term \"Cloud\" has no relation to the atmospheric phenomena or avian inhabitants of the world. Instead, it",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "publishedOn": "2024-03-25T18:03:41.000Z",
-          "wordCount": 2664,
-          "title": "How to Start a Career in Cloud Computing in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "author": "Nitheesh Poojary",
-          "description": "In the world of networking, you may find yourself troubleshooting problems such as difficulty connecting to other computers or to SSH, problems with IP tables, or being unable to access websites. However, have you ever attempted to troubleshoot your network by applying the OSI Model? Through the use of a",
-          "link": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "publishedOn": "2024-03-25T17:34:59.000Z",
-          "wordCount": 1852,
-          "title": "How to Troubleshoot Your Network on Linux – OSI Model Troubleshooting Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
         }
       ]
     }
