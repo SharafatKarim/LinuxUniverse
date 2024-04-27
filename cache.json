@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=416135",
+          "author": "Fahmida Yesmin",
+          "description": "30 examples of coding in golang as your reference point for the most common tasks.  Golang capabilities from basic syntax to handling files, web requests, and data formats.",
+          "link": "https://linuxhint.com/golang-examples-beginners/",
+          "publishedOn": "2024-04-26T15:00:44.000Z",
+          "wordCount": 9995,
+          "title": "30 Golang programming examples for beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=415888",
+          "author": "Sidratul Muntaha",
+          "description": "This article will guide you how to open files on linux.",
+          "link": "https://linuxhint.com/linux-open-command/",
+          "publishedOn": "2024-04-26T14:32:32.000Z",
+          "wordCount": 4930,
+          "title": "Linux open Command",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=416080",
+          "author": "Sidratul Muntaha",
+          "description": "15 example commands for how to use apt in ubuntu, debian and other linux distros that prefer apt.",
+          "link": "https://linuxhint.com/15-apt-command-examples-on-linux/",
+          "publishedOn": "2024-04-26T14:30:23.000Z",
+          "wordCount": 5884,
+          "title": "15 APT Command Examples on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=416119",
+          "author": "Denis Kariuki",
+          "description": "If you are stuck on how to have a GUI on an Ubuntu 24.04 server, this post shares the steps you should follow. We will install a display manager and a GUI to make it convenient for you to choose between using a GUI or a command line when accessing your Ubuntu server.",
+          "link": "https://linuxhint.com/how-to-install-gui-on-ubuntu-24-04-server/",
+          "publishedOn": "2024-04-26T12:45:49.000Z",
+          "wordCount": 4979,
+          "title": "How to Install GUI on Ubuntu 24.04 Server",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=416064",
           "author": "Denis Kariuki",
           "description": "Jenkins supports numerous platforms, and this post focuses on installing it on Ubuntu 24.04. We will guide you through a step-by-step process to ensure you don't get stuck. Let's begin!",
@@ -908,6 +948,86 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188869",
+          "author": "Web Webster",
+          "description": "Sails is a real-time MVC framework for building production-ready enterprise Node.js applications. This guide will show you how to install Sails.js with Apache as a reverse proxy on Ubuntu 22.04.\nThe post How to Install Sails.js Framework on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-sails-js-framework-on-ubuntu-22-04/",
+          "publishedOn": "2024-04-27T00:00:11.000Z",
+          "wordCount": 10193,
+          "title": "How to Install Sails.js Framework on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188915",
+          "author": "Web Webster",
+          "description": "Magento is an open-source e-commerce platform built in PHP. It is a market-leading player in the e-commerce world. Adobe acquired the company in 2018. Magento is designed to help businesses develop, with versions geared to small, medium, and enterprise-level organizations. The open-source platform includes built-in functionality, like integrated checkout, payment and shipping, catalog management, customer […]\nThe post How to Install Magento 2 on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-magento-2-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-26T22:00:21.000Z",
+          "wordCount": 10042,
+          "title": "How to Install Magento 2 on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188920",
+          "author": "Web Webster",
+          "description": "GNOME 46.1 is here a month after the release of GNOME 46 implementing explicit GNU synchronization support for users of NVIDIA hardware on Wayland to provide them with a performance boost and solve various graphic glitches. This was implemented in the Mutter window and composite manager.\nThe post GNOME 46.1 Desktop Environment Released with Explicit Sync Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/gnome-46-1-desktop-environment-released-with-explicit-sync-support/",
+          "publishedOn": "2024-04-26T20:00:19.000Z",
+          "wordCount": 10208,
+          "title": "GNOME 46.1 Desktop Environment Released with Explicit Sync Support",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188917",
+          "author": "Web Webster",
+          "description": "Are you a Linux sysadmin expert? If not, you probably need help with Linux system administration from time to time. Anything that makes Linux easier to use is always good news. Linux Assistant is a helper tool that aims to guide you through your daily Linux usage. It performs a variety of system admin tasks.\nThe post Linux Assistant: Tool to Help You Master Linux System Administration appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/it-management/linux-assistant-tool-to-help-you-master-linux-system-administration/",
+          "publishedOn": "2024-04-26T18:00:10.000Z",
+          "wordCount": 10218,
+          "title": "Linux Assistant: Tool to Help You Master Linux System Administration",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188817",
+          "author": "Web Webster",
+          "description": "WordPress is a free and open-source content management system (CMS) that allows users to create and manage websites, blogs, and online stores. In this guide, we’ll explain step-by-step how to install WordPress on Ubuntu 24.04.\nThe post How to Install WordPress on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-wordpress-on-ubuntu-24-04/",
+          "publishedOn": "2024-04-26T17:00:11.000Z",
+          "wordCount": 10198,
+          "title": "How to Install WordPress on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188905",
+          "author": "Web Webster",
+          "description": "Here are the complete steps and precautions you need to take before upgrading to Ubuntu 24.04 LTS “Noble Numbat” from Ubuntu 22.04 LTS “Jammy Jellyfish.”\nThe post Upgrade to Ubuntu 24.04 “Noble Numbat” From Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/upgrade-to-ubuntu-24-04-noble-numbat-from-ubuntu-22-04/",
+          "publishedOn": "2024-04-26T16:00:29.000Z",
+          "wordCount": 10186,
+          "title": "Upgrade to Ubuntu 24.04 “Noble Numbat” From Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188907",
+          "author": "Web Webster",
+          "description": "Proxmox Virtual Environment 8.2 launches, featuring QEMU 8.1.5, LXC 6.0.0, ZFS 2.2.3, Ceph updates, and more.\nThe post Proxmox VE 8.2 Launches with Enhanced Migration Tools appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/proxmox-ve-8-2-launches-with-enhanced-migration-tools/",
+          "publishedOn": "2024-04-26T15:19:15.000Z",
+          "wordCount": 10169,
+          "title": "Proxmox VE 8.2 Launches with Enhanced Migration Tools",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188868",
+          "author": "Web Webster",
+          "description": "Memcached is a free and open-source memory object caching system that speeds up dynamic web applications by caching data in memory. This tutorial will show you how to install Memcached on an Ubuntu 22.04 server.\nThe post How to Install and Configure Memcached on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-and-configure-memcached-on-ubuntu-22-04/",
+          "publishedOn": "2024-04-26T02:00:03.000Z",
+          "wordCount": 10194,
+          "title": "How to Install and Configure Memcached on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188893",
           "author": "Web Webster",
@@ -2287,96 +2407,6 @@
           "wordCount": 10206,
           "title": "15 Best Free and Open-Source Linux File Managers",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187318",
-          "author": "Web Webster",
-          "description": "This tutorial provides detailed steps for installing the handbrake on Ubuntu. We will install it on Ubuntu and Linux Mint systems using the Flatpak method.\nThe post How to Install HandBrake on Ubuntu and Linux Mint appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-handbrake-on-ubuntu-and-linux-mint/",
-          "publishedOn": "2024-03-28T02:00:53.000Z",
-          "wordCount": 10183,
-          "title": "How to Install HandBrake on Ubuntu and Linux Mint",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188374",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install Bitwarden on Manjaro. In today’s digital age, password management is crucial for maintaining online security. Bitwarden, a secure and free password manager, is an excellent choice for managing your passwords across all your devices.\nThe post How to Install Bitwarden on Manjaro appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-bitwarden-on-manjaro/",
-          "publishedOn": "2024-03-28T00:00:18.000Z",
-          "wordCount": 10206,
-          "title": "How to Install Bitwarden on Manjaro",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188309",
-          "author": "Web Webster",
-          "description": "Apache Spark is a free, open-source, and general-purpose data processing engine used by data scientists to perform extremely fast data queries on a large amount of data. This guide will show you how to install Apache Spark on Ubuntu 22.04.\nThe post How to Install Apache Spark on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-apache-spark-on-ubuntu-22-04/",
-          "publishedOn": "2024-03-27T22:00:03.000Z",
-          "wordCount": 10193,
-          "title": "How to Install Apache Spark on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188487",
-          "author": "Web Webster",
-          "description": "New in Tails 6.1: Tor Browser 13.0.13 and Thunderbird 115.9.0, as well as major fixes, including Persistent Storage enhancements.\nThe post Tails 6.1 Released: Enhancements in Security and User Experience appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tails-6-1-released-enhancements-in-security-and-user-experience/",
-          "publishedOn": "2024-03-27T20:00:06.000Z",
-          "wordCount": 10176,
-          "title": "Tails 6.1 Released: Enhancements in Security and User Experience",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188151",
-          "author": "Web Webster",
-          "description": "In this article, we will review the 10 most used Linux distributions based on the huge availability of software, ease of installation and use, and community support on web forums.\nThe post 10 Most Used Linux Distributions of All Time appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/10-most-used-linux-distributions-of-all-time-2/",
-          "publishedOn": "2024-03-27T18:18:14.000Z",
-          "wordCount": 10188,
-          "title": "10 Most Used Linux Distributions of All Time",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188483",
-          "author": "Web Webster",
-          "description": "The 30-year-old ext2 filesystem is marked as deprecated in the upcoming Linux kernel 6.9 for lacking dates support beyond 2038.\nThe post The Journey of Linux’s ext2 Filesystem Comes to an End appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/the-journey-of-linuxs-ext2-filesystem-comes-to-an-end/",
-          "publishedOn": "2024-03-27T17:00:17.000Z",
-          "wordCount": 10183,
-          "title": "The Journey of Linux’s ext2 Filesystem Comes to an End",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187157",
-          "author": "Web Webster",
-          "description": "This guide shows how to install Jupyter Notebook on Ubuntu 22.04 Jammy Jellyfish LTS. It includes steps from installing the required Python packages to creating a Python virtual environment and then connecting to the web UI.\nThe post How to Install Jupyter Notebook on Ubuntu 22.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-jupyter-notebook-on-ubuntu-22-04-lts/",
-          "publishedOn": "2024-03-27T16:37:55.000Z",
-          "wordCount": 10196,
-          "title": "How to Install Jupyter Notebook on Ubuntu 22.04 LTS",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188482",
-          "author": "Web Webster",
-          "description": "In this guide, we’ll walk you through the steps to install Nagios XI on Ubuntu 22.04, making monitoring your systems easier and more efficient.\nThe post How to Install Nagios XI on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/infrastructure/how-to-install-nagios-xi-on-ubuntu-22-04/",
-          "publishedOn": "2024-03-27T15:00:56.000Z",
-          "wordCount": 10178,
-          "title": "How to Install Nagios XI on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188480",
-          "author": "Web Webster",
-          "description": "KDE Plasma 6.0.3 streamlines the desktop experience with critical bug fixes in the system monitor, SDK, and startup sound settings.\nThe post KDE Plasma 6.0.3 March’s Bugfix Release Is Here appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-plasma-6-0-3-marchs-bugfix-release-is-here/",
-          "publishedOn": "2024-03-27T14:00:17.000Z",
-          "wordCount": 10174,
-          "title": "KDE Plasma 6.0.3 March’s Bugfix Release Is Here",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2385,6 +2415,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiP2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjYvbGludXgtdm95YWdlci0yNC0wNC1nbm9tZS14ZmNlL9IBAA",
+          "author": null,
+          "description": "Ubuntu Linux-based Voyager 24.04 LTS unites GNOME and Xfce  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjYvbGludXgtdm95YWdlci0yNC0wNC1nbm9tZS14ZmNlL9IBAA?oc=5",
+          "publishedOn": "2024-04-26T20:18:27.000Z",
+          "wordCount": 8729,
+          "title": "Ubuntu Linux-based Voyager 24.04 LTS unites GNOME and Xfce - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS0yNC0wNC10aGlzLWdyZWF0LW5ldy1saW51eC1kaXN0cm8taXNudC1qdXN0LWZhc3QtaXRzLWEtZm9ydHJlc3Mv0gEA",
+          "author": null,
+          "description": "Ubuntu 24.04: This great new Linux distro isn't just fast - it's a fortress  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS0yNC0wNC10aGlzLWdyZWF0LW5ldy1saW51eC1kaXN0cm8taXNudC1qdXN0LWZhc3QtaXRzLWEtZm9ydHJlc3Mv0gEA?oc=5",
+          "publishedOn": "2024-04-26T19:10:00.000Z",
+          "wordCount": 8729,
+          "title": "Ubuntu 24.04: This great new Linux distro isn't just fast - it's a fortress - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmFjdG9yaW8tZGV2cy1kZXRhaWwtdGhlaXItbGludXgtYWR2ZW50dXJlcy1pbi1hLW5ldy1ibG9nLXBvc3Qv0gEA",
+          "author": null,
+          "description": "Factorio devs detail their 'Linux adventures' in a new blog post  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmFjdG9yaW8tZGV2cy1kZXRhaWwtdGhlaXItbGludXgtYWR2ZW50dXJlcy1pbi1hLW5ldy1ibG9nLXBvc3Qv0gEA?oc=5",
+          "publishedOn": "2024-04-26T14:03:22.000Z",
+          "wordCount": 8729,
+          "title": "Factorio devs detail their 'Linux adventures' in a new blog post - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv",
+          "author": null,
+          "description": "45 Drives adds Linux-powered mini PCs, workstations to growing compute lineup  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv?oc=5",
+          "publishedOn": "2024-04-26T11:00:00.000Z",
+          "wordCount": 8729,
+          "title": "45 Drives adds Linux-powered mini PCs, workstations to growing compute lineup - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1JbnRlbC1MTC1Db21wdXRlLUhpbnTSAQA",
+          "author": null,
+          "description": "Linux 6.10 Adding Intel Low-Latency Hint To Aggressively Boost GT Frequency For GPU Compute  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1JbnRlbC1MTC1Db21wdXRlLUhpbnTSAQA?oc=5",
+          "publishedOn": "2024-04-26T10:38:00.000Z",
+          "wordCount": 8729,
+          "title": "Linux 6.10 Adding Intel Low-Latency Hint To Aggressively Boost GT Frequency For GPU Compute - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1FbmFibGUtU09DMjQtTU1IVUItNC4x0gEA",
+          "author": null,
+          "description": "AMDGPU Linux Driver Patches Enable SOC24 & MMHUB 4.1.x IP  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1FbmFibGUtU09DMjQtTU1IVUItNC4x0gEA?oc=5",
+          "publishedOn": "2024-04-26T10:19:00.000Z",
+          "wordCount": 8729,
+          "title": "AMDGPU Linux Driver Patches Enable SOC24 & MMHUB 4.1.x IP - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0JlZ2lubmVyLWZyaWVuZGx5LUxpbnV4LVVidW50dS0yNC0wNC1MVFMtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQuODMxNjQ4LjAuaHRtbNIBAA",
+          "author": null,
+          "description": "Beginner-friendly Linux Ubuntu 24.04 LTS is now available for download  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0JlZ2lubmVyLWZyaWVuZGx5LUxpbnV4LVVidW50dS0yNC0wNC1MVFMtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQuODMxNjQ4LjAuaHRtbNIBAA?oc=5",
+          "publishedOn": "2024-04-26T09:00:49.000Z",
+          "wordCount": 8729,
+          "title": "Beginner-friendly Linux Ubuntu 24.04 LTS is now available for download - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0Lz9hbXA9MQ",
+          "author": null,
+          "description": "Ubuntu 24.04 LTS “Noble Numbat” released with Linux 6.8, up to 12 years of support  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0Lz9hbXA9MQ?oc=5",
+          "publishedOn": "2024-04-26T04:07:50.000Z",
+          "wordCount": 8729,
+          "title": "Ubuntu 24.04 LTS “Noble Numbat” released with Linux 6.8, up to 12 years of support - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiaWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuaHRtbNIBbWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuYW1wLmh0bWw",
           "author": null,
@@ -2596,6 +2706,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC1jaHJvbWUtdWJ1bnR1L9IBAA",
+          "author": null,
+          "description": "How to install Chrome on Ubuntu  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC1jaHJvbWUtdWJ1bnR1L9IBAA?oc=5",
+          "publishedOn": "2024-04-24T22:30:00.000Z",
+          "wordCount": 8729,
+          "title": "How to install Chrome on Ubuntu - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZNIBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA0L2NsYXBwZXItMC02LXZpZGVvLXBsYXllci1yZWxlYXNlZC9hbXA",
           "author": null,
           "description": "Clapper Video Player for Linux Gets First Update in 2 Years  OMG! Ubuntu!",
@@ -2673,6 +2793,16 @@
           "publishedOn": "2024-04-24T14:33:06.000Z",
           "wordCount": 8729,
           "title": "Using the apropos command on Linux - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNC8yNC9ob3ctZmlsZXMtaW4tbGludXgtd29yay_SAQA",
+          "author": null,
+          "description": "How files in Linux work « Adafruit Industries – Makers, hackers, artists, designers and engineers!  Adafruit Blog",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNC8yNC9ob3ctZmlsZXMtaW4tbGludXgtd29yay_SAQA?oc=5",
+          "publishedOn": "2024-04-24T13:30:45.000Z",
+          "wordCount": 8729,
+          "title": "How files in Linux work « Adafruit Industries – Makers, hackers, artists, designers and engineers! - Adafruit Blog",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7694,136 +7824,6 @@
           "wordCount": 5051,
           "title": "Squad-based online shooter Enlisted: Reinforced now on Steam with Linux support - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb2gtc25hcC1jYW5vbmljYWwtbm93LWRvaW5nLW1hbnVhbC1yZXZpZXdzLWZvci1uZXctcGFja2FnZXMtZHVlLXRvLXNjYW0tYXBwcy_SAQA",
-          "author": null,
-          "description": "Oh Snap! Canonical now doing manual reviews for new packages due to scam apps  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvb2gtc25hcC1jYW5vbmljYWwtbm93LWRvaW5nLW1hbnVhbC1yZXZpZXdzLWZvci1uZXctcGFja2FnZXMtZHVlLXRvLXNjYW0tYXBwcy_SAQA?oc=5",
-          "publishedOn": "2024-03-28T13:15:02.000Z",
-          "wordCount": 5051,
-          "title": "Oh Snap! Canonical now doing manual reviews for new packages due to scam apps - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vc2VjdXJlbGlzdC5jb20vZGlub2Rhc3JhdC1saW51eC1pbXBsYW50LzExMjI4NC_SAQA",
-          "author": null,
-          "description": "Analysis of DinodasRAT Linux implant  Securelist",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vc2VjdXJlbGlzdC5jb20vZGlub2Rhc3JhdC1saW51eC1pbXBsYW50LzExMjI4NC_SAQA?oc=5",
-          "publishedOn": "2024-03-28T13:00:51.000Z",
-          "wordCount": 5051,
-          "title": "Analysis of DinodasRAT Linux implant - Securelist",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcHVua2Nha2UtZGxpY2lldXgtanVzdC1hZGRlZC1saW51eC1zdXBwb3J0LXRvLWEtd2hvbGUtYnVuY2gtb2YtZ2FtZXMv0gEA",
-          "author": null,
-          "description": "PUNKCAKE Délicieux just added Linux support to a whole bunch of games  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvcHVua2Nha2UtZGxpY2lldXgtanVzdC1hZGRlZC1saW51eC1zdXBwb3J0LXRvLWEtd2hvbGUtYnVuY2gtb2YtZ2FtZXMv0gEA?oc=5",
-          "publishedOn": "2024-03-28T12:57:42.000Z",
-          "wordCount": 5051,
-          "title": "PUNKCAKE Délicieux just added Linux support to a whole bunch of games - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VST0ZTLUZTREFYLU5vdC1FeHBlcmltZW50YWzSAQA",
-          "author": null,
-          "description": "EROFS Drops \"Experimental\" Warning For FSDAX With Linux 6.9  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VST0ZTLUZTREFYLU5vdC1FeHBlcmltZW50YWzSAQA?oc=5",
-          "publishedOn": "2024-03-28T10:36:00.000Z",
-          "wordCount": 5051,
-          "title": "EROFS Drops \"Experimental\" Warning For FSDAX With Linux 6.9 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vd3d3Lm5ld2VsZWN0cm9uaWNzLmNvLnVrL2NvbnRlbnQvbmV3cy9hY2hyb25peC1mcGdhcy1hZGQtc3VwcG9ydC1mb3ItYmx1ZXNwZWMtcy1saW51eC1jYXBhYmxlLXJpc2Mtdi1zb2Z0LXByb2Nlc3NvcnPSAQA",
-          "author": null,
-          "description": "Achronix FPGAs add support for Bluespec’s Linux-capable RISC-V soft processors  New Electronics",
-          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5ld2VsZWN0cm9uaWNzLmNvLnVrL2NvbnRlbnQvbmV3cy9hY2hyb25peC1mcGdhcy1hZGQtc3VwcG9ydC1mb3ItYmx1ZXNwZWMtcy1saW51eC1jYXBhYmxlLXJpc2Mtdi1zb2Z0LXByb2Nlc3NvcnPSAQA?oc=5",
-          "publishedOn": "2024-03-28T08:06:05.000Z",
-          "wordCount": 5051,
-          "title": "Achronix FPGAs add support for Bluespec’s Linux-capable RISC-V soft processors - New Electronics",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3LmVsZWN0cm9uaWNzd2Vla2x5LmNvbS9uZXdzL2J1c2luZXNzLzgzODQ2MC0yMDI0LTAzL9IBAA",
-          "author": null,
-          "description": "THine's ISP THP7312 is available in the Linux mainline kernel  Electronics Weekly",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmVsZWN0cm9uaWNzd2Vla2x5LmNvbS9uZXdzL2J1c2luZXNzLzgzODQ2MC0yMDI0LTAzL9IBAA?oc=5",
-          "publishedOn": "2024-03-28T06:34:09.000Z",
-          "wordCount": 5051,
-          "title": "THine's ISP THP7312 is available in the Linux mainline kernel - Electronics Weekly",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlsYml0cy1hbm90aGVyLWxpbnV4LWxhcHRvcC11cGRhdGUtYW5vdGhlci1yb2NrY2hpcC1wcm9jZXNzb3ItYW5vdGhlci1waXhlbC05LWxlYWsv0gEA",
-          "author": null,
-          "description": "Lilbits: Another Linux laptop update, another Rockchip processor, another Pixel 9 leak  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlsYml0cy1hbm90aGVyLWxpbnV4LWxhcHRvcC11cGRhdGUtYW5vdGhlci1yb2NrY2hpcC1wcm9jZXNzb3ItYW5vdGhlci1waXhlbC05LWxlYWsv0gEA?oc=5",
-          "publishedOn": "2024-03-27T21:31:35.000Z",
-          "wordCount": 5051,
-          "title": "Lilbits: Another Linux laptop update, another Rockchip processor, another Pixel 9 leak - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvcF9PUy1Hb2VzLUxpbnV4LTYuONIBAA",
-          "author": null,
-          "description": "Pop!_OS Upgrades To The Linux 6.8 Kernel  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvcF9PUy1Hb2VzLUxpbnV4LTYuONIBAA?oc=5",
-          "publishedOn": "2024-03-27T21:00:00.000Z",
-          "wordCount": 5051,
-          "title": "Pop!_OS Upgrades To The Linux 6.8 Kernel - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzAzL3VzZW5peC1zZWN1cml0eS0yMy1kZHJhY2UtZmluZGluZy1jb25jdXJyZW5jeS11YWYtdnVsbmVyYWJpbGl0aWVzLWluLWxpbnV4LWRyaXZlcnMtd2l0aC1kaXJlY3RlZC1mdXp6aW5nL9IBkwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzAzL3VzZW5peC1zZWN1cml0eS0yMy1kZHJhY2UtZmluZGluZy1jb25jdXJyZW5jeS11YWYtdnVsbmVyYWJpbGl0aWVzLWluLWxpbnV4LWRyaXZlcnMtd2l0aC1kaXJlY3RlZC1mdXp6aW5nL2FtcC8",
-          "author": null,
-          "description": "USENIX Security ’23 – DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directe...  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzAzL3VzZW5peC1zZWN1cml0eS0yMy1kZHJhY2UtZmluZGluZy1jb25jdXJyZW5jeS11YWYtdnVsbmVyYWJpbGl0aWVzLWluLWxpbnV4LWRyaXZlcnMtd2l0aC1kaXJlY3RlZC1mdXp6aW5nL9IBkwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzAzL3VzZW5peC1zZWN1cml0eS0yMy1kZHJhY2UtZmluZGluZy1jb25jdXJyZW5jeS11YWYtdnVsbmVyYWJpbGl0aWVzLWluLWxpbnV4LWRyaXZlcnMtd2l0aC1kaXJlY3RlZC1mdXp6aW5nL2FtcC8?oc=5",
-          "publishedOn": "2024-03-27T18:38:58.000Z",
-          "wordCount": 5051,
-          "title": "USENIX Security ’23 – DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directe... - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvZWEtYW50aWNoZWF0LWFycml2ZXMtZm9yLWJhdHRsZWZpZWxkLXYtaW4tYXByaWwtd2lsbC1icmVhay1pdC1vbi1saW51eC1zdGVhbS1kZWNrL9IBAA",
-          "author": null,
-          "description": "EA Anticheat arrives for Battlefield V in April, will break it on Linux / Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDMvZWEtYW50aWNoZWF0LWFycml2ZXMtZm9yLWJhdHRsZWZpZWxkLXYtaW4tYXByaWwtd2lsbC1icmVhay1pdC1vbi1saW51eC1zdGVhbS1kZWNrL9IBAA?oc=5",
-          "publishedOn": "2024-03-27T17:50:04.000Z",
-          "wordCount": 5051,
-          "title": "EA Anticheat arrives for Battlefield V in April, will break it on Linux / Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0zLjAtV2F5bGFuZC1EZWZhdWx0LUZvci1Ob3fSAQA",
-          "author": null,
-          "description": "SDL3 Will Keep Wayland Default At Least For The Time Being  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0zLjAtV2F5bGFuZC1EZWZhdWx0LUZvci1Ob3fSAQA?oc=5",
-          "publishedOn": "2024-03-27T16:13:00.000Z",
-          "wordCount": 5051,
-          "title": "SDL3 Will Keep Wayland Default At Least For The Time Being - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JsZW5kZXItNC4xLUNQVS1MaW51eC1QZXJm0gEA",
-          "author": null,
-          "description": "Blender 4.1 Benchmarks Confirm Even Faster CPU Render Times Under Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JsZW5kZXItNC4xLUNQVS1MaW51eC1QZXJm0gEA?oc=5",
-          "publishedOn": "2024-03-27T14:38:00.000Z",
-          "wordCount": 5051,
-          "title": "Blender 4.1 Benchmarks Confirm Even Faster CPU Render Times Under Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JIRUwtOS40LUJldGHSAQA",
-          "author": null,
-          "description": "RHEL 9.4 Beta Brings Full Support For Intel SGX & DSA Accelerator Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JIRUwtOS40LUJldGHSAQA?oc=5",
-          "publishedOn": "2024-03-27T14:14:00.000Z",
-          "wordCount": 5051,
-          "title": "RHEL 9.4 Beta Brings Full Support For Intel SGX & DSA Accelerator Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7832,6 +7832,46 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Lunacy-Icons8-103946.shtml",
+          "author": "Softpedia Linux",
+          "description": "Create stunning mockups, streamlined GUI with nice effects, complex illustrations, and various other graphic projects, all with the help of this AI-powered design software",
+          "link": "https://linux.softpedia.com/get/Utilities/Lunacy-Icons8-103946.shtml",
+          "publishedOn": "2024-04-26T18:11:49.000Z",
+          "wordCount": 1589,
+          "title": "Lunacy 9.6.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Lunacy-Icons8_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/Gnome/GNOME-Kathmandu-104692.shtml",
+          "author": "Softpedia Linux",
+          "description": "GNOME 46.0 paves the way for very important future changes and provides better file management, improved notifications, as well as a lot of cool general changes to the desktop and apps",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/Gnome/GNOME-Kathmandu-104692.shtml",
+          "publishedOn": "2024-04-26T15:58:18.000Z",
+          "wordCount": 1982,
+          "title": "GNOME 46.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GNOME-Kathmandu_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Linux-Distributions/GNOME-OS-104498.shtml",
+          "author": "Softpedia Linux",
+          "description": "Experience the latest GNOME releases with the help of GNOME's very own OS, a bleeding edge distribution that's not recommended for daily usage",
+          "link": "https://linux.softpedia.com/get/Linux-Distributions/GNOME-OS-104498.shtml",
+          "publishedOn": "2024-04-26T12:07:31.000Z",
+          "wordCount": 1733,
+          "title": "GNOME OS 46.0 Nightly",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GNOME-OS_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
+          "author": "Softpedia Linux",
+          "description": "The best-in-class IDE for Ruby, Rails, JavaScript, CoffeScript, ERB and HAML, CSS, Sass and Less, and many more",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
+          "publishedOn": "2024-04-26T10:29:51.000Z",
+          "wordCount": 1714,
+          "title": "RubyMine 2024.1.1 Build 241.15989.113",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/RubyMine_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Blisk-104018.shtml",
           "author": "Softpedia Linux",
@@ -10037,6 +10077,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Free-tier pricing is a common marketing strategy. “Free” gets people in the door and allows them to settle in and see how things work. But, as Juan Diego Rodriguez explains, the practice of free *tiers* is often conflated with free *trials*. And while the distinction may be nuanced, the consequences of sunsetting free-tier pricing may be huge.",
+          "link": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "publishedOn": "2024-04-26T08:00:00.000Z",
+          "wordCount": 5553,
+          "title": "The End Of The Free Tier",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
           "author": "hello@smashingmagazine.com (Michele Williams)",
           "description": "Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.",
@@ -10253,6 +10308,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/",
+          "author": "Oleg Romanyuk",
+          "description": "Recently, I've been working on a marketing strategy for a new app based on the Flutter framework. An entire development team has been teaching me the ins and outs of Flutter as a cross-platform technology.  And from what I've learned, I believe that the framework is accessible to almost",
+          "link": "https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/",
+          "publishedOn": "2024-04-26T18:11:29.000Z",
+          "wordCount": 5490,
+          "title": "Flutter Tutorial – How to Develop an App with Flutter From Scratch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/1060---539.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ben-awad-is-a-gamedev-who-sleeps-9-hours-every-night-to-be-productive-podcast-121/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Ben Awad, a game developer who creates developer tutorials on YouTube and TikTok. I hope you enjoy our conversation. Can you guess what bass line I'm playing on my b...",
+          "link": "https://www.freecodecamp.org/news/ben-awad-is-a-gamedev-who-sleeps-9-hours-every-night-to-be-productive-podcast-121/",
+          "publishedOn": "2024-04-26T15:29:48.000Z",
+          "wordCount": 789,
+          "title": "Ben Awad is a GameDev Who Sleeps 9 Hours EVERY NIGHT to be Productive [Podcast #121]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714145342153/09d7ca1e-feb2-4aac-8a68-b28060ee646c.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/",
+          "author": "Quincy Larson",
+          "description": "MacOS has several keyboard shortcuts that work everywhere – in your browser, in your terminal, in any place where you can input text. I call these the \"Control Hotkeys\" since they all involve holding the Control key. These shortcuts seem to originate...",
+          "link": "https://www.freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/",
+          "publishedOn": "2024-04-25T23:31:24.000Z",
+          "wordCount": 953,
+          "title": "Mac Control Keyboard Shortcuts – Hotkeys that Work Everywhere in MacOS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714092420192/21d4bc5e-4952-4cb6-b664-5e15ad7d96a0.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
           "author": "Beau Carnes",
@@ -11012,46 +11097,6 @@
           "wordCount": 1434,
           "title": "What is Dead Zone in JavaScript?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
-          "author": "San B",
-          "description": "In March of 2024, Laravel 11 was released [https://blog.laravel.com/laravel-11-now-available]. And with it arrived a new tool in the Laravel ecosystem: Laravel Reverb [https://reverb.laravel.com/]. Reverb is a separate open-source package that's a first-party WebSocket server for Laravel applications. It helps facilitate real-time communication between client and server. Before this new package,",
-          "link": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
-          "publishedOn": "2024-03-27T18:13:43.000Z",
-          "wordCount": 3619,
-          "title": "How to Build Real-Time Chat App with Laravel Reverb",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/laravel-reverb-react-chat-boolfalse.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-react-19-features/",
-          "author": "Neha sharma",
-          "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
-          "link": "https://www.freecodecamp.org/news/new-react-19-features/",
-          "publishedOn": "2024-03-27T16:43:00.000Z",
-          "wordCount": 4881,
-          "title": "New Features in React 19 – Updates with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
-          "author": "Losalini Rokocakau",
-          "description": "In this tutorial, I'll teach you how to use the react-data-table-component  library in your React projects. You'll learn how to render a table that has features such as pagination, searching/filtering, and sorting.  I'll walk you through each step, from setting up a React and TypeScript project with Vite",
-          "link": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
-          "publishedOn": "2024-03-27T15:40:38.000Z",
-          "wordCount": 2721,
-          "title": "How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-21.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
-          "author": "Joan Ayebola",
-          "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
-          "link": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
-          "publishedOn": "2024-03-27T14:00:52.000Z",
-          "wordCount": 1439,
-          "title": "Prop Drilling in React Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--14-.png"
         }
       ]
     }
