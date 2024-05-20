@@ -440,16 +440,6 @@
           "wordCount": 5339,
           "title": "How to Passthrough USB Devices to Proxmox VE 8 Virtual Machines (VMs)",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=415877",
-          "author": "Shovon",
-          "description": "Nested Virtualization is a CPU feature of AMD and Intel processors that allows virtual machines to run their own hypervisor program (i.e. VirtualBox, VMware Workstation Pro/Player, VMware vSphere/ESXi, KVM/QEMU, Proxmox VE) and virtual machines. Simply put, nested virtualization allows a virtual machine to run more virtual machines in it (using the same or a different […]",
-          "link": "https://linuxhint.com/how-to-enable-nested-virtualization-on-proxmox-ve-8-virtual-machines-vms/",
-          "publishedOn": "2024-04-19T13:43:47.000Z",
-          "wordCount": 4991,
-          "title": "How to Enable Nested Virtualization on Proxmox VE 8 Virtual Machines (VMs)",
-          "imageUrl": null
         }
       ]
     },
@@ -458,6 +448,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189110",
+          "author": "Web Webster",
+          "description": "This tutorial will explain the chroot Linux command using real examples. The chroot Linux command is a shorthand for “change root.” We use it to change the apparent root directory for a running process and its children.\nThe post Chroot Linux Command With Examples appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/chroot-linux-command-with-examples/",
+          "publishedOn": "2024-05-19T20:00:46.000Z",
+          "wordCount": 8784,
+          "title": "Chroot Linux Command With Examples",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189152",
+          "author": "Web Webster",
+          "description": "Java is a high-class object-oriented programming language that lets programmers or administrators run everywhere without recompiling. Java code is compiled and can run on any Java virtual machine, regardless of the underlying computer architecture. Learn how to install Java 21 on Ubuntu 24.04. It is a straightforward process that may take up to 15 minutes.\nThe post How to Install Java 21 on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-java-21-on-ubuntu-24-04/",
+          "publishedOn": "2024-05-19T15:00:50.000Z",
+          "wordCount": 8841,
+          "title": "How to Install Java 21 on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189134",
           "author": "Web Webster",
@@ -2035,6 +2045,136 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiPGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbWF5LTE5dGgtMjAyNNIBQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbWF5LTE5dGgtMjAyNC9hbXA",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: May 19th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbWF5LTE5dGgtMjAyNNIBQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbWF5LTE5dGgtMjAyNC9hbXA?oc=5",
+          "publishedOn": "2024-05-20T00:05:46.000Z",
+          "wordCount": 8690,
+          "title": "9to5Linux Weekly Roundup: May 19th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMTkvdGVycmFtYXN0ZXItZDgtaHlicmlkLWtpY2tzdGFydGVyL9IBAA",
+          "author": null,
+          "description": "TerraMaster D8 Hybrid lets you easily add tons of storage to Windows, macOS, and Linux computers  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMTkvdGVycmFtYXN0ZXItZDgtaHlicmlkLWtpY2tzdGFydGVyL9IBAA?oc=5",
+          "publishedOn": "2024-05-19T20:39:14.000Z",
+          "wordCount": 8690,
+          "title": "TerraMaster D8 Hybrid lets you easily add tons of storage to Windows, macOS, and Linux computers - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtQmNhY2hlZnPSAQA",
+          "author": null,
+          "description": "Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtQmNhY2hlZnPSAQA?oc=5",
+          "publishedOn": "2024-05-19T18:15:00.000Z",
+          "wordCount": 8690,
+          "title": "Bcachefs Brings Safety Improvements To Linux 6.10, Preps For Online Fsck - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS9ob3ctdG8tc2V0dXAtYS1tdWx0aS1ncHUtbGludXgtbWFjaGluZS1mb3ItZGVlcC1sZWFybmluZy1pbi0yMDI0LWRmNTYxYTJkMzMyONIBAA",
+          "author": null,
+          "description": "How to Setup a Multi-GPU Linux Machine for Deep Learning in 2024  Towards Data Science",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdG93YXJkc2RhdGFzY2llbmNlLmNvbS9ob3ctdG8tc2V0dXAtYS1tdWx0aS1ncHUtbGludXgtbWFjaGluZS1mb3ItZGVlcC1sZWFybmluZy1pbi0yMDI0LWRmNTYxYTJkMzMyONIBAA?oc=5",
+          "publishedOn": "2024-05-19T15:56:30.000Z",
+          "wordCount": 8690,
+          "title": "How to Setup a Multi-GPU Linux Machine for Deep Learning in 2024 - Towards Data Science",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQWh0dHBzOi8vZm9zc2J5dGVzLmNvbS9tYW5qYXJvLTI0LXd5bnNkZXktZG93bmxvYWQta2RlLWdub21lLXhmY2Uv0gEA",
+          "author": null,
+          "description": "Latest Manjaro Linux 24.0 \"Wynsdey\" Available For Download  Fossbytes",
+          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vZm9zc2J5dGVzLmNvbS9tYW5qYXJvLTI0LXd5bnNkZXktZG93bmxvYWQta2RlLWdub21lLXhmY2Uv0gEA?oc=5",
+          "publishedOn": "2024-05-19T13:26:32.000Z",
+          "wordCount": 8690,
+          "title": "Latest Manjaro Linux 24.0 \"Wynsdey\" Available For Download - Fossbytes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjMzNjQvYXB0L2tpbXN1a3ktbmV3LWxpbnV4LWJhY2tkb29yLmh0bWzSAUpodHRwczovL3NlY3VyaXR5YWZmYWlycy5jb20vMTYzMzY0L2FwdC9raW1zdWt5LW5ldy1saW51eC1iYWNrZG9vci5odG1sP2FtcA",
+          "author": null,
+          "description": "North Korea-linked Kimsuky used a new Linux backdoor in recent attacks  Security Affairs",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjMzNjQvYXB0L2tpbXN1a3ktbmV3LWxpbnV4LWJhY2tkb29yLmh0bWzSAUpodHRwczovL3NlY3VyaXR5YWZmYWlycy5jb20vMTYzMzY0L2FwdC9raW1zdWt5LW5ldy1saW51eC1iYWNrZG9vci5odG1sP2FtcA?oc=5",
+          "publishedOn": "2024-05-19T11:28:09.000Z",
+          "wordCount": 8690,
+          "title": "North Korea-linked Kimsuky used a new Linux backdoor in recent attacks - Security Affairs",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRVhUNNIBAA",
+          "author": null,
+          "description": "EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRVhUNNIBAA?oc=5",
+          "publishedOn": "2024-05-19T10:36:00.000Z",
+          "wordCount": 8690,
+          "title": "EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9nYW1pbmctdGVjaC9tYWMtZ2FtaW5nLXNvb24tY29udGVuZGVyLXdpbmRvd3MtbGludXjSAQA",
+          "author": null,
+          "description": "Mac gaming could soon be a contender against Windows and Linux  Sportskeeda",
+          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9nYW1pbmctdGVjaC9tYWMtZ2FtaW5nLXNvb24tY29udGVuZGVyLXdpbmRvd3MtbGludXjSAQA?oc=5",
+          "publishedOn": "2024-05-19T10:20:00.000Z",
+          "wordCount": 8690,
+          "title": "Mac gaming could soon be a contender against Windows and Linux - Sportskeeda",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUJpZ3NjcmVlbi1CZXlvbmQtVlLSAQA",
+          "author": null,
+          "description": "Linux Patch Posted For The Bigscreen Beyond VR Headset  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUJpZ3NjcmVlbi1CZXlvbmQtVlLSAQA?oc=5",
+          "publishedOn": "2024-05-19T10:14:00.000Z",
+          "wordCount": 8690,
+          "title": "Linux Patch Posted For The Bigscreen Beyond VR Headset - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtVHVyYm9zdGF00gEA",
+          "author": null,
+          "description": "Turbostat Gains New Features & New Hardware Support With Linux 6.10  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtVHVyYm9zdGF00gEA?oc=5",
+          "publishedOn": "2024-05-19T09:48:00.000Z",
+          "wordCount": 8690,
+          "title": "Turbostat Gains New Features & New Hardware Support With Linux 6.10 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibmh0dHBzOi8vaXR3aXJlLmNvbS9vcGVuLXNvdXJjZS9rZXJuZWxzLXNoaXBwZWQtYnktbGludXgtdmVuZG9ycy1sZXNzLXNlY3VyZS10aGFuLXVwc3RyZWFtLXN0YWJsZS1vZmZlcmluZy5odG1s0gEA",
+          "author": null,
+          "description": "Kernels shipped by Linux vendors 'less secure than upstream stable offering'  iTWire",
+          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vaXR3aXJlLmNvbS9vcGVuLXNvdXJjZS9rZXJuZWxzLXNoaXBwZWQtYnktbGludXgtdmVuZG9ycy1sZXNzLXNlY3VyZS10aGFuLXVwc3RyZWFtLXN0YWJsZS1vZmZlcmluZy5odG1s0gEA?oc=5",
+          "publishedOn": "2024-05-19T08:34:41.000Z",
+          "wordCount": 8690,
+          "title": "Kernels shipped by Linux vendors 'less secure than upstream stable offering' - iTWire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vaXR3aXJlLmNvbS9zZWN1cml0eS90ZW5hYmxlLWZpbmRzLW9sZC1saW51eC1tYWx3YXJlLW5vdy10YXJnZXRpbmctdG9tY2F0LXNlcnZlcnMuaHRtbNIBAA",
+          "author": null,
+          "description": "Tenable finds old Linux malware now targeting Tomcat servers  iTWire",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vaXR3aXJlLmNvbS9zZWN1cml0eS90ZW5hYmxlLWZpbmRzLW9sZC1saW51eC1tYWx3YXJlLW5vdy10YXJnZXRpbmctdG9tY2F0LXNlcnZlcnMuaHRtbNIBAA?oc=5",
+          "publishedOn": "2024-05-19T07:47:03.000Z",
+          "wordCount": 8690,
+          "title": "Tenable finds old Linux malware now targeting Tomcat servers - iTWire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiJmh0dHBzOi8vcGNwZXIuY29tLzIwMjQvMDUvcG9kY2FzdC03NzMv0gEA",
+          "author": null,
+          "description": "Podcast #773 - AMD Ryzen 8000 F-Series CPUs, Linux on Snapdragon X Elite, VMWare Goes Free, Zero Day for ...  PC Perspective",
+          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vcGNwZXIuY29tLzIwMjQvMDUvcG9kY2FzdC03NzMv0gEA?oc=5",
+          "publishedOn": "2024-05-19T03:00:09.000Z",
+          "wordCount": 8690,
+          "title": "Podcast #773 - AMD Ryzen 8000 F-Series CPUs, Linux on Snapdragon X Elite, VMWare Goes Free, Zero Day for ... - PC Perspective",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NVU0UtQWdhbWEtRGl0Y2hlcy1Db2NrcGl00gEA",
           "author": null,
@@ -6554,166 +6694,6 @@
           "wordCount": 8911,
           "title": "Forget Ubuntu 24.04 LTS, what you really want to download this month is Fedora Silverblue 40 - Neowin",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1vcGVucHJvamVjdC13aXRoLWxpbnV4LWFuZC1kb2NrZXIv0gEA",
-          "author": null,
-          "description": "Install OpenProject with Linux and Docker  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1vcGVucHJvamVjdC13aXRoLWxpbnV4LWFuZC1kb2NrZXIv0gEA?oc=5",
-          "publishedOn": "2024-04-20T13:09:20.000Z",
-          "wordCount": 8911,
-          "title": "Install OpenProject with Linux and Docker - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzIwL2x4cXQyX3VwZGF0ZXNfdG9fcXQ2L9IBQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNC8yMC9seHF0Ml91cGRhdGVzX3RvX3F0Ni8",
-          "author": null,
-          "description": "Lightweight LXQt 2.0.0 updates to same toolkit as KDE Plasma 6  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzIwL2x4cXQyX3VwZGF0ZXNfdG9fcXQ2L9IBQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNC8yMC9seHF0Ml91cGRhdGVzX3RvX3F0Ni8?oc=5",
-          "publishedOn": "2024-04-20T12:28:00.000Z",
-          "wordCount": 8911,
-          "title": "Lightweight LXQt 2.0.0 updates to same toolkit as KDE Plasma 6 - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUJISS1GaXgtU2VydmVyLVBlcmbSAQA",
-          "author": null,
-          "description": "Linux BHI Mitigation Being Tweaked Following 12% Database Performance Hit  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUJISS1GaXgtU2VydmVyLVBlcmbSAQA?oc=5",
-          "publishedOn": "2024-04-20T12:00:00.000Z",
-          "wordCount": 8911,
-          "title": "Linux BHI Mitigation Being Tweaked Following 12% Database Performance Hit - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9zd2l0Y2hlcm9vL9IBAA",
-          "author": null,
-          "description": "Switcheroo: Convert Your Images With This Open-Source App for Linux!  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9zd2l0Y2hlcm9vL9IBAA?oc=5",
-          "publishedOn": "2024-04-20T11:16:16.000Z",
-          "wordCount": 8911,
-          "title": "Switcheroo: Convert Your Images With This Open-Source App for Linux! - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LW1pbnQtdnMtbG1kZS13aGljaC1zaG91bGQteW91LWNob29zZS_SAQA",
-          "author": null,
-          "description": "Linux Mint vs LMDE: Which Should You Choose?  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LW1pbnQtdnMtbG1kZS13aGljaC1zaG91bGQteW91LWNob29zZS_SAQA?oc=5",
-          "publishedOn": "2024-04-19T22:52:17.000Z",
-          "wordCount": 8911,
-          "title": "Linux Mint vs LMDE: Which Should You Choose? - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tb3ppbGxhLXNlZWtzLWZlZWRiYWNrLWZvci1maXJlZm94LW5pZ2h0bHktYXJtNjQtYWFyY2g2NC1iaW5hcmllcy1vbi1saW51eNIBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tb3ppbGxhLXNlZWtzLWZlZWRiYWNrLWZvci1maXJlZm94LW5pZ2h0bHktYXJtNjQtYWFyY2g2NC1iaW5hcmllcy1vbi1saW51eC9hbXA",
-          "author": null,
-          "description": "Mozilla Seeks Feedback for Firefox Nightly ARM64 (AArch64) Binaries on Linux  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tb3ppbGxhLXNlZWtzLWZlZWRiYWNrLWZvci1maXJlZm94LW5pZ2h0bHktYXJtNjQtYWFyY2g2NC1iaW5hcmllcy1vbi1saW51eNIBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tb3ppbGxhLXNlZWtzLWZlZWRiYWNrLWZvci1maXJlZm94LW5pZ2h0bHktYXJtNjQtYWFyY2g2NC1iaW5hcmllcy1vbi1saW51eC9hbXA?oc=5",
-          "publishedOn": "2024-04-19T21:17:48.000Z",
-          "wordCount": 8911,
-          "title": "Mozilla Seeks Feedback for Firefox Nightly ARM64 (AArch64) Binaries on Linux - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMTkvZmlyZWZveC1uaWdodGx5LWxpbnV4LWFybTY0L9IBAA",
-          "author": null,
-          "description": "Firefox Nightly expands to Linux on ARM64  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMTkvZmlyZWZveC1uaWdodGx5LWxpbnV4LWFybTY0L9IBAA?oc=5",
-          "publishedOn": "2024-04-19T20:51:42.000Z",
-          "wordCount": 8911,
-          "title": "Firefox Nightly expands to Linux on ARM64 - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01vemlsbGEtRmlyZWZveC1BUk02NC1OaWdodGx50gEA",
-          "author": null,
-          "description": "Mozilla Finally Begins Offering Firefox ARM64 Linux Binaries  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01vemlsbGEtRmlyZWZveC1BUk02NC1OaWdodGx50gEA?oc=5",
-          "publishedOn": "2024-04-19T18:56:00.000Z",
-          "wordCount": 8911,
-          "title": "Mozilla Finally Begins Offering Firefox ARM64 Linux Binaries - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL2NhbXB1c3RlY2hub2xvZ3kuY29tL0FydGljbGVzLzIwMjQvMDQvMTkvTGludXgtRm91bmRhdGlvbi1MYXVuY2hlcy1OZXctT3Blbi1Tb3VyY2UtQUktRGF0YS1QbGF0Zm9ybS10by1EZW1vY3JhdGl6ZS1HZW4tQUktVGVjaC5hc3B40gEA",
-          "author": null,
-          "description": "Linux Foundation Launches New Open Source AI & Data Platform to Democratize Gen AI Tech  Campus Technology",
-          "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2NhbXB1c3RlY2hub2xvZ3kuY29tL0FydGljbGVzLzIwMjQvMDQvMTkvTGludXgtRm91bmRhdGlvbi1MYXVuY2hlcy1OZXctT3Blbi1Tb3VyY2UtQUktRGF0YS1QbGF0Zm9ybS10by1EZW1vY3JhdGl6ZS1HZW4tQUktVGVjaC5hc3B40gEA?oc=5",
-          "publishedOn": "2024-04-19T18:40:40.000Z",
-          "wordCount": 8911,
-          "title": "Linux Foundation Launches New Open Source AI & Data Platform to Democratize Gen AI Tech - Campus Technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtZ2xpZGVyLWRhZW1vbi1hdXRvbWF0ZXMtcGVyZm9ybWFuY2UtbW9uaXRvcmluZy_SAQA",
-          "author": null,
-          "description": "Guider Daemon Automates Linux Performance Monitoring  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtZ2xpZGVyLWRhZW1vbi1hdXRvbWF0ZXMtcGVyZm9ybWFuY2UtbW9uaXRvcmluZy_SAQA?oc=5",
-          "publishedOn": "2024-04-19T18:19:09.000Z",
-          "wordCount": 8911,
-          "title": "Guider Daemon Automates Linux Performance Monitoring - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvYWtpcmEtdGFrZXMtaW4tNDItbWlsbGlvbi1pbi1yYW5zb20tcGF5bWVudHMtbm93LXRhcmdldHMtbGludXgtc2VydmVyc9IBAA",
-          "author": null,
-          "description": "Akira takes in $42 million in ransom payments, now targets Linux servers  SC Media",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvYWtpcmEtdGFrZXMtaW4tNDItbWlsbGlvbi1pbi1yYW5zb20tcGF5bWVudHMtbm93LXRhcmdldHMtbGludXgtc2VydmVyc9IBAA?oc=5",
-          "publishedOn": "2024-04-19T18:17:00.000Z",
-          "wordCount": 8911,
-          "title": "Akira takes in $42 million in ransom payments, now targets Linux servers - SC Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9Qb3BfT1MtQ29zbWljLURFLWdldHMtTnZpZGlhLWltcHJvdmVtZW50cy1teXJpYWQtbmV3LWZlYXR1cmVzLWluLWxhdGVzdC1wcmUtYWxwaGEtdXBkYXRlLjgyOTA3Ny4wLmh0bWzSAQA",
-          "author": null,
-          "description": "Pop!_OS Cosmic DE gets Nvidia improvements, myriad new features in latest pre-alpha update  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9Qb3BfT1MtQ29zbWljLURFLWdldHMtTnZpZGlhLWltcHJvdmVtZW50cy1teXJpYWQtbmV3LWZlYXR1cmVzLWluLWxhdGVzdC1wcmUtYWxwaGEtdXBkYXRlLjgyOTA3Ny4wLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-04-19T17:59:50.000Z",
-          "wordCount": 8911,
-          "title": "Pop!_OS Cosmic DE gets Nvidia improvements, myriad new features in latest pre-alpha update - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYmxvZy9pbnN0YWxsLXZwbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Install a VPN on Linux  Privacy News Online",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYmxvZy9pbnN0YWxsLXZwbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-04-19T16:14:18.000Z",
-          "wordCount": 8911,
-          "title": "How to Install a VPN on Linux - Privacy News Online",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3RvcnkvaG93LXRvLWNvbm5lY3QtdmlhLW9wZW52cG4tb24tdWJ1bnR1LTE3NzM0Mi5odG1s0gEA",
-          "author": null,
-          "description": "How To Connect via OpenVPN on Ubuntu: Step-by-Step Guide  LinuxInsider",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3RvcnkvaG93LXRvLWNvbm5lY3QtdmlhLW9wZW52cG4tb24tdWJ1bnR1LTE3NzM0Mi5odG1s0gEA?oc=5",
-          "publishedOn": "2024-04-19T15:04:59.000Z",
-          "wordCount": 8911,
-          "title": "How To Connect via OpenVPN on Ubuntu: Step-by-Step Guide - LinuxInsider",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRFJNLVBhbmljLUhhbmRsZXLSAQA",
-          "author": null,
-          "description": "Linux 6.10 Preps A Kernel Panic Screen - Sort Of A \"Blue Screen of Death\"  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRFJNLVBhbmljLUhhbmRsZXLSAQA?oc=5",
-          "publishedOn": "2024-04-19T14:09:00.000Z",
-          "wordCount": 8911,
-          "title": "Linux 6.10 Preps A Kernel Panic Screen - Sort Of A \"Blue Screen of Death\" - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUNSLTI0LjEzLjI5MTM4LjfSAQA",
-          "author": null,
-          "description": "Intel Compute Runtime 24.13.29138.7 Brings Improved OpenCL/OpenGL Sharing  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUNSLTI0LjEzLjI5MTM4LjfSAQA?oc=5",
-          "publishedOn": "2024-04-19T13:42:00.000Z",
-          "wordCount": 8911,
-          "title": "Intel Compute Runtime 24.13.29138.7 Brings Improved OpenCL/OpenGL Sharing - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -6811,6 +6791,26 @@
           "wordCount": 1851,
           "title": "Thunderbird 125.0 / 127.0b1 Beta",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mozilla-Thunderbird-Stable_6.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/UpNote-104075.shtml",
+          "author": "Softpedia Linux",
+          "description": "Organize your work and thoughts with the help of this modern, very capable, and cross-platform note-taking app",
+          "link": "https://linux.softpedia.com/get/Utilities/UpNote-104075.shtml",
+          "publishedOn": "2024-05-17T20:40:13.000Z",
+          "wordCount": 1814,
+          "title": "UpNote 9.4.0 / 1.2.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/UpNote_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Tor-Browser-102599.shtml",
+          "author": "Softpedia Linux",
+          "description": "Browse the web anonymously with the custom and private web browser from the Tor project",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Tor-Browser-102599.shtml",
+          "publishedOn": "2024-05-17T20:38:34.000Z",
+          "wordCount": 2069,
+          "title": "Tor Browser 13.0.15 / 13.5 Alpha 8",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tor-Browser_9.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Communications/Chat/Slack-for-Linux-103899.shtml",
@@ -6911,6 +6911,16 @@
           "wordCount": 1830,
           "title": "Ubuntu MATE 24.04 LTS (Noble Numbat)",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ubuntu-MATE-Noble-Numbat_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Waterfox-103888.shtml",
+          "author": "Softpedia Linux",
+          "description": "Enjoy enhanced privacy and above-average customization options by browsing the Internet with Waterfox",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Waterfox-103888.shtml",
+          "publishedOn": "2024-05-15T21:22:37.000Z",
+          "wordCount": 1764,
+          "title": "Waterfox G6.0.14 / 2022.11 Classic",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Waterfox_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Pieces-104207.shtml",
@@ -7131,6 +7141,16 @@
           "wordCount": 1564,
           "title": "Monophony 2.10.0",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Monophony_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Modern-CSV-103958.shtml",
+          "author": "Softpedia Linux",
+          "description": "View, create, and edit CSV files with the help of this well-thought-out application",
+          "link": "https://linux.softpedia.com/get/Utilities/Modern-CSV-103958.shtml",
+          "publishedOn": "2024-05-13T15:00:28.000Z",
+          "wordCount": 1752,
+          "title": "Modern CSV 1.3.36 / 2.0.8",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Modern-CSV_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Utilities/Komikku-104309.shtml",
@@ -8691,16 +8711,6 @@
           "wordCount": 1725,
           "title": "Cemu 2.0 / 2.0-79 Experimental",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cemu_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/balenaEtcher-103904.shtml",
-          "author": "Softpedia Linux",
-          "description": "Effortlessly flash OS images to UBS drives and/or SD cards with the help of this cross-platform utility",
-          "link": "https://linux.softpedia.com/get/Utilities/balenaEtcher-103904.shtml",
-          "publishedOn": "2024-04-19T18:45:49.000Z",
-          "wordCount": 1537,
-          "title": "balenaEtcher 1.18.11 / 1.19.6 Pre-release",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/balenaEtcher_1.jpg"
         }
       ]
     },
@@ -8708,18 +8718,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377733",
-          "author": "Chris DeMars",
-          "description": "This is the 3rd post in a small series we are doing on form accessibility. If you missed the 2nd post, check out Managing User Focus with :focus-visible. In this post we are going to look at using a …\nDemystifying Screen Readers: Accessible Forms & Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/demystifying-screen-readers-accessible-forms-best-practices/",
-          "publishedOn": "2024-04-19T14:26:47.000Z",
-          "wordCount": 2510,
-          "title": "Demystifying Screen Readers: Accessible Forms & Best Practices",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377733"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -9732,16 +9731,6 @@
           "wordCount": 837,
           "title": "Learn SQL for Analytics",
           "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Andrew Brown, a CTO-turned co-founder of ExamPro.co. Andrew created this cloud certification exam prep website with another Andrew – also from Canada, who also loves Star Trek. We talk about Andrew's early career fixing computers in the 90s, and his early",
-          "link": "https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/",
-          "publishedOn": "2024-04-19T14:39:14.000Z",
-          "wordCount": 908,
-          "title": "CTO Andrew Brown Passed Dozens of Cloud Certification Exams [freeCodeCamp Podcast Episode #120]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Andrew-Brown-freeCodeCamp-podcast.jpeg"
         }
       ]
     }
