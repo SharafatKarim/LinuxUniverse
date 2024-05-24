@@ -390,36 +390,6 @@
           "wordCount": 5219,
           "title": "How to Install LAMP on Ubuntu 24.04",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=415419",
-          "author": "Prateek Jangid",
-          "description": "There are various simple ways you can use to create a the files in bash. We have explained multiple commands to create bash files from the terminal.",
-          "link": "https://linuxhint.com/how-to-create-file-in-bash/",
-          "publishedOn": "2024-04-24T10:23:05.000Z",
-          "wordCount": 3803,
-          "title": "How to Create File in Bash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=415998",
-          "author": "Shovon",
-          "description": "OpenCL is an open-source library for running compute tasks on GPUs. OpenCL enables 3D hardware acceleration for supported applications (i.e. LibreOffice) using the GPU hardware (i.e. Intel iGPU) you have installed on your computer. So, unless OpenCL is installed, OpenCL-supported applications (i.e. LibreOffice) will not have hardware acceleration enabled and may not perform well (i.e. […]",
-          "link": "https://linuxhint.com/how-to-install-opencl-for-intel-gpu-on-fedora-40/",
-          "publishedOn": "2024-04-24T08:55:28.000Z",
-          "wordCount": 4674,
-          "title": "How to Install OpenCL for Intel GPU on Fedora 40+",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=415981",
-          "author": "Denis Kariuki",
-          "description": "MongoDB is a non-relational database that stores data as documents. The database is open-source, and by adding its repository to your source list, you will manage to install it on your Ubuntu 24.04. This post walks you through every required step.",
-          "link": "https://linuxhint.com/how-to-install-mongodb-on-ubuntu-24-04/",
-          "publishedOn": "2024-04-23T21:56:20.000Z",
-          "wordCount": 5194,
-          "title": "How to Install MongoDB on Ubuntu 24.04",
-          "imageUrl": null
         }
       ]
     },
@@ -428,6 +398,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189246",
+          "author": "Web Webster",
+          "description": "TYPO3 is a free and open-source enterprise-grade content management system. It provides enterprise-level features such as a scalable CMS with multisite support, multilingual installations, strong security implementation, is blazingly fast, and can be run anywhere.\nThe post How to Install TYPO3 CMS on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-typo3-cms-on-ubuntu-24-04/",
+          "publishedOn": "2024-05-24T00:00:35.000Z",
+          "wordCount": 8788,
+          "title": "How to Install TYPO3 CMS on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189272",
+          "author": "Web Webster",
+          "description": "A symlink, also called a symbolic link, is a file that points to another file or directory on the server. In this guide, learn how to create a symlink with the command ln -s and both paths from the source and destination directory.\nThe post How to Create a Symlink on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-create-a-symlink-on-linux/",
+          "publishedOn": "2024-05-23T22:00:48.000Z",
+          "wordCount": 8808,
+          "title": "How to Create a Symlink on Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189359",
+          "author": "Web Webster",
+          "description": "Scala is a modern, object-functional, multi-paradigm, Java-based programming and scripting language. It blends functional and object-oriented programming models. Scala introduces several innovative language constructs. Here’s our verdict on the best free and open-source Scala web micro-frameworks.\nThe post 3 Top Free and Open-Source Scala Web Micro-Frameworks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/3-top-free-and-open-source-scala-web-micro-frameworks/",
+          "publishedOn": "2024-05-23T20:00:00.000Z",
+          "wordCount": 8794,
+          "title": "3 Top Free and Open-Source Scala Web Micro-Frameworks",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189317",
+          "author": "Web Webster",
+          "description": "IceWM-3.5.0 window manager rolls out new features for theme installation and enriched address bar functionality.\nThe post IceWM 3.5.0: With Focus on Usability and System Compatibility appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/icewm-3-5-0-with-focus-on-usability-and-system-compatibility/",
+          "publishedOn": "2024-05-23T18:00:50.000Z",
+          "wordCount": 8777,
+          "title": "IceWM 3.5.0: With Focus on Usability and System Compatibility",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189374",
+          "author": "Web Webster",
+          "description": "Linux hardware vendor TUXEDO Computers unveiled today the 6th generation of the TUXEDO Stellaris Slim 15 Linux-powered laptop as a thin and lightweight gaming ultrabook focusing on high performance.\nThe post Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/meet-tuxedo-stellaris-slim-15-gen6-a-thin-and-light-linux-gaming-ultrabook/",
+          "publishedOn": "2024-05-23T17:00:29.000Z",
+          "wordCount": 8820,
+          "title": "Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189373",
+          "author": "Web Webster",
+          "description": "The KDE Gear 24.05 app collection has been released with new features in Dolphin, Elisa, Kdenlive, and NeoChat.\nThe post KDE Gear 24.05 Apps Collection Rolls Out, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kde-gear-24-05-apps-collection-rolls-out-heres-whats-new/",
+          "publishedOn": "2024-05-23T16:00:10.000Z",
+          "wordCount": 8789,
+          "title": "KDE Gear 24.05 Apps Collection Rolls Out, Here’s What’s New",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189366",
+          "author": "Web Webster",
+          "description": "MarkNote 1.2 enhanced KDE note-taking with rich text, custom folders, sorting options, and markdown editing.\nThe post KDE’s MarkNote 1.2 Note-Taking App Released appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kdes-marknote-1-2-note-taking-app-released/",
+          "publishedOn": "2024-05-23T15:30:11.000Z",
+          "wordCount": 8767,
+          "title": "KDE’s MarkNote 1.2 Note-Taking App Released",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189365",
+          "author": "Web Webster",
+          "description": "Mesa 24.1 is out, and the graphics team at Collabora has been working hard to bring a slew of new features and bug fixes to Panfrost, Zink, NVK, and Mesa in general. Let’s take a look at the contributions made by Collabora for this release cycle.\nThe post Mesa 24.1 brings new hardware support for Arm and NVIDIA GPUs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/mesa-24-1-brings-new-hardware-support-for-arm-and-nvidia-gpus/",
+          "publishedOn": "2024-05-23T15:00:04.000Z",
+          "wordCount": 8824,
+          "title": "Mesa 24.1 brings new hardware support for Arm and NVIDIA GPUs",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189021",
+          "author": "Web Webster",
+          "description": "There are several different kinds of keyboards for PCs. The most common type is a physical, external keyboard that plugs into your PC. But you can use a virtual keyboard with Linux instead of a physical keyboard.\nThe post 10 Best Free and Open-Source Virtual Keyboards appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/10-best-free-and-open-source-virtual-keyboards/",
+          "publishedOn": "2024-05-23T02:00:40.000Z",
+          "wordCount": 8797,
+          "title": "10 Best Free and Open-Source Virtual Keyboards",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189363",
           "author": "Web Webster",
@@ -2127,106 +2187,6 @@
           "wordCount": 10187,
           "title": "TrueNAS SCALE 24.04 Rolls Out with Enhanced SMB & NFS Monitoring",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188845",
-          "author": "Web Webster",
-          "description": "Discover VLC Media Player’s best yet lesser-known tips and tricks that can immensely enhance your media-watching experience to the next level.\nThe post Master VLC with These 10+ Expert Tips and Tricks appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/master-vlc-with-these-10-expert-tips-and-tricks-2/",
-          "publishedOn": "2024-04-24T00:00:47.000Z",
-          "wordCount": 10164,
-          "title": "Master VLC with These 10+ Expert Tips and Tricks",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188825",
-          "author": "Web Webster",
-          "description": "A list of new features of Xubuntu 24.04 LTS release and additional updates for this version.\nThe post Xubuntu 24.04 LTS: Best New Features appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/xubuntu-24-04-lts-best-new-features/",
-          "publishedOn": "2024-04-23T22:00:31.000Z",
-          "wordCount": 10174,
-          "title": "Xubuntu 24.04 LTS: Best New Features",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188866",
-          "author": "Web Webster",
-          "description": "Explore the new Slimbook Fedora 2 with a sleek GNOME desktop and stunning hardware for top performance.\nThe post Slimbook Fedora 2 Is a New Linux Laptop Powered by Fedora 40 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/slimbook-fedora-2-is-a-new-linux-laptop-powered-by-fedora-40/",
-          "publishedOn": "2024-04-23T19:00:56.000Z",
-          "wordCount": 10204,
-          "title": "Slimbook Fedora 2 Is a New Linux Laptop Powered by Fedora 40",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188870",
-          "author": "Web Webster",
-          "description": "Powered by Linux kernel 6.8, EndeavourOS Gemini comes with the KDE Plasma 6 desktop environment on both the live environment and the offline installation option. Users can choose between Wayland and X11 sessions from the SDDM login manager, but the former is enabled by default.\nThe post EndeavourOS Gemini Lands with the KDE Plasma 6 Desktop Environment appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/endeavouros-gemini-lands-with-the-kde-plasma-6-desktop-environment/",
-          "publishedOn": "2024-04-23T17:49:10.000Z",
-          "wordCount": 10215,
-          "title": "EndeavourOS Gemini Lands with the KDE Plasma 6 Desktop Environment",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188813",
-          "author": "Web Webster",
-          "description": "In this article, you will discover the best software tools powered by AI that you can install on your Linux machine to increase your productivity.\nThe post 5 Must-Try AI Tools for Linux Users in 2024 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/5-must-try-ai-tools-for-linux-users-in-2024/",
-          "publishedOn": "2024-04-23T17:32:22.000Z",
-          "wordCount": 10210,
-          "title": "5 Must-Try AI Tools for Linux Users in 2024",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188821",
-          "author": "Web Webster",
-          "description": "Miracle-WM 0.2.0, a new Wayland compositor based on Ubuntu’s MIR, was released with Sway/i3 IPC support and important bug fixes.\nThe post Miracle-WM 0.2.0 Brings Floating Window Manager Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/miracle-wm-0-2-0-brings-floating-window-manager-support/",
-          "publishedOn": "2024-04-23T17:00:11.000Z",
-          "wordCount": 10171,
-          "title": "Miracle-WM 0.2.0 Brings Floating Window Manager Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188859",
-          "author": "Web Webster",
-          "description": "Tails 6.2 is now available with an improved Tor Browser and client for better security and introduces support for 21 new languages.\nThe post Tails 6.2 Expands Multilingual Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tails-6-2-expands-multilingual-support/",
-          "publishedOn": "2024-04-23T16:05:30.000Z",
-          "wordCount": 10170,
-          "title": "Tails 6.2 Expands Multilingual Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/e70d988ce76b1db7eb4c00b200d74bef/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/e70d988ce76b1db7eb4c00b200d74bef/",
-          "publishedOn": "2024-04-23T14:39:53.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/ab71d3fb18013ba14199b2350f74a51f/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ab71d3fb18013ba14199b2350f74a51f/",
-          "publishedOn": "2024-04-23T14:39:49.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/be5b0409c085fe5b7ba74cef4cb0ec6c/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/be5b0409c085fe5b7ba74cef4cb0ec6c/",
-          "publishedOn": "2024-04-23T14:39:45.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -2235,6 +2195,146 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtTkZTLUNsaWVudNIBAA",
+          "author": null,
+          "description": "Linux 6.10 Is Disabling NFS v2 Client Support By Default  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtTkZTLUNsaWVudNIBAA?oc=5",
+          "publishedOn": "2024-05-24T00:06:00.000Z",
+          "wordCount": 8696,
+          "title": "Linux 6.10 Is Disabling NFS v2 Client Support By Default - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vZGFpbHkuaGFtd2Vla2x5LmNvbS8yMDI0LzA1L2hhbXZlbnRpb24taW50ZXJ2aWV3LWxpbnV4LWluLXRoZS1oYW0tc2hhY2stcG9kY2FzdC_SAQA",
+          "author": null,
+          "description": "Hamvention Interview: Linux in the Ham Shack  Amateur Radio Weekly",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZGFpbHkuaGFtd2Vla2x5LmNvbS8yMDI0LzA1L2hhbXZlbnRpb24taW50ZXJ2aWV3LWxpbnV4LWluLXRoZS1oYW0tc2hhY2stcG9kY2FzdC_SAQA?oc=5",
+          "publishedOn": "2024-05-23T23:36:46.000Z",
+          "wordCount": 8696,
+          "title": "Hamvention Interview: Linux in the Ham Shack - Amateur Radio Weekly",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMTIxNTczL2libS1icmluZ3MtYWktYXNzaXN0YW50LXRvLW1haW5mcmFtZS1wcm9taXNlcy1saW51eC12ZXJzaW9uLmh0bWzSAXJodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMjEyMTU3My9pYm0tYnJpbmdzLWFpLWFzc2lzdGFudC10by1tYWluZnJhbWUtcHJvbWlzZXMtbGludXgtdmVyc2lvbi5odG1sL2FtcC8",
+          "author": null,
+          "description": "IBM brings AI assistant to mainframe, promises Linux version  Network World",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yMTIxNTczL2libS1icmluZ3MtYWktYXNzaXN0YW50LXRvLW1haW5mcmFtZS1wcm9taXNlcy1saW51eC12ZXJzaW9uLmh0bWzSAXJodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMjEyMTU3My9pYm0tYnJpbmdzLWFpLWFzc2lzdGFudC10by1tYWluZnJhbWUtcHJvbWlzZXMtbGludXgtdmVyc2lvbi5odG1sL2FtcC8?oc=5",
+          "publishedOn": "2024-05-23T18:45:00.000Z",
+          "wordCount": 8696,
+          "title": "IBM brings AI assistant to mainframe, promises Linux version - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20va2VlcC1saW51eC1wYy1hbmQtYW5kcm9pZC1waG9uZS1zeW5jZWQtd2l0aC1nc2Nvbm5lY3Qv0gEA",
+          "author": null,
+          "description": "I Keep My Linux PC and Android Phone Synced With This App  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20va2VlcC1saW51eC1wYy1hbmQtYW5kcm9pZC1waG9uZS1zeW5jZWQtd2l0aC1nc2Nvbm5lY3Qv0gEA?oc=5",
+          "publishedOn": "2024-05-23T17:00:00.000Z",
+          "wordCount": 8696,
+          "title": "I Keep My Linux PC and Android Phone Synced With This App - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXg2OS11YnVudHUtMjQwNC1zZXJ2ZXJz0gEA",
+          "author": null,
+          "description": "Ubuntu 24.04 + Linux 6.9 Intel & AMD Server Performance  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXg2OS11YnVudHUtMjQwNC1zZXJ2ZXJz0gEA?oc=5",
+          "publishedOn": "2024-05-23T16:30:00.000Z",
+          "wordCount": 8696,
+          "title": "Ubuntu 24.04 + Linux 6.9 Intel & AMD Server Performance - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUG93ZXItTWFuYWdlbWVudNIBAA",
+          "author": null,
+          "description": "Linux 6.10 Delivers AMD & Intel P-State Driver Updates To Refine Power Management  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUG93ZXItTWFuYWdlbWVudNIBAA?oc=5",
+          "publishedOn": "2024-05-23T16:16:00.000Z",
+          "wordCount": 8696,
+          "title": "Linux 6.10 Delivers AMD & Intel P-State Driver Updates To Refine Power Management - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtQVJNNjTSAQA",
+          "author": null,
+          "description": "64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtQVJNNjTSAQA?oc=5",
+          "publishedOn": "2024-05-23T14:28:00.000Z",
+          "wordCount": 8696,
+          "title": "64-bit ARM With Linux 6.10: Building FIT Images & Optional Disabling 32-bit User-Space - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZWV0LXR1eGVkby1zdGVsbGFyaXMtc2xpbS0xNS1nZW42LWEtdGhpbi1hbmQtbGlnaHQtbGludXgtZ2FtaW5nLXVsdHJhYm9va9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZWV0LXR1eGVkby1zdGVsbGFyaXMtc2xpbS0xNS1nZW42LWEtdGhpbi1hbmQtbGlnaHQtbGludXgtZ2FtaW5nLXVsdHJhYm9vay9hbXA",
+          "author": null,
+          "description": "Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZWV0LXR1eGVkby1zdGVsbGFyaXMtc2xpbS0xNS1nZW42LWEtdGhpbi1hbmQtbGlnaHQtbGludXgtZ2FtaW5nLXVsdHJhYm9va9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZWV0LXR1eGVkby1zdGVsbGFyaXMtc2xpbS0xNS1nZW42LWEtdGhpbi1hbmQtbGlnaHQtbGludXgtZ2FtaW5nLXVsdHJhYm9vay9hbXA?oc=5",
+          "publishedOn": "2024-05-23T14:17:00.000Z",
+          "wordCount": 8696,
+          "title": "Meet TUXEDO Stellaris Slim 15 Gen6, a Thin and Light Linux Gaming Ultrabook - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMjMvdHV4ZWRvLXN0ZWxsYXJpcy1zbGltLTE1LXVsdHJhYm9vay_SAQA",
+          "author": null,
+          "description": "TUXEDO Stellaris Slim 15 Linux ultrabook is powered by AMD or Intel  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMjMvdHV4ZWRvLXN0ZWxsYXJpcy1zbGltLTE1LXVsdHJhYm9vay_SAQA?oc=5",
+          "publishedOn": "2024-05-23T14:07:36.000Z",
+          "wordCount": 8696,
+          "title": "TUXEDO Stellaris Slim 15 Linux ultrabook is powered by AMD or Intel - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtU3RhZ2luZ9IBAA",
+          "author": null,
+          "description": "Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C.  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtU3RhZ2luZ9IBAA?oc=5",
+          "publishedOn": "2024-05-23T10:58:00.000Z",
+          "wordCount": 8696,
+          "title": "Linux 6.10 Staging Drops Broken & Unused Drivers To Remove 19k L.O.C. - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtTm9uLU1NLVBhdGNoZXPSAQA",
+          "author": null,
+          "description": "Newer AMD Radeon Graphics Cards Now Work On RISC-V With Linux 6.10  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtTm9uLU1NLVBhdGNoZXPSAQA?oc=5",
+          "publishedOn": "2024-05-23T10:28:00.000Z",
+          "wordCount": 8696,
+          "title": "Newer AMD Radeon Graphics Cards Now Work On RISC-V With Linux 6.10 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9yZXNlYXJjaC1hbmQtc3R1ZGllcy9jeWJlcmNyaW1pbmFscy1kb3VibGUtZXhwbG9pdGF0aW9uLW9mLWxpbnV4LXZ1bG5lcmFiaWxpdGllcy1qYWFmdzM4OdIBhgFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9yZXNlYXJjaC1hbmQtc3R1ZGllcy9jeWJlcmNyaW1pbmFscy1kb3VibGUtZXhwbG9pdGF0aW9uLW9mLWxpbnV4LXZ1bG5lcmFiaWxpdGllcy1qYWFmdzM4OT9hbXA9MQ",
+          "author": null,
+          "description": "Cybercriminals double exploitation of Linux vulnerabilities  ZAWYA",
+          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9yZXNlYXJjaC1hbmQtc3R1ZGllcy9jeWJlcmNyaW1pbmFscy1kb3VibGUtZXhwbG9pdGF0aW9uLW9mLWxpbnV4LXZ1bG5lcmFiaWxpdGllcy1qYWFmdzM4OdIBhgFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9yZXNlYXJjaC1hbmQtc3R1ZGllcy9jeWJlcmNyaW1pbmFscy1kb3VibGUtZXhwbG9pdGF0aW9uLW9mLWxpbnV4LXZ1bG5lcmFiaWxpdGllcy1qYWFmdzM4OT9hbXA9MQ?oc=5",
+          "publishedOn": "2024-05-23T10:02:42.000Z",
+          "wordCount": 8696,
+          "title": "Cybercriminals double exploitation of Linux vulnerabilities - ZAWYA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vaXRzZm9zcy5jb20vbGludXgtY29tbWFuZHMtbWFsd2FyZS1hbmFseXNpcy_SAQA",
+          "author": null,
+          "description": "6 Linux Commands I Use for Malware Analysis  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaXRzZm9zcy5jb20vbGludXgtY29tbWFuZHMtbWFsd2FyZS1hbmFseXNpcy_SAQA?oc=5",
+          "publishedOn": "2024-05-23T08:29:24.000Z",
+          "wordCount": 8696,
+          "title": "6 Linux Commands I Use for Malware Analysis - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vdGVkaXVtLmNvLzIwMjQvMDUvMjIvcXVhbGNvbW0tYWktbGFwdG9wcy1saW51eC1zdXBwb3J0L9IBAA",
+          "author": null,
+          "description": "Qualcomm's ARM Laptops Matter Because Of Linux  Tedium: The Dull Side of the Internet",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdGVkaXVtLmNvLzIwMjQvMDUvMjIvcXVhbGNvbW0tYWktbGFwdG9wcy1saW51eC1zdXBwb3J0L9IBAA?oc=5",
+          "publishedOn": "2024-05-23T05:05:44.000Z",
+          "wordCount": 8696,
+          "title": "Qualcomm's ARM Laptops Matter Because Of Linux - Tedium: The Dull Side of the Internet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtY2hhci1taXNj0gEA",
           "author": null,
@@ -2446,6 +2546,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiRGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1pbnN0YWxsLWxpbnV4LW9uLWFuLW9sZC1sYXB0b3Av0gEA",
+          "author": null,
+          "description": "How to install Linux on an old laptop to give it new life and purpose  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1pbnN0YWxsLWxpbnV4LW9uLWFuLW9sZC1sYXB0b3Av0gEA?oc=5",
+          "publishedOn": "2024-05-21T19:01:00.000Z",
+          "wordCount": 8696,
+          "title": "How to install Linux on an old laptop to give it new life and purpose - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiQGh0dHBzOi8vYWl0aG9yaXR5LmNvbS91bmNhdGVnb3JpemVkL3JlZC1oYXQtZW50ZXJwcmlzZS1saW51eC1haS_SAQA",
           "author": null,
           "description": "Red Hat Enterprise Linux AI Launched  AiThority",
@@ -2623,6 +2733,16 @@
           "publishedOn": "2024-05-21T09:40:25.000Z",
           "wordCount": 8692,
           "title": "BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRlc2t0b3DSAQA",
+          "author": null,
+          "description": "Best Linux desktop of 2024  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRlc2t0b3DSAQA?oc=5",
+          "publishedOn": "2024-05-21T06:49:45.000Z",
+          "wordCount": 8696,
+          "title": "Best Linux desktop of 2024 - TechRadar",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -3633,6 +3753,16 @@
           "publishedOn": "2024-05-15T07:31:00.000Z",
           "wordCount": 8683,
           "title": "Linux Operating System Market to Witness an Outstanding Growth during 2023-2032 | Arch Linux, SUSE - openPR",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vNDAwMDAwLWxpbnV4LXNlcnZlcnMtaGl0LWJ5LWVidXJ5LWJvdG5ldC_SAQA",
+          "author": null,
+          "description": "400000 Linux Servers Hit by Ebury Botnet  SecurityWeek",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vNDAwMDAwLWxpbnV4LXNlcnZlcnMtaGl0LWJ5LWVidXJ5LWJvdG5ldC_SAQA?oc=5",
+          "publishedOn": "2024-05-15T07:00:00.000Z",
+          "wordCount": 8696,
+          "title": "400000 Linux Servers Hit by Ebury Botnet - SecurityWeek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6864,226 +6994,6 @@
           "wordCount": 8729,
           "title": "How files in Linux work « Adafruit Industries – Makers, hackers, artists, designers and engineers! - Adafruit Blog",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyNC8wNC8yNC8yODY4NjkxLzAvZW4vU0lPUy1MaWZlS2VlcGVyLWZvci1MaW51eC1IaWdoLUF2YWlsYWJpbGl0eS1hbmQtRGlzYXN0ZXItUmVjb3ZlcnktVHJhaW5pbmctTm93LUF2YWlsYWJsZS1Pbi1EZW1hbmQtb24tVWRlbXkuaHRtbNIBAA",
-          "author": null,
-          "description": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy  GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyNC8wNC8yNC8yODY4NjkxLzAvZW4vU0lPUy1MaWZlS2VlcGVyLWZvci1MaW51eC1IaWdoLUF2YWlsYWJpbGl0eS1hbmQtRGlzYXN0ZXItUmVjb3ZlcnktVHJhaW5pbmctTm93LUF2YWlsYWJsZS1Pbi1EZW1hbmQtb24tVWRlbXkuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-04-24T13:20:47.000Z",
-          "wordCount": 8729,
-          "title": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy - GlobeNewswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW9zLWxpZmVrZWVwZXItbGludXgtaGlnaC1hdmFpbGFiaWxpdHktMTMxOTAwNDE3Lmh0bWzSAQA",
-          "author": null,
-          "description": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW9zLWxpZmVrZWVwZXItbGludXgtaGlnaC1hdmFpbGFiaWxpdHktMTMxOTAwNDE3Lmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-04-24T13:19:00.000Z",
-          "wordCount": 8729,
-          "title": "SIOS LifeKeeper for Linux High Availability and Disaster Recovery Training Now Available On-Demand on Udemy - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQGh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9saW51eC1vbi1iaXRjb2luLWJpdHZteC1mcmFtZXdvcmvSAQA",
-          "author": null,
-          "description": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs  Cointelegraph",
-          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9saW51eC1vbi1iaXRjb2luLWJpdHZteC1mcmFtZXdvcmvSAQA?oc=5",
-          "publishedOn": "2024-04-24T13:02:35.000Z",
-          "wordCount": 8729,
-          "title": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs - Cointelegraph",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFodHRwczovL3d3dy50cmFkaW5ndmlldy5jb20vbmV3cy9jb2ludGVsZWdyYXBoOmFhODBkYmM5NzA5NGI6MC1saW51eC1vbi1iaXRjb2luLW9wZW4tc291cmNlLWZyYW1ld29yay1iaXR2bXgtZW52aXNpb25zLWJ0Yy1wb3dlcmVkLXByb2dyYW1zL9IBAA",
-          "author": null,
-          "description": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs  TradingView",
-          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50cmFkaW5ndmlldy5jb20vbmV3cy9jb2ludGVsZWdyYXBoOmFhODBkYmM5NzA5NGI6MC1saW51eC1vbi1iaXRjb2luLW9wZW4tc291cmNlLWZyYW1ld29yay1iaXR2bXgtZW52aXNpb25zLWJ0Yy1wb3dlcmVkLXByb2dyYW1zL9IBAA?oc=5",
-          "publishedOn": "2024-04-24T13:00:00.000Z",
-          "wordCount": 8729,
-          "title": "Linux on Bitcoin? Open-source framework BitVMX envisions BTC-powered programs - TradingView",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC45LVJlbGVhc2Vk0gEA",
-          "author": null,
-          "description": "Polychromatic 0.9 OpenRazer GUI Frontend Released With Port To PyQt6  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC45LVJlbGVhc2Vk0gEA?oc=5",
-          "publishedOn": "2024-04-24T10:50:00.000Z",
-          "wordCount": 8729,
-          "title": "Polychromatic 0.9 OpenRazer GUI Frontend Released With Port To PyQt6 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RydWVOQVMtU0NBTEUtMjQuMDTSAQA",
-          "author": null,
-          "description": "TrueNAS SCALE 24.04 Released For A Wonderful NAS Platform  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RydWVOQVMtU0NBTEUtMjQuMDTSAQA?oc=5",
-          "publishedOn": "2024-04-24T10:37:00.000Z",
-          "wordCount": 8729,
-          "title": "TrueNAS SCALE 24.04 Released For A Wonderful NAS Platform - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigQFodHRwczovL3d3dy5wY2dhbWVyLmNvbS9oYXJkd2FyZS9wcm9jZXNzb3JzL3JkbmEtMy1lZGdlcy1jbG9zZXItYXMtYW1kLWhpbnRzLWF0LXJlZnJlc2hlZC1ncHUtYXJjaGl0ZWN0dXJlLWluLWl0cy1saW51eC1maXJtd2FyZS_SAQA",
-          "author": null,
-          "description": "RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware  PC Gamer",
-          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5wY2dhbWVyLmNvbS9oYXJkd2FyZS9wcm9jZXNzb3JzL3JkbmEtMy1lZGdlcy1jbG9zZXItYXMtYW1kLWhpbnRzLWF0LXJlZnJlc2hlZC1ncHUtYXJjaGl0ZWN0dXJlLWluLWl0cy1saW51eC1maXJtd2FyZS_SAQA?oc=5",
-          "publishedOn": "2024-04-24T10:13:25.000Z",
-          "wordCount": 8729,
-          "title": "RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware - PC Gamer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmxhdGh1Yi1mb3ItbGludXgtYXBwcy1oYXMtYmVlbi1naXZlbi1xdWl0ZS10aGUtbWFrZW92ZXIv0gEA",
-          "author": null,
-          "description": "Flathub for Linux apps has been given quite the makeover  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmxhdGh1Yi1mb3ItbGludXgtYXBwcy1oYXMtYmVlbi1naXZlbi1xdWl0ZS10aGUtbWFrZW92ZXIv0gEA?oc=5",
-          "publishedOn": "2024-04-24T10:12:41.000Z",
-          "wordCount": 8729,
-          "title": "Flathub for Linux apps has been given quite the makeover - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L1NsaW1ib29rLUZlZG9yYS0yLWxhcHRvcC1hdmFpbGFibGUtaW4tMTQtYW5kLTE2LXdpdGgtRmVkb3JhLUxpbnV4LTQwLjgzMDk3Ny4wLmh0bWzSAQA",
-          "author": null,
-          "description": "Slimbook Fedora 2 laptop available in 14\" and 16\" with Fedora Linux 40  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L1NsaW1ib29rLUZlZG9yYS0yLWxhcHRvcC1hdmFpbGFibGUtaW4tMTQtYW5kLTE2LXdpdGgtRmVkb3JhLUxpbnV4LTQwLjgzMDk3Ny4wLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-04-24T09:28:28.000Z",
-          "wordCount": 8729,
-          "title": "Slimbook Fedora 2 laptop available in 14\" and 16\" with Fedora Linux 40 - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0ZlZG9yYS00MC1MaW51eC1kaXN0cmlidXRpb24tb2ZmaWNpYWxseS1yZWxlYXNlZC44MzA5MTUuMC5odG1s0gEA",
-          "author": null,
-          "description": "Fedora 40 Linux distribution officially released - NotebookCheck.net News  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0ZlZG9yYS00MC1MaW51eC1kaXN0cmlidXRpb24tb2ZmaWNpYWxseS1yZWxlYXNlZC44MzA5MTUuMC5odG1s0gEA?oc=5",
-          "publishedOn": "2024-04-24T08:08:27.000Z",
-          "wordCount": 8729,
-          "title": "Fedora 40 Linux distribution officially released - NotebookCheck.net News - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zdHJlbmd0aGVuaW5nLWxpbnV4LXNlY3VyaXR5LWF1ZGl0aW5nLW9wZW5zY2Fw0gEA",
-          "author": null,
-          "description": "Strengthening Linux Security by Auditing with OpenSCAP  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zdHJlbmd0aGVuaW5nLWxpbnV4LXNlY3VyaXR5LWF1ZGl0aW5nLW9wZW5zY2Fw0gEA?oc=5",
-          "publishedOn": "2024-04-23T21:07:19.000Z",
-          "wordCount": 8729,
-          "title": "Strengthening Linux Security by Auditing with OpenSCAP - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiU2h0dHBzOi8vbGlsaXB1dGluZy5jb20vZmVkb3JhLWxpbnV4LTQwLWJyaW5ncy1nbm9tZS00Ni1saW51eC02LTgtYW5kLW90aGVyLXVwZGF0ZXMv0gEA",
-          "author": null,
-          "description": "Fedora Linux 40 brings GNOME 46, Linux 6.8, and other updates  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbGlsaXB1dGluZy5jb20vZmVkb3JhLWxpbnV4LTQwLWJyaW5ncy1nbm9tZS00Ni1saW51eC02LTgtYW5kLW90aGVyLXVwZGF0ZXMv0gEA?oc=5",
-          "publishedOn": "2024-04-23T20:50:22.000Z",
-          "wordCount": 8744,
-          "title": "Fedora Linux 40 brings GNOME 46, Linux 6.8, and other updates - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZlZG9yYS00MC1pcy1ub3ctYXZhaWxhYmxlLWFuZC1pbmNsdWRlcy1tb3JlLXNwaW5zLXRoYW4tZXZlci1iZWZvcmUv0gEA",
-          "author": null,
-          "description": "Fedora 40 is now available and includes more spins than ever before  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZlZG9yYS00MC1pcy1ub3ctYXZhaWxhYmxlLWFuZC1pbmNsdWRlcy1tb3JlLXNwaW5zLXRoYW4tZXZlci1iZWZvcmUv0gEA?oc=5",
-          "publishedOn": "2024-04-23T18:45:00.000Z",
-          "wordCount": 8744,
-          "title": "Fedora 40 is now available and includes more spins than ever before - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjMvZmVkb3JhLWxpbnV4LTQwL9IBAA",
-          "author": null,
-          "description": "Pour one out for the Linux homies: Fedora 40 released  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjMvZmVkb3JhLWxpbnV4LTQwL9IBAA?oc=5",
-          "publishedOn": "2024-04-23T17:21:09.000Z",
-          "wordCount": 8744,
-          "title": "Pour one out for the Linux homies: Fedora 40 released - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1nZW1pbmktbGFuZHMtd2l0aC10aGUta2RlLXBsYXNtYS02LWRlc2t0b3AtZW52aXJvbm1lbnTSAVxodHRwczovLzl0bzVsaW51eC5jb20vZW5kZWF2b3Vyb3MtZ2VtaW5pLWxhbmRzLXdpdGgtdGhlLWtkZS1wbGFzbWEtNi1kZXNrdG9wLWVudmlyb25tZW50L2FtcA",
-          "author": null,
-          "description": "EndeavourOS Gemini Lands with the KDE Plasma 6 Desktop Environment  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9lbmRlYXZvdXJvcy1nZW1pbmktbGFuZHMtd2l0aC10aGUta2RlLXBsYXNtYS02LWRlc2t0b3AtZW52aXJvbm1lbnTSAVxodHRwczovLzl0bzVsaW51eC5jb20vZW5kZWF2b3Vyb3MtZ2VtaW5pLWxhbmRzLXdpdGgtdGhlLWtkZS1wbGFzbWEtNi1kZXNrdG9wLWVudmlyb25tZW50L2FtcA?oc=5",
-          "publishedOn": "2024-04-23T17:16:27.000Z",
-          "wordCount": 8744,
-          "title": "EndeavourOS Gemini Lands with the KDE Plasma 6 Desktop Environment - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtSW50ZWwtWGUtRFJNLVBhdGNoZXPSAQA",
-          "author": null,
-          "description": "Intel Has Many Improvements For The Xe Graphics Driver In Linux 6.10  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtSW50ZWwtWGUtRFJNLVBhdGNoZXPSAQA?oc=5",
-          "publishedOn": "2024-04-23T16:13:00.000Z",
-          "wordCount": 8744,
-          "title": "Intel Has Many Improvements For The Xe Graphics Driver In Linux 6.10 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zbGltYm9vay1mZWRvcmEtMi1sYXB0b3BzLWxhdW5jaC13aXRoLWZlZG9yYS1saW51eC00MC13b3Jrc3RhdGlvbtIBW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zbGltYm9vay1mZWRvcmEtMi1sYXB0b3BzLWxhdW5jaC13aXRoLWZlZG9yYS1saW51eC00MC13b3Jrc3RhdGlvbi9hbXA",
-          "author": null,
-          "description": "Slimbook Fedora 2 Laptops Launch with Fedora Linux 40 Workstation  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zbGltYm9vay1mZWRvcmEtMi1sYXB0b3BzLWxhdW5jaC13aXRoLWZlZG9yYS1saW51eC00MC13b3Jrc3RhdGlvbtIBW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zbGltYm9vay1mZWRvcmEtMi1sYXB0b3BzLWxhdW5jaC13aXRoLWZlZG9yYS1saW51eC00MC13b3Jrc3RhdGlvbi9hbXA?oc=5",
-          "publishedOn": "2024-04-23T15:28:08.000Z",
-          "wordCount": 8744,
-          "title": "Slimbook Fedora 2 Laptops Launch with Fedora Linux 40 Workstation - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vbGlsaXB1dGluZy5jb20vdmVsb2NpdHktbWljcm8tbm90ZW1hZ2l4LW0xNS1tZXRlb3ItbGFrZS1sYXB0b3AtaXMtYXZhaWxhYmxlLXdpdGgtd2luZG93cy1vci1saW51eC_SAQA",
-          "author": null,
-          "description": "Velocity Micro NoteMagix M15 Meteor Lake laptop is available with Windows or Linux  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbGlsaXB1dGluZy5jb20vdmVsb2NpdHktbWljcm8tbm90ZW1hZ2l4LW0xNS1tZXRlb3ItbGFrZS1sYXB0b3AtaXMtYXZhaWxhYmxlLXdpdGgtd2luZG93cy1vci1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-04-23T15:20:45.000Z",
-          "wordCount": 8744,
-          "title": "Velocity Micro NoteMagix M15 Meteor Lake laptop is available with Windows or Linux - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmVkb3JhLWxpbnV4LTQwLWlzLW9mZmljaWFsbHktb3V0LW5vdy_SAQA",
-          "author": null,
-          "description": "Fedora Linux 40 is officially out now  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvZmVkb3JhLWxpbnV4LTQwLWlzLW9mZmljaWFsbHktb3V0LW5vdy_SAQA?oc=5",
-          "publishedOn": "2024-04-23T15:06:07.000Z",
-          "wordCount": 8744,
-          "title": "Fedora Linux 40 is officially out now - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidmh0dHBzOi8vd3d3LmtpdGd1cnUubmV0L2NvbXBvbmVudHMvZ3JhcGhpYy1jYXJkcy9qb2FvLXNpbHZhL2ludGVsLWRyaXZlcnMtZm9yLWxpbnV4LXJldmVhbC1uZXctYmF0dGxlbWFnZS1ncHUtZGV0YWlscy_SAQA",
-          "author": null,
-          "description": "Intel drivers for Linux reveal new Battlemage GPU details  KitGuru",
-          "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmtpdGd1cnUubmV0L2NvbXBvbmVudHMvZ3JhcGhpYy1jYXJkcy9qb2FvLXNpbHZhL2ludGVsLWRyaXZlcnMtZm9yLWxpbnV4LXJldmVhbC1uZXctYmF0dGxlbWFnZS1ncHUtZGV0YWlscy_SAQA?oc=5",
-          "publishedOn": "2024-04-23T15:00:22.000Z",
-          "wordCount": 8744,
-          "title": "Intel drivers for Linux reveal new Battlemage GPU details - KitGuru",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2NhcnMvMjAyNC8wNC9saW51eC1pcy1ub3ctYW4tb3B0aW9uLWZvci1zYWZldHktbWluZGVkLXNvZnR3YXJlLWRlZmluZWQtdmVoaWNsZS1kZXZlbG9wZXJzL9IBAA",
-          "author": null,
-          "description": "Linux is now an option for safety-minded software-defined vehicle developers  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2NhcnMvMjAyNC8wNC9saW51eC1pcy1ub3ctYW4tb3B0aW9uLWZvci1zYWZldHktbWluZGVkLXNvZnR3YXJlLWRlZmluZWQtdmVoaWNsZS1kZXZlbG9wZXJzL9IBAA?oc=5",
-          "publishedOn": "2024-04-23T14:43:57.000Z",
-          "wordCount": 8744,
-          "title": "Linux is now an option for safety-minded software-defined vehicle developers - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtbGludXgtNDAtb2ZmaWNpYWxseS1yZWxlYXNlZC13aXRoLWxpbnV4LWtlcm5lbC02LTgtaGVyZXMtd2hhdHMtbmV30gFjaHR0cHM6Ly85dG81bGludXguY29tL2ZlZG9yYS1saW51eC00MC1vZmZpY2lhbGx5LXJlbGVhc2VkLXdpdGgtbGludXgta2VybmVsLTYtOC1oZXJlcy13aGF0cy1uZXcvYW1w",
-          "author": null,
-          "description": "Fedora Linux 40 Officially Released with Linux Kernel 6.8, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtbGludXgtNDAtb2ZmaWNpYWxseS1yZWxlYXNlZC13aXRoLWxpbnV4LWtlcm5lbC02LTgtaGVyZXMtd2hhdHMtbmV30gFjaHR0cHM6Ly85dG81bGludXguY29tL2ZlZG9yYS1saW51eC00MC1vZmZpY2lhbGx5LXJlbGVhc2VkLXdpdGgtbGludXgta2VybmVsLTYtOC1oZXJlcy13aGF0cy1uZXcvYW1w?oc=5",
-          "publishedOn": "2024-04-23T13:26:59.000Z",
-          "wordCount": 8744,
-          "title": "Fedora Linux 40 Officially Released with Linux Kernel 6.8, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9236,6 +9146,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/naming-best-practices/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
+          "link": "https://smashingmagazine.com/2024/05/naming-best-practices/",
+          "publishedOn": "2024-05-23T09:00:00.000Z",
+          "wordCount": 3883,
+          "title": "Best Practices For Naming Design Tokens, Components, Variables, And More",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
@@ -9497,6 +9422,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/",
+          "author": "Beau Carnes",
+          "description": "Are you trying to earn the AWS Certified Solutions Architect - Associate certification? We just released a course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS t...",
+          "link": "https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/",
+          "publishedOn": "2024-05-23T20:23:30.000Z",
+          "wordCount": 1602,
+          "title": "Pass the AWS Certified Solutions Architect - Associate Certification",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716495763631/528c2806-24cf-4feb-8b4b-b2b8310bee88.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-secure-your-django-app/",
           "author": "Sophia Iroegbu",
@@ -10336,26 +10271,6 @@
           "wordCount": 2535,
           "title": "How to Use Object-Oriented Programming in Python – Explained With Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/WhatsApp-Image-2024-04-24-at-8.25.07-AM.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
-          "author": "Jaja Ibifubara David",
-          "description": "In a world where we're constantly glued to screens and distracted by digital noise, it's easy to forget about nature.  But here's the exciting part: biophilic design offers a cool solution. Usually, it's all about bringing nature into buildings, but now nature is branching out into web design as",
-          "link": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
-          "publishedOn": "2024-04-23T18:28:38.000Z",
-          "wordCount": 2344,
-          "title": "What is Biophilic Design? How to Reconnect with Nature through Web Design",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-Cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-media-to-your-html-email-template/",
-          "author": "Fanny Nyayic",
-          "description": "In my previous article, \"How to Create a Responsive HTML Email Template [/news/how-to-create-a-responsive-html-email-template/],\" we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients.  I got a couple of questions about adding media to the HTML email template.",
-          "link": "https://www.freecodecamp.org/news/how-to-add-media-to-your-html-email-template/",
-          "publishedOn": "2024-04-23T17:40:54.000Z",
-          "wordCount": 1707,
-          "title": "How to Add Media to Your HTML Email Template",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Add-Media-to-Your-HTML-Email-Template.png"
         }
       ]
     }
