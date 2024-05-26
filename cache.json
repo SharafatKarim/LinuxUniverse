@@ -340,36 +340,6 @@
           "wordCount": 5884,
           "title": "15 APT Command Examples on Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416119",
-          "author": "Denis Kariuki",
-          "description": "If you are stuck on how to have a GUI on an Ubuntu 24.04 server, this post shares the steps you should follow. We will install a display manager and a GUI to make it convenient for you to choose between using a GUI or a command line when accessing your Ubuntu server.",
-          "link": "https://linuxhint.com/how-to-install-gui-on-ubuntu-24-04-server/",
-          "publishedOn": "2024-04-26T12:45:49.000Z",
-          "wordCount": 4979,
-          "title": "How to Install GUI on Ubuntu 24.04 Server",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416064",
-          "author": "Denis Kariuki",
-          "description": "Jenkins supports numerous platforms, and this post focuses on installing it on Ubuntu 24.04. We will guide you through a step-by-step process to ensure you don't get stuck. Let's begin!",
-          "link": "https://linuxhint.com/how-to-install-jenkins-on-ubuntu-24-04/",
-          "publishedOn": "2024-04-25T16:38:56.000Z",
-          "wordCount": 5165,
-          "title": "How to Install Jenkins on Ubuntu 24.04",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416046",
-          "author": "Denis Kariuki",
-          "description": "Ansible is a free automation tool, and if you are new to it, stick around as this post shares everything you need to install it on Ubuntu 24.04.",
-          "link": "https://linuxhint.com/how-to-install-ansible-on-ubuntu-24-04/",
-          "publishedOn": "2024-04-25T15:33:28.000Z",
-          "wordCount": 5334,
-          "title": "How to Install Ansible on Ubuntu 24.04",
-          "imageUrl": null
         }
       ]
     },
@@ -378,6 +348,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189326",
+          "author": "Web Webster",
+          "description": "Minikube is a tool that allows you to run a Kubernetes cluster on your local machine, which is especially useful for developers who want to test and develop Kubernetes applications locally. This tutorial will guide you through installing Minikube on your Ubuntu 24.04 system.\nThe post How to Install Minikube for Kubernetes on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-minikube-for-kubernetes-on-ubuntu-24-04/",
+          "publishedOn": "2024-05-25T18:00:26.000Z",
+          "wordCount": 8800,
+          "title": "How to Install Minikube for Kubernetes on Ubuntu 24.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188506",
+          "author": "Web Webster",
+          "description": "Rancher is a free, open-source, and multi-cluster orchestration platform that allows organizations to deploy containers in a production environment. This tutorial will show you how to install the Rancher Kubernetes container management platform on Ubuntu 22.04.\nThe post How to Install Rancher Kubernetes Panel on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-rancher-kubernetes-panel-on-ubuntu-22-04/",
+          "publishedOn": "2024-05-25T02:00:28.000Z",
+          "wordCount": 8803,
+          "title": "How to Install Rancher Kubernetes Panel on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188780",
           "author": "Web Webster",
@@ -2167,86 +2157,6 @@
           "wordCount": 10169,
           "title": "Proxmox VE 8.2 Launches with Enhanced Migration Tools",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188868",
-          "author": "Web Webster",
-          "description": "Memcached is a free and open-source memory object caching system that speeds up dynamic web applications by caching data in memory. This tutorial will show you how to install Memcached on an Ubuntu 22.04 server.\nThe post How to Install and Configure Memcached on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-and-configure-memcached-on-ubuntu-22-04/",
-          "publishedOn": "2024-04-26T02:00:03.000Z",
-          "wordCount": 10194,
-          "title": "How to Install and Configure Memcached on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188893",
-          "author": "Web Webster",
-          "description": "In this guide, we’ll walk you through the step-by-step process of installing Fedora 40 Server, ensuring a smooth setup for your server environment.\nThe post How to Install Fedora 40 Server with Screenshots appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-fedora-40-server-with-screenshots/",
-          "publishedOn": "2024-04-26T00:20:13.000Z",
-          "wordCount": 10184,
-          "title": "How to Install Fedora 40 Server with Screenshots",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188857",
-          "author": "Web Webster",
-          "description": "Discover the easiest and right way to run a Python script or Python code in your PHP or HTML file using two different methods with practical examples.\nThe post How to Run a Python Script on a PHP/HTML File appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-run-a-python-script-on-a-php-html-file-2/",
-          "publishedOn": "2024-04-25T22:00:19.000Z",
-          "wordCount": 10224,
-          "title": "How to Run a Python Script on a PHP/HTML File",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188886",
-          "author": "Web Webster",
-          "description": "Nginx 1.26 web server debuts with HTTP/3 experimental support, per-server HTTP/2, advanced stream modules, and more.\nThe post Nginx 1.26 Released with Experimental HTTP/3 Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/nginx-1-26-released-with-experimental-http-3-support/",
-          "publishedOn": "2024-04-25T20:00:09.000Z",
-          "wordCount": 10177,
-          "title": "Nginx 1.26 Released with Experimental HTTP/3 Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188876",
-          "author": "Web Webster",
-          "description": "The open-source QEMU 9.0 machine emulator and virtualization software has been released as a major update that brings various new features and improvements for ARM, RISC-V, LoongArch, s390x, and HPPA emulation.\nThe post QEMU 9.0 Released with Raspberry Pi 4 Support, LoongArch KVM Acceleration appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/qemu-9-0-released-with-raspberry-pi-4-support-loongarch-kvm-acceleration/",
-          "publishedOn": "2024-04-25T18:00:03.000Z",
-          "wordCount": 10203,
-          "title": "QEMU 9.0 Released with Raspberry Pi 4 Support, LoongArch KVM Acceleration",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188900",
-          "author": "Web Webster",
-          "description": "Ubuntu 24.04 LTS (Noble Numbat) is now generally available. Here’s what’s new for the world’s most popular Linux desktop.\nThe post Ubuntu 24.04 LTS (Noble Numbat) Released, This Is What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-24-04-lts-noble-numbat-released-this-is-whats-new/",
-          "publishedOn": "2024-04-25T17:00:04.000Z",
-          "wordCount": 10193,
-          "title": "Ubuntu 24.04 LTS (Noble Numbat) Released, This Is What’s New",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188887",
-          "author": "Web Webster",
-          "description": "Now that Fedora 40 is available, you can choose to wait a bit or upgrade your experience by following our Fedora upgrade tutorial.\nThe post Fedora 40 Released as a Prettier and a More Secure Distro appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fedora-40-released-as-a-prettier-and-a-more-secure-distro/",
-          "publishedOn": "2024-04-25T16:00:35.000Z",
-          "wordCount": 10206,
-          "title": "Fedora 40 Released as a Prettier and a More Secure Distro",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188885",
-          "author": "Web Webster",
-          "description": "TrueNAS SCALE 24.04 (Dragonfish) open storage introduces auditing, sandboxing for devs, and enhanced SMB performance.\nThe post TrueNAS SCALE 24.04 Rolls Out with Enhanced SMB & NFS Monitoring appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/truenas-scale-24-04-rolls-out-with-enhanced-smb-nfs-monitoring/",
-          "publishedOn": "2024-04-25T15:30:25.000Z",
-          "wordCount": 10187,
-          "title": "TrueNAS SCALE 24.04 Rolls Out with Enhanced SMB & NFS Monitoring",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2255,6 +2165,46 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL2ZvcnVtcy90Lzc5NzY0OC9jaG9vc2luZy10aGUtcmlnaHQtbGludXgtZGlzdHJvL9IBAA",
+          "author": null,
+          "description": "Choosing the Right Linux Distro - Photo Albums, Images, and Videos  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL2ZvcnVtcy90Lzc5NzY0OC9jaG9vc2luZy10aGUtcmlnaHQtbGludXgtZGlzdHJvL9IBAA?oc=5",
+          "publishedOn": "2024-05-25T18:07:09.000Z",
+          "wordCount": 8696,
+          "title": "Choosing the Right Linux Distro - Photo Albums, Images, and Videos - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vY2hhdGdwdC1oZWxwZWQtbWUtZ2V0LWJldHRlci1hdC11c2luZy1saW51eC_SAQA",
+          "author": null,
+          "description": "ChatGPT Helped Me Get Better at Using Linux, Here's How  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vY2hhdGdwdC1oZWxwZWQtbWUtZ2V0LWJldHRlci1hdC11c2luZy1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-05-25T18:00:00.000Z",
+          "wordCount": 8696,
+          "title": "ChatGPT Helped Me Get Better at Using Linux, Here's How - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUklTQy1WLUltYWdlLUNvbXDSAQA",
+          "author": null,
+          "description": "Linux 6.10 On RISC-V Allows Configurable Boot Image Compression  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUklTQy1WLUltYWdlLUNvbXDSAQA?oc=5",
+          "publishedOn": "2024-05-25T13:04:00.000Z",
+          "wordCount": 8696,
+          "title": "Linux 6.10 On RISC-V Allows Configurable Boot Image Compression - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdWJ1bnR1LTI0MDQtdXBncmFkZS13YWl0aW5nLWltcG9ydGFudC1yZWFzb25zL9IBAA",
+          "author": null,
+          "description": "I'm Waiting to Upgrade to Ubuntu 24.04 for a Few Important Reasons  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdWJ1bnR1LTI0MDQtdXBncmFkZS13YWl0aW5nLWltcG9ydGFudC1yZWFzb25zL9IBAA?oc=5",
+          "publishedOn": "2024-05-25T13:00:00.000Z",
+          "wordCount": 8696,
+          "title": "I'm Waiting to Upgrade to Ubuntu 24.04 for a Few Important Reasons - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtTWVyZ2VzLW1zZWFs0gEA",
           "author": null,
@@ -2543,6 +2493,16 @@
           "publishedOn": "2024-05-23T10:02:42.000Z",
           "wordCount": 8696,
           "title": "Cybercriminals double exploitation of Linux vulnerabilities - ZAWYA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LXNlcnZlci1kaXN0cm_SAQA",
+          "author": null,
+          "description": "Best Linux server distro of 2024  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LXNlcnZlci1kaXN0cm_SAQA?oc=5",
+          "publishedOn": "2024-05-23T08:47:11.000Z",
+          "wordCount": 8696,
+          "title": "Best Linux server distro of 2024 - TechRadar",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6884,186 +6844,6 @@
           "wordCount": 8729,
           "title": "Factorio devs detail their 'Linux adventures' in a new blog post - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv",
-          "author": null,
-          "description": "45 Drives adds Linux-powered mini PCs, workstations to growing compute lineup  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv0gE5aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA0LzI2LzQ1X2RyaXZlc19wY3Mv?oc=5",
-          "publishedOn": "2024-04-26T11:00:00.000Z",
-          "wordCount": 8729,
-          "title": "45 Drives adds Linux-powered mini PCs, workstations to growing compute lineup - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1JbnRlbC1MTC1Db21wdXRlLUhpbnTSAQA",
-          "author": null,
-          "description": "Linux 6.10 Adding Intel Low-Latency Hint To Aggressively Boost GT Frequency For GPU Compute  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1JbnRlbC1MTC1Db21wdXRlLUhpbnTSAQA?oc=5",
-          "publishedOn": "2024-04-26T10:38:00.000Z",
-          "wordCount": 8729,
-          "title": "Linux 6.10 Adding Intel Low-Latency Hint To Aggressively Boost GT Frequency For GPU Compute - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1FbmFibGUtU09DMjQtTU1IVUItNC4x0gEA",
-          "author": null,
-          "description": "AMDGPU Linux Driver Patches Enable SOC24 & MMHUB 4.1.x IP  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1FbmFibGUtU09DMjQtTU1IVUItNC4x0gEA?oc=5",
-          "publishedOn": "2024-04-26T10:19:00.000Z",
-          "wordCount": 8729,
-          "title": "AMDGPU Linux Driver Patches Enable SOC24 & MMHUB 4.1.x IP - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0JlZ2lubmVyLWZyaWVuZGx5LUxpbnV4LVVidW50dS0yNC0wNC1MVFMtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQuODMxNjQ4LjAuaHRtbNIBAA",
-          "author": null,
-          "description": "Beginner-friendly Linux Ubuntu 24.04 LTS is now available for download  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0JlZ2lubmVyLWZyaWVuZGx5LUxpbnV4LVVidW50dS0yNC0wNC1MVFMtaXMtbm93LWF2YWlsYWJsZS1mb3ItZG93bmxvYWQuODMxNjQ4LjAuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-04-26T09:00:49.000Z",
-          "wordCount": 8729,
-          "title": "Beginner-friendly Linux Ubuntu 24.04 LTS is now available for download - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0Lz9hbXA9MQ",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS “Noble Numbat” released with Linux 6.8, up to 12 years of support  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNC8yNi91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1yZWxlYXNlZC13aXRoLWxpbnV4LTYtOC11cC10by0xMi15ZWFycy1vZi1zdXBwb3J0Lz9hbXA9MQ?oc=5",
-          "publishedOn": "2024-04-26T04:07:50.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS “Noble Numbat” released with Linux 6.8, up to 12 years of support - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuaHRtbNIBbWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuYW1wLmh0bWw",
-          "author": null,
-          "description": "Ubuntu Linux update brings performance boosts, tool updates  InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuaHRtbNIBbWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NDA4L3VidW50dS1saW51eC11cGRhdGUtYnJpbmdzLXBlcmZvcm1hbmNlLWJvb3N0cy10b29sLXVwZGF0ZXMuYW1wLmh0bWw?oc=5",
-          "publishedOn": "2024-04-26T00:20:00.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu Linux update brings performance boosts, tool updates - InfoWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vbGlsaXB1dGluZy5jb20vc2xpbWJvb2stZmVkb3JhLTItYnJpbmdzLXByb2Nlc3Nvci1tZW1vcnktYW5kLWdyYXBoaWNzLXVwZ3JhZGVzLXRvLXRoaXMtbGludXgtbGFwdG9wL9IBAA",
-          "author": null,
-          "description": "Slimbook Fedora 2 brings processor, memory, and graphics upgrades to this Linux laptop  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbGlsaXB1dGluZy5jb20vc2xpbWJvb2stZmVkb3JhLTItYnJpbmdzLXByb2Nlc3Nvci1tZW1vcnktYW5kLWdyYXBoaWNzLXVwZ3JhZGVzLXRvLXRoaXMtbGludXgtbGFwdG9wL9IBAA?oc=5",
-          "publishedOn": "2024-04-25T22:03:53.000Z",
-          "wordCount": 8729,
-          "title": "Slimbook Fedora 2 brings processor, memory, and graphics upgrades to this Linux laptop - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiKmh0dHBzOi8vaXRzZm9zcy5jb20vdWJ1bnR1LTI0LTA0LXZzLTIyLTA0L9IBAA",
-          "author": null,
-          "description": "Ubuntu 22.04 vs 24.04: What Has Changed?  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vaXRzZm9zcy5jb20vdWJ1bnR1LTI0LTA0LXZzLTIyLTA0L9IBAA?oc=5",
-          "publishedOn": "2024-04-25T21:44:08.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 22.04 vs 24.04: What Has Changed? - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JIRUwtNy1Gb3VyLVllYXJzLUVMUy1TdXBwb3J00gEA",
-          "author": null,
-          "description": "Red Hat Offering Up To 4 Years Extra Support For RHEL7  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JIRUwtNy1Gb3VyLVllYXJzLUVMUy1TdXBwb3J00gEA?oc=5",
-          "publishedOn": "2024-04-25T20:43:00.000Z",
-          "wordCount": 8729,
-          "title": "Red Hat Offering Up To 4 Years Extra Support For RHEL7 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9hbmFseXNpcy91YnVudHUtMjQtMDQtbm9ibGUtbnVtYmF0LWJyaW5ncy0xMi15ZWFycy1vZi1saW51eC1zdXBwb3J0LWZvci1lbnRlcnByaXNlLWRlcGxveW1lbnRzLzIwMjQvMDQv0gEA",
-          "author": null,
-          "description": "Ubuntu 24.04 'Noble Numbat' brings 12 years of Linux support for enterprise deployments  SDxCentral",
-          "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9hbmFseXNpcy91YnVudHUtMjQtMDQtbm9ibGUtbnVtYmF0LWJyaW5ncy0xMi15ZWFycy1vZi1saW51eC1zdXBwb3J0LWZvci1lbnRlcnByaXNlLWRlcGxveW1lbnRzLzIwMjQvMDQv0gEA?oc=5",
-          "publishedOn": "2024-04-25T20:07:58.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 'Noble Numbat' brings 12 years of Linux support for enterprise deployments - SDxCentral",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wNC91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1vdmVyaGF1bHMtaXRzLWluc3RhbGxhdGlvbi1hbmQtYXBwLWV4cGVyaWVuY2Uv0gEA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS, Noble Numbat, overhauls its installation and app experience  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wNC91YnVudHUtMjQtMDQtbHRzLW5vYmxlLW51bWJhdC1vdmVyaGF1bHMtaXRzLWluc3RhbGxhdGlvbi1hbmQtYXBwLWV4cGVyaWVuY2Uv0gEA?oc=5",
-          "publishedOn": "2024-04-25T18:59:08.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS, Noble Numbat, overhauls its installation and app experience - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiogFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9CYXp6aXRlLTMtMC11cGRhdGVkLWdhbWluZy1MaW51eC1PUy1wb2xpc2hlcy1zdXBwb3J0LWZvci1TdGVhbS1EZWNrLU9MRUQtTGVnaW9uLUdPLUFzdXMtUk9HLUFsbHktYW1vbmctb3RoZXItaGFuZGhlbGRzLjgzMTQ1NS4wLmh0bWzSAQA",
-          "author": null,
-          "description": "Bazzite 3.0: updated gaming Linux OS polishes support for Steam Deck OLED, Legion GO, Asus ROG Ally among ...  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9CYXp6aXRlLTMtMC11cGRhdGVkLWdhbWluZy1MaW51eC1PUy1wb2xpc2hlcy1zdXBwb3J0LWZvci1TdGVhbS1EZWNrLU9MRUQtTGVnaW9uLUdPLUFzdXMtUk9HLUFsbHktYW1vbmctb3RoZXItaGFuZGhlbGRzLjgzMTQ1NS4wLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-04-25T17:28:51.000Z",
-          "wordCount": 8729,
-          "title": "Bazzite 3.0: updated gaming Linux OS polishes support for Steam Deck OLED, Legion GO, Asus ROG Ally among ... - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvdWJ1bnR1LTI0LTA0LWx0cy1ub2JsZS1udW1iYXQtaXMtbm93LWF2YWlsYWJsZS_SAQA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS (Noble Numbat) is now available  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDQvdWJ1bnR1LTI0LTA0LWx0cy1ub2JsZS1udW1iYXQtaXMtbm93LWF2YWlsYWJsZS_SAQA?oc=5",
-          "publishedOn": "2024-04-25T16:45:52.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS (Noble Numbat) is now available - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiL2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdWJ1bnR1LTI0LTA0LXJlbGVhc2Uv0gEA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS Linux is Now Available  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdWJ1bnR1LTI0LTA0LXJlbGVhc2Uv0gEA?oc=5",
-          "publishedOn": "2024-04-25T16:26:00.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS Linux is Now Available - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvdWJ1bnR1LTI0MDQtYmVuY2htYXJrc9IBAA",
-          "author": null,
-          "description": "AMD Ryzen 9 7950X & Intel Core i9 14900K: Ubuntu 22.04 vs. 23.10 vs. 24.04 Linux Performance  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvdWJ1bnR1LTI0MDQtYmVuY2htYXJrc9IBAA?oc=5",
-          "publishedOn": "2024-04-25T16:02:00.000Z",
-          "wordCount": 8729,
-          "title": "AMD Ryzen 9 7950X & Intel Core i9 14900K: Ubuntu 22.04 vs. 23.10 vs. 24.04 Linux Performance - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vdWJ1bnR1LTI0LTA0LWx0cy1yZXZpZXcv0gEA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS Review: Big Changes & Sleek User Experience  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vdWJ1bnR1LTI0LTA0LWx0cy1yZXZpZXcv0gEA?oc=5",
-          "publishedOn": "2024-04-25T15:19:43.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS Review: Big Changes & Sleek User Experience - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjUvdWJ1bnR1LWxpbnV4LTI0MDQtbHRzLW5vYmxlLW51bWJhdC_SAQA",
-          "author": null,
-          "description": "Canonical releases Ubuntu Linux 24.04 LTS 'Noble Numbat'  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDQvMjUvdWJ1bnR1LWxpbnV4LTI0MDQtbHRzLW5vYmxlLW51bWJhdC_SAQA?oc=5",
-          "publishedOn": "2024-04-25T14:58:27.000Z",
-          "wordCount": 8729,
-          "title": "Canonical releases Ubuntu Linux 24.04 LTS 'Noble Numbat' - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1MVFMtRG93bmxvYWTSAQA",
-          "author": null,
-          "description": "Ubuntu 24.04 LTS Downloads Now Available  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1MVFMtRG93bmxvYWTSAQA?oc=5",
-          "publishedOn": "2024-04-25T14:03:00.000Z",
-          "wordCount": 8729,
-          "title": "Ubuntu 24.04 LTS Downloads Now Available - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7072,6 +6852,106 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Memorado-104712.shtml",
+          "author": "Softpedia Linux",
+          "description": "Learn using flashcards by relying on this beautiful, free, and open-source app for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Memorado-104712.shtml",
+          "publishedOn": "2024-05-25T20:35:52.000Z",
+          "wordCount": 1593,
+          "title": "Memorado 0.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Memorado_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Barcoder-104711.shtml",
+          "author": "Softpedia Linux",
+          "description": "Straightforward application for creating a wide range of barcodes directly on Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Barcoder-104711.shtml",
+          "publishedOn": "2024-05-25T19:11:33.000Z",
+          "wordCount": 1559,
+          "title": "Barcoder 0.1.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Barcoder_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Roll-It-104361.shtml",
+          "author": "Softpedia Linux",
+          "description": "Roll dices or simply opt to generate random numbers up to one-hundred with the help of this nifty little app",
+          "link": "https://linux.softpedia.com/get/Utilities/Roll-It-104361.shtml",
+          "publishedOn": "2024-05-25T16:32:43.000Z",
+          "wordCount": 1608,
+          "title": "Roll-It 4.0.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Roll-It_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/RemSupp-104397.shtml",
+          "author": "Softpedia Linux",
+          "description": "Access other computers' desktops remotely with the help of this cross-platform, modern, remote access app",
+          "link": "https://linux.softpedia.com/get/Utilities/RemSupp-104397.shtml",
+          "publishedOn": "2024-05-25T16:31:33.000Z",
+          "wordCount": 1721,
+          "title": "RemSupp 1.13.8",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/RemSupp_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Terminals/Microsoft-PowerShell-103861.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortlessly automate complex tasks with the help of Microsoft's PowerShell, a powerful system admin tool comprised of a command-line shell, a scripting language, and a powerful config management framework",
+          "link": "https://linux.softpedia.com/get/Terminals/Microsoft-PowerShell-103861.shtml",
+          "publishedOn": "2024-05-25T16:26:40.000Z",
+          "wordCount": 1654,
+          "title": "PowerShell 7.4.2 / 7.5.0 Preview 3",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-PowerShell_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Video/PlasmaTube-104448.shtml",
+          "author": "Softpedia Linux",
+          "description": "A smooth, modern and simple YouTube video player specifically designed for your Plasma KDE desktop",
+          "link": "https://linux.softpedia.com/get/Multimedia/Video/PlasmaTube-104448.shtml",
+          "publishedOn": "2024-05-25T16:17:46.000Z",
+          "wordCount": 1559,
+          "title": "PlasmaTube 24.05.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PlasmaTube_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Networking/IP-Lookup-Bytezz-104520.shtml",
+          "author": "Softpedia Linux",
+          "description": "Find all the necessary information about IP addresses with the help of this nifty little app",
+          "link": "https://linux.softpedia.com/get/System/Networking/IP-Lookup-Bytezz-104520.shtml",
+          "publishedOn": "2024-05-25T15:20:44.000Z",
+          "wordCount": 1536,
+          "title": "IP Lookup 0.3.4",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/IP-Lookup-Bytezz_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Google-Chrome-48046.shtml",
+          "author": "Softpedia Linux",
+          "description": "Browse the Internet in a fast, secure, and easy way with Google's popular browser that  boasts sublime integration with all other Google products",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Google-Chrome-48046.shtml",
+          "publishedOn": "2024-05-25T15:14:57.000Z",
+          "wordCount": 1809,
+          "title": "Google Chrome 125.0.6422.112 / 126.0.6478.17 Beta / 127.0.6485.0 Dev",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Google-Chrome_7.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cartridges-104475.shtml",
+          "author": "Softpedia Linux",
+          "description": "Launch all your games from under a single roof by relying on this nifty Linux game launcher",
+          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cartridges-104475.shtml",
+          "publishedOn": "2024-05-25T14:26:57.000Z",
+          "wordCount": 1570,
+          "title": "Cartridges 2.8.5",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Cartridges_2.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Information-Management/Calibre-39074.shtml",
+          "author": "Softpedia Linux",
+          "description": "Read, edit, and convert e-Books, as well as thoroughly manage massive libraries, all with the help of this comprehensive app",
+          "link": "https://linux.softpedia.com/get/Information-Management/Calibre-39074.shtml",
+          "publishedOn": "2024-05-25T14:26:04.000Z",
+          "wordCount": 1711,
+          "title": "Calibre 7.11.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Calibre_4.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
           "author": "Softpedia Linux",
@@ -7293,6 +7173,16 @@
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Bitwarden_1.jpg"
         },
         {
+          "id": "https://linux.softpedia.com/get/Office/News-Diary/Butterfly-LinwoodCloud-104252.shtml",
+          "author": "Softpedia Linux",
+          "description": "Write down notes, or simply paint and draw ideas by relying on this minimalist yet surprisingly capable and customizable note-taking app",
+          "link": "https://linux.softpedia.com/get/Office/News-Diary/Butterfly-LinwoodCloud-104252.shtml",
+          "publishedOn": "2024-05-22T16:39:14.000Z",
+          "wordCount": 1621,
+          "title": "Butterfly 2.1.0 / 2.1.1 RC 1 / 19f1078 Pre",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Butterfly-LinwoodCloud_1.jpg"
+        },
+        {
           "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Cemu-104606.shtml",
           "author": "Softpedia Linux",
           "description": "Run your Wii U games directly on your PC with the help of Cemu, probably the most well-rounded Wii U emulator out there",
@@ -7323,6 +7213,16 @@
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Memorize_1.jpg"
         },
         {
+          "id": "https://linux.softpedia.com/get/Utilities/Numara-Calculator-103910.shtml",
+          "author": "Softpedia Linux",
+          "description": "Perform complex mathematical calculations, and define your very own functions for later use, all with the help of this Electron-based calculator app",
+          "link": "https://linux.softpedia.com/get/Utilities/Numara-Calculator-103910.shtml",
+          "publishedOn": "2024-05-22T15:23:29.000Z",
+          "wordCount": 1545,
+          "title": "Numara Calculator 5.1.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Numara-Calculator_1.png"
+        },
+        {
           "id": "https://linux.softpedia.com/get/Communications/Filesharing/Tixati-103967.shtml",
           "author": "Softpedia Linux",
           "description": "Download torrents with the help of this surprisingly well-equipped and lightweight app",
@@ -7331,6 +7231,16 @@
           "wordCount": 1712,
           "title": "Tixati 3.25",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Tixati_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/PhpStorm-103914.shtml",
+          "author": "Softpedia Linux",
+          "description": "Improve the way you code PHP with the help of this specialized, lightning-fast PHP IDE from JetBrains",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/PhpStorm-103914.shtml",
+          "publishedOn": "2024-05-22T14:14:22.000Z",
+          "wordCount": 1697,
+          "title": "PhpStorm 2024.1.1 Build 241.15989.102 / 2024.2 Build 242.10180.24 EAP",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/PhpStorm_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Multimedia/Video/HandBrake-3051.shtml",
@@ -7411,6 +7321,26 @@
           "wordCount": 1593,
           "title": "CPU-X 5.0.4 / 05d64c4 Pre-release",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/CPU-X_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/LibreWolf-104158.shtml",
+          "author": "Softpedia Linux",
+          "description": "Nifty Firefox-browser that brings all the advantages of Firefox with some added privacy and security benefits",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/LibreWolf-104158.shtml",
+          "publishedOn": "2024-05-20T16:25:01.000Z",
+          "wordCount": 1799,
+          "title": "LibreWolf 126.0-1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/LibreWolf_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Lime3DS-104691.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free, open-source, and cross-platform 3DS emulator that aims to pick up where Citra left off",
+          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Lime3DS-104691.shtml",
+          "publishedOn": "2024-05-20T16:15:31.000Z",
+          "wordCount": 1629,
+          "title": "Lime3DS 2113",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Lime3DS_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/simple64-104686.shtml",
@@ -9161,76 +9091,6 @@
           "wordCount": 1982,
           "title": "GNOME 46.0",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GNOME-Kathmandu_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Linux-Distributions/GNOME-OS-104498.shtml",
-          "author": "Softpedia Linux",
-          "description": "Experience the latest GNOME releases with the help of GNOME's very own OS, a bleeding edge distribution that's not recommended for daily usage",
-          "link": "https://linux.softpedia.com/get/Linux-Distributions/GNOME-OS-104498.shtml",
-          "publishedOn": "2024-04-26T12:07:31.000Z",
-          "wordCount": 1733,
-          "title": "GNOME OS 46.0 Nightly",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/GNOME-OS_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/CLion-103868.shtml",
-          "author": "Softpedia Linux",
-          "description": "Experience one of the best IDEs for C and C++ that comes packed with tons of useful features",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/CLion-103868.shtml",
-          "publishedOn": "2024-04-26T10:30:26.000Z",
-          "wordCount": 1764,
-          "title": "CLion 2024.1.1 Build 241.15989.121",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/CLion_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
-          "author": "Softpedia Linux",
-          "description": "The best-in-class IDE for Ruby, Rails, JavaScript, CoffeScript, ERB and HAML, CSS, Sass and Less, and many more",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
-          "publishedOn": "2024-04-26T10:29:51.000Z",
-          "wordCount": 1714,
-          "title": "RubyMine 2024.1.1 Build 241.15989.113",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/RubyMine_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Blisk-104018.shtml",
-          "author": "Softpedia Linux",
-          "description": "Take your web development to the next level and create perfectly functional responsive websites with the help of Blisk",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Blisk-104018.shtml",
-          "publishedOn": "2024-04-25T17:10:25.000Z",
-          "wordCount": 1936,
-          "title": "Blisk 23.0.185.91",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Blisk_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Top-Bar-Organizer-104523.shtml",
-          "author": "Softpedia Linux",
-          "description": "Bring some order (your order) to GNOME Shell's top bar with the help of this useful little extension",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Top-Bar-Organizer-104523.shtml",
-          "publishedOn": "2024-04-25T16:12:40.000Z",
-          "wordCount": 1574,
-          "title": "Top Bar Organizer 10-3",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Top-Bar-Organizer_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Stocks-Extension-104427.shtml",
-          "author": "Softpedia Linux",
-          "description": "Keep an eye on your favorite stocks with the help of this well-designed GNOME Shell extension",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Stocks-Extension-104427.shtml",
-          "publishedOn": "2024-04-25T14:23:44.000Z",
-          "wordCount": 1679,
-          "title": "Stocks Extension 34",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Stocks-Extension_4.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/SkyTemple-Randomizer-104311.shtml",
-          "author": "Softpedia Linux",
-          "description": "Randomize most aspects of the game Pokémon Mystery Dungeon Explorers of Sky by relying on this nifty ROM editor",
-          "link": "https://linux.softpedia.com/get/Utilities/SkyTemple-Randomizer-104311.shtml",
-          "publishedOn": "2024-04-25T14:14:18.000Z",
-          "wordCount": 1692,
-          "title": "SkyTemple Randomizer 2.0.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SkyTemple-Randomizer_1.jpg"
         }
       ]
     },
@@ -9484,21 +9344,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Free-tier pricing is a common marketing strategy. “Free” gets people in the door and allows them to settle in and see how things work. But, as Juan Diego Rodriguez explains, the practice of free *tiers* is often conflated with free *trials*. And while the distinction may be nuanced, the consequences of sunsetting free-tier pricing may be huge.",
-          "link": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
-          "publishedOn": "2024-04-26T08:00:00.000Z",
-          "wordCount": 5553,
-          "title": "The End Of The Free Tier",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg"
         }
       ]
     },
@@ -9507,6 +9352,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/",
+          "author": "Eric Hu",
+          "description": "String manipulation is a common task for programmers, whether it is extracting information from the string, converting letter cases, joining strings, or trimming extra white spaces. This tutorial covers various methods and techniques for manipulating strings using JavaScript, offering you a comprehensive guide on how to work with strings in",
+          "link": "https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/",
+          "publishedOn": "2024-05-24T21:46:24.000Z",
+          "wordCount": 2475,
+          "title": "How to Manipulate Strings in JavaScript – With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/js-string.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/",
           "author": "Isaiah Cliford  Opoku",
@@ -10306,26 +10161,6 @@
           "wordCount": 789,
           "title": "Ben Awad is a GameDev Who Sleeps 9 Hours EVERY NIGHT to be Productive [Podcast #121]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714145342153/09d7ca1e-feb2-4aac-8a68-b28060ee646c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/",
-          "author": "Quincy Larson",
-          "description": "MacOS has several keyboard shortcuts that work everywhere – in your browser, in your terminal, in any place where you can input text. I call these the \"Control Hotkeys\" since they all involve holding the Control key. These shortcuts seem to originate...",
-          "link": "https://www.freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/",
-          "publishedOn": "2024-04-25T23:31:24.000Z",
-          "wordCount": 953,
-          "title": "Mac Control Keyboard Shortcuts – Hotkeys that Work Everywhere in MacOS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714092420192/21d4bc5e-4952-4cb6-b664-5e15ad7d96a0.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
-          "author": "Beau Carnes",
-          "description": "If you are learning programming, it should be fun! We just posted a video course on the freeCodeCamp.org YouTube channel that will guide you through the process of creating a Kirby game clone using TypeScript and Kaboom.js. JSLegendDev created this c...",
-          "link": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
-          "publishedOn": "2024-04-25T19:54:41.000Z",
-          "wordCount": 1008,
-          "title": "Code a Kirby Clone with TypeScript and Kaboom.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714074837257/0aab06c2-8e93-47ee-ba51-b3fa0b91e9d6.png"
         }
       ]
     }
