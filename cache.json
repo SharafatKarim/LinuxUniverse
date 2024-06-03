@@ -130,36 +130,6 @@
           "wordCount": 5220,
           "title": "How to Install Synology Assistant App on Ubuntu 24.04 LTS",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416488",
-          "author": "Shovon",
-          "description": "For GPU passthrough to work or for installing specific device drivers on a Proxmox VE virtual machine, you may need to disable UEFI Secure Boot on your Proxmox VE virtual machine. In this article, I will show you how to disable UEFI secure boot on a Proxmox VE virtual machine. The procedures shown in this […]",
-          "link": "https://linuxhint.com/how-to-disable-uefi-secure-boot-on-a-proxmox-ve-virtual-machine/",
-          "publishedOn": "2024-05-03T22:03:24.000Z",
-          "wordCount": 4970,
-          "title": "How to Disable UEFI Secure Boot on a Proxmox VE Virtual Machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416476",
-          "author": "Prateek Jangid",
-          "description": "You can check the bash version for many cases, including troubleshooting and finding the currently available version in the system.",
-          "link": "https://linuxhint.com/how-to-check-bash-version/",
-          "publishedOn": "2024-05-03T16:11:42.000Z",
-          "wordCount": 4791,
-          "title": "How to Check Bash Version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416452",
-          "author": "Prateek Jangid",
-          "description": "Environment variables are used to store and manage the data to modify the processes in the Linux system.",
-          "link": "https://linuxhint.com/how-to-set-and-use-environment-variables-in-bash-script/",
-          "publishedOn": "2024-05-03T14:59:28.000Z",
-          "wordCount": 4145,
-          "title": "How to Set and Use Environment Variables In Bash Script",
-          "imageUrl": null
         }
       ]
     },
@@ -168,6 +138,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://linuxtoday.lndo.site/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189475",
+          "author": "Web Webster",
+          "description": "Application launchers play an integral part in making the Linux desktop a more productive environment to work and play.\nThe post 22 Best Free and Open-Source Linux Application Launchers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/22-best-free-and-open-source-linux-application-launchers/",
+          "publishedOn": "2024-06-02T20:00:30.000Z",
+          "wordCount": 8811,
+          "title": "22 Best Free and Open-Source Linux Application Launchers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189450",
+          "author": "Web Webster",
+          "description": "Here’s a Linux Distros page, where we catalog the latest versions of your favorite Linux distributions, highlight their latest features, direct you to the download page, and include installation guides where necessary or as requested.\nThe post The Ultimate Guide to Latest Linux Distros: Downloads, Features & More appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/the-ultimate-guide-to-latest-linux-distros-downloads-features-more/",
+          "publishedOn": "2024-06-02T15:00:39.000Z",
+          "wordCount": 8830,
+          "title": "The Ultimate Guide to Latest Linux Distros: Downloads, Features & More",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189323",
           "author": "Web Webster",
@@ -1687,86 +1677,6 @@
           "wordCount": 10176,
           "title": "Traefik 3.0 Reverse Proxy Rolls Out With Major Enhancements",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187739",
-          "author": "Web Webster",
-          "description": "The first stable Niri v0.1.0 release offers scrollable tiling, independent workspaces, and advanced monitor management for Wayland users.\nThe post Niri: A Scrollable-Tiling Wayland Compositor appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/niri-a-scrollable-tiling-wayland-compositor/",
-          "publishedOn": "2024-05-04T02:00:43.000Z",
-          "wordCount": 10149,
-          "title": "Niri: A Scrollable-Tiling Wayland Compositor",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187538",
-          "author": "Web Webster",
-          "description": "Mastodon is a free, decentralized, and open-source social network. This tutorial will teach you how to set up your instance of Mastodon on a server with Debian 12 using Docker.\nThe post How to Install Mastodon Social Network on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-mastodon-social-network-on-debian-12/",
-          "publishedOn": "2024-05-04T00:00:12.000Z",
-          "wordCount": 10190,
-          "title": "How to Install Mastodon Social Network on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187527",
-          "author": "Web Webster",
-          "description": "Looking for open-source ChatGPT alternatives? We curated some of the best ones for you to take a look at.\nThe post 13 Best Open-Source ChatGPT Alternatives appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/13-best-open-source-chatgpt-alternatives/",
-          "publishedOn": "2024-05-03T22:00:43.000Z",
-          "wordCount": 10170,
-          "title": "13 Best Open-Source ChatGPT Alternatives",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188898",
-          "author": "Web Webster",
-          "description": "Blogger is an online content management system that enables its users to write blogs with time-stamped entries. The service is owned by Google. We recommend the best free and open-source alternatives to Blogger.\nThe post Best Free and Open-Source Alternatives to Blogger appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-alternatives-to-blogger/",
-          "publishedOn": "2024-05-03T20:00:36.000Z",
-          "wordCount": 10178,
-          "title": "Best Free and Open-Source Alternatives to Blogger",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188823",
-          "author": "Web Webster",
-          "description": "Discover FFmpeg, the powerful multimedia processing tool, its installation steps, and various command-line examples of its usage.\nThe post FFmpeg: Powerful Multimedia Processing Tool (Installation + Usage) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ffmpeg-powerful-multimedia-processing-tool-installation-usage/",
-          "publishedOn": "2024-05-03T17:00:55.000Z",
-          "wordCount": 10162,
-          "title": "FFmpeg: Powerful Multimedia Processing Tool (Installation + Usage)",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189054",
-          "author": "Web Webster",
-          "description": "Valve released today Proton 9.0 as the latest stable release of this open-source compatibility tool for Steam Play based on Wine and additional components that lets you play Windows games on Linux systems.\nThe post Proton 9.0 Released with Support for THE FINALS, Lord of the Rings: Gollum appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/proton-9-0-released-with-support-for-the-finals-lord-of-the-rings-gollum/",
-          "publishedOn": "2024-05-03T16:00:03.000Z",
-          "wordCount": 10209,
-          "title": "Proton 9.0 Released with Support for THE FINALS, Lord of the Rings: Gollum",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189043",
-          "author": "Web Webster",
-          "description": "Learn how to write and run a shell script using the bash or source command, or run it from the URL and execute it using its path.\nThe post How to Run (.sh) Shell Script in Linux [for Beginners] appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-run-sh-shell-script-in-linux-for-beginners/",
-          "publishedOn": "2024-05-03T15:00:14.000Z",
-          "wordCount": 10207,
-          "title": "How to Run (.sh) Shell Script in Linux [for Beginners]",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189049",
-          "author": "Web Webster",
-          "description": "Need to disable IPv6 on your Linux system? Our guide provides clear steps for deactivating IPv6 temporarily or permanently on various Linux distributions.\nThe post Disable IPv6 in Linux: A Step-by-Step Guide appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/disable-ipv6-in-linux-a-step-by-step-guide/",
-          "publishedOn": "2024-05-03T14:00:50.000Z",
-          "wordCount": 10176,
-          "title": "Disable IPv6 in Linux: A Step-by-Step Guide",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1775,6 +1685,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtcmMyLVJlbGVhc2Vk0gEA",
+          "author": null,
+          "description": "Linux 6.10-rc2 Released With An Initial Batch Of Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtcmMyLVJlbGVhc2Vk0gEA?oc=5",
+          "publishedOn": "2024-06-02T23:00:00.000Z",
+          "wordCount": 8767,
+          "title": "Linux 6.10-rc2 Released With An Initial Batch Of Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LWVtZXJnaW5nLWFzLWEtaGF2ZW4tZm9yLXRob3NlLXdlYXJ5LW9mLWFpL9IBAA",
+          "author": null,
+          "description": "Linux Emerging As a Haven for Those Weary of AI  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LWVtZXJnaW5nLWFzLWEtaGF2ZW4tZm9yLXRob3NlLXdlYXJ5LW9mLWFpL9IBAA?oc=5",
+          "publishedOn": "2024-06-02T12:56:15.000Z",
+          "wordCount": 8767,
+          "title": "Linux Emerging As a Haven for Those Weary of AI - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3ZpZGVvLWdhbWVzL3BjLWdhbWluZy9zdGVhbS1nYW1lcnMtaHVycnktdG8tdXBncmFkZS10by0zMmdiLXJhbS1hbmQtbGludXgtYnJlYWtzLWFib3ZlLTItdXNlci1zaGFyZS1taWxlc3RvbmUtaW4tbGF0ZXN0LXN1cnZledIBAA",
+          "author": null,
+          "description": "Steam gamers hurry to upgrade to 32GB RAM, and Linux breaks above 2% user share milestone, in latest survey  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3ZpZGVvLWdhbWVzL3BjLWdhbWluZy9zdGVhbS1nYW1lcnMtaHVycnktdG8tdXBncmFkZS10by0zMmdiLXJhbS1hbmQtbGludXgtYnJlYWtzLWFib3ZlLTItdXNlci1zaGFyZS1taWxlc3RvbmUtaW4tbGF0ZXN0LXN1cnZledIBAA?oc=5",
+          "publishedOn": "2024-06-02T12:03:47.000Z",
+          "wordCount": 8767,
+          "title": "Steam gamers hurry to upgrade to 32GB RAM, and Linux breaks above 2% user share milestone, in latest survey - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtcmMyLXg4Ni11cmdlbnTSAQA",
+          "author": null,
+          "description": "Linux 6.10-rc2 Will Fix Booting Intel Quark CPUs & Problems With Old AMD CPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtcmMyLXg4Ni11cmdlbnTSAQA?oc=5",
+          "publishedOn": "2024-06-02T10:30:00.000Z",
+          "wordCount": 8767,
+          "title": "Linux 6.10-rc2 Will Fix Booting Intel Quark CPUs & Problems With Old AMD CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbGludXgtdXNlci1zaGFyZS1vbi1zdGVhbS1icmVha3MtMnBjLXRoYW5rcy10by1zdGVhbS1kZWNrL9IBAA",
+          "author": null,
+          "description": "Linux user share on Steam breaks 2% thanks to Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbGludXgtdXNlci1zaGFyZS1vbi1zdGVhbS1icmVha3MtMnBjLXRoYW5rcy10by1zdGVhbS1kZWNrL9IBAA?oc=5",
+          "publishedOn": "2024-06-02T09:45:19.000Z",
+          "wordCount": 8767,
+          "title": "Linux user share on Steam breaks 2% thanks to Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVN0ZWFtLTIwMjQtQWJvdmUtMtIBAA",
           "author": null,
@@ -2236,6 +2196,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiMGh0dHBzOi8vd3d3LmN5YmVyZ2hvc3R2cG4uY29tL2Rvd25sb2FkL2xpbnV4LXZwbtIBAA",
+          "author": null,
+          "description": "Best Linux VPN: Download for Ubuntu, Fedora, CentOS & More | CyberGhost  CyberGhost VPN",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmN5YmVyZ2hvc3R2cG4uY29tL2Rvd25sb2FkL2xpbnV4LXZwbtIBAA?oc=5",
+          "publishedOn": "2024-05-30T11:44:32.000Z",
+          "wordCount": 8767,
+          "title": "Best Linux VPN: Download for Ubuntu, Fedora, CentOS & More | CyberGhost - CyberGhost VPN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiUGh0dHBzOi8vbWVkaXVtLmNvbS9AbmlzaGVkdTIwMDMvdHJ5aGFja21lLWxpbnV4LWZ1bmRhbWVudGFscy1wYXJ0LTMtYTQ3ZGZhMzU5ZWFl0gEA",
           "author": null,
           "description": "Tryhackme: Linux Fundamentals Part 3 | by icodespeed | May, 2024  Medium",
@@ -2283,6 +2253,16 @@
           "publishedOn": "2024-05-30T09:53:44.000Z",
           "wordCount": 8767,
           "title": "New Linux patches spotted for Intel's Lunar Lake and Xe2 ray-tracing support - PC Guide - For The Latest PC Hardware & Tech News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3Lml0cHJvdG9kYXkuY29tL2xpbnV4LW9zL2xpbnV4LWluLXRoZS1tZXRhdmVyc2UtYnVpbGRpbmctdmlydHVhbC13b3JsZHMtd2l0aC1vcGVuLXNvdXJjZS10b29sc9IBAA",
+          "author": null,
+          "description": "Linux in the Metaverse: Building Virtual Worlds With Open-Source Tools  ITPro Today",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lml0cHJvdG9kYXkuY29tL2xpbnV4LW9zL2xpbnV4LWluLXRoZS1tZXRhdmVyc2UtYnVpbGRpbmctdmlydHVhbC13b3JsZHMtd2l0aC1vcGVuLXNvdXJjZS10b29sc9IBAA?oc=5",
+          "publishedOn": "2024-05-30T08:41:47.000Z",
+          "wordCount": 8767,
+          "title": "Linux in the Metaverse: Building Virtual Worlds With Open-Source Tools - ITPro Today",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6344,76 +6324,6 @@
           "wordCount": 8681,
           "title": "This Linux Distro Is Focused on Maximum Privacy and Anonymity, Here's How to Use It - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbGlmZXN0eWxlL3Nob3BwaW5nL3RoZS1iZXN0LWxpbnV4LWxhcHRvcHMtb2YtMjAyNC9hci1BQTE1aTZpNj9vY2lkPUJpbmdOZXdz0gEA",
-          "author": null,
-          "description": "The best Linux laptops of 2024: Expert tested and reviewed  MSN",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbGlmZXN0eWxlL3Nob3BwaW5nL3RoZS1iZXN0LWxpbnV4LWxhcHRvcHMtb2YtMjAyNC9hci1BQTE1aTZpNj9vY2lkPUJpbmdOZXdz0gEA?oc=5",
-          "publishedOn": "2024-05-04T06:39:22.000Z",
-          "wordCount": 8681,
-          "title": "The best Linux laptops of 2024: Expert tested and reviewed - MSN",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9zeXN0ZW1kLXJ1bjAv0gEA",
-          "author": null,
-          "description": "Systemd Looks to Replace sudo with run0  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9zeXN0ZW1kLXJ1bjAv0gEA?oc=5",
-          "publishedOn": "2024-05-04T03:58:14.000Z",
-          "wordCount": 8695,
-          "title": "Systemd Looks to Replace sudo with run0 - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA1LzAzL3JoZWxfOTRfY2VudG9zXzcv0gE8aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA1LzAzL3JoZWxfOTRfY2VudG9zXzcv",
-          "author": null,
-          "description": "RHEL stays fresh with 9.4 while CentOS 7 gets a Rocky retirement plan  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA1LzAzL3JoZWxfOTRfY2VudG9zXzcv0gE8aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDI0LzA1LzAzL3JoZWxfOTRfY2VudG9zXzcv?oc=5",
-          "publishedOn": "2024-05-03T22:31:00.000Z",
-          "wordCount": 8681,
-          "title": "RHEL stays fresh with 9.4 while CentOS 7 gets a Rocky retirement plan - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDUvbWVuLW9mLXdhci1paS1yZWxlYXNlcy1tYXktMTV0aC13aXRoLWxpbnV4LXN1cHBvcnQv0gEA",
-          "author": null,
-          "description": "Men of War II releases May 15th with Linux support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDUvbWVuLW9mLXdhci1paS1yZWxlYXNlcy1tYXktMTV0aC13aXRoLWxpbnV4LXN1cHBvcnQv0gEA?oc=5",
-          "publishedOn": "2024-05-03T16:26:15.000Z",
-          "wordCount": 8681,
-          "title": "Men of War II releases May 15th with Linux support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9yZWQtaGF0LWVudGVycHJpc2UtbGludXgtOS00LW9mZmljaWFsbHktcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV30gFaaHR0cHM6Ly85dG81bGludXguY29tL3JlZC1oYXQtZW50ZXJwcmlzZS1saW51eC05LTQtb2ZmaWNpYWxseS1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXcvYW1w",
-          "author": null,
-          "description": "Red Hat Enterprise Linux 9.4 Officially Released, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9yZWQtaGF0LWVudGVycHJpc2UtbGludXgtOS00LW9mZmljaWFsbHktcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV30gFaaHR0cHM6Ly85dG81bGludXguY29tL3JlZC1oYXQtZW50ZXJwcmlzZS1saW51eC05LTQtb2ZmaWNpYWxseS1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXcvYW1w?oc=5",
-          "publishedOn": "2024-05-03T16:20:48.000Z",
-          "wordCount": 8681,
-          "title": "Red Hat Enterprise Linux 9.4 Officially Released, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tc3RlbGxhcmlzLTE3LWdlbjYtbGludXgtbGFwdG9wLWxhdW5jaGVzLXdpdGgtaW50ZWwtY29yZS1pOS0xNDkwMGh40gFjaHR0cHM6Ly85dG81bGludXguY29tL3R1eGVkby1zdGVsbGFyaXMtMTctZ2VuNi1saW51eC1sYXB0b3AtbGF1bmNoZXMtd2l0aC1pbnRlbC1jb3JlLWk5LTE0OTAwaHgvYW1w",
-          "author": null,
-          "description": "TUXEDO Stellaris 17 Gen6 Linux Laptop Launches with Intel Core i9-14900HX  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tc3RlbGxhcmlzLTE3LWdlbjYtbGludXgtbGFwdG9wLWxhdW5jaGVzLXdpdGgtaW50ZWwtY29yZS1pOS0xNDkwMGh40gFjaHR0cHM6Ly85dG81bGludXguY29tL3R1eGVkby1zdGVsbGFyaXMtMTctZ2VuNi1saW51eC1sYXB0b3AtbGF1bmNoZXMtd2l0aC1pbnRlbC1jb3JlLWk5LTE0OTAwaHgvYW1w?oc=5",
-          "publishedOn": "2024-05-03T14:46:20.000Z",
-          "wordCount": 8681,
-          "title": "TUXEDO Stellaris 17 Gen6 Linux Laptop Launches with Intel Core i9-14900HX - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMDMvdHV4ZWRvLXN0ZWxsYXJpcy0xNy1nZW42LWxpbnV4LXdvcmtzdGF0aW9uL9IBAA",
-          "author": null,
-          "description": "TUXEDO Stellaris 17 (Gen6): A high-performance portable Linux workstation  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMDMvdHV4ZWRvLXN0ZWxsYXJpcy0xNy1nZW42LWxpbnV4LXdvcmtzdGF0aW9uL9IBAA?oc=5",
-          "publishedOn": "2024-05-03T14:24:35.000Z",
-          "wordCount": 8681,
-          "title": "TUXEDO Stellaris 17 (Gen6): A high-performance portable Linux workstation - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9816,26 +9726,6 @@
           "wordCount": 5467,
           "title": "Decoding Chaos: How True Randomness Works in Software Engineering",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/0_VRBzKmnCSxIHtVVQ.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-usereducer-hook/",
-          "author": "Timothy Olanrewaju",
-          "description": "In this article, we'll take a deep look at the useReducer hook in React. It can look confusing, especially if you are coming across the hook for the first time. This article breaks down the useReducer hook concept into understandable bits with both code and real-world examples to enable you",
-          "link": "https://www.freecodecamp.org/news/react-usereducer-hook/",
-          "publishedOn": "2024-05-03T17:48:03.000Z",
-          "wordCount": 2089,
-          "title": "How to Use the useReducer Hook in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Introduction-to-useReducer-Hook.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview prolific programming teacher John Smilga. John grew up in the Soviet Union. He worked construction for 5 years before becoming a developer. Today he has taught millions of fellow devs through his man...",
-          "link": "https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/",
-          "publishedOn": "2024-05-03T16:07:34.000Z",
-          "wordCount": 919,
-          "title": "From Construction Worker to Teaching Millions of Developers with John Smilga [Podcast #122]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714752404894/d2bae882-1832-4ee8-9325-0b901b8d833e.jpeg"
         }
       ]
     }
