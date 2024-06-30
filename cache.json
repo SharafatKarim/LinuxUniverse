@@ -49,6 +49,36 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188749",
+          "author": "Web Webster",
+          "description": "When it comes to web development, there is a fairly small range of Ruby frameworks to choose from. The choice depends on finding the right tool for the job at hand. Here’s our pick of the finest Ruby web frameworks.\nThe post 6 Top Free and Open-Source Ruby Web Frameworks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/6-top-free-and-open-source-ruby-web-frameworks/",
+          "publishedOn": "2024-06-29T22:00:22.000Z",
+          "wordCount": 9041,
+          "title": "6 Top Free and Open-Source Ruby Web Frameworks",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188700",
+          "author": "Web Webster",
+          "description": "Odoo, previously recognized as OpenERP, is a collection of open-source business applications. It is a highly utilized open-source enterprise resource planning (ERP) software. In this tutorial, we will demonstrate the process of how you can install Odoo 17 on Ubuntu 24.04 servers.\nThe post How to Install Odoo 17 on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/it-management/how-to-install-odoo-17-on-ubuntu-24-04-2/",
+          "publishedOn": "2024-06-29T16:30:38.000Z",
+          "wordCount": 9041,
+          "title": "How to Install Odoo 17 on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188697",
+          "author": "Web Webster",
+          "description": "Computer typesetting systems let you generate high-quality documentation, including books, with minimal effort.\nThe post 5 Handy Free Linux Typesetting Systems appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/5-handy-free-linux-typesetting-systems/",
+          "publishedOn": "2024-06-29T02:00:49.000Z",
+          "wordCount": 9003,
+          "title": "5 Handy Free Linux Typesetting Systems",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=188598",
           "author": "Web Webster",
           "description": "This tutorial describes how to create ad hoc shell environments to test a package without installing it using Nix package manager in Linux.\nThe post How to Test a Package Without Installing It Using Nix in Linux appeared first on Linux Today.",
@@ -2297,76 +2327,6 @@
           "wordCount": 8837,
           "title": "Caddy 2.8 Web Server Is Here with Many Improvements",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189477",
-          "author": "Web Webster",
-          "description": "Canonical launched a real-time kernel for Ubuntu 24.04 LTS optimized for mission-critical apps but available only to users with a PRO subscription.\nThe post Ubuntu 24.04 Now Offers a Real-Time Kernel, But There’s a Catch appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-24-04-now-offers-a-real-time-kernel-but-theres-a-catch/",
-          "publishedOn": "2024-05-31T13:00:13.000Z",
-          "wordCount": 8849,
-          "title": "Ubuntu 24.04 Now Offers a Real-Time Kernel, But There’s a Catch",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189449",
-          "author": "Web Webster",
-          "description": "When it comes to music players, Linux offers a hugely impressive range to choose from. From evaluating everything out there, I’m still of the opinion that Tauon Music Box is the finest open-source solution, although fooyin is snapping at its heels. As the software reaches its 10th anniversary, Tauon has released a new edition with […]\nThe post Tauon Now Releases Its 10-Year Development Anniversary Edition appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tauon-now-releases-its-10-year-development-anniversary-edition/",
-          "publishedOn": "2024-05-30T18:00:32.000Z",
-          "wordCount": 8845,
-          "title": "Tauon Now Releases Its 10-Year Development Anniversary Edition",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189457",
-          "author": "Web Webster",
-          "description": "NethSecurity 8.0 is a robust Linux firewall with new features, including MultiWAN, DPI filter, enhanced threat protection, and more.\nThe post NethSecurity 8.0 Open-Source Linux Firewall Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/nethsecurity-8-0-open-source-linux-firewall-released/",
-          "publishedOn": "2024-05-30T17:00:40.000Z",
-          "wordCount": 8817,
-          "title": "NethSecurity 8.0 Open-Source Linux Firewall Released",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189446",
-          "author": "Web Webster",
-          "description": "Transmission 4.0.6, an open-source, free, and cross-platform BitTorrent client, is out as a bugfix-only release in the 4.0.x series, addressing various issues reported by users from previous versions.\nThe post Transmission 4.0.6 Open-Source BitTorrent Client Released With Various Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/transmission-4-0-6-open-source-bittorrent-client-released-with-various-fixes/",
-          "publishedOn": "2024-05-30T16:00:32.000Z",
-          "wordCount": 8831,
-          "title": "Transmission 4.0.6 Open-Source BitTorrent Client Released With Various Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189435",
-          "author": "Web Webster",
-          "description": "The new Mobifree initiative fights Big Tech with ethical mobile software that respects privacy, labor standards, and the environment.\nThe post Mobifree’s Open-Source Strategy Challenging the Tech Giants appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/mobifrees-open-source-strategy-challenging-the-tech-giants/",
-          "publishedOn": "2024-05-30T15:00:29.000Z",
-          "wordCount": 8815,
-          "title": "Mobifree’s Open-Source Strategy Challenging the Tech Giants",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189452",
-          "author": "Web Webster",
-          "description": "Explore HAProxy 3.0’s latest features, including enhanced load balancing, new TLS certificate handling, and more.\nThe post HAProxy 3.0 Introduces New Features and Improved Flexibility appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/haproxy-3-0-introduces-new-features-and-improved-flexibility/",
-          "publishedOn": "2024-05-30T14:00:30.000Z",
-          "wordCount": 8815,
-          "title": "HAProxy 3.0 Introduces New Features and Improved Flexibility",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189451",
-          "author": "Web Webster",
-          "description": "Unfortunately, Linux 6.8 is not an LTS (Long Term Support) branch, and it has reached end of life, as renowned Linux kernel developer and maintainer Greg Kroah-Hartman announced today with the release of Linux 6.8.12 (the last update in the series), urging users to move to the latest Linux 6.9 kernel branch.\nThe post Linux Kernel 6.8 Reaches End of Life, Users Should Upgrade to Linux Kernel 6.9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linux-kernel-6-8-reaches-end-of-life-users-should-upgrade-to-linux-kernel-6-9/",
-          "publishedOn": "2024-05-30T13:46:35.000Z",
-          "wordCount": 8866,
-          "title": "Linux Kernel 6.8 Reaches End of Life, Users Should Upgrade to Linux Kernel 6.9",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2375,6 +2335,76 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiQmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdXNpbmctbGludXgtaW1wcm92ZWQtd2luZG93cy1leHBlcmllbmNlL9IBAA",
+          "author": null,
+          "description": "5 Ways Using Linux Improved My Windows Experience  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdXNpbmctbGludXgtaW1wcm92ZWQtd2luZG93cy1leHBlcmllbmNlL9IBAA?oc=5",
+          "publishedOn": "2024-06-29T20:00:00.000Z",
+          "wordCount": 8761,
+          "title": "5 Ways Using Linux Improved My Windows Experience - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMjkvZGViaWFuLWxpbnV4LTEyNi_SAQA",
+          "author": null,
+          "description": "Debian Linux 12.6 delivers essential security fixes  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMjkvZGViaWFuLWxpbnV4LTEyNi_SAQA?oc=5",
+          "publishedOn": "2024-06-29T18:19:44.000Z",
+          "wordCount": 8761,
+          "title": "Debian Linux 12.6 delivers essential security fixes - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItNi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTE2Mi1idWctZml4ZXMtYW5kLTg0LXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTYtYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xNjItYnVnLWZpeGVzLWFuZC04NC1zZWN1cml0eS11cGRhdGVzL2FtcA",
+          "author": null,
+          "description": "Debian 12.6 “Bookworm” Released with 162 Bug Fixes and 84 Security Updates  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItNi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTE2Mi1idWctZml4ZXMtYW5kLTg0LXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTYtYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xNjItYnVnLWZpeGVzLWFuZC04NC1zZWN1cml0eS11cGRhdGVzL2FtcA?oc=5",
+          "publishedOn": "2024-06-29T17:44:45.000Z",
+          "wordCount": 8761,
+          "title": "Debian 12.6 “Bookworm” Released with 162 Bug Fixes and 84 Security Updates - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vY3JlYXRlLWEtc2VjdXJlLWZ0cC1zZXJ2ZXItd2l0aC1saW51eC1hbmQtc3NoL9IBAA",
+          "author": null,
+          "description": "Create a Secure FTP Server with Linux and SSH  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vY3JlYXRlLWEtc2VjdXJlLWZ0cC1zZXJ2ZXItd2l0aC1saW51eC1hbmQtc3NoL9IBAA?oc=5",
+          "publishedOn": "2024-06-29T13:09:03.000Z",
+          "wordCount": 8761,
+          "title": "Create a Secure FTP Server with Linux and SSH - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVNwZWN0cmUtQkhJLVZNRVhJVNIBAA",
+          "author": null,
+          "description": "Linux Prepares New Spectre BHI Mitigation Option For Cloud Environments  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVNwZWN0cmUtQkhJLVZNRVhJVNIBAA?oc=5",
+          "publishedOn": "2024-06-29T12:24:00.000Z",
+          "wordCount": 8761,
+          "title": "Linux Prepares New Spectre BHI Mitigation Option For Cloud Environments - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTYwNjc3OC9jYW4tcmFzcGJlcnJ5LXBpLXJ1bi1saW51eC_SAQA",
+          "author": null,
+          "description": "Can Raspberry Pi Run Linux? What You Need To Know  SlashGear",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTYwNjc3OC9jYW4tcmFzcGJlcnJ5LXBpLXJ1bi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-06-29T09:15:28.000Z",
+          "wordCount": 8761,
+          "title": "Can Raspberry Pi Run Linux? What You Need To Know - SlashGear",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yOS9yYXVjLW9wZW4tc291cmNlLW90YS11cGRhdGUtc29sdXRpb24tZm9yLWVtYmVkZGVkLWxpbnV4LXBvcnRlZC10by1yb2NrLXBpLTQtc2JjL9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yOS9yYXVjLW9wZW4tc291cmNlLW90YS11cGRhdGUtc29sdXRpb24tZm9yLWVtYmVkZGVkLWxpbnV4LXBvcnRlZC10by1yb2NrLXBpLTQtc2JjLz9hbXA9MQ",
+          "author": null,
+          "description": "RAUC open-source OTA update solution for embedded Linux ported to Rock Pi 4 SBC  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yOS9yYXVjLW9wZW4tc291cmNlLW90YS11cGRhdGUtc29sdXRpb24tZm9yLWVtYmVkZGVkLWxpbnV4LXBvcnRlZC10by1yb2NrLXBpLTQtc2JjL9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yOS9yYXVjLW9wZW4tc291cmNlLW90YS11cGRhdGUtc29sdXRpb24tZm9yLWVtYmVkZGVkLWxpbnV4LXBvcnRlZC10by1yb2NrLXBpLTQtc2JjLz9hbXA9MQ?oc=5",
+          "publishedOn": "2024-06-29T03:51:10.000Z",
+          "wordCount": 8761,
+          "title": "RAUC open-source OTA update solution for embedded Linux ported to Rock Pi 4 SBC - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMijAFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvZ3B1cy9pbnRlbC1wcmVwcGluZy1hdC1sZWFzdC1maXZlLW5ldy1iYXR0bGVtYWdlLWdwdS1tb2RlbHMtbmV3LXBjaS1pZHMtYWRkZWQtdG8tbGludXgtNjExLWtlcm5lbNIBAA",
           "author": null,
@@ -2806,6 +2836,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMigwJodHRwczovL3d3dy53dm5ld3MuY29tL25ld3MvYXJvdW5kX3RoZV93ZWIvcGFydG5lcnMvcHJfbmV3c3dpcmUvc3ViamVjdC9zdXJ2ZXlzX3BvbGxzX2FuZF9yZXNlYXJjaC9uZXctbGludXgtZm91bmRhdGlvbi1yZXBvcnQtcmV2ZWFscy1ob3ctb3Blbi1zb3VyY2UtaXMtZHJpdmluZy10ZWNobmljYWwtdHJhbnNmb3JtYXRpb24tb2YtdmVydGljYWwtaW5kdXN0cmllcy9hcnRpY2xlXzNhMDZiOTdjLThmYzUtNTZiYy1iYjhjLTZjNzBkNDQ2ZjFiOS5odG1s0gEA",
+          "author": null,
+          "description": "New Linux Foundation Report Reveals How Open Source is Driving Technical Transformation of Vertical Industries  WV News",
+          "link": "https://news.google.com/rss/articles/CBMigwJodHRwczovL3d3dy53dm5ld3MuY29tL25ld3MvYXJvdW5kX3RoZV93ZWIvcGFydG5lcnMvcHJfbmV3c3dpcmUvc3ViamVjdC9zdXJ2ZXlzX3BvbGxzX2FuZF9yZXNlYXJjaC9uZXctbGludXgtZm91bmRhdGlvbi1yZXBvcnQtcmV2ZWFscy1ob3ctb3Blbi1zb3VyY2UtaXMtZHJpdmluZy10ZWNobmljYWwtdHJhbnNmb3JtYXRpb24tb2YtdmVydGljYWwtaW5kdXN0cmllcy9hcnRpY2xlXzNhMDZiOTdjLThmYzUtNTZiYy1iYjhjLTZjNzBkNDQ2ZjFiOS5odG1s0gEA?oc=5",
+          "publishedOn": "2024-06-27T13:00:00.000Z",
+          "wordCount": 8761,
+          "title": "New Linux Foundation Report Reveals How Open Source is Driving Technical Transformation of Vertical Industries - WV News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMipgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL25ldy1saW51eC1mb3VuZGF0aW9uLXJlcG9ydC1yZXZlYWxzLWhvdy1vcGVuLXNvdXJjZS1pcy1kcml2aW5nLXRlY2huaWNhbC10cmFuc2Zvcm1hdGlvbi1vZi12ZXJ0aWNhbC1pbmR1c3RyaWVzLTMwMjE4MjgzMy5odG1s0gEA",
           "author": null,
           "description": "New Linux Foundation Report Reveals How Open Source is Driving Technical Transformation of Vertical Industries  PR Newswire",
@@ -2923,6 +2963,26 @@
           "publishedOn": "2024-06-26T18:54:07.000Z",
           "wordCount": 8761,
           "title": "Steam Game Recording Beta announced - works on Linux and Steam Deck too - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvaG9yaS1hbm5vdW5jZWQtYS1zcGVjaWFsLWdhbWVwYWQtZm9yLXN0ZWFtLXN0ZWFtLWRlY2sv0gEA",
+          "author": null,
+          "description": "HORI announced a special gamepad for Steam / Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvaG9yaS1hbm5vdW5jZWQtYS1zcGVjaWFsLWdhbWVwYWQtZm9yLXN0ZWFtLXN0ZWFtLWRlY2sv0gEA?oc=5",
+          "publishedOn": "2024-06-26T16:50:43.000Z",
+          "wordCount": 8761,
+          "title": "HORI announced a special gamepad for Steam / Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L2NlbGx1bG9pZC0wLTI3LXJlbGVhc2VkLXdoYXRzLW5ld9IBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L2NlbGx1bG9pZC0wLTI3LXJlbGVhc2VkLXdoYXRzLW5ldy9hbXA",
+          "author": null,
+          "description": "Linux Media Player Celluloid Adds Slick New UI Option  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L2NlbGx1bG9pZC0wLTI3LXJlbGVhc2VkLXdoYXRzLW5ld9IBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L2NlbGx1bG9pZC0wLTI3LXJlbGVhc2VkLXdoYXRzLW5ldy9hbXA?oc=5",
+          "publishedOn": "2024-06-26T16:21:40.000Z",
+          "wordCount": 8761,
+          "title": "Linux Media Player Celluloid Adds Slick New UI Option - OMG! Ubuntu!",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7424,276 +7484,6 @@
           "wordCount": 8767,
           "title": "Godot 4.3 Beta 1 Released With Native Wayland Support - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzEvbml0cnV4LWxpbnV4LTMtNS0wL9IBAA",
-          "author": null,
-          "description": "Switch from Microsoft Windows 11 to Nitrux Linux 3.5.0  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzEvbml0cnV4LWxpbnV4LTMtNS0wL9IBAA?oc=5",
-          "publishedOn": "2024-05-31T12:25:27.000Z",
-          "wordCount": 8767,
-          "title": "Switch from Microsoft Windows 11 to Nitrux Linux 3.5.0 - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL21pY3Jvc29mdC1hbm5vdW5jZXMtc2lnbmlmaWNhbnQtdXBkYXRlcy10by13aW5kb3dzLXN1YnN5c3RlbS1mb3ItbGludXgv0gEA",
-          "author": null,
-          "description": "Microsoft Announces 'Significant Updates' to Windows Subsystem for Linux  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL21pY3Jvc29mdC1hbm5vdW5jZXMtc2lnbmlmaWNhbnQtdXBkYXRlcy10by13aW5kb3dzLXN1YnN5c3RlbS1mb3ItbGludXgv0gEA?oc=5",
-          "publishedOn": "2024-05-31T12:00:00.000Z",
-          "wordCount": 8767,
-          "title": "Microsoft Announces 'Significant Updates' to Windows Subsystem for Linux - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vY2lzYS13YXJucy1vZi1leHBsb2l0ZWQtbGludXgta2VybmVsLXZ1bG5lcmFiaWxpdHkv0gFUaHR0cHM6Ly93d3cuc2VjdXJpdHl3ZWVrLmNvbS9jaXNhLXdhcm5zLW9mLWV4cGxvaXRlZC1saW51eC1rZXJuZWwtdnVsbmVyYWJpbGl0eS9hbXAv",
-          "author": null,
-          "description": "CISA Warns of Exploited Linux Kernel Vulnerability  SecurityWeek",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vY2lzYS13YXJucy1vZi1leHBsb2l0ZWQtbGludXgta2VybmVsLXZ1bG5lcmFiaWxpdHkv0gFUaHR0cHM6Ly93d3cuc2VjdXJpdHl3ZWVrLmNvbS9jaXNhLXdhcm5zLW9mLWV4cGxvaXRlZC1saW51eC1rZXJuZWwtdnVsbmVyYWJpbGl0eS9hbXAv?oc=5",
-          "publishedOn": "2024-05-31T11:15:00.000Z",
-          "wordCount": 8767,
-          "title": "CISA Warns of Exploited Linux Kernel Vulnerability - SecurityWeek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW1kLWZyZWUtYW5kLWltbXV0YWJsZS1kaXN0cm8tbml0cnV4LTMtNS1pcy1oZXJlLXdpdGgtbWVzYS0yNC0xLW52aWRpYS01NTXSAWhodHRwczovLzl0bzVsaW51eC5jb20vc3lzdGVtZC1mcmVlLWFuZC1pbW11dGFibGUtZGlzdHJvLW5pdHJ1eC0zLTUtaXMtaGVyZS13aXRoLW1lc2EtMjQtMS1udmlkaWEtNTU1L2FtcA",
-          "author": null,
-          "description": "Systemd-Free and Immutable Distro Nitrux 3.5 Is Here with Mesa 24.1, NVIDIA 555  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW1kLWZyZWUtYW5kLWltbXV0YWJsZS1kaXN0cm8tbml0cnV4LTMtNS1pcy1oZXJlLXdpdGgtbWVzYS0yNC0xLW52aWRpYS01NTXSAWhodHRwczovLzl0bzVsaW51eC5jb20vc3lzdGVtZC1mcmVlLWFuZC1pbW11dGFibGUtZGlzdHJvLW5pdHJ1eC0zLTUtaXMtaGVyZS13aXRoLW1lc2EtMjQtMS1udmlkaWEtNTU1L2FtcA?oc=5",
-          "publishedOn": "2024-05-31T11:12:28.000Z",
-          "wordCount": 8767,
-          "title": "Systemd-Free and Immutable Distro Nitrux 3.5 Is Here with Mesa 24.1, NVIDIA 555 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1GaXJtd2FyZS1Nb3JlLVJETkEtMy410gEA",
-          "author": null,
-          "description": "More AMDGPU Linux Firmware Published For RDNA 3+  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1GaXJtd2FyZS1Nb3JlLVJETkEtMy410gEA?oc=5",
-          "publishedOn": "2024-05-31T10:28:00.000Z",
-          "wordCount": 8767,
-          "title": "More AMDGPU Linux Firmware Published For RDNA 3+ - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93c2wtdXBncmFkZXMv0gEA",
-          "author": null,
-          "description": "Microsoft Makes Windows Subsystem for Linux Easy With These Updates  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93c2wtdXBncmFkZXMv0gEA?oc=5",
-          "publishedOn": "2024-05-31T09:57:37.000Z",
-          "wordCount": 8767,
-          "title": "Microsoft Makes Windows Subsystem for Linux Easy With These Updates - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA1LzMxL2VuZGxlc3Nfb3NfNi_SAThodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDUvMzEvZW5kbGVzc19vc182Lw",
-          "author": null,
-          "description": "Endless OS 6: How desktop Linux may look, one day  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA1LzMxL2VuZGxlc3Nfb3NfNi_SAThodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDUvMzEvZW5kbGVzc19vc182Lw?oc=5",
-          "publishedOn": "2024-05-31T08:30:00.000Z",
-          "wordCount": 8767,
-          "title": "Endless OS 6: How desktop Linux may look, one day - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDUvcHJvdG9uLTkwLTItaGFzLWEtcmVsZWFzZS1jYW5kaWRhdGUtcmVhZHktZm9yLXRlc3Rpbmctb24tbGludXgtcGMtYW5kLXN0ZWFtLWRlY2sv0gEA",
-          "author": null,
-          "description": "Proton 9.0-2 has a Release Candidate ready for testing on Linux PC and Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDUvcHJvdG9uLTkwLTItaGFzLWEtcmVsZWFzZS1jYW5kaWRhdGUtcmVhZHktZm9yLXRlc3Rpbmctb24tbGludXgtcGMtYW5kLXN0ZWFtLWRlY2sv0gEA?oc=5",
-          "publishedOn": "2024-05-31T08:13:03.000Z",
-          "wordCount": 8767,
-          "title": "Proton 9.0-2 has a Release Candidate ready for testing on Linux PC and Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy93c2wtaXMtZ2V0dGluZy1zZXR0aW5ncy1ndWktbWVtb3J5LXN0b3JhZ2UtbmV0d29yay1pbXByb3ZlbWVudHMtYW5kLW1vcmUv0gFkaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvd3NsLWlzLWdldHRpbmctc2V0dGluZ3MtZ3VpLW1lbW9yeS1zdG9yYWdlLW5ldHdvcmstaW1wcm92ZW1lbnRzLWFuZC1tb3JlLw",
-          "author": null,
-          "description": "WSL is getting settings GUI, memory, storage, network improvements, and more  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy93c2wtaXMtZ2V0dGluZy1zZXR0aW5ncy1ndWktbWVtb3J5LXN0b3JhZ2UtbmV0d29yay1pbXByb3ZlbWVudHMtYW5kLW1vcmUv0gFkaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvd3NsLWlzLWdldHRpbmctc2V0dGluZ3MtZ3VpLW1lbW9yeS1zdG9yYWdlLW5ldHdvcmstaW1wcm92ZW1lbnRzLWFuZC1tb3JlLw?oc=5",
-          "publishedOn": "2024-05-31T06:36:00.000Z",
-          "wordCount": 8767,
-          "title": "WSL is getting settings GUI, memory, storage, network improvements, and more - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzAvbWljcm9zb2Z0LXdpbmRvd3Mtc3Vic3lzdGVtLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "Microsoft reveals major updates to Windows Subsystem for Linux  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzAvbWljcm9zb2Z0LXdpbmRvd3Mtc3Vic3lzdGVtLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2024-05-31T03:20:50.000Z",
-          "wordCount": 8767,
-          "title": "Microsoft reveals major updates to Windows Subsystem for Linux - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vZm9ydW1zLm1hY3J1bW9ycy5jb20vdGhyZWFkcy9iZXN0LWxpbnV4LWZvci1tYWMtcHJvLTIwMTAtNS0xLjI0Mjc3ODMv0gEA",
-          "author": null,
-          "description": "MP 1,1-5,1 Best Linux for Mac Pro 2010 5,1  MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZm9ydW1zLm1hY3J1bW9ycy5jb20vdGhyZWFkcy9iZXN0LWxpbnV4LWZvci1tYWMtcHJvLTIwMTAtNS0xLjI0Mjc3ODMv0gEA?oc=5",
-          "publishedOn": "2024-05-31T01:44:40.000Z",
-          "wordCount": 8767,
-          "title": "MP 1,1-5,1 Best Linux for Mac Pro 2010 5,1 - MacRumors",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlsYml0cy1zcG90aWZ5LWlzLXJlZnVuZGluZy1jYXItdGhpbmctY3VzdG9tZXJzLWFmdGVyLWFsbC1saWJyZW0tMTYtbGludXgtbGFwdG9wLW9uLXRoZS13YXkv0gEA",
-          "author": null,
-          "description": "Lilbits: Spotify is refunding Car Thing customers after all, Librem 16 Linux laptop on the way  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlsYml0cy1zcG90aWZ5LWlzLXJlZnVuZGluZy1jYXItdGhpbmctY3VzdG9tZXJzLWFmdGVyLWFsbC1saWJyZW0tMTYtbGludXgtbGFwdG9wLW9uLXRoZS13YXkv0gEA?oc=5",
-          "publishedOn": "2024-05-30T22:33:38.000Z",
-          "wordCount": 8767,
-          "title": "Lilbits: Spotify is refunding Car Thing customers after all, Librem 16 Linux laptop on the way - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vbGlsaXB1dGluZy5jb20vd2luZG93cy1zdWJzeXN0ZW0tZm9yLWxpbnV4LXNldHRpbmdzLWd1aS1hcHAtaXMtY29taW5nLWFuZC1vdGhlci13c2wtdXBkYXRlcy_SAQA",
-          "author": null,
-          "description": "Windows Subsystem for Linux Settings GUI app is coming (and other WSL updates)  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbGlsaXB1dGluZy5jb20vd2luZG93cy1zdWJzeXN0ZW0tZm9yLWxpbnV4LXNldHRpbmdzLWd1aS1hcHAtaXMtY29taW5nLWFuZC1vdGhlci13c2wtdXBkYXRlcy_SAQA?oc=5",
-          "publishedOn": "2024-05-30T20:46:15.000Z",
-          "wordCount": 8767,
-          "title": "Windows Subsystem for Linux Settings GUI app is coming (and other WSL updates) - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2luZG93cy1zdWJzeXN0ZW0tbGludXgtZWFzaWVyLTIwMjQv0gEA",
-          "author": null,
-          "description": "The Windows Subsystem for Linux Is Getting Easier to Use  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2luZG93cy1zdWJzeXN0ZW0tbGludXgtZWFzaWVyLTIwMjQv0gEA?oc=5",
-          "publishedOn": "2024-05-30T20:18:00.000Z",
-          "wordCount": 8767,
-          "title": "The Windows Subsystem for Linux Is Getting Easier to Use - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFodHRwczovL3NlY3VyaXR5YWZmYWlycy5jb20vMTYzODk2L3NlY3VyaXR5L2Npc2EtY2hlY2stcG9pbnQtcXVhbnR1bS1zZWN1cml0eS1nYXRld2F5cy1saW51eC1rZXJuZWwtZmxhd3Mta25vd24tZXhwbG9pdGVkLXZ1bG5lcmFiaWxpdGllcy1jYXRhbG9nLmh0bWzSAZoBaHR0cHM6Ly9zZWN1cml0eWFmZmFpcnMuY29tLzE2Mzg5Ni9zZWN1cml0eS9jaXNhLWNoZWNrLXBvaW50LXF1YW50dW0tc2VjdXJpdHktZ2F0ZXdheXMtbGludXgta2VybmVsLWZsYXdzLWtub3duLWV4cGxvaXRlZC12dWxuZXJhYmlsaXRpZXMtY2F0YWxvZy5odG1sP2FtcA",
-          "author": null,
-          "description": "CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabiliti...  Security Affairs",
-          "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3NlY3VyaXR5YWZmYWlycy5jb20vMTYzODk2L3NlY3VyaXR5L2Npc2EtY2hlY2stcG9pbnQtcXVhbnR1bS1zZWN1cml0eS1nYXRld2F5cy1saW51eC1rZXJuZWwtZmxhd3Mta25vd24tZXhwbG9pdGVkLXZ1bG5lcmFiaWxpdGllcy1jYXRhbG9nLmh0bWzSAZoBaHR0cHM6Ly9zZWN1cml0eWFmZmFpcnMuY29tLzE2Mzg5Ni9zZWN1cml0eS9jaXNhLWNoZWNrLXBvaW50LXF1YW50dW0tc2VjdXJpdHktZ2F0ZXdheXMtbGludXgta2VybmVsLWZsYXdzLWtub3duLWV4cGxvaXRlZC12dWxuZXJhYmlsaXRpZXMtY2F0YWxvZy5odG1sP2FtcA?oc=5",
-          "publishedOn": "2024-05-30T20:16:49.000Z",
-          "wordCount": 8767,
-          "title": "CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabiliti... - Security Affairs",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2h5LXVidW50dS1pcy10aGUtYmVzdC1saW51eC1kaXN0cm8taW4tMjAyNC_SAQA",
-          "author": null,
-          "description": "Why I Still Think Ubuntu Is the Best Linux Distro in 2024  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2h5LXVidW50dS1pcy10aGUtYmVzdC1saW51eC1kaXN0cm8taW4tMjAyNC_SAQA?oc=5",
-          "publishedOn": "2024-05-30T19:00:00.000Z",
-          "wordCount": 8767,
-          "title": "Why I Still Think Ubuntu Is the Best Linux Distro in 2024 - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1XU0wyLTIwMjQtRmVhdHVyZXPSAQA",
-          "author": null,
-          "description": "Microsoft Rolling Out New Windows Subsystem For Linux \"WSL\" Features For 2024  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1XU0wyLTIwMjQtRmVhdHVyZXPSAQA?oc=5",
-          "publishedOn": "2024-05-30T18:43:00.000Z",
-          "wordCount": 8767,
-          "title": "Microsoft Rolling Out New Windows Subsystem For Linux \"WSL\" Features For 2024 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNS9jaXNhLWFsZXJ0cy1mZWRlcmFsLWFnZW5jaWVzLXRvLXBhdGNoLmh0bWzSAQA",
-          "author": null,
-          "description": "CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNS9jaXNhLWFsZXJ0cy1mZWRlcmFsLWFnZW5jaWVzLXRvLXBhdGNoLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-05-30T17:45:00.000Z",
-          "wordCount": 8767,
-          "title": "CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzAvY2Fub25pY2FsLWxhdW5jaGVzLXJlYWwtdGltZS11YnVudHUtMjQtMDQtbHRzLXRpbWUtc2Vuc2l0aXZlLWNvbXB1dGluZy1uZWVkcy_SAQA",
-          "author": null,
-          "description": "Canonical launches real-time Ubuntu Linux 24.04 LTS for time-sensitive computing needs  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDUvMzAvY2Fub25pY2FsLWxhdW5jaGVzLXJlYWwtdGltZS11YnVudHUtMjQtMDQtbHRzLXRpbWUtc2Vuc2l0aXZlLWNvbXB1dGluZy1uZWVkcy_SAQA?oc=5",
-          "publishedOn": "2024-05-30T17:24:34.000Z",
-          "wordCount": 8767,
-          "title": "Canonical launches real-time Ubuntu Linux 24.04 LTS for time-sensitive computing needs - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LnBjZ3VpZGUuY29tL25ld3MvbGludXgtc3VwcG9ydC1mb3ItcmRuYS00LWdwdXMtYXQtbGF1bmNoLXNlZXMtcHJvbWlzaW5nLWRldmVsb3BtZW50LXdpdGgtbmV3LXBhdGNoZXMv0gEA",
-          "author": null,
-          "description": "Linux support for RDNA 4 GPUs at launch sees promising development with new patches  PC Guide - For The Latest PC Hardware & Tech News",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBjZ3VpZGUuY29tL25ld3MvbGludXgtc3VwcG9ydC1mb3ItcmRuYS00LWdwdXMtYXQtbGF1bmNoLXNlZXMtcHJvbWlzaW5nLWRldmVsb3BtZW50LXdpdGgtbmV3LXBhdGNoZXMv0gEA?oc=5",
-          "publishedOn": "2024-05-30T15:46:52.000Z",
-          "wordCount": 8767,
-          "title": "Linux support for RDNA 4 GPUs at launch sees promising development with new patches - PC Guide - For The Latest PC Hardware & Tech News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FuYWNvbmRhLVdlYi1VSS1GZWRvcmEtNDLSAQA",
-          "author": null,
-          "description": "Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FuYWNvbmRhLVdlYi1VSS1GZWRvcmEtNDLSAQA?oc=5",
-          "publishedOn": "2024-05-30T15:10:00.000Z",
-          "wordCount": 8767,
-          "title": "Fedora's New Web-Based Installer UI Delayed Yet Again... Now In 2025 With Fedora 42 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03NnMtZGFydGVyLXByby1saW51eC1sYXB0b3AtZ2V0cy0xNjEwLWRpc3BsYXktaW50ZWwtY29yZS11bHRyYS1jcHVz0gFjaHR0cHM6Ly85dG81bGludXguY29tL3N5c3RlbTc2cy1kYXJ0ZXItcHJvLWxpbnV4LWxhcHRvcC1nZXRzLTE2MTAtZGlzcGxheS1pbnRlbC1jb3JlLXVsdHJhLWNwdXMvYW1w",
-          "author": null,
-          "description": "System76’s Darter Pro Linux Laptop Gets 16:10 Display, Intel Core Ultra CPUs  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03NnMtZGFydGVyLXByby1saW51eC1sYXB0b3AtZ2V0cy0xNjEwLWRpc3BsYXktaW50ZWwtY29yZS11bHRyYS1jcHVz0gFjaHR0cHM6Ly85dG81bGludXguY29tL3N5c3RlbTc2cy1kYXJ0ZXItcHJvLWxpbnV4LWxhcHRvcC1nZXRzLTE2MTAtZGlzcGxheS1pbnRlbC1jb3JlLXVsdHJhLWNwdXMvYW1w?oc=5",
-          "publishedOn": "2024-05-30T15:04:28.000Z",
-          "wordCount": 8767,
-          "title": "System76’s Darter Pro Linux Laptop Gets 16:10 Display, Intel Core Ultra CPUs - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLWF2YWlsYWJpbGl0eS1vZi1yZWFsLXRpbWUta2VybmVsLWZvci11YnVudHUtMjQtMDQtbHRz0gFjaHR0cHM6Ly85dG81bGludXguY29tL2Nhbm9uaWNhbC1hbm5vdW5jZXMtYXZhaWxhYmlsaXR5LW9mLXJlYWwtdGltZS1rZXJuZWwtZm9yLXVidW50dS0yNC0wNC1sdHMvYW1w",
-          "author": null,
-          "description": "Canonical Announces Availability of Real-Time Kernel for Ubuntu 24.04 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLWF2YWlsYWJpbGl0eS1vZi1yZWFsLXRpbWUta2VybmVsLWZvci11YnVudHUtMjQtMDQtbHRz0gFjaHR0cHM6Ly85dG81bGludXguY29tL2Nhbm9uaWNhbC1hbm5vdW5jZXMtYXZhaWxhYmlsaXR5LW9mLXJlYWwtdGltZS1rZXJuZWwtZm9yLXVidW50dS0yNC0wNC1sdHMvYW1w?oc=5",
-          "publishedOn": "2024-05-30T14:55:11.000Z",
-          "wordCount": 8767,
-          "title": "Canonical Announces Availability of Real-Time Kernel for Ubuntu 24.04 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1MVFMtUmVhbC1UaW1l0gEA",
-          "author": null,
-          "description": "Real-Time Kernel Now Available On Ubuntu 24.04 LTS  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4wNC1MVFMtUmVhbC1UaW1l0gEA?oc=5",
-          "publishedOn": "2024-05-30T14:37:00.000Z",
-          "wordCount": 8767,
-          "title": "Real-Time Kernel Now Available On Ubuntu 24.04 LTS - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vc3lzdGVtNzYtZGFydGVyLXByby0yMDI0L9IBAA",
-          "author": null,
-          "description": "The New Darter Pro Looks Like a Great Linux Laptop  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vc3lzdGVtNzYtZGFydGVyLXByby0yMDI0L9IBAA?oc=5",
-          "publishedOn": "2024-05-30T14:35:00.000Z",
-          "wordCount": 8767,
-          "title": "The New Darter Pro Looks Like a Great Linux Laptop - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00Ni0yLXJlbGVhc2VkLXdpdGgtdmFyaW91cy1pbXByb3ZlbWVudHMtYW5kLWJ1Zy1maXhlc9IBVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00Ni0yLXJlbGVhc2VkLXdpdGgtdmFyaW91cy1pbXByb3ZlbWVudHMtYW5kLWJ1Zy1maXhlcy9hbXA",
-          "author": null,
-          "description": "GNOME 46.2 Released with Various Improvements and Bug Fixes  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00Ni0yLXJlbGVhc2VkLXdpdGgtdmFyaW91cy1pbXByb3ZlbWVudHMtYW5kLWJ1Zy1maXhlc9IBVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00Ni0yLXJlbGVhc2VkLXdpdGgtdmFyaW91cy1pbXByb3ZlbWVudHMtYW5kLWJ1Zy1maXhlcy9hbXA?oc=5",
-          "publishedOn": "2024-05-30T14:28:37.000Z",
-          "wordCount": 8767,
-          "title": "GNOME 46.2 Released with Various Improvements and Bug Fixes - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1lvY3RvLTUuMC1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "Yocto 5.0 LTS Released - Now Powered By Linux 6.6 LTS, Boeing Joins The Project  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1lvY3RvLTUuMC1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2024-05-30T14:09:00.000Z",
-          "wordCount": 8767,
-          "title": "Yocto 5.0 LTS Released - Now Powered By Linux 6.6 LTS, Boeing Joins The Project - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10190,21 +9980,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9405f1a1-e310-4f41-8033-da3d60ad53ac/june-16-join-the-wave-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.",
-          "link": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
-          "publishedOn": "2024-05-30T15:00:00.000Z",
-          "wordCount": 3948,
-          "title": "In Praise Of The Basics",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/in-praise-of-the-basics/in-praise-of-the-basics.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/in-praise-of-the-basics/in-praise-of-the-basics.jpg"
         }
       ]
     },
@@ -10942,36 +10717,6 @@
           "wordCount": 870,
           "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717169581573/61cad1fa-2425-4767-af5e-f0bbfd48b4c9.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-prototypal-inheritance/",
-          "author": "Asoluka Tochukwu Austin",
-          "description": "Prototypal inheritance can feel like a complex concept shrouded in technical jargon. But fear not! This guide will break it down using clear, relatable examples that go beyond the typical textbook explanations.  We'll ditch the confusing terms and focus on real-world scenarios that you can easily understand. By the",
-          "link": "https://www.freecodecamp.org/news/javascript-prototypal-inheritance/",
-          "publishedOn": "2024-05-31T08:10:16.000Z",
-          "wordCount": 3377,
-          "title": "What is Prototypal Inheritance in JavaScript? Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
-          "author": "Beau Carnes",
-          "description": "Go can work great on the backend for a React project. We just released a course on the freeCodeCamp.org channel that will leach you how to build a full stack web app with React and Go. This comprehensive course is designed to teach you the fundamenta...",
-          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
-          "publishedOn": "2024-05-30T15:26:47.000Z",
-          "wordCount": 1076,
-          "title": "Learn the Basics of Go by Building a Full Stack Web App with React and Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717082781962/c90d205c-48ae-42bf-a88e-52161ef1aee0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/",
-          "author": "Beau Carnes",
-          "description": "We just released a comprehensive C course on the freeCodeCamp.org YouTube channel. This course, developed by Dr. Charles Severance (aka Dr. Chuck), is designed to help you understand computer architecture and low-level programming using the classic C...",
-          "link": "https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/",
-          "publishedOn": "2024-05-30T15:21:25.000Z",
-          "wordCount": 1281,
-          "title": "Complete C Programming Course from Dr. Chuck",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717003896462/adb98655-0557-4f01-ae93-8c685102e5f2.png"
         }
       ]
     }
