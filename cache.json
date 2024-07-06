@@ -49,6 +49,96 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190569",
+          "author": "Web Webster",
+          "description": "RDP, or Remote Desktop Protocol, enables you to access the graphical interface of another computer over a network. On Linux, you can utilize Xrdp to create an RDP Server. Xrdp is a free and open-source application server that implements the RDP protocol.\nThe post Guide to Set Up Remote Desktop (RDP) With Xrdp on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/guide-to-set-up-remote-desktop-rdp-with-xrdp-on-debian-12/",
+          "publishedOn": "2024-07-06T00:00:47.000Z",
+          "wordCount": 9069,
+          "title": "Guide to Set Up Remote Desktop (RDP) With Xrdp on Debian 12",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190400",
+          "author": "Web Webster",
+          "description": "The basename command in Linux is a utility used to extract the base name of a file or directory path, effectively stripping away any leading directory components and optional suffixes. When provided with a full path, basename returns only the file name or the last segment of the path, making it useful in scripting and file manipulation […]\nThe post Linux basename Command Tutorial for Beginners (With Examples) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/linux-basename-command-tutorial-for-beginners-with-examples-2/",
+          "publishedOn": "2024-07-05T22:00:08.000Z",
+          "wordCount": 9115,
+          "title": "Linux basename Command Tutorial for Beginners (With Examples)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190417",
+          "author": "Web Webster",
+          "description": "About six weeks ago, the Raspberry Pi Foundation announced the official M.2 HAT for the Raspberry Pi 5, allowing us to finally have an internal disk drive for bigger storage capacity and a faster computing experience.\nThe post Raspberry Pi 5 M.2 HAT+ Review: It Just Works! appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/raspberry-pi-5-m-2-hat-review-it-just-works/",
+          "publishedOn": "2024-07-05T20:00:02.000Z",
+          "wordCount": 9058,
+          "title": "Raspberry Pi 5 M.2 HAT+ Review: It Just Works!",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190471",
+          "author": "Web Webster",
+          "description": "Apache, popularly referred to as the Apache HTTP Server, is a free and open-source cross-platform web server maintained by the Apache Foundation. It is highly reliable, flexible, and easy to install, and it has numerous features that make it popular amongst developers and Linux enthusiasts. In this guide, we will walk you through the steps […]\nThe post How to Host a Website With Apache & SSL on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-host-a-website-with-apache-ssl-on-debian-12/",
+          "publishedOn": "2024-07-05T18:00:14.000Z",
+          "wordCount": 9110,
+          "title": "How to Host a Website With Apache & SSL on Debian 12",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190475",
+          "author": "Web Webster",
+          "description": "Cinnamon is a popular open-source desktop environment that provides a traditional and user-friendly interface for most popular Linux distributions. Originally developed by the Linux Mint team as a fork of GNOME 3, Cinnamon has since evolved into an independent desktop environment known for its stability, customizability, and innovative features. In this tutorial, we’ll guide you […]\nThe post How to Install Cinnamon Desktop On Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-cinnamon-desktop-on-ubuntu-24-04/",
+          "publishedOn": "2024-07-05T17:00:05.000Z",
+          "wordCount": 9082,
+          "title": "How to Install Cinnamon Desktop On Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190445",
+          "author": "Web Webster",
+          "description": "This feature highlights the finest data analysis tools. Hopefully, there will be something of interest for anyone who needs to analyze huge volumes of unstructured data.\nThe post 8 Top Data Analysis Free and Open-Source Tools for Big Data appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/8-top-data-analysis-free-and-open-source-tools-for-big-data/",
+          "publishedOn": "2024-07-05T16:40:03.000Z",
+          "wordCount": 9056,
+          "title": "8 Top Data Analysis Free and Open-Source Tools for Big Data",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190437",
+          "author": "Web Webster",
+          "description": "Wine 9.12 released, including initial support for user32 data structures and Mono engine 9.2.0 updates.\nThe post Wine 9.12 Debuts With Updated Mono Engine appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/wine-9-12-debuts-with-updated-mono-engine/",
+          "publishedOn": "2024-07-05T14:00:53.000Z",
+          "wordCount": 9018,
+          "title": "Wine 9.12 Debuts With Updated Mono Engine",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190545",
+          "author": "Web Webster",
+          "description": "The new Raspberry Pi OS release, versioned 2024-07-04, updates the panel and the PCManFM file manager with support for customizing more than two desktops. The panel also received support for customizing the labwc Wayland window-stacking compositor, which is now installed by default as an alternative to Wayfire.\nThe post New Raspberry Pi OS Release Brings Many UI Improvements and New Settings appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/new-raspberry-pi-os-release-brings-many-ui-improvements-and-new-settings/",
+          "publishedOn": "2024-07-05T13:00:52.000Z",
+          "wordCount": 9078,
+          "title": "New Raspberry Pi OS Release Brings Many UI Improvements and New Settings",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190443",
+          "author": "Web Webster",
+          "description": "Stable Debian 12 (Bookworm) is getting its sixth update, shipping with 162 bug fixes and 84 security updates. Upgrade now!\nThe post Debian 12.6 Rolls Out With Security & Stability Improvements appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/debian-12-6-rolls-out-with-security-stability-improvements/",
+          "publishedOn": "2024-07-05T02:00:56.000Z",
+          "wordCount": 9036,
+          "title": "Debian 12.6 Rolls Out With Security & Stability Improvements",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190446",
           "author": "Web Webster",
           "description": "Angie 1.6 web server offers full Nginx 1.27 compatibility plus new, useful additional features. Here’s more on that.\nThe post Angie 1.6 Web Server Introduces Sticky Sessions appeared first on Linux Today.",
@@ -2147,106 +2237,6 @@
           "wordCount": 8840,
           "title": "Parrot OS 6.1 Brings Raspberry Pi 5 Support",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189128",
-          "author": "Web Webster",
-          "description": "CentOS 7 stopped getting updates on June 30, 2024, which means it doesn’t get security updates or bug fixes from Red Hat anymore. New options like Rocky Linux have come up to help users who use CentOS and need ongoing support. This guide will help you migrate from CentOS 7 to Rocky Linux 9 by […]\nThe post How to Migrate CentOS 7 to Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-migrate-centos-7-to-rocky-linux-9/",
-          "publishedOn": "2024-06-06T00:00:18.000Z",
-          "wordCount": 8864,
-          "title": "How to Migrate CentOS 7 to Rocky Linux 9",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189590",
-          "author": "Web Webster",
-          "description": "NixOS 24.05, codenamed Uakari, was released a few days ago. This step-by-step tutorial explains how to upgrade NixOS to the latest available version.\nThe post How to Upgrade NixOS 23.11 to 24.05 [Step-by-Step] appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-upgrade-nixos-23-11-to-24-05-step-by-step/",
-          "publishedOn": "2024-06-05T22:15:36.000Z",
-          "wordCount": 8832,
-          "title": "How to Upgrade NixOS 23.11 to 24.05 [Step-by-Step]",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189639",
-          "author": "Web Webster",
-          "description": "Offensive Security today announced the release of Kali Linux 2024.2 as the latest ISO snapshot of this popular Debian-based rolling distribution for ethical hacking and penetration testing.\nThe post Kali Linux 2024.2 Ethical Hacking Distro Released With GNOME 46, New Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kali-linux-2024-2-ethical-hacking-distro-released-with-gnome-46-new-tools/",
-          "publishedOn": "2024-06-05T20:00:04.000Z",
-          "wordCount": 8838,
-          "title": "Kali Linux 2024.2 Ethical Hacking Distro Released With GNOME 46, New Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189637",
-          "author": "Web Webster",
-          "description": "DuckDB 1.0, a SQL OLAP database management system, has launched with enhanced stability and new features.\nThe post DuckDB Hits Major Milestone With 1.0 Release appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/duckdb-hits-major-milestone-with-1-0-release/",
-          "publishedOn": "2024-06-05T18:11:42.000Z",
-          "wordCount": 8828,
-          "title": "DuckDB Hits Major Milestone With 1.0 Release",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189621",
-          "author": "Web Webster",
-          "description": "Learn how to install VirtualBox and the Extension Pack on the latest Ubuntu 24.04 (Noble Numbat) with practical examples.\nThe post How to Install VirtualBox on Ubuntu 24.04 (with Extension Pack) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/infrastructure/how-to-install-virtualbox-on-ubuntu-24-04-with-extension-pack/",
-          "publishedOn": "2024-06-05T17:00:11.000Z",
-          "wordCount": 8834,
-          "title": "How to Install VirtualBox on Ubuntu 24.04 (with Extension Pack)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/483a9d552d5d74dddbe4a4a5059ac3a9/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/483a9d552d5d74dddbe4a4a5059ac3a9/",
-          "publishedOn": "2024-06-05T16:35:11.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189614",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install FreeRADIUS on Fedora 40. FreeRADIUS is a powerful and widely used open-source RADIUS (Remote Authentication Dial-In User Service) server that provides centralized authentication, authorization, and accounting (AAA) management for network access. With its extensive feature set, flexibility, and scalability, FreeRADIUS has become the go-to solution […]\nThe post How to Install FreeRADIUS on Fedora 40 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-freeradius-on-fedora-40/",
-          "publishedOn": "2024-06-05T16:00:01.000Z",
-          "wordCount": 8868,
-          "title": "How to Install FreeRADIUS on Fedora 40",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189624",
-          "author": "Web Webster",
-          "description": "In this guide, I’m going to show you how to use Google Drive on a Linux distro. The best options are to use Google Drive via the graphical user interface (GUI) or command-line interface (CLI).\nThe post How to Use Google Drive on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/storage/how-to-use-google-drive-on-linux/",
-          "publishedOn": "2024-06-05T15:45:38.000Z",
-          "wordCount": 8844,
-          "title": "How to Use Google Drive on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189606",
-          "author": "Web Webster",
-          "description": "Zabbix 7.0 is now available under AGPLv3, featuring improved SNMP and HTTP monitoring, new widgets, performance boosts, and more.\nThe post Zabbix 7.0 Open-Source Monitoring System Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/zabbix-7-0-open-source-monitoring-system-released/",
-          "publishedOn": "2024-06-05T15:30:41.000Z",
-          "wordCount": 8813,
-          "title": "Zabbix 7.0 Open-Source Monitoring System Released",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189619",
-          "author": "Web Webster",
-          "description": "Canonical announced that the Ubuntu 23.10 “Mantic Minotaur” release will reach end-of-life on July 11th, 2024, urging users to upgrade to a newer, supported Ubuntu release.\nThe post Ubuntu 23.10 “Mantic Minotaur” to Reach End of Life on July 11 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-23-10-mantic-minotaur-to-reach-end-of-life-on-july-11/",
-          "publishedOn": "2024-06-05T15:15:11.000Z",
-          "wordCount": 8852,
-          "title": "Ubuntu 23.10 “Mantic Minotaur” to Reach End of Life on July 11",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2255,6 +2245,136 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiSWh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL2Nhbi15b3UtcGxheS16ZW5sZXNzLXpvbmUtemVyby1saW51eC1hbnN3ZXJlZC_SAQA",
+          "author": null,
+          "description": "Can You Play Zenless Zone Zero on Linux? - Answered  Insider Gaming",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL2Nhbi15b3UtcGxheS16ZW5sZXNzLXpvbmUtemVyby1saW51eC1hbnN3ZXJlZC_SAQA?oc=5",
+          "publishedOn": "2024-07-05T20:59:34.000Z",
+          "wordCount": 8850,
+          "title": "Can You Play Zenless Zone Zero on Linux? - Answered - Insider Gaming",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L3Byb3Rvbi1leHBlcmltZW50YWwtZ2V0cy1maXhlcy1mb3ItZmFybGlnaHQtODQtc2hhZG93LXdhcnJpb3ItMi12aWRlby1pbXByb3ZlbWVudHMtZm9yLTMyYml0LWdhbWVzL9IBAA",
+          "author": null,
+          "description": "Proton Experimental gets fixes for Farlight 84, Shadow Warrior 2, video improvements for 32bit games  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L3Byb3Rvbi1leHBlcmltZW50YWwtZ2V0cy1maXhlcy1mb3ItZmFybGlnaHQtODQtc2hhZG93LXdhcnJpb3ItMi12aWRlby1pbXByb3ZlbWVudHMtZm9yLTMyYml0LWdhbWVzL9IBAA?oc=5",
+          "publishedOn": "2024-07-05T20:11:50.000Z",
+          "wordCount": 8850,
+          "title": "Proton Experimental gets fixes for Farlight 84, Shadow Warrior 2, video improvements for 32bit games - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlEWEQtRkxSLVJlc2V0LUhXLUVycm9yc9IBAA",
+          "author": null,
+          "description": "Intel IDXD Driver To Better Handle Accelerators In Event Of Hardware Errors  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlEWEQtRkxSLVJlc2V0LUhXLUVycm9yc9IBAA?oc=5",
+          "publishedOn": "2024-07-05T19:31:00.000Z",
+          "wordCount": 8850,
+          "title": "Intel IDXD Driver To Better Handle Accelerators In Event Of Hardware Errors - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vaGFja2Vybm9vbi5jb20vaG93LXRvLWluc3RhbGwtZHVja3N0YXRpb24tZm9yLXBsYXlpbmctcHMxLWdhbWVzLW9uLWxpbnV40gEA",
+          "author": null,
+          "description": "How to Install DuckStation for Playing PS1 Games on Linux  hackernoon.com",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vaGFja2Vybm9vbi5jb20vaG93LXRvLWluc3RhbGwtZHVja3N0YXRpb24tZm9yLXBsYXlpbmctcHMxLWdhbWVzLW9uLWxpbnV40gEA?oc=5",
+          "publishedOn": "2024-07-05T17:01:52.000Z",
+          "wordCount": 8850,
+          "title": "How to Install DuckStation for Playing PS1 Games on Linux - hackernoon.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtTW9iaWxleWUtRXllUTZI0gEA",
+          "author": null,
+          "description": "Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtTW9iaWxleWUtRXllUTZI0gEA?oc=5",
+          "publishedOn": "2024-07-05T14:34:00.000Z",
+          "wordCount": 8850,
+          "title": "Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RNLVZlcml0eS1NdWx0aS1CdWZmZXItSGFzaNIBAA",
+          "author": null,
+          "description": "Linux 6.11 Likely To Land DM-Verity Multi-Buffer Hashing For Big Speed Boost  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RNLVZlcml0eS1NdWx0aS1CdWZmZXItSGFzaNIBAA?oc=5",
+          "publishedOn": "2024-07-05T13:48:00.000Z",
+          "wordCount": 8850,
+          "title": "Linux 6.11 Likely To Land DM-Verity Multi-Buffer Hashing For Big Speed Boost - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS95b3UtY2FuLXJ1bi1vcy1nb29nbGUtZHJpdmUv0gEA",
+          "author": null,
+          "description": "You can apparently run an entire OS in Google Drive, but you definitely shouldn't  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS95b3UtY2FuLXJ1bi1vcy1nb29nbGUtZHJpdmUv0gEA?oc=5",
+          "publishedOn": "2024-07-05T13:47:00.000Z",
+          "wordCount": 8850,
+          "title": "You can apparently run an entire OS in Google Drive, but you definitely shouldn't - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRmluZS1Td2FwcGluZXNz0gEA",
+          "author": null,
+          "description": "Linux 6.11 To Offer More Fine-Tuned Control Over Swappiness  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRmluZS1Td2FwcGluZXNz0gEA?oc=5",
+          "publishedOn": "2024-07-05T13:12:00.000Z",
+          "wordCount": 8850,
+          "title": "Linux 6.11 To Offer More Fine-Tuned Control Over Swappiness - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkvY29tbWVudF9pZD0yNjU5MzHSAQA",
+          "author": null,
+          "description": "Happy Birthday to GamingOnLinux - 15 years old today  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkvY29tbWVudF9pZD0yNjU5MzHSAQA?oc=5",
+          "publishedOn": "2024-07-05T11:13:25.000Z",
+          "wordCount": 8850,
+          "title": "Happy Birthday to GamingOnLinux - 15 years old today - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zNTY3NzQxL2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXdvcnRoLTY3LTQzLWJpbGxpb24tYnktMjAzMNIBAA",
+          "author": null,
+          "description": "Linux Operating System Market worth $67.43 billion by 2030, growing at a CAGR of 19.90% - Exclusive Report by ...  openPR",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zNTY3NzQxL2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXdvcnRoLTY3LTQzLWJpbGxpb24tYnktMjAzMNIBAA?oc=5",
+          "publishedOn": "2024-07-05T11:03:00.000Z",
+          "wordCount": 8850,
+          "title": "Linux Operating System Market worth $67.43 billion by 2030, growing at a CAGR of 19.90% - Exclusive Report by ... - openPR",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9GaW5uaXgtMTI2LW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLWFzLWEtc3VwZXItbGlnaHQtTGludXgtZGlzdHJvLXVuZGVyLTUwMC1NQi1pbi1zaXplLjg1NzIyMy4wLmh0bWzSAQA",
+          "author": null,
+          "description": "Finnix 126 now available for download as a super-light Linux distro under 500 MB in size  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9GaW5uaXgtMTI2LW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLWFzLWEtc3VwZXItbGlnaHQtTGludXgtZGlzdHJvLXVuZGVyLTUwMC1NQi1pbi1zaXplLjg1NzIyMy4wLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-07-05T10:09:49.000Z",
+          "wordCount": 8850,
+          "title": "Finnix 126 now available for download as a super-light Linux distro under 500 MB in size - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzA1L29yYWNsZV91ZWtuZXh0XzZfOS_SAT5odHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDcvMDUvb3JhY2xlX3Vla25leHRfNl85Lw",
+          "author": null,
+          "description": "Oracle releases experimental next-gen kernel build  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzA1L29yYWNsZV91ZWtuZXh0XzZfOS_SAT5odHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDcvMDUvb3JhY2xlX3Vla25leHRfNl85Lw?oc=5",
+          "publishedOn": "2024-07-05T09:33:00.000Z",
+          "wordCount": 8850,
+          "title": "Oracle releases experimental next-gen kernel build - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC14ZmNlLWRpc3RyaWJ1dGlvbnMv0gEA",
+          "author": null,
+          "description": "10 Best Xfce Based Linux Distributions  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC14ZmNlLWRpc3RyaWJ1dGlvbnMv0gEA?oc=5",
+          "publishedOn": "2024-07-05T05:14:23.000Z",
+          "wordCount": 8850,
+          "title": "10 Best Xfce Based Linux Distributions - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiZ2h0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzY3Ny1uZXctbGludXgtcGF0Y2hlcy1pbXByb3ZlLXJhc3BiZXJyeS1waS1wZXJmb3JtYW5jZS1lZmZpY2llbmN5Lmh0bWzSAQA",
           "author": null,
@@ -2593,6 +2713,16 @@
           "publishedOn": "2024-07-03T13:30:00.000Z",
           "wordCount": 8850,
           "title": "\"Indirector\" Attack Disclosed For Intel Alder Lake & Raptor Lake CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzY1Mi1kZXZlbG9wZXItc29tZWhvdy1nb3QtZW50aXJlLW9zLXJ1bm5pbmctZ29vZ2xlLWRyaXZlLmh0bWzSAQA",
+          "author": null,
+          "description": "A developer somehow got an entire OS running on Google Drive  TechSpot",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzY1Mi1kZXZlbG9wZXItc29tZWhvdy1nb3QtZW50aXJlLW9zLXJ1bm5pbmctZ29vZ2xlLWRyaXZlLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-07-03T11:15:00.000Z",
+          "wordCount": 8850,
+          "title": "A developer somehow got an entire OS running on Google Drive - TechSpot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7364,236 +7494,6 @@
           "wordCount": 8795,
           "title": "Moonlight PC for game streaming via Sunshine gets HDR support for Linux / Steam Deck - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvaG9uZXlrcmlzcC1pcy1hLW5ldy1jb25mb3JtYW50LWxpbnV4LXZ1bGthbi1kcml2ZXItZm9yLWFwcGxlLW0xL9IBAA",
-          "author": null,
-          "description": "Honeykrisp is a new conformant Linux Vulkan driver for Apple M1  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvaG9uZXlrcmlzcC1pcy1hLW5ldy1jb25mb3JtYW50LWxpbnV4LXZ1bGthbi1kcml2ZXItZm9yLWFwcGxlLW0xL9IBAA?oc=5",
-          "publishedOn": "2024-06-06T13:14:32.000Z",
-          "wordCount": 8795,
-          "title": "Honeykrisp is a new conformant Linux Vulkan driver for Apple M1 - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wcm90b24tcGFzcy1saW51eC_SAQA",
-          "author": null,
-          "description": "Proton Pass Launched for Linux and macOS With a Steal Deal for its Plus Plan  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wcm90b24tcGFzcy1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-06-06T13:09:53.000Z",
-          "wordCount": 8795,
-          "title": "Proton Pass Launched for Linux and macOS With a Steal Deal for its Plus Plan - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMDYvcHJvdG9uLXBhc3MtbWFjb3MtbGludXgtYXBwLWxhdW5jaC_SAQA",
-          "author": null,
-          "description": "Proton Pass comes to macOS and Linux  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMDYvcHJvdG9uLXBhc3MtbWFjb3MtbGludXgtYXBwLWxhdW5jaC_SAQA?oc=5",
-          "publishedOn": "2024-06-06T13:07:42.000Z",
-          "wordCount": 8795,
-          "title": "Proton Pass comes to macOS and Linux - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1BenVyZS1MaW51eC0zLjAtUHJl0gEA",
-          "author": null,
-          "description": "Microsoft Releases Azure Linux 3.0 Preview  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1BenVyZS1MaW51eC0zLjAtUHJl0gEA?oc=5",
-          "publishedOn": "2024-06-06T12:00:00.000Z",
-          "wordCount": 8795,
-          "title": "Microsoft Releases Azure Linux 3.0 Preview - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1Nb3JlLVJvYnVzdC1TdGVhbS1EZWNr0gEA",
-          "author": null,
-          "description": "Updated AMD GPU Firmware Makes Valve's Steam Deck More Robust Against Buggy Apps  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1Nb3JlLVJvYnVzdC1TdGVhbS1EZWNr0gEA?oc=5",
-          "publishedOn": "2024-06-06T10:52:00.000Z",
-          "wordCount": 8795,
-          "title": "Updated AMD GPU Firmware Makes Valve's Steam Deck More Robust Against Buggy Apps - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtY3B1cG93ZXItWmVuLTUtRnJlcdIBAA",
-          "author": null,
-          "description": "Linux 6.10 Fixes AMD Zen 5 CPU Frequency Reporting With cpupower  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtY3B1cG93ZXItWmVuLTUtRnJlcdIBAA?oc=5",
-          "publishedOn": "2024-06-06T10:39:00.000Z",
-          "wordCount": 8795,
-          "title": "Linux 6.10 Fixes AMD Zen 5 CPU Frequency Reporting With cpupower - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vcHJvdG9uLXBhc3MtYXJyaXZlcy1vbi1tYWMtYW5kLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "Proton Pass Arrives on Mac and Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vcHJvdG9uLXBhc3MtYXJyaXZlcy1vbi1tYWMtYW5kLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2024-06-06T10:00:00.000Z",
-          "wordCount": 8795,
-          "title": "Proton Pass Arrives on Mac and Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9wcm90b24tbGF1bmNoZXMtcHJvdG9uLXBhc3Mtb24tbWFjb3MtYW5kLWxpbnV4L9IBSmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL3Byb3Rvbi1sYXVuY2hlcy1wcm90b24tcGFzcy1vbi1tYWNvcy1hbmQtbGludXgv",
-          "author": null,
-          "description": "Proton launches Proton Pass on macOS and Linux  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9wcm90b24tbGF1bmNoZXMtcHJvdG9uLXBhc3Mtb24tbWFjb3MtYW5kLWxpbnV4L9IBSmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL3Byb3Rvbi1sYXVuY2hlcy1wcm90b24tcGFzcy1vbi1tYWNvcy1hbmQtbGludXgv?oc=5",
-          "publishedOn": "2024-06-06T10:00:00.000Z",
-          "wordCount": 8795,
-          "title": "Proton launches Proton Pass on macOS and Linux - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA2L2xhbnN3ZWVwZXJfY2VudG9zL9IBAA",
-          "author": null,
-          "description": "Lansweeper finds a lot of CentOS Linux out there  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA2L2xhbnN3ZWVwZXJfY2VudG9zL9IBAA?oc=5",
-          "publishedOn": "2024-06-06T07:00:00.000Z",
-          "wordCount": 8739,
-          "title": "Lansweeper finds a lot of CentOS Linux out there - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9saW51eC1wY9IBAA",
-          "author": null,
-          "description": "Best Linux PC of 2024  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9saW51eC1wY9IBAA?oc=5",
-          "publishedOn": "2024-06-06T07:00:00.000Z",
-          "wordCount": 8730,
-          "title": "Best Linux PC of 2024 - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbW11dGFibGUtZGlzdHJvLWJsZW5kb3MtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLW5vdy1mdWxseS1kZWNsYXJhdGl2ZdIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbW11dGFibGUtZGlzdHJvLWJsZW5kb3MtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLW5vdy1mdWxseS1kZWNsYXJhdGl2ZS9hbXA",
-          "author": null,
-          "description": "Immutable Distro blendOS 4 Officially Released, Now Fully Declarative  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbW11dGFibGUtZGlzdHJvLWJsZW5kb3MtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLW5vdy1mdWxseS1kZWNsYXJhdGl2ZdIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbW11dGFibGUtZGlzdHJvLWJsZW5kb3MtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLW5vdy1mdWxseS1kZWNsYXJhdGl2ZS9hbXA?oc=5",
-          "publishedOn": "2024-06-06T03:30:36.000Z",
-          "wordCount": 8795,
-          "title": "Immutable Distro blendOS 4 Officially Released, Now Fully Declarative - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2thbGktbGludXgtMjAyNC0yL9IBNGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2thbGktbGludXgtMjAyNC0yL2FtcC8",
-          "author": null,
-          "description": "Kali Linux 2024.2 Released: What’s New!  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2thbGktbGludXgtMjAyNC0yL9IBNGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2thbGktbGludXgtMjAyNC0yL2FtcC8?oc=5",
-          "publishedOn": "2024-06-06T03:09:13.000Z",
-          "wordCount": 8795,
-          "title": "Kali Linux 2024.2 Released: What’s New! - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbGludXgtdmVyc2lvbi1vZi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUtZm9jdXNlcy1vbi12bXdhcmUtZXN4aS_SAXRodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2xpbnV4LXZlcnNpb24tb2YtdGFyZ2V0Y29tcGFueS1yYW5zb213YXJlLWZvY3VzZXMtb24tdm13YXJlLWVzeGkvYW1wLw",
-          "author": null,
-          "description": "Linux version of TargetCompany ransomware focuses on VMware ESXi  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbGludXgtdmVyc2lvbi1vZi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUtZm9jdXNlcy1vbi12bXdhcmUtZXN4aS_SAXRodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2xpbnV4LXZlcnNpb24tb2YtdGFyZ2V0Y29tcGFueS1yYW5zb213YXJlLWZvY3VzZXMtb24tdm13YXJlLWVzeGkvYW1wLw?oc=5",
-          "publishedOn": "2024-06-05T23:17:28.000Z",
-          "wordCount": 8764,
-          "title": "Linux version of TargetCompany ransomware focuses on VMware ESXi - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMDUva2FsaS1saW51eC0yMDI0LTItcmVsZWFzZS1oaWdobGlnaHRzL9IBAA",
-          "author": null,
-          "description": "Kali Linux 2024.2 unleashed: Embracing the t64 transition and welcoming new tools  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMDUva2FsaS1saW51eC0yMDI0LTItcmVsZWFzZS1oaWdobGlnaHRzL9IBAA?oc=5",
-          "publishedOn": "2024-06-05T20:53:30.000Z",
-          "wordCount": 8764,
-          "title": "Kali Linux 2024.2 unleashed: Embracing the t64 transition and welcoming new tools - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LW1pbnQtc29mdHdhcmUtbWFuYWdlci13aWxsLWRpc2FibGUtdW52ZXJpZmllZC1mbGF0cGFrcy1ieS1kZWZhdWx0L9IBAA",
-          "author": null,
-          "description": "Linux Mint Software Manager Will Disable Unverified Flatpaks by Default  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LW1pbnQtc29mdHdhcmUtbWFuYWdlci13aWxsLWRpc2FibGUtdW52ZXJpZmllZC1mbGF0cGFrcy1ieS1kZWZhdWx0L9IBAA?oc=5",
-          "publishedOn": "2024-06-05T18:55:19.000Z",
-          "wordCount": 8764,
-          "title": "Linux Mint Software Manager Will Disable Unverified Flatpaks by Default - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNi8wNS9rYWxpLWxpbnV4LTIwMjQtMi1yZWxlYXNlZC_SAQA",
-          "author": null,
-          "description": "Kali Linux 2024.2 released: 18 new tools, countless updates  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNi8wNS9rYWxpLWxpbnV4LTIwMjQtMi1yZWxlYXNlZC_SAQA?oc=5",
-          "publishedOn": "2024-06-05T18:23:37.000Z",
-          "wordCount": 8764,
-          "title": "Kali Linux 2024.2 released: 18 new tools, countless updates - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9rYWxpLWxpbnV4LTIwMjQtMi1ldGhpY2FsLWhhY2tpbmctZGlzdHJvLXJlbGVhc2VkLXdpdGgtZ25vbWUtNDYtbmV3LXRvb2xz0gFjaHR0cHM6Ly85dG81bGludXguY29tL2thbGktbGludXgtMjAyNC0yLWV0aGljYWwtaGFja2luZy1kaXN0cm8tcmVsZWFzZWQtd2l0aC1nbm9tZS00Ni1uZXctdG9vbHMvYW1w",
-          "author": null,
-          "description": "Kali Linux 2024.2 Ethical Hacking Distro Released with GNOME 46, New Tools  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9rYWxpLWxpbnV4LTIwMjQtMi1ldGhpY2FsLWhhY2tpbmctZGlzdHJvLXJlbGVhc2VkLXdpdGgtZ25vbWUtNDYtbmV3LXRvb2xz0gFjaHR0cHM6Ly85dG81bGludXguY29tL2thbGktbGludXgtMjAyNC0yLWV0aGljYWwtaGFja2luZy1kaXN0cm8tcmVsZWFzZWQtd2l0aC1nbm9tZS00Ni1uZXctdG9vbHMvYW1w?oc=5",
-          "publishedOn": "2024-06-05T17:28:38.000Z",
-          "wordCount": 8764,
-          "title": "Kali Linux 2024.2 Ethical Hacking Distro Released with GNOME 46, New Tools - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL9IBAA",
-          "author": null,
-          "description": "Kali Linux 2024.2 released with 18 new tools, Y2038 changes  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL9IBAA?oc=5",
-          "publishedOn": "2024-06-05T17:22:04.000Z",
-          "wordCount": 8730,
-          "title": "Kali Linux 2024.2 released with 18 new tools, Y2038 changes - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL9IBamh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL2FtcC8",
-          "author": null,
-          "description": "Kali Linux 2024.2 released with 18 new tools, Y2038 changes  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL9IBamh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbGludXgva2FsaS1saW51eC0yMDI0Mi1yZWxlYXNlZC13aXRoLTE4LW5ldy10b29scy15MjAzOC1jaGFuZ2VzL2FtcC8?oc=5",
-          "publishedOn": "2024-06-05T17:22:04.000Z",
-          "wordCount": 8764,
-          "title": "Kali Linux 2024.2 released with 18 new tools, Y2038 changes - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiemh0dHBzOi8vd3d3LnByd2ViLmNvbS9yZWxlYXNlcy9yb2NreS1saW51eC1uYW1lZC1hLWRpZ2l0YWwtcHVibGljLWdvb2QtYnktdGhlLWRpZ2l0YWwtcHVibGljLWdvb2RzLWFsbGlhbmNlLTMwMjE2NTA0Mi5odG1s0gEA",
-          "author": null,
-          "description": "Rocky Linux Named a Digital Public Good by the Digital Public Goods Alliance  PR Web",
-          "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnByd2ViLmNvbS9yZWxlYXNlcy9yb2NreS1saW51eC1uYW1lZC1hLWRpZ2l0YWwtcHVibGljLWdvb2QtYnktdGhlLWRpZ2l0YWwtcHVibGljLWdvb2RzLWFsbGlhbmNlLTMwMjE2NTA0Mi5odG1s0gEA?oc=5",
-          "publishedOn": "2024-06-05T17:15:00.000Z",
-          "wordCount": 8764,
-          "title": "Rocky Linux Named a Digital Public Good by the Digital Public Goods Alliance - PR Web",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hvbmV5a3Jpc3AtQXBwbGUtVnVsa2FuLURyaXZlctIBAA",
-          "author": null,
-          "description": "\"Honeykrisp\" Is A New Vulkan Driver For Apple M1 On Linux - Derived From The NVK Driver  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hvbmV5a3Jpc3AtQXBwbGUtVnVsa2FuLURyaXZlctIBAA?oc=5",
-          "publishedOn": "2024-06-05T16:09:00.000Z",
-          "wordCount": 8764,
-          "title": "\"Honeykrisp\" Is A New Vulkan Driver For Apple M1 On Linux - Derived From The NVK Driver - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vdXNlLWdvb2dsZS1kcml2ZS1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Use Google Drive in Linux  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vdXNlLWdvb2dsZS1kcml2ZS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-06-05T15:14:04.000Z",
-          "wordCount": 8764,
-          "title": "How to Use Google Drive in Linux - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbnZpZGlhLXJlbGVhc2UtNTUwLTkwLTA3LXN0YWJsZS1hbmQtNTU1LTUyLTA0LWJldGEtZHJpdmVycy1mb3ItbGludXgv0gEA",
-          "author": null,
-          "description": "NVIDIA release 550.90.07 stable and 555.52.04 Beta drivers for Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbnZpZGlhLXJlbGVhc2UtNTUwLTkwLTA3LXN0YWJsZS1hbmQtNTU1LTUyLTA0LWJldGEtZHJpdmVycy1mb3ItbGludXgv0gEA?oc=5",
-          "publishedOn": "2024-06-05T14:38:06.000Z",
-          "wordCount": 8764,
-          "title": "NVIDIA release 550.90.07 stable and 555.52.04 Beta drivers for Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10050,21 +9950,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
-          "link": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
-          "publishedOn": "2024-06-05T15:00:00.000Z",
-          "wordCount": 7774,
-          "title": "Presenting UX Research And Design To Stakeholders: The Power Of Persuasion",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/presenting-ux-research-design-stakeholders/presenting-ux-research-design-stakeholders.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/presenting-ux-research-design-stakeholders/presenting-ux-research-design-stakeholders.jpg"
         }
       ]
     },
@@ -10073,6 +9958,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Scott Hanselman. Scott's a developer at Microsoft, a prolific teacher, and has hosted the Hanselminutes podcast for nearly two decades. We talk about: How he leads a fully-remote team from his home ...",
+          "link": "https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/",
+          "publishedOn": "2024-07-05T14:44:17.000Z",
+          "wordCount": 741,
+          "title": "What Scott Hanselman learned from 900 podcast interviews with devs [Podcast #131]",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/",
           "author": "Oluwadamisi Samuel Praise",
@@ -10742,36 +10637,6 @@
           "wordCount": 861,
           "title": "Master the Azure DevOps Engineer Expert Certification (AZ-400)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717685292411/87c8d3d3-50e3-4561-a807-98f4bbcc170e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
-          "author": "Beau Carnes",
-          "description": "We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
-          "publishedOn": "2024-06-05T21:00:31.000Z",
-          "wordCount": 861,
-          "title": "Learn How to Build a Decentralized File Storage System with Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717621212467/3ddb756b-de1e-4976-8196-4113e5851a9d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/",
-          "author": "Kamaldeen Lawal",
-          "description": "All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn",
-          "link": "https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/",
-          "publishedOn": "2024-06-05T14:58:48.000Z",
-          "wordCount": 4286,
-          "title": "The JavaScript this Keyword Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Python-Data-Types--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/",
-          "author": "Matéush",
-          "description": "As web applications become more complex, managing updates to the user interface becomes a challenging task. This is where the Virtual DOM (Document Object Model) comes into play – particularly in React, the leading JavaScript library for building user interfaces. The virtual DOM is a lightweight copy of the real",
-          "link": "https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/",
-          "publishedOn": "2024-06-05T14:51:11.000Z",
-          "wordCount": 2102,
-          "title": "What is the Virtual DOM in React?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Virtual-DOM.png"
         }
       ]
     }
