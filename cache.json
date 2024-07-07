@@ -10,44 +10,33 @@
       "title": null,
       "feedUrl": "https://linuxhint.com/feed/",
       "siteUrl": "https://linuxhint.com",
-      "articles": [
-        {
-          "id": "https://linuxhint.com/?p=416772",
-          "author": "Shovon",
-          "description": "In this article, I will show you how to create a Ubuntu 24.04 LTS virtual machine (VM) on Proxmox VE. This article is the foundation of the Proxmox VE Ubuntu 24.04 LTS VM GPU passthrough guide. Once you have a Ubuntu 24.04 LTS Proxmox VE VM set up, you can passthrough a GPU (i.e. NVIDIA […]",
-          "link": "https://linuxhint.com/how-to-create-an-ubuntu-24-04-lts-virtual-machine-vm-on-proxmox-ve/",
-          "publishedOn": "2024-06-06T18:16:12.000Z",
-          "wordCount": 4851,
-          "title": "How to Create an Ubuntu 24.04 LTS Virtual Machine (VM) on Proxmox VE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416784",
-          "author": "Shovon",
-          "description": "If you passthrough an NVIDIA GPU to an Ubuntu 24.04 LTS Proxmox VE virtual machine (VM), you get many benefits, such as: Stream the display of the VM directly on the monitor connected to the NVIDIA GPU. Add a USB keyboard and a mouse to the VM and use the VM like a real desktop […]",
-          "link": "https://linuxhint.com/how-to-passthrough-an-nvidia-gpu-on-a-proxmox-ve-ubuntu-24-04-lts-virtual-machine-vm/",
-          "publishedOn": "2024-06-06T17:09:37.000Z",
-          "wordCount": 4629,
-          "title": "How to Passthrough an NVIDIA GPU on a Proxmox VE Ubuntu 24.04 LTS Virtual Machine (VM)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=416779",
-          "author": "Shovon",
-          "description": "If you have an NVIDIA GPU installed on your computer/server, installing the NVIDIA GPU drivers will be the first thing to do after installing Ubuntu 24.04 LTS. On Ubuntu 24.04 LTS Desktop, you can install NVIDIA GPU drivers using the following methods: Software & Updates app APT package manager   On Ubuntu 24.04 LTS Server, […]",
-          "link": "https://linuxhint.com/how-to-install-nvidia-gpu-driver-on-ubuntu-24-04-lts-desktop-server/",
-          "publishedOn": "2024-06-06T16:35:41.000Z",
-          "wordCount": 5128,
-          "title": "How to Install NVIDIA GPU Driver on Ubuntu 24.04 LTS Desktop/Server",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Linux Today",
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189938",
+          "author": "Web Webster",
+          "description": "In this guide, learn how to install the Yarn package manager on Ubuntu using NPM, Corepack, and the APT repository with practical examples.\nThe post How to Install Yarn on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-yarn-on-ubuntu-24-04/",
+          "publishedOn": "2024-07-06T20:00:46.000Z",
+          "wordCount": 9032,
+          "title": "How to Install Yarn on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190505",
+          "author": "Web Webster",
+          "description": "Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Power BI is proprietary software and is not available for Linux. We recommend the best free and open-source alternatives.\nThe post Best Free and Open-Source Alternatives to Microsoft Power BI appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-microsoft-power-bi/",
+          "publishedOn": "2024-07-06T02:00:58.000Z",
+          "wordCount": 9062,
+          "title": "Best Free and Open-Source Alternatives to Microsoft Power BI",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190569",
           "author": "Web Webster",
@@ -2117,126 +2106,6 @@
           "wordCount": 9012,
           "title": "Proton Pass Password Manager Debuts on Linux",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189704",
-          "author": "Web Webster",
-          "description": "Incus 6.2 rolls out with customizable columns, YAML support for storage and network configurations, enhanced log management, and more.\nThe post Incus 6.2 Container & Virtual Machine Manager Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/incus-6-2-container-virtual-machine-manager-released/",
-          "publishedOn": "2024-06-07T13:00:32.000Z",
-          "wordCount": 9022,
-          "title": "Incus 6.2 Container & Virtual Machine Manager Released",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189686",
-          "author": "Web Webster",
-          "description": "This detailed tutorial explains how to find and kill a process running on a specific port in Linux and Unix-like operating systems.\nThe post How to Kill a Process Running on a Specific Port in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-kill-a-process-running-on-a-specific-port-in-linux/",
-          "publishedOn": "2024-06-07T02:00:18.000Z",
-          "wordCount": 9041,
-          "title": "How to Kill a Process Running on a Specific Port in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/c5f07859806e124de20089fa33ae9c34/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/c5f07859806e124de20089fa33ae9c34/",
-          "publishedOn": "2024-06-07T00:01:49.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/bf7e402f63dd8c73ced9487b8385c7b1/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/bf7e402f63dd8c73ced9487b8385c7b1/",
-          "publishedOn": "2024-06-07T00:01:44.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/51fafceed4c80c52761455a1b776bb7d/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/51fafceed4c80c52761455a1b776bb7d/",
-          "publishedOn": "2024-06-07T00:01:38.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/0f2fdb67d868b55376c4f6e354b22475/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/0f2fdb67d868b55376c4f6e354b22475/",
-          "publishedOn": "2024-06-06T23:12:38.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/7e80d8f88ece405f7cd7c4fb37088368/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/7e80d8f88ece405f7cd7c4fb37088368/",
-          "publishedOn": "2024-06-06T23:12:33.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/e646f4f5bdbc88289b62c347298ed158/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/e646f4f5bdbc88289b62c347298ed158/",
-          "publishedOn": "2024-06-06T23:12:28.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189681",
-          "author": "Web Webster",
-          "description": "The LOMP stack is an acronym for Linux, OpenLiteSpeed, MySQL/MariaDB, and PHP. Litespeed servers are known for their speed, especially with PHP, which integrates using the LiteSpeed Server Application Programming Interface (LSAPI). The LiteSpeed PHP (LSPHP) interpreter serves dynamic PHP pages via LSAPI. This tutorial will show you how to install an OpenLiteSpeed server on […]\nThe post How to Install LOMP Stack (OpenLiteSpeed, MySQL, and PHP) on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-lomp-stack-openlitespeed-mysql-and-php-on-ubuntu-24-04/",
-          "publishedOn": "2024-06-06T22:00:42.000Z",
-          "wordCount": 8872,
-          "title": "How to Install LOMP Stack (OpenLiteSpeed, MySQL, and PHP) on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189653",
-          "author": "Web Webster",
-          "description": "Kali Linux 2024.2 is now available for download. It features GNOME 46, enhanced Xfce, 18 new security tools, and 64-bit time_t transition.\nThe post Kali Linux 2024.2 Rolls Out With GNOME 46 and 18 New Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kali-linux-2024-2-rolls-out-with-gnome-46-and-18-new-tools/",
-          "publishedOn": "2024-06-06T20:00:25.000Z",
-          "wordCount": 8856,
-          "title": "Kali Linux 2024.2 Rolls Out With GNOME 46 and 18 New Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/bb57b9f33577d2aabb79c90b07535836/",
-          "author": null,
-          "description": "Open Source TradeMark Initiative\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/bb57b9f33577d2aabb79c90b07535836/",
-          "publishedOn": "2024-06-06T19:41:20.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189670",
-          "author": "Web Webster",
-          "description": "Parrot OS 6.1, a Debian-based Linux distro focused on security and privacy, rolls out with enhanced security and performance features.\nThe post Parrot OS 6.1 Brings Raspberry Pi 5 Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/parrot-os-6-1-brings-raspberry-pi-5-support/",
-          "publishedOn": "2024-06-06T18:00:21.000Z",
-          "wordCount": 8840,
-          "title": "Parrot OS 6.1 Brings Raspberry Pi 5 Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2245,6 +2114,76 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMirAFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzA3L2N2ZS0yMDI0LTYzODctbmV3LW9wZW5zc2gtcmVncmVzc2hpb24tdnVsbmVyYWJpbGl0eS1naXZlcy1oYWNrZXJzLXJvb3QtYWNjZXNzLW9uLWxpbnV4LXNlcnZlcnMtNzAwMDAwLWxpbnV4LWJveGVzLXBvdGVudGlhbGx5LWF0LXJpc2sv0gGwAWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDcvY3ZlLTIwMjQtNjM4Ny1uZXctb3BlbnNzaC1yZWdyZXNzaGlvbi12dWxuZXJhYmlsaXR5LWdpdmVzLWhhY2tlcnMtcm9vdC1hY2Nlc3Mtb24tbGludXgtc2VydmVycy03MDAwMDAtbGludXgtYm94ZXMtcG90ZW50aWFsbHktYXQtcmlzay9hbXAv",
+          "author": null,
+          "description": "CVE-2024-6387: New OpenSSH RegreSSHion Vulnerability Gives Hackers Root Access on Linux Servers – 700,000...  Security Boulevard",
+          "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzA3L2N2ZS0yMDI0LTYzODctbmV3LW9wZW5zc2gtcmVncmVzc2hpb24tdnVsbmVyYWJpbGl0eS1naXZlcy1oYWNrZXJzLXJvb3QtYWNjZXNzLW9uLWxpbnV4LXNlcnZlcnMtNzAwMDAwLWxpbnV4LWJveGVzLXBvdGVudGlhbGx5LWF0LXJpc2sv0gGwAWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDcvY3ZlLTIwMjQtNjM4Ny1uZXctb3BlbnNzaC1yZWdyZXNzaGlvbi12dWxuZXJhYmlsaXR5LWdpdmVzLWhhY2tlcnMtcm9vdC1hY2Nlc3Mtb24tbGludXgtc2VydmVycy03MDAwMDAtbGludXgtYm94ZXMtcG90ZW50aWFsbHktYXQtcmlzay9hbXAv?oc=5",
+          "publishedOn": "2024-07-06T22:38:23.000Z",
+          "wordCount": 8850,
+          "title": "CVE-2024-6387: New OpenSSH RegreSSHion Vulnerability Gives Hackers Root Access on Linux Servers – 700,000... - Security Boulevard",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGVybWluYWwtY29tbWFuZHMteW91LWNhbi1ydW4tb24td2luZG93cy10aGF0LWdpdmUtYmlnLWhhY2tlci12aWJlcy_SAQA",
+          "author": null,
+          "description": "5 Terminal Commands You Can Run on Windows that Give Big Hacker Vibes  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGVybWluYWwtY29tbWFuZHMteW91LWNhbi1ydW4tb24td2luZG93cy10aGF0LWdpdmUtYmlnLWhhY2tlci12aWJlcy_SAQA?oc=5",
+          "publishedOn": "2024-07-06T20:00:00.000Z",
+          "wordCount": 8850,
+          "title": "5 Terminal Commands You Can Run on Windows that Give Big Hacker Vibes - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vaGFja3JlYWQuY29tL21hbGxveC1yYW5zb213YXJlLXZhcmlhbnQtdGFyZ2V0cy1saW51eC1zeXN0ZW1zL9IBAA",
+          "author": null,
+          "description": "New Mallox Ransomware Variant Targets Linux Systems  HackRead",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaGFja3JlYWQuY29tL21hbGxveC1yYW5zb213YXJlLXZhcmlhbnQtdGFyZ2V0cy1saW51eC1zeXN0ZW1zL9IBAA?oc=5",
+          "publishedOn": "2024-07-06T12:35:07.000Z",
+          "wordCount": 8850,
+          "title": "New Mallox Ransomware Variant Targets Linux Systems - HackRead",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYxMS1QZXJmLUFycm93LUx1bmFyLUxha2XSAQA",
+          "author": null,
+          "description": "Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYxMS1QZXJmLUFycm93LUx1bmFyLUxha2XSAQA?oc=5",
+          "publishedOn": "2024-07-06T12:30:00.000Z",
+          "wordCount": 8850,
+          "title": "Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLXlvdS1kaWRudC1rbm93LXJ1bi1vbi1saW51eC_SAQA",
+          "author": null,
+          "description": "7 Things You Didn't Know Run on Linux  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLXlvdS1kaWRudC1rbm93LXJ1bi1vbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-07-06T11:30:00.000Z",
+          "wordCount": 8850,
+          "title": "7 Things You Didn't Know Run on Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL3VzLWNvbXB1dGVyLXNjaWVuY2Utc3R1ZGVudC1ib290cy1saW51eC1vcy1mcm9tLWdvb2dsZS1kcml2ZS9zdG9yedIBAA",
+          "author": null,
+          "description": "Who needs hard drive? Student runs Linux from Google Drive  NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL3VzLWNvbXB1dGVyLXNjaWVuY2Utc3R1ZGVudC1ib290cy1saW51eC1vcy1mcm9tLWdvb2dsZS1kcml2ZS9zdG9yedIBAA?oc=5",
+          "publishedOn": "2024-07-06T09:47:51.000Z",
+          "wordCount": 8850,
+          "title": "Who needs hard drive? Student runs Linux from Google Drive - NewsBytes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93aW5kb3dzLWdhbWUtb24tbGludXgtZXhwZXJpZW5jZS_SAQA",
+          "author": null,
+          "description": "Running One of My Favorite Windows Game on Linux: Here's How It Went  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93aW5kb3dzLWdhbWUtb24tbGludXgtZXhwZXJpZW5jZS_SAQA?oc=5",
+          "publishedOn": "2024-07-06T03:34:52.000Z",
+          "wordCount": 8850,
+          "title": "Running One of My Favorite Windows Game on Linux: Here's How It Went - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiSWh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL2Nhbi15b3UtcGxheS16ZW5sZXNzLXpvbmUtemVyby1saW51eC1hbnN3ZXJlZC_SAQA",
           "author": null,
@@ -2446,6 +2385,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gEA",
+          "author": null,
+          "description": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gEA?oc=5",
+          "publishedOn": "2024-07-04T15:39:26.000Z",
+          "wordCount": 8850,
+          "title": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZ2Vhci0yNC0wNS0yLWlzLW91dC1ub3ctd2l0aC1tb3JlLWZpeGVzLWZvci15b3VyLWZhdm9yaXRlLWtkZS1hcHBz0gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1nZWFyLTI0LTA1LTItaXMtb3V0LW5vdy13aXRoLW1vcmUtZml4ZXMtZm9yLXlvdXItZmF2b3JpdGUta2RlLWFwcHMvYW1w",
           "author": null,
           "description": "KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps  9to5Linux",
@@ -2483,6 +2432,16 @@
           "publishedOn": "2024-07-04T11:46:00.000Z",
           "wordCount": 8850,
           "title": "Experimental Mir-based tiling WM is winning acceptance outside Ubuntopia - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LndpbmRvd3NjZW50cmFsLmNvbS9zb2Z0d2FyZS1hcHBzL2hvdy13ZWxsLWRvZXMtd3NsLXdvcmstb24tdGhlLW5ldy1zbmFwZHJhZ29uLXgtZWxpdGUtbGFwdG9wc9IBAA",
+          "author": null,
+          "description": "How well does WSL work on the new Snapdragon X Elite laptops?  Windows Central",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LndpbmRvd3NjZW50cmFsLmNvbS9zb2Z0d2FyZS1hcHBzL2hvdy13ZWxsLWRvZXMtd3NsLXdvcmstb24tdGhlLW5ldy1zbmFwZHJhZ29uLXgtZWxpdGUtbGFwdG9wc9IBAA?oc=5",
+          "publishedOn": "2024-07-04T10:58:30.000Z",
+          "wordCount": 8850,
+          "title": "How well does WSL work on the new Snapdragon X Elite laptops? - Windows Central",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2993,6 +2952,16 @@
           "publishedOn": "2024-07-02T09:11:29.000Z",
           "wordCount": 8850,
           "title": "Nitrux 3.5.1 Released with Linux Kernel 6.9 and NVIDIA 555 Graphics Driver - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS90dXRvcmlhbHMvY3liZXItc2VjdXJpdHktdHV0b3JpYWwvaG93LXRvLWJlY29tZS1hbi1ldGhpY2FsLWhhY2tlctIBAA",
+          "author": null,
+          "description": "How to Become an Ethical Hacker in 2024?  Simplilearn",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS90dXRvcmlhbHMvY3liZXItc2VjdXJpdHktdHV0b3JpYWwvaG93LXRvLWJlY29tZS1hbi1ldGhpY2FsLWhhY2tlctIBAA?oc=5",
+          "publishedOn": "2024-07-02T07:00:00.000Z",
+          "wordCount": 8850,
+          "title": "How to Become an Ethical Hacker in 2024? - Simplilearn",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7284,216 +7253,6 @@
           "wordCount": 8795,
           "title": "blendOS v4 Released With Android App Support - It's FOSS News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vdmlkZW9jYXJkei5jb20vbmV3ei9hbWQtYWRkcy1nZngxMTUyLWtyYWtlbi1wb2ludC1hcHUtd2l0aC1yZG5hMy01LWdyYXBoaWNzLXRvLW9wZW4tc291cmNlLWxpbnV4LWRyaXZlcnPSAQA",
-          "author": null,
-          "description": "AMD adds GFX1152 \"Kraken Point\" APU with RDNA3.5 graphics to open-source Linux drivers  VideoCardz.com",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdmlkZW9jYXJkei5jb20vbmV3ei9hbWQtYWRkcy1nZngxMTUyLWtyYWtlbi1wb2ludC1hcHUtd2l0aC1yZG5hMy01LWdyYXBoaWNzLXRvLW9wZW4tc291cmNlLWxpbnV4LWRyaXZlcnPSAQA?oc=5",
-          "publishedOn": "2024-06-07T12:53:00.000Z",
-          "wordCount": 8795,
-          "title": "AMD adds GFX1152 \"Kraken Point\" APU with RDNA3.5 graphics to open-source Linux drivers - VideoCardz.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS1saW51eC1jb3JlLTI0LWEtbGVhcC1mb3J3YXJkLWZvci1pb3QtYW5kLWVkZ2UtY29tcHV0aW5nL9IBAA",
-          "author": null,
-          "description": "Ubuntu Linux Core 24 is a leap forward for IoT and edge computing  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS1saW51eC1jb3JlLTI0LWEtbGVhcC1mb3J3YXJkLWZvci1pb3QtYW5kLWVkZ2UtY29tcHV0aW5nL9IBAA?oc=5",
-          "publishedOn": "2024-06-07T12:38:00.000Z",
-          "wordCount": 8795,
-          "title": "Ubuntu Linux Core 24 is a leap forward for IoT and edge computing - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRFJNLUludGVsLVhlLU5leHTSAQA",
-          "author": null,
-          "description": "Intel's Xe Driver Preps For SR-IOV Support & More Lunar Lake With Linux 6.11  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRFJNLUludGVsLVhlLU5leHTSAQA?oc=5",
-          "publishedOn": "2024-06-07T10:56:00.000Z",
-          "wordCount": 8795,
-          "title": "Intel's Xe Driver Preps For SR-IOV Support & More Lunar Lake With Linux 6.11 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xHLUdyYW0tMjAyNC1MYXB0b3BzLUxJbnV40gEA",
-          "author": null,
-          "description": "Improved Linux Driver Support Coming For LG Gram 2024 Laptop Models  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xHLUdyYW0tMjAyNC1MYXB0b3BzLUxJbnV40gEA?oc=5",
-          "publishedOn": "2024-06-07T10:37:00.000Z",
-          "wordCount": 8795,
-          "title": "Improved Linux Driver Support Coming For LG Gram 2024 Laptop Models - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvb2JzaWRpYW4tZ2F2ZS1waWxsYXJzLW9mLWV0ZXJuaXR5LWEtYmlnLXBhdGNoLWxpbnV4LWFuZC1tYWNvcy11cGRhdGVzLWJlaW5nLWludmVzdGlnYXRlZC_SAQA",
-          "author": null,
-          "description": "Obsidian gave Pillars of Eternity a big patch - Linux and macOS updates being investigated  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvb2JzaWRpYW4tZ2F2ZS1waWxsYXJzLW9mLWV0ZXJuaXR5LWEtYmlnLXBhdGNoLWxpbnV4LWFuZC1tYWNvcy11cGRhdGVzLWJlaW5nLWludmVzdGlnYXRlZC_SAQA?oc=5",
-          "publishedOn": "2024-06-07T10:27:59.000Z",
-          "wordCount": 8795,
-          "title": "Obsidian gave Pillars of Eternity a big patch - Linux and macOS updates being investigated - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA3L3VidW50dV8yNF9yZWFsdGltZV9jb3JlL9IBQ2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8wNy91YnVudHVfMjRfcmVhbHRpbWVfY29yZS8",
-          "author": null,
-          "description": "Real-time and Core editions of Ubuntu arrive  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA3L3VidW50dV8yNF9yZWFsdGltZV9jb3JlL9IBQ2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8wNy91YnVudHVfMjRfcmVhbHRpbWVfY29yZS8?oc=5",
-          "publishedOn": "2024-06-07T09:30:00.000Z",
-          "wordCount": 8795,
-          "title": "Real-time and Core editions of Ubuntu arrive - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9saW51eC1sYXB0b3Bz0gEA",
-          "author": null,
-          "description": "Best Linux laptop of 2024  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9saW51eC1sYXB0b3Bz0gEA?oc=5",
-          "publishedOn": "2024-06-07T07:30:45.000Z",
-          "wordCount": 8795,
-          "title": "Best Linux laptop of 2024 - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmNyb3dkc3RyaWtlLmNvbS9ibG9nL2FjdGl2ZS1leHBsb2l0YXRpb24tbGludXgta2VybmVsLXByaXZpbGVnZS1lc2NhbGF0aW9uLXZ1bG5lcmFiaWxpdHkv0gEA",
-          "author": null,
-          "description": "Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)  CrowdStrike",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNyb3dkc3RyaWtlLmNvbS9ibG9nL2FjdGl2ZS1leHBsb2l0YXRpb24tbGludXgta2VybmVsLXByaXZpbGVnZS1lc2NhbGF0aW9uLXZ1bG5lcmFiaWxpdHkv0gEA?oc=5",
-          "publishedOn": "2024-06-06T23:27:36.000Z",
-          "wordCount": 8795,
-          "title": "Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086) - CrowdStrike",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvYWhtZWRhYmFkL2dyYW50LWluLWFpZC1zY2hvb2xzLXdhbnQtbGludXgvYXJ0aWNsZXNob3cvMTEwNzc4OTc0LmNtc9IBcGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvYWhtZWRhYmFkL2dyYW50LWluLWFpZC1zY2hvb2xzLXdhbnQtbGludXgvYW1wX2FydGljbGVzaG93LzExMDc3ODk3NC5jbXM",
-          "author": null,
-          "description": "Grant-in-aid schools want Linux  The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvYWhtZWRhYmFkL2dyYW50LWluLWFpZC1zY2hvb2xzLXdhbnQtbGludXgvYXJ0aWNsZXNob3cvMTEwNzc4OTc0LmNtc9IBcGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvYWhtZWRhYmFkL2dyYW50LWluLWFpZC1zY2hvb2xzLXdhbnQtbGludXgvYW1wX2FydGljbGVzaG93LzExMDc3ODk3NC5jbXM?oc=5",
-          "publishedOn": "2024-06-06T23:03:00.000Z",
-          "wordCount": 8795,
-          "title": "Grant-in-aid schools want Linux - The Times of India",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L05peE9TLTI0LTA1LWFycml2ZXMtd2l0aC1Hbm9tZS00Ni1QbGFzbWEtNi1hbmQtdGhlLUxpbnV4LWtlcm5lbC02LTYuODQ1MDM2LjAuaHRtbNIBAA",
-          "author": null,
-          "description": "NixOS 24.05 arrives with Gnome 46, Plasma 6, and the Linux kernel 6.6  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L05peE9TLTI0LTA1LWFycml2ZXMtd2l0aC1Hbm9tZS00Ni1QbGFzbWEtNi1hbmQtdGhlLUxpbnV4LWtlcm5lbC02LTYuODQ1MDM2LjAuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-06-06T22:06:56.000Z",
-          "wordCount": 8795,
-          "title": "NixOS 24.05 arrives with Gnome 46, Plasma 6, and the Linux kernel 6.6 - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vZGV2b3BzLmNvbS9yaXAtY2VudG9zLWhlbGxvLWFsbWFsaW51eC1yb2NreS1saW51eC1jZW50b3Mtc3RyZWFtLW9yLXJoZWwv0gFUaHR0cHM6Ly9kZXZvcHMuY29tL3JpcC1jZW50b3MtaGVsbG8tYWxtYWxpbnV4LXJvY2t5LWxpbnV4LWNlbnRvcy1zdHJlYW0tb3ItcmhlbC9hbXAv",
-          "author": null,
-          "description": "RIP CentOS. Hello AlmaLinux Rocky Linux, CentOS Stream or RHEL  DevOps.com",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZGV2b3BzLmNvbS9yaXAtY2VudG9zLWhlbGxvLWFsbWFsaW51eC1yb2NreS1saW51eC1jZW50b3Mtc3RyZWFtLW9yLXJoZWwv0gFUaHR0cHM6Ly9kZXZvcHMuY29tL3JpcC1jZW50b3MtaGVsbG8tYWxtYWxpbnV4LXJvY2t5LWxpbnV4LWNlbnRvcy1zdHJlYW0tb3ItcmhlbC9hbXAv?oc=5",
-          "publishedOn": "2024-06-06T20:57:56.000Z",
-          "wordCount": 8795,
-          "title": "RIP CentOS. Hello AlmaLinux Rocky Linux, CentOS Stream or RHEL - DevOps.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDYvb3JhY2xlLWxpbnV4LXVlay1uZXh0L9IBAA",
-          "author": null,
-          "description": "Oracle Linux's UEK-Next Enables Developers to Explore and Validate the Latest Linux Development  InfoQ.com",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDYvb3JhY2xlLWxpbnV4LXVlay1uZXh0L9IBAA?oc=5",
-          "publishedOn": "2024-06-06T20:00:43.000Z",
-          "wordCount": 8795,
-          "title": "Oracle Linux's UEK-Next Enables Developers to Explore and Validate the Latest Linux Development - InfoQ.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1UTC1FUFAtVHVuaW5nLTY00gEA",
-          "author": null,
-          "description": "Updated Intel Meteor Lake Tuning For Linux Shows Huge Performance/Power Improvements  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1UTC1FUFAtVHVuaW5nLTY00gEA?oc=5",
-          "publishedOn": "2024-06-06T20:00:00.000Z",
-          "wordCount": 8795,
-          "title": "Updated Intel Meteor Lake Tuning For Linux Shows Huge Performance/Power Improvements - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjQyMTkvY3liZXItY3JpbWUvbGludXgtdmVyc2lvbi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUuaHRtbNIBXmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjQyMTkvY3liZXItY3JpbWUvbGludXgtdmVyc2lvbi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUuaHRtbD9hbXA",
-          "author": null,
-          "description": "A new Linux version of TargetCompany ransomware targets VMware ESXi environments  Security Affairs",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjQyMTkvY3liZXItY3JpbWUvbGludXgtdmVyc2lvbi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUuaHRtbNIBXmh0dHBzOi8vc2VjdXJpdHlhZmZhaXJzLmNvbS8xNjQyMTkvY3liZXItY3JpbWUvbGludXgtdmVyc2lvbi10YXJnZXRjb21wYW55LXJhbnNvbXdhcmUuaHRtbD9hbXA?oc=5",
-          "publishedOn": "2024-06-06T17:58:57.000Z",
-          "wordCount": 8795,
-          "title": "A new Linux version of TargetCompany ransomware targets VMware ESXi environments - Security Affairs",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA2L2xhbnN3ZWVwZXJfY2VudG9zL9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8wNi9sYW5zd2VlcGVyX2NlbnRvcy8",
-          "author": null,
-          "description": "Lansweeper finds a lot of CentOS Linux out there  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzA2L2xhbnN3ZWVwZXJfY2VudG9zL9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8wNi9sYW5zd2VlcGVyX2NlbnRvcy8?oc=5",
-          "publishedOn": "2024-06-06T17:31:00.000Z",
-          "wordCount": 8795,
-          "title": "Lansweeper finds a lot of CentOS Linux out there - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1HRlgxMTUyLUFwcGVhcnPSAQA",
-          "author": null,
-          "description": "New AMD RDNA 3.5 GPU Target \"GFX1152\" Appears In Open-Source Linux Driver  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1HRlgxMTUyLUFwcGVhcnPSAQA?oc=5",
-          "publishedOn": "2024-06-06T17:02:00.000Z",
-          "wordCount": 8795,
-          "title": "New AMD RDNA 3.5 GPU Target \"GFX1152\" Appears In Open-Source Linux Driver - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0thbGktTGludXgtMjAyNC0yLWxhdW5jaGVzLXdpdGgtdXBkYXRlZC1kZXNrdG9wcy1hbmQtYnVnLWZpeGVzLjg0NDY1Ni4wLmh0bWzSAQA",
-          "author": null,
-          "description": "Kali Linux 2024.2 launches with updated desktops and bug fixes  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0thbGktTGludXgtMjAyNC0yLWxhdW5jaGVzLXdpdGgtdXBkYXRlZC1kZXNrdG9wcy1hbmQtYnVnLWZpeGVzLjg0NDY1Ni4wLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-06-06T16:08:54.000Z",
-          "wordCount": 8795,
-          "title": "Kali Linux 2024.2 launches with updated desktops and bug fixes - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L3Byb3Rvbi1wYXNzLWZvci1saW51eNIBPWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L3Byb3Rvbi1wYXNzLWZvci1saW51eC9hbXA",
-          "author": null,
-          "description": "Proton Pass Desktop App Released for Linux  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L3Byb3Rvbi1wYXNzLWZvci1saW51eNIBPWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L3Byb3Rvbi1wYXNzLWZvci1saW51eC9hbXA?oc=5",
-          "publishedOn": "2024-06-06T15:11:15.000Z",
-          "wordCount": 8795,
-          "title": "Proton Pass Desktop App Released for Linux - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J5emVuLUFJLTMwMC1MYXB0b3AtU2hvcHBpbmfSAQA",
-          "author": null,
-          "description": "Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J5emVuLUFJLTMwMC1MYXB0b3AtU2hvcHBpbmfSAQA?oc=5",
-          "publishedOn": "2024-06-06T14:40:00.000Z",
-          "wordCount": 8795,
-          "title": "Shopping For A Launch-Day AMD Ryzen AI 300 Series Laptop For Linux Testing - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL3Ztd2FyZS1lc3hpLXRhcmdldGVkLWJ5LXRhcmdldGNvbXBhbnktZm9yLWxpbnV4LXJhbnNvbXdhcmXSAQA",
-          "author": null,
-          "description": "VMware ESXi targeted by TargetCompany for Linux ransomware  SC Media",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL3Ztd2FyZS1lc3hpLXRhcmdldGVkLWJ5LXRhcmdldGNvbXBhbnktZm9yLWxpbnV4LXJhbnNvbXdhcmXSAQA?oc=5",
-          "publishedOn": "2024-06-06T14:27:00.000Z",
-          "wordCount": 8795,
-          "title": "VMware ESXi targeted by TargetCompany for Linux ransomware - SC Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbW9vbmxpZ2h0LXBjLWZvci1nYW1lLXN0cmVhbWluZy12aWEtc3Vuc2hpbmUtZ2V0cy1oZHItc3VwcG9ydC1mb3ItbGludXgtc3RlYW0tZGVjay_SAQA",
-          "author": null,
-          "description": "Moonlight PC for game streaming via Sunshine gets HDR support for Linux / Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDYvbW9vbmxpZ2h0LXBjLWZvci1nYW1lLXN0cmVhbWluZy12aWEtc3Vuc2hpbmUtZ2V0cy1oZHItc3VwcG9ydC1mb3ItbGludXgtc3RlYW0tZGVjay_SAQA?oc=5",
-          "publishedOn": "2024-06-06T13:29:51.000Z",
-          "wordCount": 8795,
-          "title": "Moonlight PC for game streaming via Sunshine gets HDR support for Linux / Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9935,21 +9694,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
-          "link": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
-          "publishedOn": "2024-06-07T11:00:00.000Z",
-          "wordCount": 4011,
-          "title": "Useful CSS Tips And Techniques",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png"
         }
       ]
     },
@@ -10617,26 +10361,6 @@
           "wordCount": 3640,
           "title": "How to Use WeakMap and WeakSet in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
-          "author": "Akinwumi Iyanuoluwa Ayomiposi",
-          "description": "In this tutorial, you'll build a simple real-time chat app using Go, Fiber and HTMX.  You will learn how to leverage the versatility of Fiber by making use of a WebSocket. You'll also learn how to create a reactive frontend without the use of JavaScript. Prerequisites  * A",
-          "link": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
-          "publishedOn": "2024-06-06T18:06:35.000Z",
-          "wordCount": 2147,
-          "title": "How to Build a Real-Time Chat App With Go, Fiber and HTMX",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/websocket.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
-          "author": "Beau Carnes",
-          "description": "The Azure DevOps Engineer Expert Certification (AZ-400) is for professionals who aim to demonstrate their expertise in integrating people, processes, and technologies to continuously deliver valuable products and services. It’s ideal for those who ar...",
-          "link": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
-          "publishedOn": "2024-06-06T14:48:33.000Z",
-          "wordCount": 861,
-          "title": "Master the Azure DevOps Engineer Expert Certification (AZ-400)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717685292411/87c8d3d3-50e3-4561-a807-98f4bbcc170e.png"
         }
       ]
     }
