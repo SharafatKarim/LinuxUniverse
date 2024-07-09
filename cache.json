@@ -18,6 +18,96 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190592",
+          "author": "Web Webster",
+          "description": "Your guide to installing Docker on Arch Linux. Simple, practical steps tailored for beginners and experts alike.\nThe post How to Install Docker on Arch Linux: A Step-by-Step Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-docker-on-arch-linux-a-step-by-step-guide/",
+          "publishedOn": "2024-07-09T00:00:34.000Z",
+          "wordCount": 9031,
+          "title": "How to Install Docker on Arch Linux: A Step-by-Step Guide",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190600",
+          "author": "Web Webster",
+          "description": "Flarum is open-source discussion software that is the combined successor of esoTalk and FluxBB boards. In this tutorial, you’ll learn how to install Flarum Community Software on a server based on Debian 12.\nThe post How to Install Flarum Community Software on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-flarum-community-software-on-debian-12/",
+          "publishedOn": "2024-07-08T22:00:31.000Z",
+          "wordCount": 9044,
+          "title": "How to Install Flarum Community Software on Debian 12",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190596",
+          "author": "Web Webster",
+          "description": "The chattr command in Linux is a utility that allows users to change file attributes on a filesystem. This command provides enhanced control over files by setting attributes that can modify file behaviors in ways not achievable through regular permissions. For instance, using chattr, one can make a file immutable with the “+i” attribute, preventing […]\nThe post Linux chattr Command Tutorial for Beginners (5 Examples) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/linux-chattr-command-tutorial-for-beginners-5-examples-2/",
+          "publishedOn": "2024-07-08T20:00:06.000Z",
+          "wordCount": 9074,
+          "title": "Linux chattr Command Tutorial for Beginners (5 Examples)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190609",
+          "author": "Web Webster",
+          "description": "On July 7, 2024, Linus Torvalds announced the release of Linux kernel 6.10 release candidate 7 (RC7). In his message to the Linux Kernel mailing list, Torvalds expressed his satisfaction with the current state of the kernel development.\nThe post Linux Kernel 6.10 RC7 Released: A Calm Prelude to Release appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/linux-kernel-6-10-rc7-released-a-calm-prelude-to-release/",
+          "publishedOn": "2024-07-08T18:00:47.000Z",
+          "wordCount": 9054,
+          "title": "Linux Kernel 6.10 RC7 Released: A Calm Prelude to Release",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190610",
+          "author": "Web Webster",
+          "description": "Mozilla has pushed today the final build of the Firefox 128 open-source web browser, which will be officially announced on July 9th, 2024, so it’s time to take a look at the new features and improvements.\nThe post Mozilla Firefox 128 Is Now Available for Download, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/mozilla-firefox-128-is-now-available-for-download-heres-whats-new/",
+          "publishedOn": "2024-07-08T17:00:34.000Z",
+          "wordCount": 9059,
+          "title": "Mozilla Firefox 128 Is Now Available for Download, Here’s What’s New",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190589",
+          "author": "Web Webster",
+          "description": "Good news for Debian users! HTTP3 arrives in Debian Curl. Yes, starting with curl 8.0.0-2, Debian users can now utilize HTTP3.\nThe post It’s Official! Debian Curl Now Supports HTTP3 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/its-official-debian-curl-now-supports-http3/",
+          "publishedOn": "2024-07-08T16:00:13.000Z",
+          "wordCount": 9027,
+          "title": "It’s Official! Debian Curl Now Supports HTTP3",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190588",
+          "author": "Web Webster",
+          "description": "Grafana Loki 3.1 log aggregation system debuts with query acceleration, improvements in Helm chart handling, and more.\nThe post Grafana Loki 3.1 Enhances Query Performance With Bloom Filters appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/grafana-loki-3-1-enhances-query-performance-with-bloom-filters/",
+          "publishedOn": "2024-07-08T15:00:51.000Z",
+          "wordCount": 9025,
+          "title": "Grafana Loki 3.1 Enhances Query Performance With Bloom Filters",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190599",
+          "author": "Web Webster",
+          "description": "System76’s COSMIC desktop just released a set of eight official wallpapers, which are now available for Pop!_OS users to install. Check them out!\nThe post COSMIC Desktop Introduced Its Official Wallpapers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/cosmic-desktop-introduced-its-official-wallpapers/",
+          "publishedOn": "2024-07-08T14:00:33.000Z",
+          "wordCount": 9023,
+          "title": "COSMIC Desktop Introduced Its Official Wallpapers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190598",
+          "author": "Web Webster",
+          "description": "Clement Lefebvre, the lead developer of Linux Mint, announced that the final version of Linux Mint 22 will be released this month. The team is currently focused on addressing issues reported during the BETA phase.\nThe post Linux Mint 22 Wilma Stable Will Be Released This Month appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/linux-mint-22-wilma-stable-will-be-released-this-month/",
+          "publishedOn": "2024-07-08T13:00:30.000Z",
+          "wordCount": 9057,
+          "title": "Linux Mint 22 Wilma Stable Will Be Released This Month",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189792",
           "author": "Web Webster",
           "description": "Here’s our verdict for the best open-source firewall distributions captured in a legendary LinuxLinks chart. All of the software featured in this article is released under an open-source license. Each of the solutions offers a comparable set of features to many expensive commercial firewall solutions.\nThe post 5 Best Open-Source Firewall Distributions appeared first on Linux Today.",
@@ -1956,76 +2046,6 @@
           "wordCount": 9023,
           "title": "Developing AI? RHEL AI’s Developer Preview Is Here",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189514",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to check your private and public IP addresses, including both IPv4 and IPv6 protocols, using CLI and GUI methods.\nThe post How to Check Your Private & Public IP Addresses in Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-check-your-private-public-ip-addresses-in-ubuntu/",
-          "publishedOn": "2024-06-09T02:00:19.000Z",
-          "wordCount": 9037,
-          "title": "How to Check Your Private & Public IP Addresses in Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/2e6f19d67ee436737ba8177caed83185/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/2e6f19d67ee436737ba8177caed83185/",
-          "publishedOn": "2024-06-08T20:52:31.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189447",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to enable automatic login on Ubuntu and other distros with gdm3, LightDM, and SDDM display managers.\nThe post Enable Automatic Login in Ubuntu 24.04, 23.04 & Other Flavors appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/enable-automatic-login-in-ubuntu-24-04-23-04-other-flavors/",
-          "publishedOn": "2024-06-08T18:25:01.000Z",
-          "wordCount": 9029,
-          "title": "Enable Automatic Login in Ubuntu 24.04, 23.04 & Other Flavors",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/b5c270c75900c0bba54cbcb7983eb813/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/b5c270c75900c0bba54cbcb7983eb813/",
-          "publishedOn": "2024-06-08T17:58:37.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/f197fac67532bec063091ace2bde84cf/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/f197fac67532bec063091ace2bde84cf/",
-          "publishedOn": "2024-06-08T14:58:15.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/9d53f0ac54e925650e66ea2542da0775/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/9d53f0ac54e925650e66ea2542da0775/",
-          "publishedOn": "2024-06-08T14:58:10.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/acef76419578b29ed697b7e6b79d41f1/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/acef76419578b29ed697b7e6b79d41f1/",
-          "publishedOn": "2024-06-08T14:58:05.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -2034,6 +2054,236 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiVmh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNy8wOC83LWxpbnV4LXRlcm1zLWV4cGxhaW5lZC1kaXN0cm8tZGUtcmVwb3MtYW5kLW1vcmUv0gEA",
+          "author": null,
+          "description": "7 Linux Terms Explained: Distro, DE, Repos, and More  Adafruit Blog",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYmxvZy5hZGFmcnVpdC5jb20vMjAyNC8wNy8wOC83LWxpbnV4LXRlcm1zLWV4cGxhaW5lZC1kaXN0cm8tZGUtcmVwb3MtYW5kLW1vcmUv0gEA?oc=5",
+          "publishedOn": "2024-07-08T20:00:00.000Z",
+          "wordCount": 8862,
+          "title": "7 Linux Terms Explained: Distro, DE, Repos, and More - Adafruit Blog",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4xMC1Nb3JlLUZyYW1lLVBvaW50ZXLSAQA",
+          "author": null,
+          "description": "Ubuntu 24.10 To Enable Frame Pointers For More Packages  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yNC4xMC1Nb3JlLUZyYW1lLVBvaW50ZXLSAQA?oc=5",
+          "publishedOn": "2024-07-08T19:52:00.000Z",
+          "wordCount": 8862,
+          "title": "Ubuntu 24.10 To Enable Frame Pointers For More Packages - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1zdXBwb3J0LWxpbnV4LWtlcm5lbHMtYW5kcm9pZC_SAQA",
+          "author": null,
+          "description": "Google will update Android's Linux kernel 4 years after its own long-term support  Android Police",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1zdXBwb3J0LWxpbnV4LWtlcm5lbHMtYW5kcm9pZC_SAQA?oc=5",
+          "publishedOn": "2024-07-08T19:22:00.000Z",
+          "wordCount": 8862,
+          "title": "Google will update Android's Linux kernel 4 years after its own long-term support - Android Police",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjQvMDcvMDgvaG93LXRvLXJ1bi11YnVudHUtbGludXgtb24tYXBwbGUtc2lsaWNvbi1tYWMv0gEA",
+          "author": null,
+          "description": "How to Run Ubuntu Linux on Apple Silicon Mac  OSXDaily",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjQvMDcvMDgvaG93LXRvLXJ1bi11YnVudHUtbGludXgtb24tYXBwbGUtc2lsaWNvbi1tYWMv0gEA?oc=5",
+          "publishedOn": "2024-07-08T17:48:36.000Z",
+          "wordCount": 8862,
+          "title": "How to Run Ubuntu Linux on Apple Silicon Mac - OSXDaily",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisgFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9zdHVkZW50LXJlZGlzY292ZXJzLXRoaW4tY2xpZW50LWNvbmNlcHQtYm9vdGluZy1saW51eC1mcm9tLWdvb2dsZS1kcml2ZS1hLWdyZWF0LXByb29mLW9mLWNvbmNlcHQtYnV0LW9uZS10aGF0LWhhcy12ZXJ5LWxpbWl0ZWQtdXNlLWluLXRoZS1yZWFsLXdvcmxk0gEA",
+          "author": null,
+          "description": "Student rediscovers thin client concept, booting Linux from Google Drive — a great proof of concept but one that has ...  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9zdHVkZW50LXJlZGlzY292ZXJzLXRoaW4tY2xpZW50LWNvbmNlcHQtYm9vdGluZy1saW51eC1mcm9tLWdvb2dsZS1kcml2ZS1hLWdyZWF0LXByb29mLW9mLWNvbmNlcHQtYnV0LW9uZS10aGF0LWhhcy12ZXJ5LWxpbWl0ZWQtdXNlLWluLXRoZS1yZWFsLXdvcmxk0gEA?oc=5",
+          "publishedOn": "2024-07-08T17:25:53.000Z",
+          "wordCount": 8862,
+          "title": "Student rediscovers thin client concept, booting Linux from Google Drive — a great proof of concept but one that has ... - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9saW51eC1taW50LTIyLXJlbGVhc2UtZGVsYXllZC_SAQA",
+          "author": null,
+          "description": "Linux Mint 22 Release Delayed Due to Nasty Bugs!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9saW51eC1taW50LTIyLXJlbGVhc2UtZGVsYXllZC_SAQA?oc=5",
+          "publishedOn": "2024-07-08T16:39:17.000Z",
+          "wordCount": 8862,
+          "title": "Linux Mint 22 Release Delayed Due to Nasty Bugs! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvZ3B1cy9pbnRlbC1wcmVwcy1sdW5hci1sYWtlLW9wdGltaXplZC1hZGFwdGl2ZS1zaGFycGVuaW5nLWZpbHRlci1mb3ItbGludXgtZGVwbG95bWVudNIBAA",
+          "author": null,
+          "description": "Intel preps Lunar Lake-optimized adaptive sharpening filter for Linux deployment  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvZ3B1cy9pbnRlbC1wcmVwcy1sdW5hci1sYWtlLW9wdGltaXplZC1hZGFwdGl2ZS1zaGFycGVuaW5nLWZpbHRlci1mb3ItbGludXgtZGVwbG95bWVudNIBAA?oc=5",
+          "publishedOn": "2024-07-08T15:51:50.000Z",
+          "wordCount": 8862,
+          "title": "Intel preps Lunar Lake-optimized adaptive sharpening filter for Linux deployment - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuLWludGVsLWNvcmUtbGludXg2MTDSAQA",
+          "author": null,
+          "description": "AMD Ryzen 7000/8000 Series vs. 14th Gen Intel Core CPU Performance On Linux 6.10 With 400+ Benchmarks  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuLWludGVsLWNvcmUtbGludXg2MTDSAQA?oc=5",
+          "publishedOn": "2024-07-08T15:02:00.000Z",
+          "wordCount": 8862,
+          "title": "AMD Ryzen 7000/8000 Series vs. 14th Gen Intel Core CPU Performance On Linux 6.10 With 400+ Benchmarks - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLWktZG8tYWZ0ZXItaW5zdGFsbGluZy1saW51eC_SAQA",
+          "author": null,
+          "description": "12 Things I Do Right After Installing Linux (And You Should Too)  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLWktZG8tYWZ0ZXItaW5zdGFsbGluZy1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-07-08T15:00:00.000Z",
+          "wordCount": 8862,
+          "title": "12 Things I Do Right After Installing Linux (And You Should Too) - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xYRC02LjEtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "LXD 6.1 Released With Automatic Core Pinning Load Balancing, Fixes Hosts With 64+ CPU Cores  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xYRC02LjEtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2024-07-08T13:40:00.000Z",
+          "wordCount": 8862,
+          "title": "LXD 6.1 Released With Automatic Core Pinning Load Balancing, Fixes Hosts With 64+ CPU Cores - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL2F0dGFja3Mtd2l0aC1uZXctbWFsbG94LXJhbnNvbXdhcmUtdmVyc2lvbi1haW1lZC1hdC1saW51eNIBAA",
+          "author": null,
+          "description": "Attacks with new Mallox ransomware version aimed at Linux  SC Media",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL2F0dGFja3Mtd2l0aC1uZXctbWFsbG94LXJhbnNvbXdhcmUtdmVyc2lvbi1haW1lZC1hdC1saW51eNIBAA?oc=5",
+          "publishedOn": "2024-07-08T13:34:00.000Z",
+          "wordCount": 8862,
+          "title": "Attacks with new Mallox ransomware version aimed at Linux - SC Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9uZXctcmFuc29td2FyZS1hcy1zZXJ2aWNlLWVsZG9yYWRvLmh0bWzSAQA",
+          "author": null,
+          "description": "New Ransomware-as-a-Service 'Eldorado' Targets Windows and Linux Systems  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9uZXctcmFuc29td2FyZS1hcy1zZXJ2aWNlLWVsZG9yYWRvLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-07-08T13:15:00.000Z",
+          "wordCount": 8862,
+          "title": "New Ransomware-as-a-Service 'Eldorado' Targets Windows and Linux Systems - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LnRlY2h6aW5lLmV1L25ld3MvZGV2b3BzLzEyMjAxMS9zdGFibGUtcmVsZWFzZS1vZi1saW51eC1taW50LTIyLWlzLXN0aWxsLWEtd2hpbGUtYXdheS_SAQA",
+          "author": null,
+          "description": "Stable release of Linux Mint 22 is still a while away  Techzine Europe",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlY2h6aW5lLmV1L25ld3MvZGV2b3BzLzEyMjAxMS9zdGFibGUtcmVsZWFzZS1vZi1saW51eC1taW50LTIyLWlzLXN0aWxsLWEtd2hpbGUtYXdheS_SAQA?oc=5",
+          "publishedOn": "2024-07-08T13:01:51.000Z",
+          "wordCount": 8862,
+          "title": "Stable release of Linux Mint 22 is still a while away - Techzine Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RldmljZS1NZW1vcnktVENQLU5lYXJz0gEA",
+          "author": null,
+          "description": "Device Memory TCP Nears The Finish Line For More Efficient Networked Accelerators  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RldmljZS1NZW1vcnktVENQLU5lYXJz0gEA?oc=5",
+          "publishedOn": "2024-07-08T12:13:00.000Z",
+          "wordCount": 8862,
+          "title": "Device Memory TCP Nears The Finish Line For More Efficient Networked Accelerators - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURSTS1TaGFycGVuaW5nLVByb3BlcnR50gEA",
+          "author": null,
+          "description": "Intel Continues Readying Linux For Lunar Lake's New Adaptive Sharpening Filter  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURSTS1TaGFycGVuaW5nLVByb3BlcnR50gEA?oc=5",
+          "publishedOn": "2024-07-08T10:33:00.000Z",
+          "wordCount": 8862,
+          "title": "Intel Continues Readying Linux For Lunar Lake's New Adaptive Sharpening Filter - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvdnItZ2FtZS1zdHJlYW1pbmctdG9vbC1hbHZyLWFkZHMtcGlwZXdpcmUtc3VwcG9ydC1vbi1saW51eC_SAQA",
+          "author": null,
+          "description": "VR game streaming tool ALVR adds PipeWire support on Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvdnItZ2FtZS1zdHJlYW1pbmctdG9vbC1hbHZyLWFkZHMtcGlwZXdpcmUtc3VwcG9ydC1vbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-07-08T10:29:05.000Z",
+          "wordCount": 8862,
+          "title": "VR game streaming tool ALVR adds PipeWire support on Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTVVMtRUMtWDY3MEUtQ1JFQVRPUi1XSUZJ0gEA",
+          "author": null,
+          "description": "ASUS EC Sensors Linux Driver Adding Support For The ProArt X670E-CREATOR WIFI  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTVVMtRUMtWDY3MEUtQ1JFQVRPUi1XSUZJ0gEA?oc=5",
+          "publishedOn": "2024-07-08T10:22:00.000Z",
+          "wordCount": 8862,
+          "title": "ASUS EC Sensors Linux Driver Adding Support For The ProArt X670E-CREATOR WIFI - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVseS03dGgtMjAyNNIBQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVseS03dGgtMjAyNC9hbXA",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: July 7th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVseS03dGgtMjAyNNIBQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVseS03dGgtMjAyNC9hbXA?oc=5",
+          "publishedOn": "2024-07-08T10:19:26.000Z",
+          "wordCount": 8862,
+          "title": "9to5Linux Weekly Roundup: July 7th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvdmFsdmUtZml4ZXMtdXAtdGhlLW5ldy1yaXZlbi1mcm9tLWN5YW4td29ybGRzLXZpZGVvcy1vbi1saW51eC1zdGVhbS1kZWNrL9IBAA",
+          "author": null,
+          "description": "Valve fixes up the new Riven from Cyan Worlds videos on Linux / Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvdmFsdmUtZml4ZXMtdXAtdGhlLW5ldy1yaXZlbi1mcm9tLWN5YW4td29ybGRzLXZpZGVvcy1vbi1saW51eC1zdGVhbS1kZWNrL9IBAA?oc=5",
+          "publishedOn": "2024-07-08T09:44:44.000Z",
+          "wordCount": 8862,
+          "title": "Valve fixes up the new Riven from Cyan Worlds videos on Linux / Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL2hvdy10by1zd2l0Y2gtZnJvbS13aW5kb3dzLXRvLWxpbnV4LWEtc3RlcC1ieS1zdGVwLWd1aWRlL3N0b3J50gEA",
+          "author": null,
+          "description": "Frustrated with Windows? Here's your guide to switching to Linux  NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL2hvdy10by1zd2l0Y2gtZnJvbS13aW5kb3dzLXRvLWxpbnV4LWEtc3RlcC1ieS1zdGVwLWd1aWRlL3N0b3J50gEA?oc=5",
+          "publishedOn": "2024-07-08T06:59:36.000Z",
+          "wordCount": 8862,
+          "title": "Frustrated with Windows? Here's your guide to switching to Linux - NewsBytes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vZ2FnYWRnZXQuY29tL2VuLzQ3ODQ5Ni1nb29nbGUtYW5ub3VuY2VzLWV4dGVuc2lvbi1vZi1zdXBwb3J0LWZvci1sYXRlc3QtbGludXgta2VybmVsLXJlbGVhc2VzLWZyb20tMi10by00LXllYXJzL9IBfGh0dHBzOi8vZ2FnYWRnZXQuY29tL2VuLzQ3ODQ5Ni1nb29nbGUtYW5ub3VuY2VzLWV4dGVuc2lvbi1vZi1zdXBwb3J0LWZvci1sYXRlc3QtbGludXgta2VybmVsLXJlbGVhc2VzLWZyb20tMi10by00LXllYXJzLWFtcC8",
+          "author": null,
+          "description": "Google announces extension of support for latest Linux kernel releases from 2 to 4 years  gagadget.com",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZ2FnYWRnZXQuY29tL2VuLzQ3ODQ5Ni1nb29nbGUtYW5ub3VuY2VzLWV4dGVuc2lvbi1vZi1zdXBwb3J0LWZvci1sYXRlc3QtbGludXgta2VybmVsLXJlbGVhc2VzLWZyb20tMi10by00LXllYXJzL9IBfGh0dHBzOi8vZ2FnYWRnZXQuY29tL2VuLzQ3ODQ5Ni1nb29nbGUtYW5ub3VuY2VzLWV4dGVuc2lvbi1vZi1zdXBwb3J0LWZvci1sYXRlc3QtbGludXgta2VybmVsLXJlbGVhc2VzLWZyb20tMi10by00LXllYXJzLWFtcC8?oc=5",
+          "publishedOn": "2024-07-08T06:04:38.000Z",
+          "wordCount": 8862,
+          "title": "Google announces extension of support for latest Linux kernel releases from 2 to 4 years - gagadget.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9saW51eC1taW50LTIyLXN0YWJsZS1yZWxlYXNlLW1heS10YWtlLW1vcmUtdGhhbi10d28td2Vla3MtcHJvamVjdC1sZWFkLXdhcm5zL9IBaGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2xpbnV4LW1pbnQtMjItc3RhYmxlLXJlbGVhc2UtbWF5LXRha2UtbW9yZS10aGFuLXR3by13ZWVrcy1wcm9qZWN0LWxlYWQtd2FybnMv",
+          "author": null,
+          "description": "Linux Mint 22 Stable release may take more than two weeks, project lead warns  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9saW51eC1taW50LTIyLXN0YWJsZS1yZWxlYXNlLW1heS10YWtlLW1vcmUtdGhhbi10d28td2Vla3MtcHJvamVjdC1sZWFkLXdhcm5zL9IBaGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2xpbnV4LW1pbnQtMjItc3RhYmxlLXJlbGVhc2UtbWF5LXRha2UtbW9yZS10aGFuLXR3by13ZWVrcy1wcm9qZWN0LWxlYWQtd2FybnMv?oc=5",
+          "publishedOn": "2024-07-08T05:30:00.000Z",
+          "wordCount": 8862,
+          "title": "Linux Mint 22 Stable release may take more than two weeks, project lead warns - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2dvb2dsZS1leHRlbmRzLWxpbnV4LXN1cHBvcnQtMzQ1Nzg3MS_SAQA",
+          "author": null,
+          "description": "Google extends Linux kernel support to keep Android devices secure for longer  Android Authority",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tL2dvb2dsZS1leHRlbmRzLWxpbnV4LXN1cHBvcnQtMzQ1Nzg3MS_SAQA?oc=5",
+          "publishedOn": "2024-07-08T04:42:38.000Z",
+          "wordCount": 8862,
+          "title": "Google extends Linux kernel support to keep Android devices secure for longer - Android Authority",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtcmM3LVJlbGVhc2Vk0gEA",
           "author": null,
@@ -2202,6 +2452,16 @@
           "publishedOn": "2024-07-05T19:31:00.000Z",
           "wordCount": 8850,
           "title": "Intel IDXD Driver To Better Handle Accelerators In Event Of Hardware Errors - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9ob3ctdG8vaG93LXRvLW1ha2UtdGhlLXN3aXRjaC1mcm9tLXdpbmRvd3MtdG8tbGludXjSAQA",
+          "author": null,
+          "description": "Sick of Microsoft? How to Make the Switch From Windows to Linux  PCMag",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9ob3ctdG8vaG93LXRvLW1ha2UtdGhlLXN3aXRjaC1mcm9tLXdpbmRvd3MtdG8tbGludXjSAQA?oc=5",
+          "publishedOn": "2024-07-05T19:07:30.000Z",
+          "wordCount": 8862,
+          "title": "Sick of Microsoft? How to Make the Switch From Windows to Linux - PCMag",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7103,76 +7363,6 @@
           "wordCount": 8795,
           "title": "Arch Linux Powered CachyOS Now Defaults To Btrfs Rather Than XFS - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtc2tpbGxzLW1hbmFnZS1zeXN0ZW0tc2VydmljZXMv0gEA",
-          "author": null,
-          "description": "Linux Skills: Manage System Services  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtc2tpbGxzLW1hbmFnZS1zeXN0ZW0tc2VydmljZXMv0gEA?oc=5",
-          "publishedOn": "2024-06-09T13:07:08.000Z",
-          "wordCount": 8795,
-          "title": "Linux Skills: Manage System Services - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3Lnphd3lhLmNvbS9lbi9wcmVzcy1yZWxlYXNlL2NvbXBhbmllcy1uZXdzL2thc3BlcnNreS1yZWxlYXNlcy1mcmVlLW1hbHdhcmUtc2Nhbm5lci1mb3ItbGludXgtcmxnbDU3bjjSAXZodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9rYXNwZXJza3ktcmVsZWFzZXMtZnJlZS1tYWx3YXJlLXNjYW5uZXItZm9yLWxpbnV4LXJsZ2w1N244P2FtcD0x",
-          "author": null,
-          "description": "Kaspersky releases free malware scanner for Linux  ZAWYA",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lnphd3lhLmNvbS9lbi9wcmVzcy1yZWxlYXNlL2NvbXBhbmllcy1uZXdzL2thc3BlcnNreS1yZWxlYXNlcy1mcmVlLW1hbHdhcmUtc2Nhbm5lci1mb3ItbGludXgtcmxnbDU3bjjSAXZodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9rYXNwZXJza3ktcmVsZWFzZXMtZnJlZS1tYWx3YXJlLXNjYW5uZXItZm9yLWxpbnV4LXJsZ2w1N244P2FtcD0x?oc=5",
-          "publishedOn": "2024-06-09T13:06:15.000Z",
-          "wordCount": 8795,
-          "title": "Kaspersky releases free malware scanner for Linux - ZAWYA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREtGRC1HRlgxMi1TdXBwb3J00gEA",
-          "author": null,
-          "description": "AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREtGRC1HRlgxMi1TdXBwb3J00gEA?oc=5",
-          "publishedOn": "2024-06-09T10:52:00.000Z",
-          "wordCount": 8795,
-          "title": "AMD's Linux Kernel Compute Driver For ROCm Begins Preparing For RDNA4 GPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlHQi1JWEdCRS1GaXJtd2FyZS1VcGRhdGXSAQA",
-          "author": null,
-          "description": "Intel In-Tree Linux Network Drivers Being Adapted To Support Firmware Updates  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlHQi1JWEdCRS1GaXJtd2FyZS1VcGRhdGXSAQA?oc=5",
-          "publishedOn": "2024-06-09T10:36:00.000Z",
-          "wordCount": 8730,
-          "title": "Intel In-Tree Linux Network Drivers Being Adapted To Support Firmware Updates - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifWh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNi8wOS93ZWVrLWluLXJldmlldy1hdGxhc3NpYW4tY29uZmx1ZW5jZS1yY2UtcG9jLW5ldy1rYWxpLWxpbnV4LXBhdGNoLXR1ZXNkYXktZm9yZWNhc3Qv0gEA",
-          "author": null,
-          "description": "Week in review: Atlassian Confluence RCE PoC, new Kali Linux, Patch Tuesday forecast  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNi8wOS93ZWVrLWluLXJldmlldy1hdGxhc3NpYW4tY29uZmx1ZW5jZS1yY2UtcG9jLW5ldy1rYWxpLWxpbnV4LXBhdGNoLXR1ZXNkYXktZm9yZWNhc3Qv0gEA?oc=5",
-          "publishedOn": "2024-06-09T08:00:37.000Z",
-          "wordCount": 8795,
-          "title": "Week in review: Atlassian Confluence RCE PoC, new Kali Linux, Patch Tuesday forecast - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi0QFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9xdWFsY29tbS1zbmFwZHJhZ29uLXgtZWxpdGUtcHJvdG90eXBlLXRoYXQtcnVucy1saW51eC1lbWVyZ2VzLWZyb20tYS1icmFuZC15b3V2ZS1wcm9iYWJseS1uZXZlci1oZWFyZC1vZi1zY2hlbmtlci10dXhlZG8taGFzLTEyLWNvcmUtY3B1LXdpdGgtMzJnYi1yYW0tYW5kLXN1cnByaXNlLXN1cnByaXNlLWRlYmlhbtIBAA",
-          "author": null,
-          "description": "Qualcomm Snapdragon X Elite prototype that runs Linux emerges from a brand you've probably never heard of ...  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMi0QFodHRwczovL3d3dy50ZWNocmFkYXIuY29tL3Byby9xdWFsY29tbS1zbmFwZHJhZ29uLXgtZWxpdGUtcHJvdG90eXBlLXRoYXQtcnVucy1saW51eC1lbWVyZ2VzLWZyb20tYS1icmFuZC15b3V2ZS1wcm9iYWJseS1uZXZlci1oZWFyZC1vZi1zY2hlbmtlci10dXhlZG8taGFzLTEyLWNvcmUtY3B1LXdpdGgtMzJnYi1yYW0tYW5kLXN1cnByaXNlLXN1cnByaXNlLWRlYmlhbtIBAA?oc=5",
-          "publishedOn": "2024-06-09T04:30:31.000Z",
-          "wordCount": 8795,
-          "title": "Qualcomm Snapdragon X Elite prototype that runs Linux emerges from a brand you've probably never heard of ... - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vYmVzdC1kZWZhdWx0LWxpbnV4LXRlcm1pbmFsLWFsdGVybmF0aXZlcy_SAQA",
-          "author": null,
-          "description": "Your Default Linux Terminal Emulator Is Dull, So Take These Alternatives for a Spin  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vYmVzdC1kZWZhdWx0LWxpbnV4LXRlcm1pbmFsLWFsdGVybmF0aXZlcy_SAQA?oc=5",
-          "publishedOn": "2024-06-08T19:00:00.000Z",
-          "wordCount": 8795,
-          "title": "Your Default Linux Terminal Emulator Is Dull, So Take These Alternatives for a Spin - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9436,6 +9626,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Visualize the user experience with user journey maps. Here are some helpful templates, real-world applications, and insights on the importance of mapping both successful and unsuccessful touchpoints. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 3415,
+          "title": "Useful Customer Journey Maps (+ Figma & Miro Templates)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/customer-journey-maps-figma-miro-templates/customer-journey-maps-figma-miro-templates.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/customer-journey-maps-figma-miro-templates/customer-journey-maps-figma-miro-templates.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s welcome the new month with some fresh desktop wallpapers! Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2024. Enjoy!",
@@ -9622,6 +9827,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/",
+          "author": "Mario Casari",
+          "description": "To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala [https://www.scala-lang.org/] called Gatling [https://gatling.io/]. This article will teach you how to integrate it into a Spring Boot [https://spring.io/projects/spring-boot] application",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/",
+          "publishedOn": "2024-07-08T19:46:57.000Z",
+          "wordCount": 1858,
+          "title": "How to Perform Load Testing in Spring Boot with Gatling",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/pexels-markusspiske-177598.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/",
+          "author": "Abhijeet Dave",
+          "description": "Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting",
+          "link": "https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/",
+          "publishedOn": "2024-07-08T18:49:45.000Z",
+          "wordCount": 2616,
+          "title": "How to Build a Vue E-commerce App Using MSW",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/build-a-Vue-eCommerce-App-using-MSW.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-markov-chain/",
+          "author": "Tiago Monteiro",
+          "description": "There are various mathematical tools that can be used to predict the near future based on a current state. One of the most widely used are Markov chains. Markov chains allow you to predict the uncertainty of future events under certain conditions. For this reason, it is widely used in",
+          "link": "https://www.freecodecamp.org/news/what-is-a-markov-chain/",
+          "publishedOn": "2024-07-08T12:53:27.000Z",
+          "wordCount": 2794,
+          "title": "What are Markov Chains? Explained With Python Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Screenshot-2024-06-19-at-23-02-31-ChatGPT.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/upload-large-files-with-aws/",
+          "author": "Destiny Erhabor",
+          "description": "Imagine running a media streaming platform where users upload large high-definition videos. Uploading such large files can be slow and may fail if the network is unreliable.  Using traditional single-part uploads can be cumbersome and inefficient for large files, often leading to timeout errors or the need to restart",
+          "link": "https://www.freecodecamp.org/news/upload-large-files-with-aws/",
+          "publishedOn": "2024-07-08T12:02:56.000Z",
+          "wordCount": 3076,
+          "title": "​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/",
           "author": "Quincy Larson",
