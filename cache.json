@@ -18,6 +18,76 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190698",
+          "author": "Web Webster",
+          "description": "PhotoPrism’s July update includes support for OpenID Connect for simpler, secure logins, enhanced video support, and more.\nThe post PhotoPrism Bolsters User Access With New Single Sign-On Feature appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/photoprism-bolsters-user-access-with-new-single-sign-on-feature/",
+          "publishedOn": "2024-07-11T22:00:45.000Z",
+          "wordCount": 9032,
+          "title": "PhotoPrism Bolsters User Access With New Single Sign-On Feature",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190683",
+          "author": "Web Webster",
+          "description": "DietPi is a lightweight Debian-based Linux distribution for SBCs and server systems, with the option to install desktop environments, too. It ships as minimal image but allows for the installation of complete and ready-to-use software stacks with a set of console based shell dialogs and scripts. The project released the new version DietPi v9.6 on […]\nThe post DietPi Released a New Version 9.6 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/dietpi-released-a-new-version-9-6/",
+          "publishedOn": "2024-07-11T20:00:29.000Z",
+          "wordCount": 9102,
+          "title": "DietPi Released a New Version 9.6",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190686",
+          "author": "Web Webster",
+          "description": "Zed open-source code editor built in Rust with a GPU-accelerated renderer has been officially launched for Linux.\nThe post Zed Code Editor Now Available for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/zed-code-editor-now-available-for-linux/",
+          "publishedOn": "2024-07-11T18:00:25.000Z",
+          "wordCount": 9016,
+          "title": "Zed Code Editor Now Available for Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190700",
+          "author": "Web Webster",
+          "description": "AlmaLinux is turning into the RHEL clone with a difference, by patching RHEL security holes that are given a low priority by Red Hat.\nThe post AlmaLinux Patches Another Security Hole That Red Hat Is Ignoring appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/almalinux-patches-another-security-hole-that-red-hat-is-ignoring/",
+          "publishedOn": "2024-07-11T17:03:58.000Z",
+          "wordCount": 9043,
+          "title": "AlmaLinux Patches Another Security Hole That Red Hat Is Ignoring",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190689",
+          "author": "Web Webster",
+          "description": "Colin Percival, FreeBSD release engineering lead, has recently announced changes to FreeBSD release schedule and support period.\nThe post FreeBSD Announces Changes to Release Schedule and Support Period appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/freebsd-announces-changes-to-release-schedule-and-support-period/",
+          "publishedOn": "2024-07-11T15:00:03.000Z",
+          "wordCount": 9026,
+          "title": "FreeBSD Announces Changes to Release Schedule and Support Period",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190692",
+          "author": "Web Webster",
+          "description": "Coming about five weeks after the LibreOffice 24.2.4 update, LibreOffice 24.2.5 is here to introduce more fixes for those annoying issues, bugs, crashes, regression, and other problems reported by users in the latest LibreOffice 24.2 series. In numbers, the LibreOffice 24.2.5 point release addresses a total of 78 bugs.\nThe post LibreOffice 24.2.5 Office Suite Is Now Available for Download With 78 Bug Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/libreoffice-24-2-5-office-suite-is-now-available-for-download-with-78-bug-fixes/",
+          "publishedOn": "2024-07-11T14:00:53.000Z",
+          "wordCount": 9079,
+          "title": "LibreOffice 24.2.5 Office Suite Is Now Available for Download With 78 Bug Fixes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190693",
+          "author": "Web Webster",
+          "description": "New Exim 4.98 MTA addresses critical SMTP vulnerabilities. Includes crucial updates for DKIM handling and SMTP security.\nThe post Exim 4.98 Patches Over 30 Bugs, Bolsters Email Server Security appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/exim-4-98-patches-over-30-bugs-bolsters-email-server-security/",
+          "publishedOn": "2024-07-11T13:00:52.000Z",
+          "wordCount": 9029,
+          "title": "Exim 4.98 Patches Over 30 Bugs, Bolsters Email Server Security",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190669",
           "author": "Web Webster",
           "description": "BunkerWeb is an open-source Web Application Firewall (WAF) distributed under the AGPLv3 free license. The solution’s core code is entirely auditable by a third party and the community.\nThe post BunkerWeb: Open-source Web Application Firewall (WAF) appeared first on Linux Today.",
@@ -1926,206 +1996,6 @@
           "wordCount": null,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/b9c7950274f7c5872197aed9c3376042/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/b9c7950274f7c5872197aed9c3376042/",
-          "publishedOn": "2024-06-12T09:38:33.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/0c39dc2be12cf3d864506dc7419c7858/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/0c39dc2be12cf3d864506dc7419c7858/",
-          "publishedOn": "2024-06-12T07:29:00.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/c6b5e410bc38d6ee4ccdcf9cd67e1f89/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/c6b5e410bc38d6ee4ccdcf9cd67e1f89/",
-          "publishedOn": "2024-06-12T07:28:56.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/6a77e6bc6b98cc0ac4443e4725b17c88/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/6a77e6bc6b98cc0ac4443e4725b17c88/",
-          "publishedOn": "2024-06-12T07:28:51.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/90d8f0ddb5e436e473d7ee71160f4648/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/90d8f0ddb5e436e473d7ee71160f4648/",
-          "publishedOn": "2024-06-12T06:39:50.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/a9a77df0f1da993693a93e732564e6b5/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/a9a77df0f1da993693a93e732564e6b5/",
-          "publishedOn": "2024-06-12T02:53:49.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/a1f6e030de09e314a3f57ff96cc85532/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/a1f6e030de09e314a3f57ff96cc85532/",
-          "publishedOn": "2024-06-12T02:53:47.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/420f6893982cffe7b0920cf830912bb5/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/420f6893982cffe7b0920cf830912bb5/",
-          "publishedOn": "2024-06-12T02:53:46.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/e59e92ddfee0176a74df1855edddee3e/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/e59e92ddfee0176a74df1855edddee3e/",
-          "publishedOn": "2024-06-12T02:53:44.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/7bceb9d3de657ec6427f28711275e651/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/7bceb9d3de657ec6427f28711275e651/",
-          "publishedOn": "2024-06-12T02:53:42.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/5390a53fa9c26150dcf6c9cfa08241d2/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/5390a53fa9c26150dcf6c9cfa08241d2/",
-          "publishedOn": "2024-06-11T22:30:50.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/1e5bfb22bf7a86623e29b3cf38b00fa1/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/1e5bfb22bf7a86623e29b3cf38b00fa1/",
-          "publishedOn": "2024-06-11T22:30:45.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/80d9fc9ca137820991451c926e8ff4a4/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/80d9fc9ca137820991451c926e8ff4a4/",
-          "publishedOn": "2024-06-11T22:30:40.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/b8c1bc43525862d215aae75290274f08/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/b8c1bc43525862d215aae75290274f08/",
-          "publishedOn": "2024-06-11T22:14:46.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/developer/54a231293a15df351b1fa0f5a99cd6d8/",
-          "author": null,
-          "description": "{{unknown}}\nThe post  appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/54a231293a15df351b1fa0f5a99cd6d8/",
-          "publishedOn": "2024-06-11T22:14:44.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189754",
-          "author": "Web Webster",
-          "description": "A proposal has been made for the upcoming Fedora 41, the Anaconda installer, to become a native Wayland app, dropping X11 dependencies.\nThe post Fedora Plans to Switch Anaconda Installer to Wayland appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fedora-plans-to-switch-anaconda-installer-to-wayland/",
-          "publishedOn": "2024-06-11T18:00:57.000Z",
-          "wordCount": 9024,
-          "title": "Fedora Plans to Switch Anaconda Installer to Wayland",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189753",
-          "author": "Web Webster",
-          "description": "OBS Studio 30.2 has entered public beta testing for this powerful, open-source, cross-platform, and free software for video recording and live streaming adding some nice features for Linux users.\nThe post OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/obs-studio-30-2-promises-nvenc-av1-and-shared-texture-support-on-linux/",
-          "publishedOn": "2024-06-11T17:00:40.000Z",
-          "wordCount": 9041,
-          "title": "OBS Studio 30.2 Promises NVENC AV1 and Shared Texture Support on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189789",
-          "author": "Web Webster",
-          "description": "The Kubuntu Focus team announces their newest laptops, the Focus Ir14 GEN 2 and Ir16 GEN 2, are now available with the latest Focus optimizations and tools built on Kubuntu 24.04 LTS.\nThe post Kubuntu Focus Announces New Models and 24.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kubuntu-focus-announces-new-models-and-24-04-lts/",
-          "publishedOn": "2024-06-11T16:00:01.000Z",
-          "wordCount": 9055,
-          "title": "Kubuntu Focus Announces New Models and 24.04 LTS",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189783",
-          "author": "Web Webster",
-          "description": "Mozilla published the final version of the Firefox 127 web browser for download as a major release that introduces various new features and enhancements.\nThe post Mozilla Firefox 127 Is Now Available for Download, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/mozilla-firefox-127-is-now-available-for-download-heres-whats-new/",
-          "publishedOn": "2024-06-11T15:00:13.000Z",
-          "wordCount": 9042,
-          "title": "Mozilla Firefox 127 Is Now Available for Download, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189782",
-          "author": "Web Webster",
-          "description": "Perl 5.40 programming language brings a new CLASS keyword, enhanced error handling with try/catch, :reader attributes for field variables, and more.\nThe post Perl 5.40 Programming Language Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/perl-5-40-programming-language-released-heres-whats-new/",
-          "publishedOn": "2024-06-11T14:05:58.000Z",
-          "wordCount": 9034,
-          "title": "Perl 5.40 Programming Language Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2134,6 +2004,116 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC93aGF0LWZ1dHVyZS11YnVudHUtcm9ib3RpY3MtYW5kLWFpLWludGVncmF0aW9u0gEA",
+          "author": null,
+          "description": "What Is the Future of Ubuntu Robotics and AI Integration?  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC93aGF0LWZ1dHVyZS11YnVudHUtcm9ib3RpY3MtYW5kLWFpLWludGVncmF0aW9u0gEA?oc=5",
+          "publishedOn": "2024-07-11T22:22:05.000Z",
+          "wordCount": 8876,
+          "title": "What Is the Future of Ubuntu Robotics and AI Integration? - Linux Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1WQ04tRHluYW1pYy1Qb3dlci1HYXRpbmfSAQA",
+          "author": null,
+          "description": "AMD Has A Crucial Linux Optimization Coming To Lower Power Use During Video Playback  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1WQ04tRHluYW1pYy1Qb3dlci1HYXRpbmfSAQA?oc=5",
+          "publishedOn": "2024-07-11T19:01:00.000Z",
+          "wordCount": 8876,
+          "title": "AMD Has A Crucial Linux Optimization Coming To Lower Power Use During Video Playback - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFodHRwczovL3d3dy5lbGVjdHJvbmljZGVzaWduLmNvbS9tYXJrZXRzL2F1dG9tb3RpdmUvYXJ0aWNsZS81NTEyNTQ5My9lbGVjdHJvbmljLWRlc2lnbi1vcGVuLXNvdXJjZS1ldi1jaGFyZ2luZy1saW51eC1iYXNlZC1wbGF0Zm9ybS1zaW1wbGlmaWVzLWludGVyb3BlcmFiaWxpdHnSAQA",
+          "author": null,
+          "description": "Open-Source EV Charging: Linux-Based Platform Simplifies Interoperability  Electronic Design",
+          "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5lbGVjdHJvbmljZGVzaWduLmNvbS9tYXJrZXRzL2F1dG9tb3RpdmUvYXJ0aWNsZS81NTEyNTQ5My9lbGVjdHJvbmljLWRlc2lnbi1vcGVuLXNvdXJjZS1ldi1jaGFyZ2luZy1saW51eC1iYXNlZC1wbGF0Zm9ybS1zaW1wbGlmaWVzLWludGVyb3BlcmFiaWxpdHnSAQA?oc=5",
+          "publishedOn": "2024-07-11T18:49:11.000Z",
+          "wordCount": 8876,
+          "title": "Open-Source EV Charging: Linux-Based Platform Simplifies Interoperability - Electronic Design",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yNTE2MTI3L2xpbnV4LW9wZXJhdG9ycy11c2luZy1hbmQtbWFueS1tb3JlLmh0bWzSAQA",
+          "author": null,
+          "description": "Linux operators: Using |, >, >>, &, &&, !, =, (\\) and many more  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8yNTE2MTI3L2xpbnV4LW9wZXJhdG9ycy11c2luZy1hbmQtbWFueS1tb3JlLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-07-11T17:45:42.000Z",
+          "wordCount": 8876,
+          "title": "Linux operators: Using |, >, >>, &, &&, !, =, (\\) and many more - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L29wZW4tc291cmNlLWltcGxlbWVudGF0aW9uLW9mLWdvZy1nYWxheHlzLWNvbW11bmljYXRpb24tc2VydmljZS1jb21ldC1zZWVzLWEtZmlyc3QtcmVsZWFzZS_SAQA",
+          "author": null,
+          "description": "Open Source implementation of GOG Galaxy's Communication Service, Comet sees a first release  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L29wZW4tc291cmNlLWltcGxlbWVudGF0aW9uLW9mLWdvZy1nYWxheHlzLWNvbW11bmljYXRpb24tc2VydmljZS1jb21ldC1zZWVzLWEtZmlyc3QtcmVsZWFzZS_SAQA?oc=5",
+          "publishedOn": "2024-07-11T17:38:08.000Z",
+          "wordCount": 8876,
+          "title": "Open Source implementation of GOG Galaxy's Communication Service, Comet sees a first release - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLXlvdXJlLXJlYWR5LXRvLWxlYXZlLXdpbmRvd3MtMTEtYmVoaW5kLXRoaXMtaXMtdGhlLWRpc3Ryby1mb3ItbmV3LWxpbnV4LXVzZXJzL9IBAA",
+          "author": null,
+          "description": "If you're ready to leave Windows 11 behind, this is the distro for new Linux users  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLXlvdXJlLXJlYWR5LXRvLWxlYXZlLXdpbmRvd3MtMTEtYmVoaW5kLXRoaXMtaXMtdGhlLWRpc3Ryby1mb3ItbmV3LWxpbnV4LXVzZXJzL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T17:07:00.000Z",
+          "wordCount": 8876,
+          "title": "If you're ready to leave Windows 11 behind, this is the distro for new Linux users - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2RvLXlvdS1uZWVkLWFudGl2aXJ1cy1vbi1saW51eC_SAQA",
+          "author": null,
+          "description": "Do you need antivirus on Linux?  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2RvLXlvdS1uZWVkLWFudGl2aXJ1cy1vbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-07-11T16:26:00.000Z",
+          "wordCount": 8876,
+          "title": "Do you need antivirus on Linux? - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LnhydG9kYXkuY29tL21peGVkLXJlYWxpdHkvbWV0YS1yZWxlYXNlLWNyb3NzLXBsYXRmb3JtLXhyLWZyYW1ld29yay1mb3ItcXVlc3QtaW9zLXdpbmRvd3MtbGludXgv0gEA",
+          "author": null,
+          "description": "Meta Release Cross-Platform XR Framework, for Quest, iOS, Windows, Linux  XR Today",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnhydG9kYXkuY29tL21peGVkLXJlYWxpdHkvbWV0YS1yZWxlYXNlLWNyb3NzLXBsYXRmb3JtLXhyLWZyYW1ld29yay1mb3ItcXVlc3QtaW9zLXdpbmRvd3MtbGludXgv0gEA?oc=5",
+          "publishedOn": "2024-07-11T12:42:02.000Z",
+          "wordCount": 8876,
+          "title": "Meta Release Cross-Platform XR Framework, for Quest, iOS, Windows, Linux - XR Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiI2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS96ZWQtbGludXgv0gEA",
+          "author": null,
+          "description": "Zed, Open-Source Code Editor by the Creators of Atom, Now on Linux!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS96ZWQtbGludXgv0gEA?oc=5",
+          "publishedOn": "2024-07-11T12:39:28.000Z",
+          "wordCount": 8876,
+          "title": "Zed, Open-Source Code Editor by the Creators of Atom, Now on Linux! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3Lml0cHJvdG9kYXkuY29tL2xpbnV4LW9zL2VuaGFuY2UtbGludXgta2VybmVsLXNlY3VyaXR5LXVzaW5nLWxvY2tkb3duLW1vZGUtYW5kLWtlcm5lbC1zZWxmLXByb3RlY3Rpb27SAQA",
+          "author": null,
+          "description": "Two Linux Kernel Security Features You Should Implement  ITPro Today",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lml0cHJvdG9kYXkuY29tL2xpbnV4LW9zL2VuaGFuY2UtbGludXgta2VybmVsLXNlY3VyaXR5LXVzaW5nLWxvY2tkb3duLW1vZGUtYW5kLWtlcm5lbC1zZWxmLXByb3RlY3Rpb27SAQA?oc=5",
+          "publishedOn": "2024-07-11T11:05:14.000Z",
+          "wordCount": 8876,
+          "title": "Two Linux Kernel Security Features You Should Implement - ITPro Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvcG9wdWxhci1tdWx0aXBsYXllci1jb2RlLWVkaXRvci16ZWQtZ2V0cy1hLWxpbnV4LXJlbGVhc2Uv0gEA",
+          "author": null,
+          "description": "Popular multiplayer code editor Zed gets a Linux release  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvcG9wdWxhci1tdWx0aXBsYXllci1jb2RlLWVkaXRvci16ZWQtZ2V0cy1hLWxpbnV4LXJlbGVhc2Uv0gEA?oc=5",
+          "publishedOn": "2024-07-11T09:44:01.000Z",
+          "wordCount": 8876,
+          "title": "Popular multiplayer code editor Zed gets a Linux release - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiPWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L3plZC1lZGl0b3ItbGludXgtcmVsZWFzZWTSAUFodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyNC8wNy96ZWQtZWRpdG9yLWxpbnV4LXJlbGVhc2VkL2FtcA",
           "author": null,
@@ -7233,166 +7213,6 @@
           "wordCount": 8730,
           "title": "AMD Fast CPPC To Be Merged For Linux 6.11 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL29wZW5TVVNFLUxlYXAtMTUuNi1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "openSUSE Leap 15.6 Release - Adds Cockpit, Linux 6.4 & Other Updates  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL29wZW5TVVNFLUxlYXAtMTUuNi1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2024-06-12T13:21:00.000Z",
-          "wordCount": 8730,
-          "title": "openSUSE Leap 15.6 Release - Adds Cockpit, Linux 6.4 & Other Updates - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMTIvZ29vZGJ5ZS1taWNyb3NvZnQtd2luZG93cy0xMS1vcGVuc3VzZS1sZWFwLTE1Ni1saW51eC_SAQA",
-          "author": null,
-          "description": "Say goodbye to Microsoft Windows 11: openSUSE Leap 15.6 is the Linux-based operating system you need!  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDYvMTIvZ29vZGJ5ZS1taWNyb3NvZnQtd2luZG93cy0xMS1vcGVuc3VzZS1sZWFwLTE1Ni1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-06-12T12:54:07.000Z",
-          "wordCount": 8730,
-          "title": "Say goodbye to Microsoft Windows 11: openSUSE Leap 15.6 is the Linux-based operating system you need! - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vcGVuc3VzZS1sZWFwLTE1LTYtb2ZmaWNpYWxseS1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vb3BlbnN1c2UtbGVhcC0xNS02LW9mZmljaWFsbHktcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV3L2FtcA",
-          "author": null,
-          "description": "openSUSE Leap 15.6 Officially Released, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vcGVuc3VzZS1sZWFwLTE1LTYtb2ZmaWNpYWxseS1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vb3BlbnN1c2UtbGVhcC0xNS02LW9mZmljaWFsbHktcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV3L2FtcA?oc=5",
-          "publishedOn": "2024-06-12T12:17:11.000Z",
-          "wordCount": 8730,
-          "title": "openSUSE Leap 15.6 Officially Released, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9jaGluZXNlLW5vb2RsZS1yYXQtYmFja2Rvb3Iv0gEA",
-          "author": null,
-          "description": "Chinese Hackers Leveraging 'Noodle RAT' Backdoor  Infosecurity Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9jaGluZXNlLW5vb2RsZS1yYXQtYmFja2Rvb3Iv0gEA?oc=5",
-          "publishedOn": "2024-06-12T12:00:00.000Z",
-          "wordCount": 8730,
-          "title": "Chinese Hackers Leveraging 'Noodle RAT' Backdoor - Infosecurity Magazine",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxQTUQtTG93LVBvd2VyLTAuMC400gEA",
-          "author": null,
-          "description": "Intel Low Power Mode Daemon v0.0.4 Released To Optimize Hybrid CPUs On Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxQTUQtTG93LVBvd2VyLTAuMC400gEA?oc=5",
-          "publishedOn": "2024-06-12T10:54:00.000Z",
-          "wordCount": 8730,
-          "title": "Intel Low Power Mode Daemon v0.0.4 Released To Optimize Hybrid CPUs On Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9taXNzaW9uLWNlbnRlci1zZXJ2aWNlcy11cGRhdGUv0gEA",
-          "author": null,
-          "description": "New Updates Make Mission Center the Best Task Manager for Linux Desktop  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9taXNzaW9uLWNlbnRlci1zZXJ2aWNlcy11cGRhdGUv0gEA?oc=5",
-          "publishedOn": "2024-06-12T07:48:24.000Z",
-          "wordCount": 8730,
-          "title": "New Updates Make Mission Center the Best Task Manager for Linux Desktop - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaXRzLW5vdC11bnVzdWFsLXRvLXBvcnQtdGhlLWxpbnV4LXZlY3Rvci1wYWNrZXQtcHJvY2Vzc29yLXZwcC10by1mcmVlYnNkL9IBAA",
-          "author": null,
-          "description": "It's Not Unusual To Port the Linux Vector Packet Processor (VPP) to FreeBSD  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaXRzLW5vdC11bnVzdWFsLXRvLXBvcnQtdGhlLWxpbnV4LXZlY3Rvci1wYWNrZXQtcHJvY2Vzc29yLXZwcC10by1mcmVlYnNkL9IBAA?oc=5",
-          "publishedOn": "2024-06-11T21:00:36.000Z",
-          "wordCount": 8730,
-          "title": "It's Not Unusual To Port the Linux Vector Packet Processor (VPP) to FreeBSD - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Jhc3BiZXJyeS1QaS01LVJQMS1MaW51eC1SRkPSAQA",
-          "author": null,
-          "description": "SUSE Working To Upstream RP1 Southbridge Linux Driver For The Raspberry Pi 5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Jhc3BiZXJyeS1QaS01LVJQMS1MaW51eC1SRkPSAQA?oc=5",
-          "publishedOn": "2024-06-11T20:51:00.000Z",
-          "wordCount": 8730,
-          "title": "SUSE Working To Upstream RP1 Southbridge Linux Driver For The Raspberry Pi 5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2Nhbm9uaWNhbC1yZWxlYXNlcy11YnVudHUtY29yZS0yNC13aXRoLTEyLXllYXJzLW9mLXN1cHBvcnQv0gEA",
-          "author": null,
-          "description": "Canonical Releases Ubuntu Core 24 With 12 Years of Support  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2Nhbm9uaWNhbC1yZWxlYXNlcy11YnVudHUtY29yZS0yNC13aXRoLTEyLXllYXJzLW9mLXN1cHBvcnQv0gEA?oc=5",
-          "publishedOn": "2024-06-11T17:32:28.000Z",
-          "wordCount": 8730,
-          "title": "Canonical Releases Ubuntu Core 24 With 12 Years of Support - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9jcHVzL3NpbmdsZS1saW5lLW1ldGVvci1sYWtlLWxpbnV4LXBhdGNoLWJvb3N0cy1wZXJmb3JtYW5jZS1ieS03MtIBAA",
-          "author": null,
-          "description": "Single-line Intel Meteor Lake Linux patch boosts performance by 72%  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9jcHVzL3NpbmdsZS1saW5lLW1ldGVvci1sYWtlLWxpbnV4LXBhdGNoLWJvb3N0cy1wZXJmb3JtYW5jZS1ieS03MtIBAA?oc=5",
-          "publishedOn": "2024-06-11T15:11:27.000Z",
-          "wordCount": 8730,
-          "title": "Single-line Intel Meteor Lake Linux patch boosts performance by 72% - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdHV4ZWRvLWNvbXB1dGVycy1hcm0tbGludXgtbGFwdG9wL9IBAA",
-          "author": null,
-          "description": "More ARM Linux Laptops Are on the Way  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdHV4ZWRvLWNvbXB1dGVycy1hcm0tbGludXgtbGFwdG9wL9IBAA?oc=5",
-          "publishedOn": "2024-06-11T14:35:00.000Z",
-          "wordCount": 8730,
-          "title": "More ARM Linux Laptops Are on the Way - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMie2h0dHBzOi8vd3d3LmludGVsbGlnZW50Y2lvLmNvbS9tZS8yMDI0LzA2LzExL2xpbnV4LWZvdW5kYXRpb24tbGF1bmNoZXMtbWFyZ28tdG8tZGVsaXZlci1sb25nLWF3YWl0ZWQtZWRnZS1pbnRlcm9wZXJhYmlsaXR5L9IBAA",
-          "author": null,
-          "description": "Linux Foundation launches Margo to deliver long-awaited edge interoperability – Intelligent CIO Middle East  Intelligent CIO",
-          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmludGVsbGlnZW50Y2lvLmNvbS9tZS8yMDI0LzA2LzExL2xpbnV4LWZvdW5kYXRpb24tbGF1bmNoZXMtbWFyZ28tdG8tZGVsaXZlci1sb25nLWF3YWl0ZWQtZWRnZS1pbnRlcm9wZXJhYmlsaXR5L9IBAA?oc=5",
-          "publishedOn": "2024-06-11T14:24:35.000Z",
-          "wordCount": 8730,
-          "title": "Linux Foundation launches Margo to deliver long-awaited edge interoperability – Intelligent CIO Middle East - Intelligent CIO",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hbG1hbGludXgtb3Mtbm93LW9mZmljaWFsbHktc3VwcG9ydHMtdGhlLXJhc3BiZXJyeS1waS01LWNvbXB1dGVy0gFaaHR0cHM6Ly85dG81bGludXguY29tL2FsbWFsaW51eC1vcy1ub3ctb2ZmaWNpYWxseS1zdXBwb3J0cy10aGUtcmFzcGJlcnJ5LXBpLTUtY29tcHV0ZXIvYW1w",
-          "author": null,
-          "description": "AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hbG1hbGludXgtb3Mtbm93LW9mZmljaWFsbHktc3VwcG9ydHMtdGhlLXJhc3BiZXJyeS1waS01LWNvbXB1dGVy0gFaaHR0cHM6Ly85dG81bGludXguY29tL2FsbWFsaW51eC1vcy1ub3ctb2ZmaWNpYWxseS1zdXBwb3J0cy10aGUtcmFzcGJlcnJ5LXBpLTUtY29tcHV0ZXIvYW1w?oc=5",
-          "publishedOn": "2024-06-11T14:19:22.000Z",
-          "wordCount": 8730,
-          "title": "AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9zbmFwZHJhZ29uLWNvdWxkLXRha2UtYXdheS1pbnRlbC1hbmQtYW1kLW1hcmtldC1zaGFyZXMtZm9yLWJvdGgtd2luZG93cy1hbmQtbGludXgv0gFtaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvc25hcGRyYWdvbi1jb3VsZC10YWtlLWF3YXktaW50ZWwtYW5kLWFtZC1tYXJrZXQtc2hhcmVzLWZvci1ib3RoLXdpbmRvd3MtYW5kLWxpbnV4Lw",
-          "author": null,
-          "description": "Snapdragon could take away Intel and AMD market shares for both Windows and Linux  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9zbmFwZHJhZ29uLWNvdWxkLXRha2UtYXdheS1pbnRlbC1hbmQtYW1kLW1hcmtldC1zaGFyZXMtZm9yLWJvdGgtd2luZG93cy1hbmQtbGludXgv0gFtaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvc25hcGRyYWdvbi1jb3VsZC10YWtlLWF3YXktaW50ZWwtYW5kLWFtZC1tYXJrZXQtc2hhcmVzLWZvci1ib3RoLXdpbmRvd3MtYW5kLWxpbnV4Lw?oc=5",
-          "publishedOn": "2024-06-11T14:12:00.000Z",
-          "wordCount": 8730,
-          "title": "Snapdragon could take away Intel and AMD market shares for both Windows and Linux - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FsbWFMaW51eC1SYXNwYmVycnktUGktNdIBAA",
-          "author": null,
-          "description": "AlmaLinux Now Available For The Raspberry Pi 5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FsbWFMaW51eC1SYXNwYmVycnktUGktNdIBAA?oc=5",
-          "publishedOn": "2024-06-11T14:12:00.000Z",
-          "wordCount": 8730,
-          "title": "AlmaLinux Now Available For The Raspberry Pi 5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vbGlsaXB1dGluZy5jb20va3VidW50dS1mb2N1cy1scjE0LWFuZC1scjE2LWdlbi0yLWFyZS10aGluLWFuZC1saWdodC1saW51eC1sYXB0b3BzLXdpdGgtaW50ZWwtcmFwdG9yLWxha2Uv0gEA",
-          "author": null,
-          "description": "Kubuntu Focus lr14 and lr16 Gen 2 are thin and light Linux laptops with Intel Raptor Lake  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbGlsaXB1dGluZy5jb20va3VidW50dS1mb2N1cy1scjE0LWFuZC1scjE2LWdlbi0yLWFyZS10aGluLWFuZC1saWdodC1saW51eC1sYXB0b3BzLXdpdGgtaW50ZWwtcmFwdG9yLWxha2Uv0gEA?oc=5",
-          "publishedOn": "2024-06-11T14:02:54.000Z",
-          "wordCount": 8730,
-          "title": "Kubuntu Focus lr14 and lr16 Gen 2 are thin and light Linux laptops with Intel Raptor Lake - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9834,36 +9654,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/2-page-login-pattern-how-fix-it/2-page-login-pattern-how-fix-it.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/",
-          "author": "hello@smashingmagazine.com (Kristian Mikhel)",
-          "description": "Kristian Mikhel covers various practical applications of scents in product experience, from immersive entertainment to healing spaces and medical appliances, and how designers can drive innovation across spheres and disciplines.",
-          "link": "https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/",
-          "publishedOn": "2024-06-12T13:00:00.000Z",
-          "wordCount": 6717,
-          "title": "The Scent Of UX: The Unrealized Potential Of Olfactory Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/scent-ux-unrealized-potential-olfactory-design/scent-ux-unrealized-potential-olfactory-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/scent-ux-unrealized-potential-olfactory-design/scent-ux-unrealized-potential-olfactory-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
-          "author": "hello@smashingmagazine.com (Salma Alam-Naylor)",
-          "description": "Do perfect Lighthouse scores mean the performance of your website is perfect? As it turns out, Lighthouse is influenced by a number of things that can be manipulated and bent to make sites seem more performant than they really are, as Salma Alam-Naylor demonstrates in several experiments.",
-          "link": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
-          "publishedOn": "2024-06-11T18:00:00.000Z",
-          "wordCount": 6468,
-          "title": "How To Hack Your Google Lighthouse Scores In 2024",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg"
         }
       ]
     },
@@ -9872,6 +9662,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-trpc/",
+          "author": "Afan Khan",
+          "description": "For a while now, I've been noticing a technology named tRPC [https://trpc.io/]  that's cited in many modern tech stacks, including T3 [https://create.t3.gg/]. But I didn't know what it was or why it had become so popular. So I began researching and learning about it. I didn't know what it",
+          "link": "https://www.freecodecamp.org/news/what-is-trpc/",
+          "publishedOn": "2024-07-11T19:09:18.000Z",
+          "wordCount": 3960,
+          "title": "What is the tRPC Library? Explained with a Demo Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/trpc-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-asynchronous-javascript/",
+          "author": "Beau Carnes",
+          "description": "Asynchronous programming is a critical skill in modern JavaScript development, enabling developers to create more efficient and responsive applications. Whether you're a seasoned developer looking to brush up on your skills or a beginner eager to lea...",
+          "link": "https://www.freecodecamp.org/news/learn-asynchronous-javascript/",
+          "publishedOn": "2024-07-11T15:16:07.000Z",
+          "wordCount": 943,
+          "title": "Learn Asynchronous JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1720710953239/c174ffdc-98cf-4768-bcea-e23c2fb1cd81.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-web-app/",
+          "author": "Beau Carnes",
+          "description": "Deploying a web application can seem daunting, but with the right tools and guidance, it becomes a manageable task. We are excited to share a comprehensive course on the freeCodeCamp.org YouTube channel that will explain this process. This course wil...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-web-app/",
+          "publishedOn": "2024-07-11T13:54:38.000Z",
+          "wordCount": 883,
+          "title": "How to Deploy a Web App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1720706045613/eaa98b5c-2309-4abd-859e-02e1c4d45ad4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/more-secure-authentication-from-passwords-to-passkeys/",
+          "author": "Juan Cruz Martinez",
+          "description": "In the ever-evolving world of cybersecurity, authentication remains a cornerstone. Traditional methods, like passwords and social logins, are increasingly vulnerable to attacks. Enter passkeys—a revolutionary approach promising enhanced security and user convenience.  This guide will explore the current state of authentication, delve into what passkeys are, how they work,",
+          "link": "https://www.freecodecamp.org/news/more-secure-authentication-from-passwords-to-passkeys/",
+          "publishedOn": "2024-07-11T13:38:21.000Z",
+          "wordCount": 1767,
+          "title": "More Secure Authentication: From Passwords to Passkeys",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/passkeys-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-upgrade-node-and-jest-while-on-react-scripts-v4/",
           "author": "Harsh Deep",
@@ -10611,36 +10441,6 @@
           "wordCount": 970,
           "title": "Learn Three.js By Building Five Projects",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718199206429/fa28f06e-1fe1-48cd-a1f7-59d513e4124e.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "Retrieval Augmented Generation (RAG) signifies a transformative advancement in large language models (LLMs). It combines the generative prowess of transformer architectures with dynamic information retrieval.  This integration allows LLMs to access and incorporate relevant external knowledge during text generation, resulting in outputs that are more accurate, contextual, and factually",
-          "link": "https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/",
-          "publishedOn": "2024-06-11T21:18:00.000Z",
-          "wordCount": 9431,
-          "title": "Next-Gen Large Language Models: The Retrieval-Augmented Generation (RAG) Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/",
-          "author": "Beau Carnes",
-          "description": "High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...",
-          "link": "https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/",
-          "publishedOn": "2024-06-11T16:33:23.000Z",
-          "wordCount": 871,
-          "title": "Learn High-Level System Design by Building a YouTube Clone",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/",
-          "author": "Beau Carnes",
-          "description": "Data science skills are increasingly in-demand. We just published a hands-son data science with Python course on the freeCodeCamp.org YouTube channel. This comprehensive, 5.5+ hour course is designed to provide aspiring data scientists with essential...",
-          "link": "https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/",
-          "publishedOn": "2024-06-11T15:13:34.000Z",
-          "wordCount": 957,
-          "title": "Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718118785701/723c13b4-5b52-4cf7-9921-f65bbd837507.png"
         }
       ]
     }
