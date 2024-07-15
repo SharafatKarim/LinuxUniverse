@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190480",
+          "author": "Web Webster",
+          "description": "Tired of outdated apps? Here are some ways to install the latest apps without breaking your Debian system.\nThe post 8 Methods to Install Latest Software in Debian Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/8-methods-to-install-latest-software-in-debian-linux/",
+          "publishedOn": "2024-07-14T20:00:21.000Z",
+          "wordCount": 9028,
+          "title": "8 Methods to Install Latest Software in Debian Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190699",
+          "author": "Web Webster",
+          "description": "This tutorial explains how to create interactive Bash scripts using Yes, No, Cancel prompts using read command and conditional statements.\nThe post How to Create Interactive Bash Scripts With Yes, No, Cancel Prompt in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-create-interactive-bash-scripts-with-yes-no-cancel-prompt-in-linux/",
+          "publishedOn": "2024-07-14T15:00:58.000Z",
+          "wordCount": 9045,
+          "title": "How to Create Interactive Bash Scripts With Yes, No, Cancel Prompt in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190663",
           "author": "Web Webster",
           "description": "Discover a step-by-step guide to installing Waydroid on Ubuntu and learn the steps to install, list, run, and uninstall Android applications.\nThe post How to Run Android Applications on Ubuntu With Waydroid appeared first on Linux Today.",
@@ -1916,96 +1936,6 @@
           "wordCount": null,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189816",
-          "author": "Web Webster",
-          "description": "The June 9th, 2024 release of DietPi v9.5 comes with the new software package Forgejo (a Gitea fork) and further enhancements resp. bug fixes.\nThe post DietPi Released a New Version 9.5 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/dietpi-released-a-new-version-9-5/",
-          "publishedOn": "2024-06-15T00:30:09.000Z",
-          "wordCount": 9010,
-          "title": "DietPi Released a New Version 9.5",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189813",
-          "author": "Web Webster",
-          "description": "Explore the latest Sparky 7.4 release, which includes Linux kernel 6.1 LTS, Plasma 5.27.5, LibreOffice 7.4.7, and more.\nThe post Sparky Linux 7.4 Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparky-linux-7-4-released-heres-whats-new/",
-          "publishedOn": "2024-06-14T22:00:41.000Z",
-          "wordCount": 9009,
-          "title": "Sparky Linux 7.4 Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189807",
-          "author": "Web Webster",
-          "description": "It’s been a long time coming, and it’s also been challenging for the devs, but Raspberry Pi 5 support is finally here for both AlmaLinux OS 9.4 and AlmaLinux OS 8.10 releases, featuring the GNOME desktop environment as the default graphical interface.\nThe post AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/almalinux-os-now-officially-supports-the-raspberry-pi-5-computer/",
-          "publishedOn": "2024-06-14T20:00:33.000Z",
-          "wordCount": 9064,
-          "title": "AlmaLinux OS Now Officially Supports the Raspberry Pi 5 Computer",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189847",
-          "author": "Web Webster",
-          "description": "With the upcoming Firefox 128 release, Mozilla will try to push the revamped dialog to clear user data, initially planned for Firefox 126. The new dialog lets you easily clear your browsing history, cookies, site data, site settings, as well as temporary cached files and pages.\nThe post Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data/",
-          "publishedOn": "2024-06-14T18:00:56.000Z",
-          "wordCount": 9075,
-          "title": "Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189850",
-          "author": "Web Webster",
-          "description": "New fixes and controller support in Proton 9.0-2 boost performance for Alpha League, Black Desert Online, Fallout 4, and more.\nThe post Proton 9.0-2 Enhances Performance and Stability Across Dozens of Games appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/proton-9-0-2-enhances-performance-and-stability-across-dozens-of-games/",
-          "publishedOn": "2024-06-14T17:00:49.000Z",
-          "wordCount": 9033,
-          "title": "Proton 9.0-2 Enhances Performance and Stability Across Dozens of Games",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189842",
-          "author": "Web Webster",
-          "description": "Systemd 256 brings major updates, including deprecated support for cgroup v1, phase-out of System V scripts, and new features like systemd-vpick and importctl.\nThe post Systemd 256 Rolls Out With Major Changes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/systemd-256-rolls-out-with-major-changes/",
-          "publishedOn": "2024-06-14T16:30:15.000Z",
-          "wordCount": 9021,
-          "title": "Systemd 256 Rolls Out With Major Changes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189878",
-          "author": "Web Webster",
-          "description": "Immich’s latest update simplifies setup and brings duplicate image detection, enhanced video thumbnails, and more.\nThe post Immich 1.106.1 Brings Similar Image Detection Feature appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/immich-1-106-1-brings-similar-image-detection-feature/",
-          "publishedOn": "2024-06-14T16:00:22.000Z",
-          "wordCount": 9006,
-          "title": "Immich 1.106.1 Brings Similar Image Detection Feature",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189872",
-          "author": "Web Webster",
-          "description": "DevToys 2.0: The Swiss Army knife for developers is now available for Linux as a DEB installation package and a portable ZIP archive.\nThe post DevToys 2.0 Preview Launches With Linux Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/devtoys-2-0-preview-launches-with-linux-support/",
-          "publishedOn": "2024-06-14T15:30:06.000Z",
-          "wordCount": 9025,
-          "title": "DevToys 2.0 Preview Launches With Linux Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189855",
-          "author": "Web Webster",
-          "description": "A new version of openSUSE Leap is now available, as the openSUSE Project has announced the release of openSUSE Leap 15.6. If you are a user who prefers a well-tested operating system with long-term consistency and a lower frequency of upgrades, then openSUSE Leap may be worth a look.\nThe post openSUSE Leap 15.6 Released, Here’s What You Need to Know appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/opensuse-leap-15-6-released-heres-what-you-need-to-know/",
-          "publishedOn": "2024-06-14T15:12:06.000Z",
-          "wordCount": 9061,
-          "title": "openSUSE Leap 15.6 Released, Here’s What You Need to Know",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2014,6 +1944,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiT2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L3RodW5kZXJiaXJkLTEyOC1yZWxlYXNlZC13aXRoLW1ham9yLWNoYW5nZXPSAVNodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyNC8wNy90aHVuZGVyYmlyZC0xMjgtcmVsZWFzZWQtd2l0aC1tYWpvci1jaGFuZ2VzL2FtcA",
+          "author": null,
+          "description": "Thunderbird 128 Released With UI Changes + More  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L3RodW5kZXJiaXJkLTEyOC1yZWxlYXNlZC13aXRoLW1ham9yLWNoYW5nZXPSAVNodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyNC8wNy90aHVuZGVyYmlyZC0xMjgtcmVsZWFzZWQtd2l0aC1tYWpvci1jaGFuZ2VzL2FtcA?oc=5",
+          "publishedOn": "2024-07-15T01:27:46.000Z",
+          "wordCount": 8876,
+          "title": "Thunderbird 128 Released With UI Changes + More - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L2xpbnV4LWtlcm5lbC02LTEwLW5ldy1mZWF0dXJlc9IBRmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L2xpbnV4LWtlcm5lbC02LTEwLW5ldy1mZWF0dXJlcy9hbXA",
+          "author": null,
+          "description": "Linux Kernel 6.10 Released, This is What’s New  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L2xpbnV4LWtlcm5lbC02LTEwLW5ldy1mZWF0dXJlc9IBRmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA3L2xpbnV4LWtlcm5lbC02LTEwLW5ldy1mZWF0dXJlcy9hbXA?oc=5",
+          "publishedOn": "2024-07-14T23:15:10.000Z",
+          "wordCount": 8876,
+          "title": "Linux Kernel 6.10 Released, This is What’s New - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi0xMC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV30gFRaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWtlcm5lbC02LTEwLW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXcvYW1w",
+          "author": null,
+          "description": "Linux Kernel 6.10 Officially Released, This Is What’s New  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi0xMC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV30gFRaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWtlcm5lbC02LTEwLW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXcvYW1w?oc=5",
+          "publishedOn": "2024-07-14T23:09:49.000Z",
+          "wordCount": 8876,
+          "title": "Linux Kernel 6.10 Officially Released, This Is What’s New - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Linux 6.10 Released With New Panthor Graphics Driver, Radeon Display Support On RISC-V  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2024-07-14T22:58:00.000Z",
+          "wordCount": 8876,
+          "title": "Linux 6.10 Released With New Panthor Graphics Driver, Radeon Display Support On RISC-V - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NhY2h5T1MtSnVseS0yMDI00gEA",
+          "author": null,
+          "description": "CachyOS Rolls Out Zen 4 Optimized Repository For Maximizing Zen 4 & Zen 5 Performance  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NhY2h5T1MtSnVseS0yMDI00gEA?oc=5",
+          "publishedOn": "2024-07-14T15:16:00.000Z",
+          "wordCount": 8876,
+          "title": "CachyOS Rolls Out Zen 4 Optimized Repository For Maximizing Zen 4 & Zen 5 Performance - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtdW5kZXJzdGFuZC1zdWRvLXRvLXJ1bGUteW91ci1zZXJ2ZXIv0gEA",
+          "author": null,
+          "description": "Linux: Understand sudo to Rule Your Server  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtdW5kZXJzdGFuZC1zdWRvLXRvLXJ1bGUteW91ci1zZXJ2ZXIv0gEA?oc=5",
+          "publishedOn": "2024-07-14T13:09:36.000Z",
+          "wordCount": 8876,
+          "title": "Linux: Understand sudo to Rule Your Server - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtVGlnaHRlbnMtTWVtLUFjY2Vzc9IBAA",
+          "author": null,
+          "description": "Linux 6.11 To Allow Tightening Of /proc/[pid]/mem Access For Better Security  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtVGlnaHRlbnMtTWVtLUFjY2Vzc9IBAA?oc=5",
+          "publishedOn": "2024-07-14T12:36:00.000Z",
+          "wordCount": 8876,
+          "title": "Linux 6.11 To Allow Tightening Of /proc/[pid]/mem Access For Better Security - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00Mi1EUk0tUGFuaWMtUGxhbnPSAQA",
+          "author": null,
+          "description": "Fedora 42 Looks To Make Use Of The \"Screen Of Death\" DRM Panic Screen  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00Mi1EUk0tUGFuaWMtUGxhbnPSAQA?oc=5",
+          "publishedOn": "2024-07-14T10:37:00.000Z",
+          "wordCount": 8876,
+          "title": "Fedora 42 Looks To Make Use Of The \"Screen Of Death\" DRM Panic Screen - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm92by1RdWFsY29tbS04OTE2LTg5MzktUGF0Y2jSAQA",
+          "author": null,
+          "description": "New Patches To Get More Qualcomm Lenovo Devices Supported By The Mainline Linux Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm92by1RdWFsY29tbS04OTE2LTg5MzktUGF0Y2jSAQA?oc=5",
+          "publishedOn": "2024-07-14T10:26:00.000Z",
+          "wordCount": 8876,
+          "title": "New Patches To Get More Qualcomm Lenovo Devices Supported By The Mainline Linux Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmVhdHVyZXMtUmVjYXDSAQA",
+          "author": null,
+          "description": "The Most Interesting Linux 6.10 Features From MSEAL To Intel Xe2 Preparations  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTAtRmVhdHVyZXMtUmVjYXDSAQA?oc=5",
+          "publishedOn": "2024-07-14T10:14:00.000Z",
+          "wordCount": 8876,
+          "title": "The Most Interesting Linux 6.10 Features From MSEAL To Intel Xe2 Preparations - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiLWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDcvMTMvZ29vZ2xlLWxpbnV4L9IBAA",
           "author": null,
@@ -2172,6 +2202,16 @@
           "publishedOn": "2024-07-12T09:36:00.000Z",
           "wordCount": 8876,
           "title": "How to make the Xfce desktop more user-friendly - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vd3d3Lml0cHJvLmNvbS9vcGVyYXRpbmctc3lzdGVtcy8yODAyNS9iZXN0LWxpbnV4LWRpc3Ryb3PSAQA",
+          "author": null,
+          "description": "The best Linux distros 2024  ITPro",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lml0cHJvLmNvbS9vcGVyYXRpbmctc3lzdGVtcy8yODAyNS9iZXN0LWxpbnV4LWRpc3Ryb3PSAQA?oc=5",
+          "publishedOn": "2024-07-12T09:34:44.000Z",
+          "wordCount": 8876,
+          "title": "The best Linux distros 2024 - ITPro",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6883,86 +6923,6 @@
           "wordCount": 8739,
           "title": "New Linux Change Helps Ensure AMD Ryzen With NVMe Works After Resuming From Suspend - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1vbGxhbWEtYWktb24tdWJ1bnR1LWxpbnV4LXRvLXVzZS1sbG1zLW9uLXlvdXItb3duLW1hY2hpbmUv0gEA",
-          "author": null,
-          "description": "Install Ollama AI on Ubuntu Linux to Use LLMs on Your Own Machine  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1vbGxhbWEtYWktb24tdWJ1bnR1LWxpbnV4LXRvLXVzZS1sbG1zLW9uLXlvdXItb3duLW1hY2hpbmUv0gEA?oc=5",
-          "publishedOn": "2024-06-15T13:09:51.000Z",
-          "wordCount": 8739,
-          "title": "Install Ollama AI on Ubuntu Linux to Use LLMs on Your Own Machine - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vZG93bmxvYWQteW91dHViZS1saW51eC_SAQA",
-          "author": null,
-          "description": "youtube-dl: Download YouTube Videos in Linux Command Line  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vZG93bmxvYWQteW91dHViZS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-06-15T07:00:00.000Z",
-          "wordCount": 8747,
-          "title": "youtube-dl: Download YouTube Videos in Linux Command Line - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9hZGVsaWUtbGludXgv0gEA",
-          "author": null,
-          "description": "Adélie Linux is an Intriguing Independent Distribution  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9hZGVsaWUtbGludXgv0gEA?oc=5",
-          "publishedOn": "2024-06-15T04:54:56.000Z",
-          "wordCount": 8739,
-          "title": "Adélie Linux is an Intriguing Independent Distribution - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHVzLWFwcC1jZW50ZXItbm93LWZpbmFsbHktc3VwcG9ydHMtaW5zdGFsbGF0aW9uLW9mLWxvY2FsLWRlYi1wYWNrYWdlc9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHVzLWFwcC1jZW50ZXItbm93LWZpbmFsbHktc3VwcG9ydHMtaW5zdGFsbGF0aW9uLW9mLWxvY2FsLWRlYi1wYWNrYWdlcy9hbXA",
-          "author": null,
-          "description": "Ubuntu’s App Center Now Finally Supports Installation of Local DEB Packages  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHVzLWFwcC1jZW50ZXItbm93LWZpbmFsbHktc3VwcG9ydHMtaW5zdGFsbGF0aW9uLW9mLWxvY2FsLWRlYi1wYWNrYWdlc9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHVzLWFwcC1jZW50ZXItbm93LWZpbmFsbHktc3VwcG9ydHMtaW5zdGFsbGF0aW9uLW9mLWxvY2FsLWRlYi1wYWNrYWdlcy9hbXA?oc=5",
-          "publishedOn": "2024-06-14T19:47:53.000Z",
-          "wordCount": 8739,
-          "title": "Ubuntu’s App Center Now Finally Supports Installation of Local DEB Packages - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vbGludXgtdG9vbHMtaW5jcmVhc2VkLW15LWNvbW1hbmQtbGluZS1wcm9kdWN0aXZpdHkv0gEA",
-          "author": null,
-          "description": "These Linux Tools Increased My Command-Line Productivity: Here's How  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vbGludXgtdG9vbHMtaW5jcmVhc2VkLW15LWNvbW1hbmQtbGluZS1wcm9kdWN0aXZpdHkv0gEA?oc=5",
-          "publishedOn": "2024-06-14T18:00:00.000Z",
-          "wordCount": 8739,
-          "title": "These Linux Tools Increased My Command-Line Productivity: Here's How - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzM5Ni1kZWVwY29tcHV0aW5nLWJ1aWx0LWZpcnN0LXJpc2Mtdi1sYXB0b3AtZGVzaWduZWQtcnVuLmh0bWzSAQA",
-          "author": null,
-          "description": "DeepComputing built the first RISC-V laptop designed to run Ubuntu Linux  TechSpot",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzM5Ni1kZWVwY29tcHV0aW5nLWJ1aWx0LWZpcnN0LXJpc2Mtdi1sYXB0b3AtZGVzaWduZWQtcnVuLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-06-14T16:08:00.000Z",
-          "wordCount": 8739,
-          "title": "DeepComputing built the first RISC-V laptop designed to run Ubuntu Linux - TechSpot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtSW50ZWwtSFctSGFuZy1SZXBsYXnSAQA",
-          "author": null,
-          "description": "Linux 6.11 Bringing \"Hardware Replay\" Feature For Intel Graphics Debugging  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtSW50ZWwtSFctSGFuZy1SZXBsYXnSAQA?oc=5",
-          "publishedOn": "2024-06-14T16:00:00.000Z",
-          "wordCount": 8739,
-          "title": "Linux 6.11 Bringing \"Hardware Replay\" Feature For Intel Graphics Debugging - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWNsZXMvY3Vkbm4tZG93bmxvYWTSAQA",
-          "author": null,
-          "description": "cuDNN Download: A Guide  Built In",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWNsZXMvY3Vkbm4tZG93bmxvYWTSAQA?oc=5",
-          "publishedOn": "2024-06-14T15:37:05.000Z",
-          "wordCount": 8739,
-          "title": "cuDNN Download: A Guide - Built In",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10141,16 +10101,6 @@
           "wordCount": 2789,
           "title": "What are Attention Mechanisms in Deep Learning?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/andrea-de-santis-zwd435-ewb4-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/lambda-functions-in-python/",
-          "author": "Samyak Jain",
-          "description": "In this tutorial, we will explore the various aspects of lambda functions in Python, including their syntax, use cases, and limitations.  By understanding how to effectively utilize lambda functions, you can write more concise and efficient Python code. This will enhance your programming skills and make your codebase cleaner",
-          "link": "https://www.freecodecamp.org/news/lambda-functions-in-python/",
-          "publishedOn": "2024-06-14T14:44:05.000Z",
-          "wordCount": 1835,
-          "title": "Lambda Functions in Python – How to Use Lambdas with Map, Filter, and Reduce",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/img_12--1-.jpg"
         }
       ]
     }
