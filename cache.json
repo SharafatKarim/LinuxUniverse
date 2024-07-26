@@ -18,6 +18,86 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190766",
+          "author": "Web Webster",
+          "description": "This article focuses on simple GUI text editors. These editors aren’t intended to offer the functionality provided by many text editors. Instead, they are designed for anyone wanting a very basic text editor with a convenient graphical interface.\nThe post 10 Free and Open-Source Simple GUI Based Linux Text Editors appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/10-free-and-open-source-simple-gui-based-linux-text-editors/",
+          "publishedOn": "2024-07-26T00:00:25.000Z",
+          "wordCount": 9051,
+          "title": "10 Free and Open-Source Simple GUI Based Linux Text Editors",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190838",
+          "author": "Web Webster",
+          "description": "Pydio Cells is a self-hosted document sharing and collaboration platform. In this guide, we’ll walk you through the installation of Pydio Cells on the Ubuntu 24.04 server with the MariaDB database and Apache as a reverse proxy.\nThe post How to Install Pydio Cells on Ubuntu 24.04 Server appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-pydio-cells-on-ubuntu-24-04-server/",
+          "publishedOn": "2024-07-25T22:00:13.000Z",
+          "wordCount": 9049,
+          "title": "How to Install Pydio Cells on Ubuntu 24.04 Server",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190911",
+          "author": "Web Webster",
+          "description": "In this guide, learn how to install the Yarn package manager on Ubuntu using NPM, Corepack, and the APT repository with practical examples.\nThe post How to Install Yarn on Ubuntu 24.04 (via 3 Methods) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-yarn-on-ubuntu-24-04-via-3-methods/",
+          "publishedOn": "2024-07-25T20:00:18.000Z",
+          "wordCount": 9035,
+          "title": "How to Install Yarn on Ubuntu 24.04 (via 3 Methods)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191002",
+          "author": "Web Webster",
+          "description": "OpenSSL introduces a new governance model & projects to enhance community participation and decision-making. Full details inside!\nThe post OpenSSL Unveils New Governance Model appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/openssl-unveils-new-governance-model/",
+          "publishedOn": "2024-07-25T18:00:57.000Z",
+          "wordCount": 9004,
+          "title": "OpenSSL Unveils New Governance Model",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190978",
+          "author": "Web Webster",
+          "description": "In this tutorial, learn how to install multiple Python versions on Ubuntu using Pyenv without any conflict issues, and then create a separate virtual environment.\nThe post How to Install Multiple Python Versions on Ubuntu Using Pyenv appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-multiple-python-versions-on-ubuntu-using-pyenv/",
+          "publishedOn": "2024-07-25T17:00:59.000Z",
+          "wordCount": 9046,
+          "title": "How to Install Multiple Python Versions on Ubuntu Using Pyenv",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191001",
+          "author": "Web Webster",
+          "description": "You can find a list of the new features in Linux Mint 22 on their website, and I won’t be going over each of these points. Instead, I thought I would share my impression of Linux Mint 22 after a day or so of using it as my main work environment.\nThe post The First Hours of Linux Mint 22 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/the-first-hours-of-linux-mint-22/",
+          "publishedOn": "2024-07-25T16:00:40.000Z",
+          "wordCount": 9056,
+          "title": "The First Hours of Linux Mint 22",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191012",
+          "author": "Web Webster",
+          "description": "Coming more than three and a half months after Qt Creator 13, the Qt Creator 14 release introduces support for Lua-based plugins, which lets developers extend the capabilities of Qt Creator without compiling C++ plugins for all supported platforms. APIs will be provided for tasks like registering language servers, actions, and preferences.\nThe post Qt Creator 14 Open-Source IDE Released With Support for Lua-Based Plugins appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/qt-creator-14-open-source-ide-released-with-support-for-lua-based-plugins/",
+          "publishedOn": "2024-07-25T15:00:13.000Z",
+          "wordCount": 9075,
+          "title": "Qt Creator 14 Open-Source IDE Released With Support for Lua-Based Plugins",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191009",
+          "author": "Web Webster",
+          "description": "A critical bug in libwayland update causes Plasma Desktop freeze at login in Debian Sid/Trixie. The root cause is identified, and the temporary solution is released!\nThe post A Critical Bug in Libwayland Update Causes Plasma Desktop Freeze on Debian Sid/Trixie appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/a-critical-bug-in-libwayland-update-causes-plasma-desktop-freeze-on-debian-sid-trixie/",
+          "publishedOn": "2024-07-25T14:23:07.000Z",
+          "wordCount": 9060,
+          "title": "A Critical Bug in Libwayland Update Causes Plasma Desktop Freeze on Debian Sid/Trixie",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190948",
           "author": "Web Webster",
           "description": "This article focuses on useful Flatpak tools. Only free and open-source software is eligible for inclusion.\nThe post 7 Useful Free and Open-Source Flatpak Tools appeared first on Linux Today.",
@@ -1736,56 +1816,6 @@
           "wordCount": null,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190268",
-          "author": "Web Webster",
-          "description": "Preparing for the Red Hat Certified System Administrator (RHCSA) exam requires hands-on experience with Red Hat Enterprise Linux (RHEL) 9. In this guide, we’ll walk through the steps to perform a standard RHEL 9 installation that you can use for your RHCSA exam preparation.\nThe post How to Install RHEL 9 for RHCSA Certification appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-rhel-9-for-rhcsa-certification/",
-          "publishedOn": "2024-06-26T00:00:30.000Z",
-          "wordCount": 9041,
-          "title": "How to Install RHEL 9 for RHCSA Certification",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190250",
-          "author": "Web Webster",
-          "description": "In this guide, learn how to check the PHP (or PHP-FPM) version on Ubuntu and other Linux distributions from the command line.\nThe post How to Check PHP Version in Linux (via 4 Methods) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-check-php-version-in-linux-via-4-methods/",
-          "publishedOn": "2024-06-25T20:00:18.000Z",
-          "wordCount": 9032,
-          "title": "How to Check PHP Version in Linux (via 4 Methods)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189917",
-          "author": "Web Webster",
-          "description": "Learn how to install the Proton Pass Desktop App on your favorite Linux distribution, including Ubuntu, Debian, Linux Mint, Red Hat, Fedora, and more.\nThe post How to Install Proton Pass Desktop App on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-proton-pass-desktop-app-on-linux/",
-          "publishedOn": "2024-06-25T18:00:59.000Z",
-          "wordCount": 9030,
-          "title": "How to Install Proton Pass Desktop App on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189874",
-          "author": "Web Webster",
-          "description": "Learn how to install iTunes on Ubuntu using a Wine program, then how to launch iTunes on Ubuntu, including its removal steps.\nThe post How to Install and Use iTunes on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-and-use-itunes-on-ubuntu-3/",
-          "publishedOn": "2024-06-25T17:00:45.000Z",
-          "wordCount": 9024,
-          "title": "How to Install and Use iTunes on Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189955",
-          "author": "Web Webster",
-          "description": "Learn how to install and use Mission Center on Ubuntu and other Linux distros to monitor running processes, services, and other hardware information.\nThe post Mission Center: A Linux Alternative to Windows Task Manager appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/mission-center-a-linux-alternative-to-windows-task-manager/",
-          "publishedOn": "2024-06-25T15:00:53.000Z",
-          "wordCount": 9025,
-          "title": "Mission Center: A Linux Alternative to Windows Task Manager",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1794,6 +1824,226 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMilwFBVV95cUxQaVJpbUw5MGtqWGJxOHdwNW9kTTJtbEFGTVFmWS1lWFh0Z0JYTVZMNWgxak9qc3c4RVZxTHJoX1FsLXB1d3BXVHVyZWpZMmF1UEZ3Z1ZSZW1wdWNxZ0ZvZ21pVDVQSFREOU5uTUhYNVI5YXg2a3oyNGFGdWVfOWFtNnBneDZqclBSSjZvRkhrdXpzM0t4eU0w0gGcAUFVX3lxTE4zSVVQNTVjWXV3ZmV0bGR4eFIyenZaU0xhUEpHYXZ4WUI4SVpSYzJfWEJkRDRUb2QzRkFmaEhmN1BuQTBlWEJaUDBHOFpzdnZvaGEtb0otSTZnY3NzQVJ1d2RNZFcxcG5odmRmbGdMX3F6TVB6VVRSNjd1TnFOWkZ5a1NzM3B5dDFIbmNUZDBISnM5RGpmZGY5TUx2VQ",
+          "author": null,
+          "description": "VirtualBox 7.1 Promises Wayland Support for Clipboard Sharing on Linux  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVJpbUw5MGtqWGJxOHdwNW9kTTJtbEFGTVFmWS1lWFh0Z0JYTVZMNWgxak9qc3c4RVZxTHJoX1FsLXB1d3BXVHVyZWpZMmF1UEZ3Z1ZSZW1wdWNxZ0ZvZ21pVDVQSFREOU5uTUhYNVI5YXg2a3oyNGFGdWVfOWFtNnBneDZqclBSSjZvRkhrdXpzM0t4eU0w0gGcAUFVX3lxTE4zSVVQNTVjWXV3ZmV0bGR4eFIyenZaU0xhUEpHYXZ4WUI4SVpSYzJfWEJkRDRUb2QzRkFmaEhmN1BuQTBlWEJaUDBHOFpzdnZvaGEtb0otSTZnY3NzQVJ1d2RNZFcxcG5odmRmbGdMX3F6TVB6VVRSNjd1TnFOWkZ5a1NzM3B5dDFIbmNUZDBISnM5RGpmZGY5TUx2VQ?oc=5",
+          "publishedOn": "2024-07-25T21:22:56.000Z",
+          "wordCount": 9016,
+          "title": "VirtualBox 7.1 Promises Wayland Support for Clipboard Sharing on Linux - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE1oTncyN0lpOGlBOEdFczVoc2ItMFdSampYejJFUzNOalZWYjlZeGlpV3JJTVA1Y2k0SzlEWVI5Zkdrbnd2eWFXN1p4clZSWlJraVV1R1lDZUVnZUE0bU5iWWNzWmZvdw",
+          "author": null,
+          "description": "Linux Mint 22 Is Now Available  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oTncyN0lpOGlBOEdFczVoc2ItMFdSampYejJFUzNOalZWYjlZeGlpV3JJTVA1Y2k0SzlEWVI5Zkdrbnd2eWFXN1p4clZSWlJraVV1R1lDZUVnZUE0bU5iWWNzWmZvdw?oc=5",
+          "publishedOn": "2024-07-25T17:36:00.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 Is Now Available - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikwFBVV95cUxQQUlKc3ZsdENZcWtpQ1p6NlhORDZNS3lDUlRPRWJOQWYzR3lROE9IRXhfRHktSV9VLXZwWE1pU25PWmpUSmI0NnV4WUNiaDFDRUNQMnlPdm9YS2QwZ1V5ejV4WkZNQ29NcHEwX29tRjgya0xkTUdURGl0TFZ5b1VCYk5GMnYzbTFuMlUwcEhUemxQX0nSAZIBQVVfeXFMT2Y1RmV6X213QWpjVzYxUGo1LVlkOHk5XzJQeFByQU1id1ltVEtGSUJ1QXhoOC0tX1dzQ3E1SmZlYjQxZHdkUTJSdTliTHNrVmFhVXp1bk9YZFpESE5oWUdqMDJEOFBqbERHMXlkS2hTTjVlTXNTNlo5M1loLXprSDkzclpyRUNLXzU1SlpYeldFVmc",
+          "author": null,
+          "description": "Linux Mint 22 \"Wilma\" is out now with Linux 6.8 and GTK4 themes  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUlKc3ZsdENZcWtpQ1p6NlhORDZNS3lDUlRPRWJOQWYzR3lROE9IRXhfRHktSV9VLXZwWE1pU25PWmpUSmI0NnV4WUNiaDFDRUNQMnlPdm9YS2QwZ1V5ejV4WkZNQ29NcHEwX29tRjgya0xkTUdURGl0TFZ5b1VCYk5GMnYzbTFuMlUwcEhUemxQX0nSAZIBQVVfeXFMT2Y1RmV6X213QWpjVzYxUGo1LVlkOHk5XzJQeFByQU1id1ltVEtGSUJ1QXhoOC0tX1dzQ3E1SmZlYjQxZHdkUTJSdTliTHNrVmFhVXp1bk9YZFpESE5oWUdqMDJEOFBqbERHMXlkS2hTTjVlTXNTNlo5M1loLXprSDkzclpyRUNLXzU1SlpYeldFVmc?oc=5",
+          "publishedOn": "2024-07-25T17:34:00.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 \"Wilma\" is out now with Linux 6.8 and GTK4 themes - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxOZGVWeHFNcW43enFxSXZTb3pVR1dIbXZxWlQyZW5PTVl0VW4xQjN5OVhjQVFsVFFPTFRMblhWNFo4cnZLcENwY3AyTGZxRHQxalhTalFGVUl1c1lERW9XU0pSYTZHalIyclZHUWhaOWM1OHduSjloZlEzYU9qdVc4ejEzMERzX1dqcWFDWtIBkgFBVV95cUxQakxHNkx0bnhHMXpLakVCU2J4OENITFQwV1QwVk82dkJjMDJ3QlJUWllVc1dhbkZaMUVxS1MtcWFjVU1OR0NqN2pmVkl2d0syLXpZQ3JJWnFOckcxV0cycUpCTmdhLUVRQWlUSEdlMVBjeXNER2VfczljRXNESmUzRms1aC1STnNDbU5HaTh6Y2R4Zw",
+          "author": null,
+          "description": "First Pop!_OS 24.04 Alpha with COSMIC DE Arrives August 8  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGVWeHFNcW43enFxSXZTb3pVR1dIbXZxWlQyZW5PTVl0VW4xQjN5OVhjQVFsVFFPTFRMblhWNFo4cnZLcENwY3AyTGZxRHQxalhTalFGVUl1c1lERW9XU0pSYTZHalIyclZHUWhaOWM1OHduSjloZlEzYU9qdVc4ejEzMERzX1dqcWFDWtIBkgFBVV95cUxQakxHNkx0bnhHMXpLakVCU2J4OENITFQwV1QwVk82dkJjMDJ3QlJUWllVc1dhbkZaMUVxS1MtcWFjVU1OR0NqN2pmVkl2d0syLXpZQ3JJWnFOckcxV0cycUpCTmdhLUVRQWlUSEdlMVBjeXNER2VfczljRXNESmUzRms1aC1STnNDbU5HaTh6Y2R4Zw?oc=5",
+          "publishedOn": "2024-07-25T17:07:26.000Z",
+          "wordCount": 9016,
+          "title": "First Pop!_OS 24.04 Alpha with COSMIC DE Arrives August 8 - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE1NVERpcVBuUnBDWk5COUJjcnRWX2M4SXo5NE5zUUloQ2pMZzV4WUxNdGMtRTU1dHlOTmtTNzhDM05ibmFvd2NKTHl6R0lwS0tZNVhhaHA3UE9ZZEhya3lVd2ZuS1dMSHVOWVFj",
+          "author": null,
+          "description": "Linux Fu: Failing Pipelines  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NVERpcVBuUnBDWk5COUJjcnRWX2M4SXo5NE5zUUloQ2pMZzV4WUxNdGMtRTU1dHlOTmtTNzhDM05ibmFvd2NKTHl6R0lwS0tZNVhhaHA3UE9ZZEhya3lVd2ZuS1dMSHVOWVFj?oc=5",
+          "publishedOn": "2024-07-25T17:00:00.000Z",
+          "wordCount": 9016,
+          "title": "Linux Fu: Failing Pipelines - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxPejNSMlJ1d0dkTWVDSlpkcHlseWJVWGFfMFM2dll5MXFmY0x0WVBCWV9lRDJTVzFUS0pTdXBPQUN3MXpZR3NFdTJuRlJXcFBkSXlUSU9OTW9yMXFFeGZXSExXVGJwbWxtYmFtSGlZcmxVbTJzZ2lQTDdHOGZzZlpIS3YyMG9vbm_SAYwBQVVfeXFMTzhWakpILWR0Q3hXckpsaDZvdEVQZHNfRjRfM3RhZzhua2pxdUV5cnIzVTJ6OFdlWXJTT3ZfaWRTeGdmMjZYVDlHY19hQ2ZJczZZeS05Q3dNM1NBYzVFenhyOFU0d1o1T1huTy1IRU5qd2h4NHZEbDZueElOekJQRGVzeHI2SkhRRUFEYks",
+          "author": null,
+          "description": "Linux Mint 22 Officially Released, This is What’s New  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejNSMlJ1d0dkTWVDSlpkcHlseWJVWGFfMFM2dll5MXFmY0x0WVBCWV9lRDJTVzFUS0pTdXBPQUN3MXpZR3NFdTJuRlJXcFBkSXlUSU9OTW9yMXFFeGZXSExXVGJwbWxtYmFtSGlZcmxVbTJzZ2lQTDdHOGZzZlpIS3YyMG9vbm_SAYwBQVVfeXFMTzhWakpILWR0Q3hXckpsaDZvdEVQZHNfRjRfM3RhZzhua2pxdUV5cnIzVTJ6OFdlWXJTT3ZfaWRTeGdmMjZYVDlHY19hQ2ZJczZZeS05Q3dNM1NBYzVFenhyOFU0d1o1T1huTy1IRU5qd2h4NHZEbDZueElOekJQRGVzeHI2SkhRRUFEYks?oc=5",
+          "publishedOn": "2024-07-25T16:24:24.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 Officially Released, This is What’s New - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxQd3dwOFNic2psQ2tfd3hMVTVPQ2M3TzRpdlNfWldZUURqdkhlYUlMT09iNnNEZTZVSGdfdDFsaHk0cHRPd2ZPMkZsNWxiSEhWU0pieVhrc1NxR0cxLWNrM29jLWxLZjlrS3gtbmxqZ3hZUjU5clJUbER6LWdEZDRZb2RJcnAtMFlveVZJb19IYms3M19pUmlTSVE2VGxnWndkNGdQQw",
+          "author": null,
+          "description": "Fujifilm Announces Linux SDK, Helping Drone Makers Use GFX100 Cameras  PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3dwOFNic2psQ2tfd3hMVTVPQ2M3TzRpdlNfWldZUURqdkhlYUlMT09iNnNEZTZVSGdfdDFsaHk0cHRPd2ZPMkZsNWxiSEhWU0pieVhrc1NxR0cxLWNrM29jLWxLZjlrS3gtbmxqZ3hZUjU5clJUbER6LWdEZDRZb2RJcnAtMFlveVZJb19IYms3M19pUmlTSVE2VGxnWndkNGdQQw?oc=5",
+          "publishedOn": "2024-07-25T16:15:59.000Z",
+          "wordCount": 9016,
+          "title": "Fujifilm Announces Linux SDK, Helping Drone Makers Use GFX100 Cameras - PetaPixel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVkFVX3lxTFBJcnlyMGdoVlJGQTJ0SDRpbUNXTk9POExYZzJzQnQ1VzFROVo3aU9mbWRRekF6NDl2am9fYlJMZ0VVa2piQ0ZrQzQ4ZTJQd0dzTzRRTWtB",
+          "author": null,
+          "description": "Linux Mint 22 Released - Built Atop Ubuntu 24.04 With Latest Cinnamon Desktop  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJcnlyMGdoVlJGQTJ0SDRpbUNXTk9POExYZzJzQnQ1VzFROVo3aU9mbWRRekF6NDl2am9fYlJMZ0VVa2piQ0ZrQzQ4ZTJQd0dzTzRRTWtB?oc=5",
+          "publishedOn": "2024-07-25T16:12:00.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 Released - Built Atop Ubuntu 24.04 With Latest Cinnamon Desktop - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW0FVX3lxTFBQbzRYcldqTUtfMDlOQ1RNQTN4d0FlQjNMcVJxenRWeGMtWVVTZVg5TkEtREwxMDZ5d3Qta2g3Q1VfUG54OWNBOUlSd1YxVWxUVjVHdjRTdmgzTjA",
+          "author": null,
+          "description": "Linux Mint 22 is Here!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQbzRYcldqTUtfMDlOQ1RNQTN4d0FlQjNMcVJxenRWeGMtWVVTZVg5TkEtREwxMDZ5d3Qta2g3Q1VfUG54OWNBOUlSd1YxVWxUVjVHdjRTdmgzTjA?oc=5",
+          "publishedOn": "2024-07-25T16:03:12.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 is Here! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiswFBVV95cUxOa3ZsWDR5aVBEUmdyQVd5NUtmaXBYRXU5MlFlNGk1TmFZei1yQ05GS2kwNVVqb2ZSMzh2MGlRZmUtZWxHYjFMeURRMzdkS0VZYUJsUHdlZFc0MkF1c2dhaXQwbWhha2UweFdjZUM3aGM0YklCR1ItLXEyYTYwT19rcjV6Z2x5WlJrU2lUVXY0amNuSjFscGlwa2Z4SFAxdXBfaGNxTVNLMGhheThrU1lPUU1DZw",
+          "author": null,
+          "description": "Windows gets Linux’s sudo superpower: Here’s how to turn it on  PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3ZsWDR5aVBEUmdyQVd5NUtmaXBYRXU5MlFlNGk1TmFZei1yQ05GS2kwNVVqb2ZSMzh2MGlRZmUtZWxHYjFMeURRMzdkS0VZYUJsUHdlZFc0MkF1c2dhaXQwbWhha2UweFdjZUM3aGM0YklCR1ItLXEyYTYwT19rcjV6Z2x5WlJrU2lUVXY0amNuSjFscGlwa2Z4SFAxdXBfaGNxTVNLMGhheThrU1lPUU1DZw?oc=5",
+          "publishedOn": "2024-07-25T16:00:00.000Z",
+          "wordCount": 9016,
+          "title": "Windows gets Linux’s sudo superpower: Here’s how to turn it on - PCWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijwFBVV95cUxPWV9UMDdxM04wc29uWjFQekpRbEE2OEFrVGdWbmwxMXVtakdBWFNzX2ZJNU5URU5OVHM4ZXBqaExfVnBUSUtYcml4MTZzclJfSTVYbTdhZmd3MzJfTkhacUJVN25XY1NFQTNvZFdnR2tWanlGdmJRTWNxZVVmRWlyZ2JoaXQ5cXNZTGxINlUxTQ",
+          "author": null,
+          "description": "Linux Mint 22 Released: A Look At The Distro And Its Future  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWV9UMDdxM04wc29uWjFQekpRbEE2OEFrVGdWbmwxMXVtakdBWFNzX2ZJNU5URU5OVHM4ZXBqaExfVnBUSUtYcml4MTZzclJfSTVYbTdhZmd3MzJfTkhacUJVN25XY1NFQTNvZFdnR2tWanlGdmJRTWNxZVVmRWlyZ2JoaXQ5cXNZTGxINlUxTQ?oc=5",
+          "publishedOn": "2024-07-25T15:33:45.000Z",
+          "wordCount": 9016,
+          "title": "Linux Mint 22 Released: A Look At The Distro And Its Future - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNUThmWmtpZGFyVzhXQ3R3TU9tazhIRWdEUnJqZzY3cE5sX0VTWWlybFdXVHYtbmp6MTlRYktadFR2UDdlaWl0RFdFT3BGRGlHdkdaRHkzLXEzaUlMNVdvZlhDQVUtMENxUVZTVGJyVXFUZUxHaGhDekZFbjdzYm1IU2doOFN0SHItNTRlMW5HWUN2SWYzX0o0cTE1WFhtdVE",
+          "author": null,
+          "description": "Say goodbye to Microsoft Windows 11 and hello to Ubuntu-based Linux Mint 22  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUThmWmtpZGFyVzhXQ3R3TU9tazhIRWdEUnJqZzY3cE5sX0VTWWlybFdXVHYtbmp6MTlRYktadFR2UDdlaWl0RFdFT3BGRGlHdkdaRHkzLXEzaUlMNVdvZlhDQVUtMENxUVZTVGJyVXFUZUxHaGhDekZFbjdzYm1IU2doOFN0SHItNTRlMW5HWUN2SWYzX0o0cTE1WFhtdVE?oc=5",
+          "publishedOn": "2024-07-25T15:23:14.000Z",
+          "wordCount": 9016,
+          "title": "Say goodbye to Microsoft Windows 11 and hello to Ubuntu-based Linux Mint 22 - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTFBoQnRUeFdGWEFtZjl5QlZCNDl2T05CR1h0eEZ4U21QTVNfNG9yYXk5LVRGaFl1VEdVbkt3UnRrdkdWMFBwUHc4SGF2b3JrNzNDYkZSZk5iSG13RGlackhjLThB",
+          "author": null,
+          "description": "AMD Working On More Precise GPU Reset Capabilities For Their Linux Driver  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoQnRUeFdGWEFtZjl5QlZCNDl2T05CR1h0eEZ4U21QTVNfNG9yYXk5LVRGaFl1VEdVbkt3UnRrdkdWMFBwUHc4SGF2b3JrNzNDYkZSZk5iSG13RGlackhjLThB?oc=5",
+          "publishedOn": "2024-07-25T15:20:00.000Z",
+          "wordCount": 9016,
+          "title": "AMD Working On More Precise GPU Reset Capabilities For Their Linux Driver - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxQRjBFUTVDY2RxcDVndThoMzhJckxWdVFGRVRHS25kMnM4dVRTX1V3a3dSNWdzZ3RiaC0xVVpIN091QTJLbVh5TVEycGFrYzhYMk43eWRHVVZSbGQ1SmhnbEkyUjFjbG9JWldpSl9mMVFic0tRU1pWYzNJcEpBTktCVEUyb0lsT1ZNX2pnTm5oOFQ2TlFIYWpyMjdZMNIBoAFBVV95cUxOQVpVWTBWS2FTWUdWMjk2RnNhU1VqMHFpNlN3MXpubGtLV3VPcDcwamlHTWNGQlVNVUh0aXVidlhLRXQwd3lZQjFBQUtOYWF4d3VfRTJYU1o3bEN5ZXRhY3I3MEl3Q3h3NTVFSm93eDFMRV9WQmVtUHc3YWJOR2psMkVmNGYzak4tY1NoWTliZ2pqWHRNT1JJQmFiTThaTTJO",
+          "author": null,
+          "description": "Qt Creator 14 Open-Source IDE Released with Support for Lua-Based Plugins  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjBFUTVDY2RxcDVndThoMzhJckxWdVFGRVRHS25kMnM4dVRTX1V3a3dSNWdzZ3RiaC0xVVpIN091QTJLbVh5TVEycGFrYzhYMk43eWRHVVZSbGQ1SmhnbEkyUjFjbG9JWldpSl9mMVFic0tRU1pWYzNJcEpBTktCVEUyb0lsT1ZNX2pnTm5oOFQ2TlFIYWpyMjdZMNIBoAFBVV95cUxOQVpVWTBWS2FTWUdWMjk2RnNhU1VqMHFpNlN3MXpubGtLV3VPcDcwamlHTWNGQlVNVUh0aXVidlhLRXQwd3lZQjFBQUtOYWF4d3VfRTJYU1o3bEN5ZXRhY3I3MEl3Q3h3NTVFSm93eDFMRV9WQmVtUHc3YWJOR2psMkVmNGYzak4tY1NoWTliZ2pqWHRNT1JJQmFiTThaTTJO?oc=5",
+          "publishedOn": "2024-07-25T13:49:50.000Z",
+          "wordCount": 9016,
+          "title": "Qt Creator 14 Open-Source IDE Released with Support for Lua-Based Plugins - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxQVlVydmd1cklfZTQ4NnJGcHBzbWZxUTlpeURxU2RzY3JNNHZhcUdlajV6TkIyTG5hRmIyXzRhY09zdUVPXzU0OThadWxRRE9HTXRFNXJBSGJWVGZDT3phNmJXUjhLb0JWdUVZandkYmhKcnI3QWVDODlMMDRfblZGLTZMZEc3NHBSMEhDUUpSdHRDYjN4SlJZR1RvVzdkZw",
+          "author": null,
+          "description": "Fallout: London mod for Fallout 4 has released today on GOG  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlVydmd1cklfZTQ4NnJGcHBzbWZxUTlpeURxU2RzY3JNNHZhcUdlajV6TkIyTG5hRmIyXzRhY09zdUVPXzU0OThadWxRRE9HTXRFNXJBSGJWVGZDT3phNmJXUjhLb0JWdUVZandkYmhKcnI3QWVDODlMMDRfblZGLTZMZEc3NHBSMEhDUUpSdHRDYjN4SlJZR1RvVzdkZw?oc=5",
+          "publishedOn": "2024-07-25T12:40:02.000Z",
+          "wordCount": 9016,
+          "title": "Fallout: London mod for Fallout 4 has released today on GOG - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFBVV95cUxPX3NTYTNPandFYmtSNFhYS18yY0JtQzBRNm5CM0VvaHJTODJKS1VDdzlxTE9xSlIxVmVsbUd0TWlMbFBvWW1pWGFRdlRYSUhWWVVzLWhGUTJkNWFtTUR0QlZCLWNzdGhiVklHbU1xM2NhWUxXb1haZl9VbGZTSEpFcA",
+          "author": null,
+          "description": "Thunderbird Is My Favorite Linux Email App Again, Here's Why  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3NTYTNPandFYmtSNFhYS18yY0JtQzBRNm5CM0VvaHJTODJKS1VDdzlxTE9xSlIxVmVsbUd0TWlMbFBvWW1pWGFRdlRYSUhWWVVzLWhGUTJkNWFtTUR0QlZCLWNzdGhiVklHbU1xM2NhWUxXb1haZl9VbGZTSEpFcA?oc=5",
+          "publishedOn": "2024-07-25T11:00:00.000Z",
+          "wordCount": 9016,
+          "title": "Thunderbird Is My Favorite Linux Email App Again, Here's Why - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirwFBVV95cUxQREZ6NlM5RURFcWlROWJjRVBodktSc2lPal94cGxYRlRhQVNncG9wS3habDA4cm5fakR3YnpUREZYX2w4Z21NOUF3MFZBV2tBcU5ZYms5TFMycEVuRGpCR1lJQXpqdTFmcUpzdUpTMXBFdnJXWHY5c1N1eTZINmZyTUp0cUhyMElZNklzUWJKNlhEeWR3b3ViTGVKSWVOUUd0Tk4yeXVMemRrUTJhMWVv",
+          "author": null,
+          "description": "Dragon Age: The Veilguard gets Steam Deck Verified well ahead of release  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREZ6NlM5RURFcWlROWJjRVBodktSc2lPal94cGxYRlRhQVNncG9wS3habDA4cm5fakR3YnpUREZYX2w4Z21NOUF3MFZBV2tBcU5ZYms5TFMycEVuRGpCR1lJQXpqdTFmcUpzdUpTMXBFdnJXWHY5c1N1eTZINmZyTUp0cUhyMElZNklzUWJKNlhEeWR3b3ViTGVKSWVOUUd0Tk4yeXVMemRrUTJhMWVv?oc=5",
+          "publishedOn": "2024-07-25T10:51:53.000Z",
+          "wordCount": 9016,
+          "title": "Dragon Age: The Veilguard gets Steam Deck Verified well ahead of release - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE91aEd0YVR3VVU0VWdrTHBoNnZPLVl2cjdVZ1VHUkF1SVhYVkd1eHZtTjhjNHd4SGtxajdvd1UtRHR3TUhpZEkzS2lPQ2l2aXZrdjlLUUxoN1dseGVzc0xWcnV1d0U4clNz",
+          "author": null,
+          "description": "Fedora 41 Aims For Out-Of-The-Box Webcam Support For Newer Intel Laptops  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91aEd0YVR3VVU0VWdrTHBoNnZPLVl2cjdVZ1VHUkF1SVhYVkd1eHZtTjhjNHd4SGtxajdvd1UtRHR3TUhpZEkzS2lPQ2l2aXZrdjlLUUxoN1dseGVzc0xWcnV1d0U4clNz?oc=5",
+          "publishedOn": "2024-07-25T10:35:00.000Z",
+          "wordCount": 9016,
+          "title": "Fedora 41 Aims For Out-Of-The-Box Webcam Support For Newer Intel Laptops - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE5iMGJTeFVlMFFSMjUxX2ZmVDEzbDduV2d6SmFDVGxzak5oMEYtUE1pRHhDTk5meWl6V0N2NGpVQURqSm5JSkt3TnlzcTRwaTVjajVhMWtaRUE",
+          "author": null,
+          "description": "Rust Is Ready With Robust Toolchain Handling For Linux 6.11  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iMGJTeFVlMFFSMjUxX2ZmVDEzbDduV2d6SmFDVGxzak5oMEYtUE1pRHhDTk5meWl6V0N2NGpVQURqSm5JSkt3TnlzcTRwaTVjajVhMWtaRUE?oc=5",
+          "publishedOn": "2024-07-25T10:13:00.000Z",
+          "wordCount": 9016,
+          "title": "Rust Is Ready With Robust Toolchain Handling For Linux 6.11 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV0FVX3lxTE1faFQ3M1NMN0VZX3l2UG9nWjdTZHBiblhOaEVtZmtmcVgyNktfeWVBeXEyLW9yOWZkaEttRERSVkxCYXNFV1ByN21yZVhUT3hkUmFfenUtUQ",
+          "author": null,
+          "description": "HID-BPF Improvements & Apple Keyboard Backlight Support For Some T2 Macs In Linux 6.11  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1faFQ3M1NMN0VZX3l2UG9nWjdTZHBiblhOaEVtZmtmcVgyNktfeWVBeXEyLW9yOWZkaEttRERSVkxCYXNFV1ByN21yZVhUT3hkUmFfenUtUQ?oc=5",
+          "publishedOn": "2024-07-25T10:10:00.000Z",
+          "wordCount": 9016,
+          "title": "HID-BPF Improvements & Apple Keyboard Backlight Support For Some T2 Macs In Linux 6.11 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikgFBVV95cUxOQWFPWWFKMHJ4LWtvcWw2SmJyMmR6LWd1bXhMX0xSTUtrNk15Z2o3SWxIbXZxeElYR0xocW5qYlFJUGhEbGxYX3ByQnRBTk95bHdqeXNyc3JsSGF2TEVsWGpKQWtsYk1pazg4WERGMVl6ckdtZWtvSlNzb3FRMVI2RmIzUFhlOHBKTUNPTElfVHdXQQ",
+          "author": null,
+          "description": "Apple Maps is now available for Windows and Linux  gizmochina",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWFPWWFKMHJ4LWtvcWw2SmJyMmR6LWd1bXhMX0xSTUtrNk15Z2o3SWxIbXZxeElYR0xocW5qYlFJUGhEbGxYX3ByQnRBTk95bHdqeXNyc3JsSGF2TEVsWGpKQWtsYk1pazg4WERGMVl6ckdtZWtvSlNzb3FRMVI2RmIzUFhlOHBKTUNPTElfVHdXQQ?oc=5",
+          "publishedOn": "2024-07-25T10:06:13.000Z",
+          "wordCount": 9016,
+          "title": "Apple Maps is now available for Windows and Linux - gizmochina",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXkFVX3lxTE9ibl9Db3RNVjJXcUpEYXUtNmIwVzVfU3hRd0EwZGh4blJNMXlUOEZzWExjOC1wclRNOEdYakVnVC1yRUZSeVc3UWxZVEpmQnBsVG9CUlFMRVBZNjEtNGc",
+          "author": null,
+          "description": "FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibl9Db3RNVjJXcUpEYXUtNmIwVzVfU3hRd0EwZGh4blJNMXlUOEZzWExjOC1wclRNOEdYakVnVC1yRUZSeVc3UWxZVEpmQnBsVG9CUlFMRVBZNjEtNGc?oc=5",
+          "publishedOn": "2024-07-25T04:52:09.000Z",
+          "wordCount": 9016,
+          "title": "FOSS Weekly #24.30: Mint 22 Features, Ultramarine Linux, CrowdStrike on Linux and More - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMia0FVX3lxTE1laExxRDFXcHcwNzBIV0RLV3ZiTERBcC1zczU1U2FjaHMta1ktemJsLV82MHBLdm9oSW1OYVJrSUxBS19qSzZfa3FFOU0xOGxiMklVQzNMTENXZlVVUXVubUY2X281RzQybDJJ",
           "author": null,
@@ -2132,6 +2382,16 @@
           "publishedOn": "2024-07-23T10:09:00.000Z",
           "wordCount": 8987,
           "title": "LoongArch Enables More Kernel Features With Linux 6.11 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiigFBVV95cUxPWUlIRnIyZEZXZHFZSy1tc0JxVkgxUkZsUjBpT2VXaV9oRnVNZjQ3bl80UGlfcDhjSlVWZTVJT0tibEVWS3NyNjUwQjdJaGRneDdmT3M0aFlxVlNSUE9tYUt4TC1CYWtpV3ltOS1aekN3YVNPeFdibldFNWJ3Xy1EemoxcVV2bTJUWUE",
+          "author": null,
+          "description": "Commonly Used Linux Commands (Brief Summary) | by Chiapeilie | 𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨 | Jul, 2024  Medium",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUlIRnIyZEZXZHFZSy1tc0JxVkgxUkZsUjBpT2VXaV9oRnVNZjQ3bl80UGlfcDhjSlVWZTVJT0tibEVWS3NyNjUwQjdJaGRneDdmT3M0aFlxVlNSUE9tYUt4TC1CYWtpV3ltOS1aekN3YVNPeFdibldFNWJ3Xy1EemoxcVV2bTJUWUE?oc=5",
+          "publishedOn": "2024-07-23T09:58:03.000Z",
+          "wordCount": 9016,
+          "title": "Commonly Used Linux Commands (Brief Summary) | by Chiapeilie | 𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨 | Jul, 2024 - Medium",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7353,186 +7613,6 @@
           "wordCount": 8761,
           "title": "Linux Foundation supporting wider array of decentralized technologies - Biometric Update",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyNC02NTM3NC130gEA",
-          "author": null,
-          "description": "A practical approach for finding anti-debugging routines in the Arm-Linux using hardware tracing | Scientific Reports  Nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyNC02NTM3NC130gEA?oc=5",
-          "publishedOn": "2024-06-26T12:03:08.000Z",
-          "wordCount": 8761,
-          "title": "A practical approach for finding anti-debugging routines in the Arm-Linux using hardware tracing | Scientific Reports - Nature.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL29wZW5TVVNFLUxlYXAtTWljcm8tNi4w0gEA",
-          "author": null,
-          "description": "openSUSE Leap Micro 6.0 Now Available For Container & VM Needs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL29wZW5TVVNFLUxlYXAtTWljcm8tNi4w0gEA?oc=5",
-          "publishedOn": "2024-06-26T10:01:00.000Z",
-          "wordCount": 8761,
-          "title": "openSUSE Leap Micro 6.0 Now Available For Container & VM Needs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yNi9waW5lNjQtb3o2NC1yaXNjLXZhcm0tc2JjLXRvLXN1cHBvcnQtbnV0dHgtcnRvcy1hbmQtZGViaWFuLWxpbnV4L9IBb2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yNi9waW5lNjQtb3o2NC1yaXNjLXZhcm0tc2JjLXRvLXN1cHBvcnQtbnV0dHgtcnRvcy1hbmQtZGViaWFuLWxpbnV4Lz9hbXA9MQ",
-          "author": null,
-          "description": "Pine64 Oz64 RISC-V+Arm SBC to support NuttX RTOS and Debian Linux  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yNi9waW5lNjQtb3o2NC1yaXNjLXZhcm0tc2JjLXRvLXN1cHBvcnQtbnV0dHgtcnRvcy1hbmQtZGViaWFuLWxpbnV4L9IBb2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNi8yNi9waW5lNjQtb3o2NC1yaXNjLXZhcm0tc2JjLXRvLXN1cHBvcnQtbnV0dHgtcnRvcy1hbmQtZGViaWFuLWxpbnV4Lz9hbXA9MQ?oc=5",
-          "publishedOn": "2024-06-26T09:24:14.000Z",
-          "wordCount": 8761,
-          "title": "Pine64 Oz64 RISC-V+Arm SBC to support NuttX RTOS and Debian Linux - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NTAzL2hvdy1lYnBmLWlzLXNoYXBpbmctdGhlLWZ1dHVyZS1vZi1saW51eC1hbmQtcGxhdGZvcm0tZW5naW5lZXJpbmcuaHRtbNIBc2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NTAzL2hvdy1lYnBmLWlzLXNoYXBpbmctdGhlLWZ1dHVyZS1vZi1saW51eC1hbmQtcGxhdGZvcm0tZW5naW5lZXJpbmcuYW1wLmh0bWw",
-          "author": null,
-          "description": "How eBPF is shaping the future of Linux and platform engineering  InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NTAzL2hvdy1lYnBmLWlzLXNoYXBpbmctdGhlLWZ1dHVyZS1vZi1saW51eC1hbmQtcGxhdGZvcm0tZW5naW5lZXJpbmcuaHRtbNIBc2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzE1NTAzL2hvdy1lYnBmLWlzLXNoYXBpbmctdGhlLWZ1dHVyZS1vZi1saW51eC1hbmQtcGxhdGZvcm0tZW5naW5lZXJpbmcuYW1wLmh0bWw?oc=5",
-          "publishedOn": "2024-06-26T09:00:00.000Z",
-          "wordCount": 8761,
-          "title": "How eBPF is shaping the future of Linux and platform engineering - InfoWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNTMwMTQwL2hvdy10by1pbnN0YWxsLXB5dGhvbi10aGUtc21hcnQtd2F5Lmh0bWzSAVZodHRwczovL3d3dy5pbmZvd29ybGQuY29tL2FydGljbGUvMzUzMDE0MC9ob3ctdG8taW5zdGFsbC1weXRob24tdGhlLXNtYXJ0LXdheS5hbXAuaHRtbA",
-          "author": null,
-          "description": "How to install Python the smart way  InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNTMwMTQwL2hvdy10by1pbnN0YWxsLXB5dGhvbi10aGUtc21hcnQtd2F5Lmh0bWzSAVZodHRwczovL3d3dy5pbmZvd29ybGQuY29tL2FydGljbGUvMzUzMDE0MC9ob3ctdG8taW5zdGFsbC1weXRob24tdGhlLXNtYXJ0LXdheS5hbXAuaHRtbA?oc=5",
-          "publishedOn": "2024-06-26T09:00:00.000Z",
-          "wordCount": 8761,
-          "title": "How to install Python the smart way - InfoWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzI2L3NsZV9vcGVuc3VzZV8xNV82L9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8yNi9zbGVfb3BlbnN1c2VfMTVfNi8",
-          "author": null,
-          "description": "SUSE Linux Enterprise 15 to receive support right up to end of Unix epoch  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA2LzI2L3NsZV9vcGVuc3VzZV8xNV82L9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNi8yNi9zbGVfb3BlbnN1c2VfMTVfNi8?oc=5",
-          "publishedOn": "2024-06-26T08:26:00.000Z",
-          "wordCount": 8761,
-          "title": "SUSE Linux Enterprise 15 to receive support right up to end of Unix epoch - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDYvMjYvY291cGxpbmctc3RtMzItYW5kLWxpbnV4LWNvbnNpZGVyLWhpZC1vdmVyLWkyYy_SAQA",
-          "author": null,
-          "description": "Coupling STM32 And Linux? Consider HID Over I2C  Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDYvMjYvY291cGxpbmctc3RtMzItYW5kLWxpbnV4LWNvbnNpZGVyLWhpZC1vdmVyLWkyYy_SAQA?oc=5",
-          "publishedOn": "2024-06-26T08:00:00.000Z",
-          "wordCount": 8761,
-          "title": "Coupling STM32 And Linux? Consider HID Over I2C - Hackaday",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdG8taW5zdGFsbC1taWNyb3NvZnQtZWRnZS1vbi11YnVudHUv0gEA",
-          "author": null,
-          "description": "How to install Microsoft Edge on Ubuntu  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdG8taW5zdGFsbC1taWNyb3NvZnQtZWRnZS1vbi11YnVudHUv0gEA?oc=5",
-          "publishedOn": "2024-06-25T22:00:00.000Z",
-          "wordCount": 8761,
-          "title": "How to install Microsoft Edge on Ubuntu - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDYvMjUvZXNwLWhvc3RlZC10dXJucy1lc3AzMi1pbnRvLWxpbnV4LXdpZmktYnQtYWRhcHRlci_SAQA",
-          "author": null,
-          "description": "ESP-Hosted Turns ESP32 Into Linux WiFi/BT Adapter  Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjQvMDYvMjUvZXNwLWhvc3RlZC10dXJucy1lc3AzMi1pbnRvLWxpbnV4LXdpZmktYnQtYWRhcHRlci_SAQA?oc=5",
-          "publishedOn": "2024-06-25T20:00:00.000Z",
-          "wordCount": 8761,
-          "title": "ESP-Hosted Turns ESP32 Into Linux WiFi/BT Adapter - Hackaday",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LnJlZGhvdGN5YmVyLmNvbS9lbi9wb3N0L2xpbnV4LWtlcm5lbC11YWYtMC1kYXktdnVsbmVyYWJpbGl0eS1vbi1zYWxlLWluLXRoZS1kYXJrLXdlYi_SAQA",
-          "author": null,
-          "description": "Linux Kernel UAF 0-day Vulnerability on sale in the Dark Web  Red Hot Cyber",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJlZGhvdGN5YmVyLmNvbS9lbi9wb3N0L2xpbnV4LWtlcm5lbC11YWYtMC1kYXktdnVsbmVyYWJpbGl0eS1vbi1zYWxlLWluLXRoZS1kYXJrLXdlYi_SAQA?oc=5",
-          "publishedOn": "2024-06-25T19:32:39.000Z",
-          "wordCount": 8761,
-          "title": "Linux Kernel UAF 0-day Vulnerability on sale in the Dark Web - Red Hot Cyber",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LmNvaW5zcGVha2VyLmNvbS9saW51eC1mb3VuZGF0aW9uLWxmLWRlY2VudHJhbGl6ZWQtdHJ1c3QtYmxvY2tjaGFpbi1pbm5vdmF0aW9ucy_SAV9odHRwczovL3d3dy5jb2luc3BlYWtlci5jb20vbGludXgtZm91bmRhdGlvbi1sZi1kZWNlbnRyYWxpemVkLXRydXN0LWJsb2NrY2hhaW4taW5ub3ZhdGlvbnMvYW1wLw",
-          "author": null,
-          "description": "Linux Foundation to Roll Out LF Decentralized Trust in a Move to Propel Blockchain Innovations  Coinspeaker",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNvaW5zcGVha2VyLmNvbS9saW51eC1mb3VuZGF0aW9uLWxmLWRlY2VudHJhbGl6ZWQtdHJ1c3QtYmxvY2tjaGFpbi1pbm5vdmF0aW9ucy_SAV9odHRwczovL3d3dy5jb2luc3BlYWtlci5jb20vbGludXgtZm91bmRhdGlvbi1sZi1kZWNlbnRyYWxpemVkLXRydXN0LWJsb2NrY2hhaW4taW5ub3ZhdGlvbnMvYW1wLw?oc=5",
-          "publishedOn": "2024-06-25T17:51:14.000Z",
-          "wordCount": 8761,
-          "title": "Linux Foundation to Roll Out LF Decentralized Trust in a Move to Propel Blockchain Innovations - Coinspeaker",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2F5cy1nZXQtdGhlLW1vc3Qtb3V0LW9mLWtkZS1wbGFzbWEv0gEA",
-          "author": null,
-          "description": "7 Ways I Get the Most Out of My Plasma Linux Desktop  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2F5cy1nZXQtdGhlLW1vc3Qtb3V0LW9mLWtkZS1wbGFzbWEv0gEA?oc=5",
-          "publishedOn": "2024-06-25T17:00:00.000Z",
-          "wordCount": 8761,
-          "title": "7 Ways I Get the Most Out of My Plasma Linux Desktop - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FSTTY0LU5VTUEtRW11bGF0aW9uLVJQaTXSAQA",
-          "author": null,
-          "description": "NUMA Emulation Yields \"Significant Performance Uplift\" To Raspberry Pi 5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FSTTY0LU5VTUEtRW11bGF0aW9uLVJQaTXSAQA?oc=5",
-          "publishedOn": "2024-06-25T16:50:00.000Z",
-          "wordCount": 8761,
-          "title": "NUMA Emulation Yields \"Significant Performance Uplift\" To Raspberry Pi 5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMS0xLWRlc2t0b3AtZW52aXJvbm1lbnQtcmVsZWFzZWQtd2l0aC12YXJpb3VzLWJ1Zy1maXhlc9IBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMS0xLWRlc2t0b3AtZW52aXJvbm1lbnQtcmVsZWFzZWQtd2l0aC12YXJpb3VzLWJ1Zy1maXhlcy9hbXA",
-          "author": null,
-          "description": "KDE Plasma 6.1.1 Desktop Environment Released with Various Bug Fixes  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMS0xLWRlc2t0b3AtZW52aXJvbm1lbnQtcmVsZWFzZWQtd2l0aC12YXJpb3VzLWJ1Zy1maXhlc9IBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtcGxhc21hLTYtMS0xLWRlc2t0b3AtZW52aXJvbm1lbnQtcmVsZWFzZWQtd2l0aC12YXJpb3VzLWJ1Zy1maXhlcy9hbXA?oc=5",
-          "publishedOn": "2024-06-25T16:26:50.000Z",
-          "wordCount": 8761,
-          "title": "KDE Plasma 6.1.1 Desktop Environment Released with Various Bug Fixes - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L29wZW5zaG90LTMtMi1saW51eC12aWRlby1lZGl0b3ItZmVhdHVyZXPSAVBodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyNC8wNi9vcGVuc2hvdC0zLTItbGludXgtdmlkZW8tZWRpdG9yLWZlYXR1cmVzL2FtcA",
-          "author": null,
-          "description": "Open-Source Video Editor Gets ‘Game-Changer’ Update  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzA2L29wZW5zaG90LTMtMi1saW51eC12aWRlby1lZGl0b3ItZmVhdHVyZXPSAVBodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyNC8wNi9vcGVuc2hvdC0zLTItbGludXgtdmlkZW8tZWRpdG9yLWZlYXR1cmVzL2FtcA?oc=5",
-          "publishedOn": "2024-06-25T15:31:13.000Z",
-          "wordCount": 8761,
-          "title": "Open-Source Video Editor Gets ‘Game-Changer’ Update - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFodHRwczovL2JldGFuZXdzLmNvbS8yMDI0LzA2LzI1L2ZvcmdldC1taWNyb3NvZnQtd2luZG93cy0xMS1jb3BpbG90LXBjcy10aGlzLXR1eGVkby1pbmZpbml0eWJvb2stcHJvLTE1LWlzLXRoZS1saW51eC1sYXB0b3AteW91LXJlYWxseS1uZWVkL9IBAA",
-          "author": null,
-          "description": "Forget Microsoft Windows 11 Copilot+ PCs: This TUXEDO InfinityBook Pro 15 is the Linux laptop you really need  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL2JldGFuZXdzLmNvbS8yMDI0LzA2LzI1L2ZvcmdldC1taWNyb3NvZnQtd2luZG93cy0xMS1jb3BpbG90LXBjcy10aGlzLXR1eGVkby1pbmZpbml0eWJvb2stcHJvLTE1LWlzLXRoZS1saW51eC1sYXB0b3AteW91LXJlYWxseS1uZWVkL9IBAA?oc=5",
-          "publishedOn": "2024-06-25T14:03:48.000Z",
-          "wordCount": 8761,
-          "title": "Forget Microsoft Windows 11 Copilot+ PCs: This TUXEDO InfinityBook Pro 15 is the Linux laptop you really need - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi02ZS1jbGVhci1saW51eC8z0gEA",
-          "author": null,
-          "description": "Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E \"Sierra Forest\" E-Core CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi02ZS1jbGVhci1saW51eC8z0gEA?oc=5",
-          "publishedOn": "2024-06-25T13:48:00.000Z",
-          "wordCount": 8761,
-          "title": "Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E \"Sierra Forest\" E-Core CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi02ZS1jbGVhci1saW51eNIBAA",
-          "author": null,
-          "description": "Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E \"Sierra Forest\" E-Core CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi02ZS1jbGVhci1saW51eNIBAA?oc=5",
-          "publishedOn": "2024-06-25T13:48:00.000Z",
-          "wordCount": 8761,
-          "title": "Intel's Linux Software Optimizations Still Pay Off For Xeon 6700E \"Sierra Forest\" E-Core CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9679,6 +9759,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379281",
+          "author": "John Rhea",
+          "description": "I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.\nYou …\nPop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popover-the-balloons/",
+          "publishedOn": "2024-07-25T13:31:46.000Z",
+          "wordCount": 3696,
+          "title": "Pop(over) the Balloons",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379281"
+        },
+        {
           "id": "https://css-tricks.com/?p=379278",
           "author": "Geoff Graham",
           "description": "These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …\nAlvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -9874,21 +9964,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-improve-microcopy-ux-writing-tips-non-ux-writers/how-improve-microcopy-ux-writing-tips-non-ux-writers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Gaining buy-in for accessibility can be challenging due to common myths and misunderstandings. For many, accessibility remains a big mystery. Here are some practical techniques for winning stakeholder support. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
-          "link": "https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/",
-          "publishedOn": "2024-06-26T12:00:00.000Z",
-          "wordCount": 4510,
-          "title": "How To Make A Strong Case For Accessibility",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-make-strong-case-accessibility/how-make-strong-case-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-make-strong-case-accessibility/how-make-strong-case-accessibility.jpg"
         }
       ]
     },
@@ -9897,6 +9972,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-system-design-principles/",
+          "author": "Beau Carnes",
+          "description": "Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...",
+          "link": "https://www.freecodecamp.org/news/learn-system-design-principles/",
+          "publishedOn": "2024-07-25T14:44:21.000Z",
+          "wordCount": 1042,
+          "title": "Learn System Design Principles and Prepare for an Job Interview",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721918626724/720abc1b-4573-4264-b2c0-ef79b1ca3d8e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...",
+          "link": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
+          "publishedOn": "2024-07-25T01:30:25.000Z",
+          "wordCount": 970,
+          "title": "Build a Sticky Notes App with React and Appwrite",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721870980147/977bfdd5-fdef-4cfc-bfa3-97c614faa8b9.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/",
           "author": "Tiago Monteiro",
@@ -10546,56 +10641,6 @@
           "wordCount": 3618,
           "title": "How to Build a RAG Chatbot with Agent Cloud and Google Sheets",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Orange---Yellow-Gradient-Make-Design-Blog-Banner--73-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/",
-          "author": "Okure U. Edet",
-          "description": "Go is a fast programming language with a relatively simple syntax. While learning Go, it is important to learn how to build APIs and how to use them to communicate with databases. In the process of learning, I decided to take on a project that helped me in that regard:",
-          "link": "https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/",
-          "publishedOn": "2024-06-26T11:40:41.000Z",
-          "wordCount": 2079,
-          "title": "How to Create Database Migrations in Go Using Docker and Postgres",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pyspark-for-beginners/",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re diving into the world of big data, you’ve probably come across the term PySpark. PySpark is a tool that makes managing and analyzing large datasets easier. In this article, we will see the basics of PySpark, its benefits, and how you can get started with it. What is",
-          "link": "https://www.freecodecamp.org/news/pyspark-for-beginners/",
-          "publishedOn": "2024-06-26T08:25:52.000Z",
-          "wordCount": 1188,
-          "title": "PySpark for Beginners – How to  Process Data with Apache Spark & Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/",
-          "author": "Chidera Humphrey",
-          "description": "In the dynamic world of JavaScript, understanding the intricacies of scope, closures, and hoisting is fundamental for mastering the language and building robust applications. These concepts, though often misunderstood, play a crucial role in determining how variables and functions behave within the code. Scope dictates the accessibility of variables, closures",
-          "link": "https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/",
-          "publishedOn": "2024-06-26T08:13:12.000Z",
-          "wordCount": 2139,
-          "title": "Scope, Closures, and Hoisting in JavaScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/How-to-connect-Firebase-Authentication-with-Golang-app_20240625_101105_0000-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-new-in-react-19/",
-          "author": "Beau Carnes",
-          "description": "React 19 has just been released, bringing a wealth of new features and enhancements to this popular JavaScript library. For developers looking to stay ahead of the curve, understanding these updates is crucial. This course is designed to help you nav...",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-react-19/",
-          "publishedOn": "2024-06-25T15:54:07.000Z",
-          "wordCount": 1153,
-          "title": "What's New in React 19",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1719330844344/800a24a8-98cd-4979-b062-9ff4cd1c35ad.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/",
-          "author": "Eniola Ajala",
-          "description": "Did you know that you can create machine learning models without writing any code? If you’re here, you’re probably curious about how to achieve this. In this article, I will guide you through building a regression model that predicts automobile prices using Azure Machine Learning’s Low-Code/No-Code tools.  Regression is",
-          "link": "https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/",
-          "publishedOn": "2024-06-25T14:45:20.000Z",
-          "wordCount": 3479,
-          "title": "How to Create a ML Model with Azure Machine Learning Designer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/F8825B00-8A4C-41D9-AE75-02A8631DE983.jpeg"
         }
       ]
     }
