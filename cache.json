@@ -18,6 +18,36 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190331",
+          "author": "Web Webster",
+          "description": "LM Studio is a user-friendly desktop application that allows you to download, install, and run large language models (LLMs) locally on your Linux machine. Using LM Studio, you can break free from the limitations and privacy concerns associated with cloud-based AI models while still enjoying a familiar ChatGPT-like interface.\nThe post How to Install LM Studio to Run LLMs Offline in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-lm-studio-to-run-llms-offline-in-linux/",
+          "publishedOn": "2024-08-03T20:00:49.000Z",
+          "wordCount": 9091,
+          "title": "How to Install LM Studio to Run LLMs Offline in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190391",
+          "author": "Web Webster",
+          "description": "Drupal is an open-source content management system (CMS) for building and managing websites. Known for its flexibility and robustness, Drupal allows users to create and organize content, customize the presentation, automate administrative tasks, and manage user roles and permissions.\nThe post How to Install Drupal on Alma Linux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-drupal-on-alma-linux-9-2/",
+          "publishedOn": "2024-08-03T17:25:24.000Z",
+          "wordCount": 9062,
+          "title": "How to Install Drupal on Alma Linux 9",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190909",
+          "author": "Web Webster",
+          "description": "Struggling with big Docker logs? Our guide shows you how to find, reduce, and manage them to save disk space effectively.\nThe post Reducing Docker Logs Size: A Practical Guide to Log Management appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/reducing-docker-logs-size-a-practical-guide-to-log-management/",
+          "publishedOn": "2024-08-03T02:00:58.000Z",
+          "wordCount": 9046,
+          "title": "Reducing Docker Logs Size: A Practical Guide to Log Management",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190979",
           "author": "Web Webster",
           "description": "Learn different ways to kill a process running on a specific port in Debian, Ubuntu, Linux Mint, Red Hat, Fedora, Arch, and other distros.\nThe post Kill a Process Running on a Specific Port in Linux (via 4 Methods) appeared first on Linux Today.",
@@ -1806,86 +1836,6 @@
           "wordCount": 9018,
           "title": "Wine 9.12 Debuts With Updated Mono Engine",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190545",
-          "author": "Web Webster",
-          "description": "The new Raspberry Pi OS release, versioned 2024-07-04, updates the panel and the PCManFM file manager with support for customizing more than two desktops. The panel also received support for customizing the labwc Wayland window-stacking compositor, which is now installed by default as an alternative to Wayfire.\nThe post New Raspberry Pi OS Release Brings Many UI Improvements and New Settings appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/new-raspberry-pi-os-release-brings-many-ui-improvements-and-new-settings/",
-          "publishedOn": "2024-07-05T13:00:52.000Z",
-          "wordCount": 9078,
-          "title": "New Raspberry Pi OS Release Brings Many UI Improvements and New Settings",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190443",
-          "author": "Web Webster",
-          "description": "Stable Debian 12 (Bookworm) is getting its sixth update, shipping with 162 bug fixes and 84 security updates. Upgrade now!\nThe post Debian 12.6 Rolls Out With Security & Stability Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/debian-12-6-rolls-out-with-security-stability-improvements/",
-          "publishedOn": "2024-07-05T02:00:56.000Z",
-          "wordCount": 9036,
-          "title": "Debian 12.6 Rolls Out With Security & Stability Improvements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190446",
-          "author": "Web Webster",
-          "description": "Angie 1.6 web server offers full Nginx 1.27 compatibility plus new, useful additional features. Here’s more on that.\nThe post Angie 1.6 Web Server Introduces Sticky Sessions appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/angie-1-6-web-server-introduces-sticky-sessions/",
-          "publishedOn": "2024-07-05T00:00:11.000Z",
-          "wordCount": 9020,
-          "title": "Angie 1.6 Web Server Introduces Sticky Sessions",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190521",
-          "author": "Web Webster",
-          "description": "Along with fixing hundreds of vulnerabilities and bugs (exactly 432), ONLYOFFICE 8.1 brings dozens of new features, primarily in the PDF editor, as well as numerous useful improvements.\nThe post ONLYOFFICE 8.1 Unveiled With Supercharged PDF Editor & More appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/onlyoffice-8-1-unveiled-with-supercharged-pdf-editor-more/",
-          "publishedOn": "2024-07-04T22:00:55.000Z",
-          "wordCount": 9040,
-          "title": "ONLYOFFICE 8.1 Unveiled With Supercharged PDF Editor & More",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190522",
-          "author": "Web Webster",
-          "description": "Calamares installer 3.3.8 bugfix release is out with updates in partitioning and encrypted swap fixes.\nThe post Calamares Installer 3.3.8 Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/calamares-installer-3-3-8-released-heres-whats-new/",
-          "publishedOn": "2024-07-04T20:00:21.000Z",
-          "wordCount": 9014,
-          "title": "Calamares Installer 3.3.8 Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190528",
-          "author": "Web Webster",
-          "description": "GitHub’s co-founder and former CEO launched the Ladybird initiative, a brand-new independent browser written from scratch and backed by a non-profit.\nThe post Ladybird Is a New Browser Initiative Backed Up by $1M appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ladybird-is-a-new-browser-initiative-backed-up-by-1m/",
-          "publishedOn": "2024-07-04T18:00:33.000Z",
-          "wordCount": 9033,
-          "title": "Ladybird Is a New Browser Initiative Backed Up by $1M",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190529",
-          "author": "Web Webster",
-          "description": "KDE Gear 24.05.2 apps collection improves user experience with fixes for memory leaks, file access issues, and more.\nThe post KDE Gear 24.05.2 Update Rolls Out With Essential Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-gear-24-05-2-update-rolls-out-with-essential-bug-fixes/",
-          "publishedOn": "2024-07-04T17:00:29.000Z",
-          "wordCount": 9030,
-          "title": "KDE Gear 24.05.2 Update Rolls Out With Essential Bug Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190531",
-          "author": "Web Webster",
-          "description": "The OpenMandriva team announced the Release Candidate for OpenMandriva’s rolling release, ROME 24.07. This version includes significant updates and enhancements.\nThe post OpenMandriva ROME 24.07 Release Candidate Now Available For Download appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/openmandriva-rome-24-07-release-candidate-now-available-for-download/",
-          "publishedOn": "2024-07-04T16:18:22.000Z",
-          "wordCount": 9025,
-          "title": "OpenMandriva ROME 24.07 Release Candidate Now Available For Download",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1895,11 +1845,141 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiakFVX3lxTE5GaWVZR1F1UThJOEZ0MUlQRjY4SWVVRTFKRjJiX2pROW4xVzZUNDd6YjNrLWFUbUV4a1I1b0Q3M1UxSnRGN2JLcGxmd2xkWmU5ajhGX2h0T1U0MW1RQzg4YWt6T0hib1FNOGc",
+          "author": null,
+          "description": "Linux 6.12 To Drop Old Code That Slows Down CPU Frequency Polling  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GaWVZR1F1UThJOEZ0MUlQRjY4SWVVRTFKRjJiX2pROW4xVzZUNDd6YjNrLWFUbUV4a1I1b0Q3M1UxSnRGN2JLcGxmd2xkWmU5ajhGX2h0T1U0MW1RQzg4YWt6T0hib1FNOGc?oc=5",
+          "publishedOn": "2024-08-03T17:00:00.000Z",
+          "wordCount": 8913,
+          "title": "Linux 6.12 To Drop Old Code That Slows Down CPU Frequency Polling - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE5MdzRoXzBHRGV3bEVYTUxvUWI3VWJ0c3c3bXJDMDB6T2diemlfNUtrU1p6WFYwYUpmZFloOG84eEJXcjllRzhmakxfaXVHWjFvbUlRVVBfMlhrTW5uY1Q1VDBlaThETjA",
+          "author": null,
+          "description": "How To Manage Linux Log Services  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MdzRoXzBHRGV3bEVYTUxvUWI3VWJ0c3c3bXJDMDB6T2diemlfNUtrU1p6WFYwYUpmZFloOG84eEJXcjllRzhmakxfaXVHWjFvbUlRVVBfMlhrTW5uY1Q1VDBlaThETjA?oc=5",
+          "publishedOn": "2024-08-03T16:06:16.000Z",
+          "wordCount": 8913,
+          "title": "How To Manage Linux Log Services - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxPSGNBNTZCdmdiYXVNSXFYWTFIRmRabUVVY0ZILWwxWnR2R2VjS0JpazIzU0l6SW51cnBKNlhNOVgtUXV5WWh2ekRHeUxiclg3RFdvckZWOC1TRThjTHJEVDloRzVzZmU5dWFtMnFHTjRIUzk4SDU0cUxWUUlGRmJsZzZnT25GbDM4S0xvaXN1Z09CblBzcnd2ZFJMYU5MN1U1aVIzcXJGdFrSAa4BQVVfeXFMTzJuTDQ0Slh5ZFV1aWR2bnhER2ZOMmlkNjBJRng3emdpdG9JTEhBanREazhvSkpyTFhJYUhaTVR3eHB6Tk9KYU1pdWstRl9LVW5zZkd5U3N2dDVELV9WeFlEaHhzaEdXT1dwX1VDbXgtcWRTN09FVWE1eldGMHowV3dGWE5oMmFZTkJuaXI0Ni15dW5wQ0wxLTFOX05vZE5Ta1ZLODBUeU1UX3dzbDJR",
+          "author": null,
+          "description": "Linux kernel impacted by new SLUBStick cross-cache attack  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGNBNTZCdmdiYXVNSXFYWTFIRmRabUVVY0ZILWwxWnR2R2VjS0JpazIzU0l6SW51cnBKNlhNOVgtUXV5WWh2ekRHeUxiclg3RFdvckZWOC1TRThjTHJEVDloRzVzZmU5dWFtMnFHTjRIUzk4SDU0cUxWUUlGRmJsZzZnT25GbDM4S0xvaXN1Z09CblBzcnd2ZFJMYU5MN1U1aVIzcXJGdFrSAa4BQVVfeXFMTzJuTDQ0Slh5ZFV1aWR2bnhER2ZOMmlkNjBJRng3emdpdG9JTEhBanREazhvSkpyTFhJYUhaTVR3eHB6Tk9KYU1pdWstRl9LVW5zZkd5U3N2dDVELV9WeFlEaHhzaEdXT1dwX1VDbXgtcWRTN09FVWE1eldGMHowV3dGWE5oMmFZTkJuaXI0Ni15dW5wQ0wxLTFOX05vZE5Ta1ZLODBUeU1UX3dzbDJR?oc=5",
+          "publishedOn": "2024-08-03T15:17:28.000Z",
+          "wordCount": 8913,
+          "title": "Linux kernel impacted by new SLUBStick cross-cache attack - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE5wZ0NYd0hzWWJncU9KMkljTWQ2eFJZWGVDeDFVckhjc3pscUZBZERBcjRGeW8zOS1qNlUtRlBlb0V5ck8wNHBMdndNbE9uTXhoQkJKTzJEYW5uOEVJQkxla2JNQQ",
+          "author": null,
+          "description": "Immutable Version Of Arch-Based Manjaro Linux Available For Testing  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZ0NYd0hzWWJncU9KMkljTWQ2eFJZWGVDeDFVckhjc3pscUZBZERBcjRGeW8zOS1qNlUtRlBlb0V5ck8wNHBMdndNbE9uTXhoQkJKTzJEYW5uOEVJQkxla2JNQQ?oc=5",
+          "publishedOn": "2024-08-03T14:01:00.000Z",
+          "wordCount": 8913,
+          "title": "Immutable Version Of Arch-Based Manjaro Linux Available For Testing - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE9RZU85dERuRzd3U1J5OXE1X3d6TkNWUnhtMDFmRjJUdFEzd3doT0pLSDliS3VCUTl4bW5aTnlucENhSTAxTnBKSllJQWNGTll3MlllQVNRZnNncmZTckVsZ1hGX1BQcXoyekdINmZNUFlhQk0",
+          "author": null,
+          "description": "Linux: Mount Remote Directories With SSHFS  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RZU85dERuRzd3U1J5OXE1X3d6TkNWUnhtMDFmRjJUdFEzd3doT0pLSDliS3VCUTl4bW5aTnlucENhSTAxTnBKSllJQWNGTll3MlllQVNRZnNncmZTckVsZ1hGX1BQcXoyekdINmZNUFlhQk0?oc=5",
+          "publishedOn": "2024-08-03T13:06:56.000Z",
+          "wordCount": 8913,
+          "title": "Linux: Mount Remote Directories With SSHFS - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE82MkJmLWpmOVBVWjVmZnJtbC0wVC0zLU02dWlRZlJ2NGN3VGxIb2N2M1JuYVM3UmhXUVU2emRTOXpEaDdKU0JmRDZKZkdmcE5hb0FfUld6UTlaSXRkUXVsaFBhRUJNQlhR",
+          "author": null,
+          "description": "Want to Go Next-Level in Linux? Advanced Terms Explained  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MkJmLWpmOVBVWjVmZnJtbC0wVC0zLU02dWlRZlJ2NGN3VGxIb2N2M1JuYVM3UmhXUVU2emRTOXpEaDdKU0JmRDZKZkdmcE5hb0FfUld6UTlaSXRkUXVsaFBhRUJNQlhR?oc=5",
+          "publishedOn": "2024-08-03T12:00:00.000Z",
+          "wordCount": 8913,
+          "title": "Want to Go Next-Level in Linux? Advanced Terms Explained - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxQeTlpU1lQNXVmZmFxSE4wNEtwOGM3OXcxU283WGFrcEJ4NUhBcFlSSDRiWEI0Y3NhRGxITDc2MElIZXp5RzBnU2djcjMtdnZ3cmlUUUlWQkJmZWZocGZ5M3Z3blFQRlRZYW1LSUkyeWd0eG44UFdEUEVZVmVZMzlBSmVqYmVyODJUdFpKbVYtTWRDVG12NmhiMEgxaFJPa1XSAaQBQVVfeXFMUDFUQjI3a2M3QmNkWjVMZzR1aFp1TExXM1c0VGRDa2JJLU9sYWpiNXlxd01hTWxwWG5ITmdiQ1l3ZW1tUndoUkdXM1VGenhDU2ptS3pXM1dTb2VfN1NRalFMa0J5ZFdONndPelNuSEwzREZ3NldLTTZYMXJWRnBBMUpvWE9vVVZSMkhFYU9yemk3YkphN2gtS0hoRGpkUXd4ZEhqREw",
+          "author": null,
+          "description": "Linux Kernel 6.9 Reaches End of Life, Users Must Upgrade to Linux Kernel 6.10  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTlpU1lQNXVmZmFxSE4wNEtwOGM3OXcxU283WGFrcEJ4NUhBcFlSSDRiWEI0Y3NhRGxITDc2MElIZXp5RzBnU2djcjMtdnZ3cmlUUUlWQkJmZWZocGZ5M3Z3blFQRlRZYW1LSUkyeWd0eG44UFdEUEVZVmVZMzlBSmVqYmVyODJUdFpKbVYtTWRDVG12NmhiMEgxaFJPa1XSAaQBQVVfeXFMUDFUQjI3a2M3QmNkWjVMZzR1aFp1TExXM1c0VGRDa2JJLU9sYWpiNXlxd01hTWxwWG5ITmdiQ1l3ZW1tUndoUkdXM1VGenhDU2ptS3pXM1dTb2VfN1NRalFMa0J5ZFdONndPelNuSEwzREZ3NldLTTZYMXJWRnBBMUpvWE9vVVZSMkhFYU9yemk3YkphN2gtS0hoRGpkUXd4ZEhqREw?oc=5",
+          "publishedOn": "2024-08-03T08:29:29.000Z",
+          "wordCount": 8913,
+          "title": "Linux Kernel 6.9 Reaches End of Life, Users Must Upgrade to Linux Kernel 6.10 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxNd2lTd1k0RDR3bVRzVzhMVVNiZVN2VVJXYTdzWjVXaWg5YmRCRnpWRUZBNVNCU20xajc2TlV6U0FDMndwaHNCdk11alVXdDRKam13bjR1aE90eHFpZHBleXV5RjFTY2VmQTlFXzFRbkhKZTBhUkdXV2tFb3NPa0pvX3NRQUVlU2ZwSE9hR05IZkc1T2YxOHhIYlVB",
+          "author": null,
+          "description": "Linux Handheld Packs Dual Batteries So It’s Never Out Of Juice  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2lTd1k0RDR3bVRzVzhMVVNiZVN2VVJXYTdzWjVXaWg5YmRCRnpWRUZBNVNCU20xajc2TlV6U0FDMndwaHNCdk11alVXdDRKam13bjR1aE90eHFpZHBleXV5RjFTY2VmQTlFXzFRbkhKZTBhUkdXV2tFb3NPa0pvX3NRQUVlU2ZwSE9hR05IZkc1T2YxOHhIYlVB?oc=5",
+          "publishedOn": "2024-08-03T08:00:00.000Z",
+          "wordCount": 8913,
+          "title": "Linux Handheld Packs Dual Batteries So It’s Never Out Of Juice - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE01UkR0eEZnYVZzU1MweC1scGxuQ3UxTElfZ0tNZzhMY21FZFRnUGVPM0lrRlFrRkhJcklUb290NGRhUm5taHlHQmZNbkNybE5JY252Z0tLbUpRb0M1a0dMMm9pNzM0cFpqNFpreWZVNVJmN3Q5X0ptQ2ZqeUU",
+          "author": null,
+          "description": "Telegram-Controlled TgRat Attacking Linux Servers to Exfiltrate Data  CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01UkR0eEZnYVZzU1MweC1scGxuQ3UxTElfZ0tNZzhMY21FZFRnUGVPM0lrRlFrRkhJcklUb290NGRhUm5taHlHQmZNbkNybE5JY252Z0tLbUpRb0M1a0dMMm9pNzM0cFpqNFpreWZVNVJmN3Q5X0ptQ2ZqeUU?oc=5",
+          "publishedOn": "2024-08-03T05:19:16.000Z",
+          "wordCount": 8913,
+          "title": "Telegram-Controlled TgRat Attacking Linux Servers to Exfiltrate Data - CybersecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiREFVX3lxTFBPY200d3hqSkZBWkZIWm1wTHRaMnBPZ0dqSV9hVDRicHdwWEFSdmUxdzFwQXRqS3FXb1hwSmdHcURVZGZ2",
+          "author": null,
+          "description": "Sail The Fediverse With Tuba Client for Linux  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPY200d3hqSkZBWkZIWm1wTHRaMnBPZ0dqSV9hVDRicHdwWEFSdmUxdzFwQXRqS3FXb1hwSmdHcURVZGZ2?oc=5",
+          "publishedOn": "2024-08-03T05:04:59.000Z",
+          "wordCount": 8913,
+          "title": "Sail The Fediverse With Tuba Client for Linux - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTFBDRWZLbUlaUXktSjFkb0RtaDdPaVV6d0NQaEt5SVZsQjRDNFR2eEwzTXFnZjlnQ1hSalJIdnFVcjl4TVEtVTExMWVMclQxRGNxRGluTFMxOWpCZjhUeFdVbTZlcUFQMUFwdmxXNUt2Skg4dHFVSk1XdG1R0gF_QVVfeXFMTzgzcmRGZ0hDSjdrMG5kWThXRlJ4U1ZfU3Q4bFhCcXR0eWFlYXlXLUlidmJiZUlaaUlvTUhfQWNuTEJzUGRkdVkyaWFBcXVXUVZ0dkRlUTl6MmlLT3NHMDJpa2VrMjhGTjE4eHpYNzVDNGtVUHA2ZWNFdzVTMlpmTQ",
+          "author": null,
+          "description": "How to Dual-Boot Windows 11 and Linux Ubuntu on your PC  Gizchina.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDRWZLbUlaUXktSjFkb0RtaDdPaVV6d0NQaEt5SVZsQjRDNFR2eEwzTXFnZjlnQ1hSalJIdnFVcjl4TVEtVTExMWVMclQxRGNxRGluTFMxOWpCZjhUeFdVbTZlcUFQMUFwdmxXNUt2Skg4dHFVSk1XdG1R0gF_QVVfeXFMTzgzcmRGZ0hDSjdrMG5kWThXRlJ4U1ZfU3Q4bFhCcXR0eWFlYXlXLUlidmJiZUlaaUlvTUhfQWNuTEJzUGRkdVkyaWFBcXVXUVZ0dkRlUTl6MmlLT3NHMDJpa2VrMjhGTjE4eHpYNzVDNGtVUHA2ZWNFdzVTMlpmTQ?oc=5",
+          "publishedOn": "2024-08-03T04:05:56.000Z",
+          "wordCount": 8913,
+          "title": "How to Dual-Boot Windows 11 and Linux Ubuntu on your PC - Gizchina.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxPdE83TWZHT20xRHJhSUJSTUxVbWZ0SENJalZpUlBOWEpOUFd2bXNFUFE4a3l5cEJHRjc5SlBtbmg1bERTbEtweHc3dm5JSTA2N1JtcFpKeDFVdzFrQVFQb3RPLW45aHJRU3lrb0R1UjBOTW9QX0RUc3ZTTVRQYlJTOGZBZHhfaW8",
+          "author": null,
+          "description": "MySQL Database Dump on Ubuntu/Linux | by Jayprakash Jangir | Aug, 2024  Medium",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdE83TWZHT20xRHJhSUJSTUxVbWZ0SENJalZpUlBOWEpOUFd2bXNFUFE4a3l5cEJHRjc5SlBtbmg1bERTbEtweHc3dm5JSTA2N1JtcFpKeDFVdzFrQVFQb3RPLW45aHJRU3lrb0R1UjBOTW9QX0RUc3ZTTVRQYlJTOGZBZHhfaW8?oc=5",
+          "publishedOn": "2024-08-03T03:41:58.000Z",
+          "wordCount": 8913,
+          "title": "MySQL Database Dump on Ubuntu/Linux | by Jayprakash Jangir | Aug, 2024 - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMingFBVV95cUxPZ0xTMDhTMEtoSXpMenBtUUczcGhIZzl2ZVh3TGdMem82MHVZbmhBaXhVdm5WWnZuZGszNElxNWJkT3hSSWxLa0pYU0NhbnBBc2dCbTJwY0pLLUtrOUFBSGgzbGNmZzN6Z3VjZVd6VUVHcTFsamxGRXFuMWNoRzVuLU5EVV92VjZUUUh6RHFwcVg3allRTndTel9RVHFKQQ",
           "author": null,
           "description": "Lessons Learned About Windows Subsystem for Linux Accounts, Part 1: Reset  Redmondmag.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0xTMDhTMEtoSXpMenBtUUczcGhIZzl2ZVh3TGdMem82MHVZbmhBaXhVdm5WWnZuZGszNElxNWJkT3hSSWxLa0pYU0NhbnBBc2dCbTJwY0pLLUtrOUFBSGgzbGNmZzN6Z3VjZVd6VUVHcTFsamxGRXFuMWNoRzVuLU5EVV92VjZUUUh6RHFwcVg3allRTndTel9RVHFKQQ?oc=5",
           "publishedOn": "2024-08-02T21:17:14.000Z",
+          "wordCount": 8913,
+          "title": "Lessons Learned About Windows Subsystem for Linux Accounts, Part 1: Reset - Redmondmag.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxPR2Uwa2ZRckIxcGh4Sl9pTl9aQlFtYVk2bGRyWUdUVDdsODBmQTRkQVRtSU9fQmlSMHlCMXNTdEE4dThjNmtzRkVXRXhUenBOT0p2SENEaVotZDhyb0s2aUczMkRIdHhxcFZyVDRKX1V5eEVYNFNzOGUyTjFGbDF5bmdGV2VKTnUwUXRqdEdnbWVOVG5SV18tMGtNWTJEQQ",
+          "author": null,
+          "description": "Lessons Learned About Windows Subsystem for Linux Accounts, Part 1: Reset  Redmondmag.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2Uwa2ZRckIxcGh4Sl9pTl9aQlFtYVk2bGRyWUdUVDdsODBmQTRkQVRtSU9fQmlSMHlCMXNTdEE4dThjNmtzRkVXRXhUenBOT0p2SENEaVotZDhyb0s2aUczMkRIdHhxcFZyVDRKX1V5eEVYNFNzOGUyTjFGbDF5bmdGV2VKTnUwUXRqdEdnbWVOVG5SV18tMGtNWTJEQQ?oc=5",
+          "publishedOn": "2024-08-02T21:11:15.000Z",
           "wordCount": 8913,
           "title": "Lessons Learned About Windows Subsystem for Linux Accounts, Part 1: Reset - Redmondmag.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -2182,6 +2262,16 @@
           "publishedOn": "2024-08-01T14:01:00.000Z",
           "wordCount": 8913,
           "title": "How to Run a Lightweight Command Line Speed Test on Windows, Mac and Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTE5SbGVSTEplWkFCUlQzOElFMFNVSnhwbWJCd0lnQUl4Vi1ydTFPajJJbDYxaXJoT1pMLVVxLWxZNl9kTjZHTjViVjIyQzNIS3N5MWtsMS1oS0JYMUIy",
+          "author": null,
+          "description": "The best Linux laptops of 2024: Expert tested and reviewed  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbGVSTEplWkFCUlQzOElFMFNVSnhwbWJCd0lnQUl4Vi1ydTFPajJJbDYxaXJoT1pMLVVxLWxZNl9kTjZHTjViVjIyQzNIS3N5MWtsMS1oS0JYMUIy?oc=5",
+          "publishedOn": "2024-08-01T14:00:00.000Z",
+          "wordCount": 8913,
+          "title": "The best Linux laptops of 2024: Expert tested and reviewed - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2695,6 +2785,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMimgFBVV95cUxOV2Z6U281QTc0RHZTRVZEczN4ZzJjdVNDbk5vR1VjZk8zd2swRkFwTUQ0Sk1sR3JqOGdHUDBMYTZvcE02NmVwOHRuTVJvVHVyT2lYNTlVOC1FTDJLd051b3d0Z1JBbVhOVV9pNUVNVVZGR0ZkWGdwU05lZzVaZjJmdFB1b3U1S2Z0MTVoNHFZM3hTa0dKVEZrbUd3",
+          "author": null,
+          "description": "How to use the Linux history command - and what it can do for you  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2Z6U281QTc0RHZTRVZEczN4ZzJjdVNDbk5vR1VjZk8zd2swRkFwTUQ0Sk1sR3JqOGdHUDBMYTZvcE02NmVwOHRuTVJvVHVyT2lYNTlVOC1FTDJLd051b3d0Z1JBbVhOVV9pNUVNVVZGR0ZkWGdwU05lZzVaZjJmdFB1b3U1S2Z0MTVoNHFZM3hTa0dKVEZrbUd3?oc=5",
+          "publishedOn": "2024-07-29T15:43:00.000Z",
+          "wordCount": 8913,
+          "title": "How to use the Linux history command - and what it can do for you - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiXmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by11c2UtdGhlLWxpbnV4LWhpc3RvcnktY29tbWFuZC1hbmQtd2hhdC1pdC1jYW4tZG8tZm9yLXlvdS_SAQA",
           "author": null,
           "description": "How to use the Linux history command - and what it can do for you  ZDNet",
@@ -2882,6 +2982,16 @@
           "publishedOn": "2024-07-29T08:00:00.000Z",
           "wordCount": 9016,
           "title": "Making USB Blaster Clones Work For Linux - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTFBpeDhyQXd0eTFIXzVDb1gyV3NDYm44YV9CMGJIRjdSbkVyVEptel9aNERkbHdvc1pfTmh5S2dYdUw5Q0ZPUUxtVkFZdkVWd2xfemg0SEpJYUlIcV9zSW1jNUJB",
+          "author": null,
+          "description": "9 Best Text Editors for the Linux Command Line  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpeDhyQXd0eTFIXzVDb1gyV3NDYm44YV9CMGJIRjdSbkVyVEptel9aNERkbHdvc1pfTmh5S2dYdUw5Q0ZPUUxtVkFZdkVWd2xfemg0SEpJYUlIcV9zSW1jNUJB?oc=5",
+          "publishedOn": "2024-07-29T07:00:00.000Z",
+          "wordCount": 8913,
+          "title": "9 Best Text Editors for the Linux Command Line - It's FOSS",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7572,176 +7682,6 @@
           "publishedOn": "2024-07-05T13:47:00.000Z",
           "wordCount": 8850,
           "title": "You can apparently run an entire OS in Google Drive, but you definitely shouldn't - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRmluZS1Td2FwcGluZXNz0gEA",
-          "author": null,
-          "description": "Linux 6.11 To Offer More Fine-Tuned Control Over Swappiness  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtRmluZS1Td2FwcGluZXNz0gEA?oc=5",
-          "publishedOn": "2024-07-05T13:12:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux 6.11 To Offer More Fine-Tuned Control Over Swappiness - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkv0gEA",
-          "author": null,
-          "description": "Happy Birthday to GamingOnLinux - 15 years old today  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkv0gEA?oc=5",
-          "publishedOn": "2024-07-05T11:13:25.000Z",
-          "wordCount": 8850,
-          "title": "Happy Birthday to GamingOnLinux - 15 years old today - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkvY29tbWVudF9pZD0yNjU5MzHSAQA",
-          "author": null,
-          "description": "Happy Birthday to GamingOnLinux - 15 years old today  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvaGFwcHktYmlydGhkYXktdG8tZ2FtaW5nb25saW51eC0xNS15ZWFycy1vbGQtdG9kYXkvY29tbWVudF9pZD0yNjU5MzHSAQA?oc=5",
-          "publishedOn": "2024-07-05T11:13:25.000Z",
-          "wordCount": 8850,
-          "title": "Happy Birthday to GamingOnLinux - 15 years old today - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zNTY3NzQxL2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXdvcnRoLTY3LTQzLWJpbGxpb24tYnktMjAzMNIBAA",
-          "author": null,
-          "description": "Linux Operating System Market worth $67.43 billion by 2030, growing at a CAGR of 19.90% - Exclusive Report by ...  openPR",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zNTY3NzQxL2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXdvcnRoLTY3LTQzLWJpbGxpb24tYnktMjAzMNIBAA?oc=5",
-          "publishedOn": "2024-07-05T11:03:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux Operating System Market worth $67.43 billion by 2030, growing at a CAGR of 19.90% - Exclusive Report by ... - openPR",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9GaW5uaXgtMTI2LW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLWFzLWEtc3VwZXItbGlnaHQtTGludXgtZGlzdHJvLXVuZGVyLTUwMC1NQi1pbi1zaXplLjg1NzIyMy4wLmh0bWzSAQA",
-          "author": null,
-          "description": "Finnix 126 now available for download as a super-light Linux distro under 500 MB in size  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9GaW5uaXgtMTI2LW5vdy1hdmFpbGFibGUtZm9yLWRvd25sb2FkLWFzLWEtc3VwZXItbGlnaHQtTGludXgtZGlzdHJvLXVuZGVyLTUwMC1NQi1pbi1zaXplLjg1NzIyMy4wLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-07-05T10:09:49.000Z",
-          "wordCount": 8850,
-          "title": "Finnix 126 now available for download as a super-light Linux distro under 500 MB in size - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzA1L29yYWNsZV91ZWtuZXh0XzZfOS_SAT5odHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDcvMDUvb3JhY2xlX3Vla25leHRfNl85Lw",
-          "author": null,
-          "description": "Oracle releases experimental next-gen kernel build  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzA1L29yYWNsZV91ZWtuZXh0XzZfOS_SAT5odHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDcvMDUvb3JhY2xlX3Vla25leHRfNl85Lw?oc=5",
-          "publishedOn": "2024-07-05T09:33:00.000Z",
-          "wordCount": 8850,
-          "title": "Oracle releases experimental next-gen kernel build - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTE56OUlTWnRmMTRtSnRnZGhocHQ1WHkwR1gtdDFZSkJkWGtIYjlpVVpLX0NfcWhwblE1ZUhzSVI4ZVRLN1ozMl9sdWUzSm5DMjRtR2ozUDVZa2kxWnFzWG91WHFITjdkR2JfbldKY0VZYlpvX0JyUUxzdUFnYmxjdw",
-          "author": null,
-          "description": "Sick of Microsoft? How to Make the Switch From Windows to Linux  PCMag",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56OUlTWnRmMTRtSnRnZGhocHQ1WHkwR1gtdDFZSkJkWGtIYjlpVVpLX0NfcWhwblE1ZUhzSVI4ZVRLN1ozMl9sdWUzSm5DMjRtR2ozUDVZa2kxWnFzWG91WHFITjdkR2JfbldKY0VZYlpvX0JyUUxzdUFnYmxjdw?oc=5",
-          "publishedOn": "2024-07-05T07:00:00.000Z",
-          "wordCount": 9016,
-          "title": "Sick of Microsoft? How to Make the Switch From Windows to Linux - PCMag",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC14ZmNlLWRpc3RyaWJ1dGlvbnMv0gEA",
-          "author": null,
-          "description": "10 Best Xfce Based Linux Distributions  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC14ZmNlLWRpc3RyaWJ1dGlvbnMv0gEA?oc=5",
-          "publishedOn": "2024-07-05T05:14:23.000Z",
-          "wordCount": 8850,
-          "title": "10 Best Xfce Based Linux Distributions - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzY3Ny1uZXctbGludXgtcGF0Y2hlcy1pbXByb3ZlLXJhc3BiZXJyeS1waS1wZXJmb3JtYW5jZS1lZmZpY2llbmN5Lmh0bWzSAQA",
-          "author": null,
-          "description": "Linux updates improve Raspberry Pi performance and efficiency  TechSpot",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnRlY2hzcG90LmNvbS9uZXdzLzEwMzY3Ny1uZXctbGludXgtcGF0Y2hlcy1pbXByb3ZlLXJhc3BiZXJyeS1waS1wZXJmb3JtYW5jZS1lZmZpY2llbmN5Lmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-07-04T23:39:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux updates improve Raspberry Pi performance and efficiency - TechSpot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ydW5uaW5nLXdpbmRvd3MtbGludXgteWVzLWl0cy1wb3NzaWJsZS13aW5lLWFuZC1wcm90b27SAQA",
-          "author": null,
-          "description": "Running Windows on Linux? Yes, It's Possible with Wine and Proton!  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ydW5uaW5nLXdpbmRvd3MtbGludXgteWVzLWl0cy1wb3NzaWJsZS13aW5lLWFuZC1wcm90b27SAQA?oc=5",
-          "publishedOn": "2024-07-04T22:48:27.000Z",
-          "wordCount": 8850,
-          "title": "Running Windows on Linux? Yes, It's Possible with Wine and Proton! - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9uZXctcmFzcGJlcnJ5LXBpLW9zLXJlbGVhc2UtYnJpbmdzLW1hbnktdWktaW1wcm92ZW1lbnRzLWFuZC1uZXctc2V0dGluZ3PSAWJodHRwczovLzl0bzVsaW51eC5jb20vbmV3LXJhc3BiZXJyeS1waS1vcy1yZWxlYXNlLWJyaW5ncy1tYW55LXVpLWltcHJvdmVtZW50cy1hbmQtbmV3LXNldHRpbmdzL2FtcA",
-          "author": null,
-          "description": "New Raspberry Pi OS Release Brings Many UI Improvements and New Settings  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9uZXctcmFzcGJlcnJ5LXBpLW9zLXJlbGVhc2UtYnJpbmdzLW1hbnktdWktaW1wcm92ZW1lbnRzLWFuZC1uZXctc2V0dGluZ3PSAWJodHRwczovLzl0bzVsaW51eC5jb20vbmV3LXJhc3BiZXJyeS1waS1vcy1yZWxlYXNlLWJyaW5ncy1tYW55LXVpLWltcHJvdmVtZW50cy1hbmQtbmV3LXNldHRpbmdzL2FtcA?oc=5",
-          "publishedOn": "2024-07-04T22:07:31.000Z",
-          "wordCount": 8850,
-          "title": "New Raspberry Pi OS Release Brings Many UI Improvements and New Settings - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVVuY29uZGl0aW9uYWwtNS1MZXZlbC14ODbSAQA",
-          "author": null,
-          "description": "Linux Looking To Make 5-Level Paging Support Unconditional For x86_64 Kernel Builds  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVVuY29uZGl0aW9uYWwtNS1MZXZlbC14ODbSAQA?oc=5",
-          "publishedOn": "2024-07-04T19:48:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux Looking To Make 5-Level Paging Support Unconditional For x86_64 Kernel Builds - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2RldmVsb3Blci1ydW5zLWFuLW9zLW9uLWdvb2dsZS1kcml2ZS_SAQA",
-          "author": null,
-          "description": "A Purdue University student booted Linux entirely through Google Drive  Android Police",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2RldmVsb3Blci1ydW5zLWFuLW9zLW9uLWdvb2dsZS1kcml2ZS_SAQA?oc=5",
-          "publishedOn": "2024-07-04T17:49:00.000Z",
-          "wordCount": 8850,
-          "title": "A Purdue University student booted Linux entirely through Google Drive - Android Police",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3NvZnR3YXJlL2xpbnV4L2N1c3RvbS1saW51eC1wb3dlcmVkLXNtYXJ0LXR2LWJyZWFrcy1mcmVlLWZyb20tYWRzLWFuZC10cmFja2luZy1lbmFibGVzLXVsdGltYXRlLWN1c3RvbWl6YWJpbGl0eS1lYXJsZ3JleXR2LXN0cmFwcy1hLWxhcHRvcC10by10aGUtYmFjay10by11bmxvY2stdW5saW1pdGVkLWNvbnRyb2zSAQA",
-          "author": null,
-          "description": "Custom Linux-powered Smart TV breaks free from ads and tracking, enables ultimate customizability — EarlGreyTV ...  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3NvZnR3YXJlL2xpbnV4L2N1c3RvbS1saW51eC1wb3dlcmVkLXNtYXJ0LXR2LWJyZWFrcy1mcmVlLWZyb20tYWRzLWFuZC10cmFja2luZy1lbmFibGVzLXVsdGltYXRlLWN1c3RvbWl6YWJpbGl0eS1lYXJsZ3JleXR2LXN0cmFwcy1hLWxhcHRvcC10by10aGUtYmFjay10by11bmxvY2stdW5saW1pdGVkLWNvbnRyb2zSAQA?oc=5",
-          "publishedOn": "2024-07-04T17:37:28.000Z",
-          "wordCount": 8850,
-          "title": "Custom Linux-powered Smart TV breaks free from ads and tracking, enables ultimate customizability — EarlGreyTV ... - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gGMAWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvbWFydGlqbi1icmFhbS1zLXVudXN1YWwtZXRoZXJuZXQtc3dpdGNoLWhhcy1vbmUtcmV2ZXJzZWQtcG9ydC1mb3ItbGludXgtbWFuYWdlbWVudC1leHBlcmltZW50cy1kMTkzYWI2MmM5YWIuYW1w",
-          "author": null,
-          "description": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments  Hackster.io",
-          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gGMAWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvbWFydGlqbi1icmFhbS1zLXVudXN1YWwtZXRoZXJuZXQtc3dpdGNoLWhhcy1vbmUtcmV2ZXJzZWQtcG9ydC1mb3ItbGludXgtbWFuYWdlbWVudC1leHBlcmltZW50cy1kMTkzYWI2MmM5YWIuYW1w?oc=5",
-          "publishedOn": "2024-07-04T16:43:01.000Z",
-          "wordCount": 8850,
-          "title": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments - Hackster.io",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gEA",
-          "author": null,
-          "description": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments  Hackster.io",
-          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21hcnRpam4tYnJhYW0tcy11bnVzdWFsLWV0aGVybmV0LXN3aXRjaC1oYXMtb25lLXJldmVyc2VkLXBvcnQtZm9yLWxpbnV4LW1hbmFnZW1lbnQtZXhwZXJpbWVudHMtZDE5M2FiNjJjOWFi0gEA?oc=5",
-          "publishedOn": "2024-07-04T15:39:26.000Z",
-          "wordCount": 8850,
-          "title": "Martijn Braam's Unusual Ethernet Switch Has One Reversed Port — for Linux Management Experiments - Hackster.io",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZ2Vhci0yNC0wNS0yLWlzLW91dC1ub3ctd2l0aC1tb3JlLWZpeGVzLWZvci15b3VyLWZhdm9yaXRlLWtkZS1hcHBz0gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1nZWFyLTI0LTA1LTItaXMtb3V0LW5vdy13aXRoLW1vcmUtZml4ZXMtZm9yLXlvdXItZmF2b3JpdGUta2RlLWFwcHMvYW1w",
-          "author": null,
-          "description": "KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZ2Vhci0yNC0wNS0yLWlzLW91dC1ub3ctd2l0aC1tb3JlLWZpeGVzLWZvci15b3VyLWZhdm9yaXRlLWtkZS1hcHBz0gFgaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1nZWFyLTI0LTA1LTItaXMtb3V0LW5vdy13aXRoLW1vcmUtZml4ZXMtZm9yLXlvdXItZmF2b3JpdGUta2RlLWFwcHMvYW1w?oc=5",
-          "publishedOn": "2024-07-04T14:15:01.000Z",
-          "wordCount": 8850,
-          "title": "KDE Gear 24.05.2 Is Out Now with More Fixes for Your Favorite KDE Apps - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
