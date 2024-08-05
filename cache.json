@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188814",
+          "author": "Web Webster",
+          "description": "To provide an insight into the quality of software that is available, we have compiled a list of the 7 best graphical MPD clients. Hopefully, there will be something of interest here for anyone who wants to listen to their music collection via MPD.\nThe post 7 Best Free and Open-Source Graphical MPD Clients appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/7-best-free-and-open-source-graphical-mpd-clients/",
+          "publishedOn": "2024-08-04T23:00:53.000Z",
+          "wordCount": 9056,
+          "title": "7 Best Free and Open-Source Graphical MPD Clients",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=188795",
+          "author": "Web Webster",
+          "description": "Google Tasks is a task management application that lets users manage, capture, and edit their tasks. It’s included with Google Workspace. We recommend the best free and open-source alternatives to Google Tasks.\nThe post Best Free and Open-Source Alternatives to Google Tasks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-alternatives-to-google-tasks/",
+          "publishedOn": "2024-08-04T18:00:30.000Z",
+          "wordCount": 9041,
+          "title": "Best Free and Open-Source Alternatives to Google Tasks",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=190331",
           "author": "Web Webster",
           "description": "LM Studio is a user-friendly desktop application that allows you to download, install, and run large language models (LLMs) locally on your Linux machine. Using LM Studio, you can break free from the limitations and privacy concerns associated with cloud-based AI models while still enjoying a familiar ChatGPT-like interface.\nThe post How to Install LM Studio to Run LLMs Offline in Linux appeared first on Linux Today.",
@@ -1756,86 +1776,6 @@
           "wordCount": 9032,
           "title": "How to Install Yarn on Ubuntu 24.04",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190505",
-          "author": "Web Webster",
-          "description": "Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Power BI is proprietary software and is not available for Linux. We recommend the best free and open-source alternatives.\nThe post Best Free and Open-Source Alternatives to Microsoft Power BI appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-microsoft-power-bi/",
-          "publishedOn": "2024-07-06T02:00:58.000Z",
-          "wordCount": 9062,
-          "title": "Best Free and Open-Source Alternatives to Microsoft Power BI",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190569",
-          "author": "Web Webster",
-          "description": "RDP, or Remote Desktop Protocol, enables you to access the graphical interface of another computer over a network. On Linux, you can utilize Xrdp to create an RDP Server. Xrdp is a free and open-source application server that implements the RDP protocol.\nThe post Guide to Set Up Remote Desktop (RDP) With Xrdp on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/guide-to-set-up-remote-desktop-rdp-with-xrdp-on-debian-12/",
-          "publishedOn": "2024-07-06T00:00:47.000Z",
-          "wordCount": 9069,
-          "title": "Guide to Set Up Remote Desktop (RDP) With Xrdp on Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190400",
-          "author": "Web Webster",
-          "description": "The basename command in Linux is a utility used to extract the base name of a file or directory path, effectively stripping away any leading directory components and optional suffixes. When provided with a full path, basename returns only the file name or the last segment of the path, making it useful in scripting and file manipulation […]\nThe post Linux basename Command Tutorial for Beginners (With Examples) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/linux-basename-command-tutorial-for-beginners-with-examples-2/",
-          "publishedOn": "2024-07-05T22:00:08.000Z",
-          "wordCount": 9115,
-          "title": "Linux basename Command Tutorial for Beginners (With Examples)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190417",
-          "author": "Web Webster",
-          "description": "About six weeks ago, the Raspberry Pi Foundation announced the official M.2 HAT for the Raspberry Pi 5, allowing us to finally have an internal disk drive for bigger storage capacity and a faster computing experience.\nThe post Raspberry Pi 5 M.2 HAT+ Review: It Just Works! appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/raspberry-pi-5-m-2-hat-review-it-just-works/",
-          "publishedOn": "2024-07-05T20:00:02.000Z",
-          "wordCount": 9058,
-          "title": "Raspberry Pi 5 M.2 HAT+ Review: It Just Works!",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190471",
-          "author": "Web Webster",
-          "description": "Apache, popularly referred to as the Apache HTTP Server, is a free and open-source cross-platform web server maintained by the Apache Foundation. It is highly reliable, flexible, and easy to install, and it has numerous features that make it popular amongst developers and Linux enthusiasts. In this guide, we will walk you through the steps […]\nThe post How to Host a Website With Apache & SSL on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-host-a-website-with-apache-ssl-on-debian-12/",
-          "publishedOn": "2024-07-05T18:00:14.000Z",
-          "wordCount": 9110,
-          "title": "How to Host a Website With Apache & SSL on Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190475",
-          "author": "Web Webster",
-          "description": "Cinnamon is a popular open-source desktop environment that provides a traditional and user-friendly interface for most popular Linux distributions. Originally developed by the Linux Mint team as a fork of GNOME 3, Cinnamon has since evolved into an independent desktop environment known for its stability, customizability, and innovative features. In this tutorial, we’ll guide you […]\nThe post How to Install Cinnamon Desktop On Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-cinnamon-desktop-on-ubuntu-24-04/",
-          "publishedOn": "2024-07-05T17:00:05.000Z",
-          "wordCount": 9082,
-          "title": "How to Install Cinnamon Desktop On Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190445",
-          "author": "Web Webster",
-          "description": "This feature highlights the finest data analysis tools. Hopefully, there will be something of interest for anyone who needs to analyze huge volumes of unstructured data.\nThe post 8 Top Data Analysis Free and Open-Source Tools for Big Data appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/8-top-data-analysis-free-and-open-source-tools-for-big-data/",
-          "publishedOn": "2024-07-05T16:40:03.000Z",
-          "wordCount": 9056,
-          "title": "8 Top Data Analysis Free and Open-Source Tools for Big Data",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190437",
-          "author": "Web Webster",
-          "description": "Wine 9.12 released, including initial support for user32 data structures and Mono engine 9.2.0 updates.\nThe post Wine 9.12 Debuts With Updated Mono Engine appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/wine-9-12-debuts-with-updated-mono-engine/",
-          "publishedOn": "2024-07-05T14:00:53.000Z",
-          "wordCount": 9018,
-          "title": "Wine 9.12 Debuts With Updated Mono Engine",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1844,6 +1784,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMib0FVX3lxTFBtZ0w2dERiNmwwazgwWG9ZbTJ1eUdXOHlNN1Vzd0lpelc5QzR1MTJ3QWpoRnI2b2RobnYzbHk2Mnhmb2RyOGxXckpXLTlCSGlaVEktcFR3Rms3T3c1VUpMUmtqODcwUzRuTy0xR095b9IBdEFVX3lxTE45Sk5TVzN6LVFlUjlvLUd3Y0ZNVFhpVFdzMWJ2ejRfQ1IwOTQ0eE1FQ2NFTG96YWZNNF9kbXY5VmJRUWE0OUY1cTdNMFNQYkRmZWVGOW4zbzBNNjF6Q2U4MFpnUHpHblV0VFIxUV9jV09KRUR4",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: August 4th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtZ0w2dERiNmwwazgwWG9ZbTJ1eUdXOHlNN1Vzd0lpelc5QzR1MTJ3QWpoRnI2b2RobnYzbHk2Mnhmb2RyOGxXckpXLTlCSGlaVEktcFR3Rms3T3c1VUpMUmtqODcwUzRuTy0xR095b9IBdEFVX3lxTE45Sk5TVzN6LVFlUjlvLUd3Y0ZNVFhpVFdzMWJ2ejRfQ1IwOTQ0eE1FQ2NFTG96YWZNNF9kbXY5VmJRUWE0OUY1cTdNMFNQYkRmZWVGOW4zbzBNNjF6Q2U4MFpnUHpHblV0VFIxUV9jV09KRUR4?oc=5",
+          "publishedOn": "2024-08-04T23:56:23.000Z",
+          "wordCount": 8913,
+          "title": "9to5Linux Weekly Roundup: August 4th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFBVV95cUxPa0czUVJJVHloNlFvVGR2UVFCZVJVUWZaRzBOTFp3YV8yQ0ZmOHNtT0w2OFk2OHhZMGhWdnlNX1A5cW9qY2Jva2RCUzFoTW5VeUxEbUdnNVl4d0FRaGdSb2xtTkktcldpVGxRNEEyOFpETDBpdElMU0pqU1M1UmRGOFQzQUo3dXc0dWhHN0tXTDZqSnEweEpIa0tfaFk",
+          "author": null,
+          "description": "Forget Microsoft Windows 11, Nitrux 3.6.0 should be your next OS  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0czUVJJVHloNlFvVGR2UVFCZVJVUWZaRzBOTFp3YV8yQ0ZmOHNtT0w2OFk2OHhZMGhWdnlNX1A5cW9qY2Jva2RCUzFoTW5VeUxEbUdnNVl4d0FRaGdSb2xtTkktcldpVGxRNEEyOFpETDBpdElMU0pqU1M1UmRGOFQzQUo3dXc0dWhHN0tXTDZqSnEweEpIa0tfaFk?oc=5",
+          "publishedOn": "2024-08-04T21:48:33.000Z",
+          "wordCount": 8913,
+          "title": "Forget Microsoft Windows 11, Nitrux 3.6.0 should be your next OS - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE85UEwtMHhzR1oxUkpwZktfbk53RjdEb0lGdHliZ2NoZTFmRlY0R2lLYVhWempNaDRNUkllQ0NWSDF1azlvSmRYdVZqQzlIMFFzTzFCN3hYZ3V0UlFHU21KUmpZYw",
+          "author": null,
+          "description": "Linux 6.11-rc2 Addresses A Lot Of \"Silly Noise\"  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85UEwtMHhzR1oxUkpwZktfbk53RjdEb0lGdHliZ2NoZTFmRlY0R2lLYVhWempNaDRNUkllQ0NWSDF1azlvSmRYdVZqQzlIMFFzTzFCN3hYZ3V0UlFHU21KUmpZYw?oc=5",
+          "publishedOn": "2024-08-04T21:15:00.000Z",
+          "wordCount": 8913,
+          "title": "Linux 6.11-rc2 Addresses A Lot Of \"Silly Noise\" - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE5aeEFlOWEtVF9pdjhKLWVnVGUzYXRaSHppbjR5ZUh1RUlWMTVvZGtUTUMzZ1JyVWZrOXdYc1RSbDM5SHBxTUxNalJ3NUZfektjTmJtLU0zQmhNZm1CQVBIZVZWMU1RU00",
+          "author": null,
+          "description": "The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aeEFlOWEtVF9pdjhKLWVnVGUzYXRaSHppbjR5ZUh1RUlWMTVvZGtUTUMzZ1JyVWZrOXdYc1RSbDM5SHBxTUxNalJ3NUZfektjTmJtLU0zQmhNZm1CQVBIZVZWMU1RU00?oc=5",
+          "publishedOn": "2024-08-04T14:47:00.000Z",
+          "wordCount": 8913,
+          "title": "The Open-Source AMD GPU Linux Kernel Graphics Driver Nears 5.8 Million Lines - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTFB4VjVWamQteDQyOEhKN3EycDNQbUI4UXpBS3d3UVVyekxyRDhrM2JIMEwxZFU2WHNQaU5leG81OGE1SmdqTlJvSFI3VlJQZWZNRDFfU3RxZkx1Zk81OC1JUnNBQTMyY3dDc2Fj",
+          "author": null,
+          "description": "Linux 6.11-rc2 To Recognize More AMD Zen 5 CPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4VjVWamQteDQyOEhKN3EycDNQbUI4UXpBS3d3UVVyekxyRDhrM2JIMEwxZFU2WHNQaU5leG81OGE1SmdqTlJvSFI3VlJQZWZNRDFfU3RxZkx1Zk81OC1JUnNBQTMyY3dDc2Fj?oc=5",
+          "publishedOn": "2024-08-04T13:34:00.000Z",
+          "wordCount": 8913,
+          "title": "Linux 6.11-rc2 To Recognize More AMD Zen 5 CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirAFBVV95cUxOZXJySGo3WWhVbkxyajk0eU02ZnRDeGZVTXh2WUgzZVVmY3FSOGZ5ZV9yUURyc1dLQlVzT1g0NVJkNzZJTGs2MFRNOEt4Um52WUpfb1QyRXFzNXE2cDE1czRxUElWMXNHWl9JdE82QWVwV3RiWnQxejhNcFRoYUl3cXRKM0FnM2dsaGFwUHJUVzB5NHlxOUZfZ0NlSjdqMWVMRDM0Rm1yQU1lNjZw",
+          "author": null,
+          "description": "StarBook 7 Linux laptop comes with a choice of Intel N200 or Core Ultra 7 165H chips  Liliputing",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXJySGo3WWhVbkxyajk0eU02ZnRDeGZVTXh2WUgzZVVmY3FSOGZ5ZV9yUURyc1dLQlVzT1g0NVJkNzZJTGs2MFRNOEt4Um52WUpfb1QyRXFzNXE2cDE1czRxUElWMXNHWl9JdE82QWVwV3RiWnQxejhNcFRoYUl3cXRKM0FnM2dsaGFwUHJUVzB5NHlxOUZfZ0NlSjdqMWVMRDM0Rm1yQU1lNjZw?oc=5",
+          "publishedOn": "2024-08-04T13:29:43.000Z",
+          "wordCount": 8913,
+          "title": "StarBook 7 Linux laptop comes with a choice of Intel N200 or Core Ultra 7 165H chips - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE9ZaDhzYmxUVEFoRlNkejlZQkZnYlYzUkxVSVlXcjZKckt4NDg0OGlfbkZGVkp5dDdCY1ZRYk15bUk4U1d3bmR0NWhfdDVYeUtlNzl6bm1zNTR4WUhYSkFUTFVpRlZRbTZ4bzlOMlk2TndGY1k",
+          "author": null,
+          "description": "Linux: Secure Yourself With GnuPG on Linux  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZaDhzYmxUVEFoRlNkejlZQkZnYlYzUkxVSVlXcjZKckt4NDg0OGlfbkZGVkp5dDdCY1ZRYk15bUk4U1d3bmR0NWhfdDVYeUtlNzl6bm1zNTR4WUhYSkFUTFVpRlZRbTZ4bzlOMlk2TndGY1k?oc=5",
+          "publishedOn": "2024-08-04T13:06:59.000Z",
+          "wordCount": 8913,
+          "title": "Linux: Secure Yourself With GnuPG on Linux - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTFBGMzVjTkRGQVFXYU1jLUlpWTF3VWFWSDZtTmR2V3FwTVl2ay1MSVNUZERUSlpWT1VoSHRBQXlRSE51TmkxY29iYkJoWTdsOHZFRWVoWkJSb2VhY096RjJUdE9LQ1dua2wx",
+          "author": null,
+          "description": "New Intel Linux Patches Continue Working To Improve Hybrid CPU Task Placement  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGMzVjTkRGQVFXYU1jLUlpWTF3VWFWSDZtTmR2V3FwTVl2ay1MSVNUZERUSlpWT1VoSHRBQXlRSE51TmkxY29iYkJoWTdsOHZFRWVoWkJSb2VhY096RjJUdE9LQ1dua2wx?oc=5",
+          "publishedOn": "2024-08-04T10:58:00.000Z",
+          "wordCount": 8913,
+          "title": "New Intel Linux Patches Continue Working To Improve Hybrid CPU Task Placement - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE9pd3hkS2o5OFZCOWk4d0FkaHpFcEJYM005eFNtVTNCVjBnVk9lZVM2bnYtckE3b2wyVnpnOVRpWFFkcjc2ZG5adEYyM3FHV3pKQjRCbnY0ckhiWXNrMFNDS0RTbGxtNmdJRnNR0gFrQVVfeXFMT2l3eGRLajk4VkI5aTh3QWRoekVwQlgzTTl4U21VM0JWMGdWT2VlUzZudi1yQTdvbDJWemc5VGlYUWRyNzZkblp0RjIzcUdXekpCNEJudjRySGJZc2swU0NLRFNsbG02Z0lGc1E",
+          "author": null,
+          "description": "Unveiling The SLUBStick Cross-Cache Attack On The Linux Kernel - The Cyber Express  The Cyber Express",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pd3hkS2o5OFZCOWk4d0FkaHpFcEJYM005eFNtVTNCVjBnVk9lZVM2bnYtckE3b2wyVnpnOVRpWFFkcjc2ZG5adEYyM3FHV3pKQjRCbnY0ckhiWXNrMFNDS0RTbGxtNmdJRnNR0gFrQVVfeXFMT2l3eGRLajk4VkI5aTh3QWRoekVwQlgzTTl4U21VM0JWMGdWT2VlUzZudi1yQTdvbDJWemc5VGlYUWRyNzZkblp0RjIzcUdXekpCNEJudjRySGJZc2swU0NLRFNsbG02Z0lGc1E?oc=5",
+          "publishedOn": "2024-08-04T10:14:16.000Z",
+          "wordCount": 8913,
+          "title": "Unveiling The SLUBStick Cross-Cache Attack On The Linux Kernel - The Cyber Express - The Cyber Express",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiywFBVV95cUxPRzRDODRuYXVKV3oyaW16MDJYTVNBdzdJXzJNVkQ1aGVBdlIydTU1RGhTV0pKTXpFdTAtTlJjNEc2QVZjWDNVbGwwNWVXUlpSYlU3WFlpX0gyVTZuTkNHSjZybnpkd3NWVmdGNVpwamlkWVRocU8wNE5QdmJsTUkzX2RlUXphNFBoUjRtQ0x3QTQ3UmFhbWpCM3ZWQ2RFZGpUck5nSUF5UXJzMmpBM0RWV0xzSmItSnIxZUM2SUZkVDVuM2dGNDZLX2RvSQ",
+          "author": null,
+          "description": "StarBook 7: Linux-based laptop now available with Core Ultra 7 165H and matte 4K display  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzRDODRuYXVKV3oyaW16MDJYTVNBdzdJXzJNVkQ1aGVBdlIydTU1RGhTV0pKTXpFdTAtTlJjNEc2QVZjWDNVbGwwNWVXUlpSYlU3WFlpX0gyVTZuTkNHSjZybnpkd3NWVmdGNVpwamlkWVRocU8wNE5QdmJsTUkzX2RlUXphNFBoUjRtQ0x3QTQ3UmFhbWpCM3ZWQ2RFZGpUck5nSUF5UXJzMmpBM0RWV0xzSmItSnIxZUM2SUZkVDVuM2dGNDZLX2RvSQ?oc=5",
+          "publishedOn": "2024-08-04T02:08:20.000Z",
+          "wordCount": 8913,
+          "title": "StarBook 7: Linux-based laptop now available with Core Ultra 7 165H and matte 4K display - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiakFVX3lxTE5GaWVZR1F1UThJOEZ0MUlQRjY4SWVVRTFKRjJiX2pROW4xVzZUNDd6YjNrLWFUbUV4a1I1b0Q3M1UxSnRGN2JLcGxmd2xkWmU5ajhGX2h0T1U0MW1RQzg4YWt6T0hib1FNOGc",
           "author": null,
@@ -2222,6 +2262,16 @@
           "publishedOn": "2024-08-01T16:49:49.000Z",
           "wordCount": 8913,
           "title": "Early Distro Look: Serpent OS Slithers Its Way Into Computers - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZEFVX3lxTFBHbWxMV0o0MVpuWmIyVXMyVXc0Ty0wR1FIbTRVQ050Smh2WVlSQUNRVlRpQm1XRTZodlJDS3NmVTdkSE1tVnlEcklvS0I1WWxtTl85VE5HM3E2T3Z5VEE1Q0gxRHg",
+          "author": null,
+          "description": "ASUS Zenbook S 16 UM5606WA Platform Profile Impact On Performance & Power Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHbWxMV0o0MVpuWmIyVXMyVXc0Ty0wR1FIbTRVQ050Smh2WVlSQUNRVlRpQm1XRTZodlJDS3NmVTdkSE1tVnlEcklvS0I1WWxtTl85VE5HM3E2T3Z5VEE1Q0gxRHg?oc=5",
+          "publishedOn": "2024-08-01T15:40:00.000Z",
+          "wordCount": 8913,
+          "title": "ASUS Zenbook S 16 UM5606WA Platform Profile Impact On Performance & Power Review - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7543,146 +7593,6 @@
           "wordCount": 8850,
           "title": "5 Terminal Commands You Can Run on Windows that Give Big Hacker Vibes - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vaGFja3JlYWQuY29tL21hbGxveC1yYW5zb213YXJlLXZhcmlhbnQtdGFyZ2V0cy1saW51eC1zeXN0ZW1zL9IBAA",
-          "author": null,
-          "description": "New Mallox Ransomware Variant Targets Linux Systems  HackRead",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaGFja3JlYWQuY29tL21hbGxveC1yYW5zb213YXJlLXZhcmlhbnQtdGFyZ2V0cy1saW51eC1zeXN0ZW1zL9IBAA?oc=5",
-          "publishedOn": "2024-07-06T12:35:07.000Z",
-          "wordCount": 8850,
-          "title": "New Mallox Ransomware Variant Targets Linux Systems - HackRead",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYxMS1QZXJmLUFycm93LUx1bmFyLUxha2XSAQA",
-          "author": null,
-          "description": "Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYxMS1QZXJmLUFycm93LUx1bmFyLUxha2XSAQA?oc=5",
-          "publishedOn": "2024-07-06T12:30:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux 6.11 To Add Perf Support For Intel Arrow Lake & Lunar Lake - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLXlvdS1kaWRudC1rbm93LXJ1bi1vbi1saW51eC_SAQA",
-          "author": null,
-          "description": "7 Things You Didn't Know Run on Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhpbmdzLXlvdS1kaWRudC1rbm93LXJ1bi1vbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-07-06T11:30:00.000Z",
-          "wordCount": 8850,
-          "title": "7 Things You Didn't Know Run on Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL3VzLWNvbXB1dGVyLXNjaWVuY2Utc3R1ZGVudC1ib290cy1saW51eC1vcy1mcm9tLWdvb2dsZS1kcml2ZS9zdG9yedIBAA",
-          "author": null,
-          "description": "Who needs hard drive? Student runs Linux from Google Drive  NewsBytes",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld3NieXRlc2FwcC5jb20vbmV3cy9zY2llbmNlL3VzLWNvbXB1dGVyLXNjaWVuY2Utc3R1ZGVudC1ib290cy1saW51eC1vcy1mcm9tLWdvb2dsZS1kcml2ZS9zdG9yedIBAA?oc=5",
-          "publishedOn": "2024-07-06T09:47:51.000Z",
-          "wordCount": 8850,
-          "title": "Who needs hard drive? Student runs Linux from Google Drive - NewsBytes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFBWT1BOQnY3TFdvVlE4dV9QclpoSjgzbVFlb3R2OFNVTVFzVm1FWjRuMHVGdVozNXFfV0NGc0o0cHdoenVSY0xSVm5ud2dGWm04c2YxdXBkT08tTkN5bEI2XzRmZlJST1EtRFE",
-          "author": null,
-          "description": "Running One of My Favorite Windows Game on Linux: Here's How It Went  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWT1BOQnY3TFdvVlE4dV9QclpoSjgzbVFlb3R2OFNVTVFzVm1FWjRuMHVGdVozNXFfV0NGc0o0cHdoenVSY0xSVm5ud2dGWm04c2YxdXBkT08tTkN5bEI2XzRmZlJST1EtRFE?oc=5",
-          "publishedOn": "2024-07-06T07:00:00.000Z",
-          "wordCount": 8913,
-          "title": "Running One of My Favorite Windows Game on Linux: Here's How It Went - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93aW5kb3dzLWdhbWUtb24tbGludXgtZXhwZXJpZW5jZS_SAQA",
-          "author": null,
-          "description": "Running One of My Favorite Windows Game on Linux: Here's How It Went  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS93aW5kb3dzLWdhbWUtb24tbGludXgtZXhwZXJpZW5jZS_SAQA?oc=5",
-          "publishedOn": "2024-07-06T03:34:52.000Z",
-          "wordCount": 8850,
-          "title": "Running One of My Favorite Windows Game on Linux: Here's How It Went - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL2Nhbi15b3UtcGxheS16ZW5sZXNzLXpvbmUtemVyby1saW51eC1hbnN3ZXJlZC_SAQA",
-          "author": null,
-          "description": "Can You Play Zenless Zone Zero on Linux? - Answered  Insider Gaming",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL2Nhbi15b3UtcGxheS16ZW5sZXNzLXpvbmUtemVyby1saW51eC1hbnN3ZXJlZC_SAQA?oc=5",
-          "publishedOn": "2024-07-05T20:59:34.000Z",
-          "wordCount": 8850,
-          "title": "Can You Play Zenless Zone Zero on Linux? - Answered - Insider Gaming",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L3Byb3Rvbi1leHBlcmltZW50YWwtZ2V0cy1maXhlcy1mb3ItZmFybGlnaHQtODQtc2hhZG93LXdhcnJpb3ItMi12aWRlby1pbXByb3ZlbWVudHMtZm9yLTMyYml0LWdhbWVzL9IBAA",
-          "author": null,
-          "description": "Proton Experimental gets fixes for Farlight 84, Shadow Warrior 2, video improvements for 32bit games  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDI0LzA3L3Byb3Rvbi1leHBlcmltZW50YWwtZ2V0cy1maXhlcy1mb3ItZmFybGlnaHQtODQtc2hhZG93LXdhcnJpb3ItMi12aWRlby1pbXByb3ZlbWVudHMtZm9yLTMyYml0LWdhbWVzL9IBAA?oc=5",
-          "publishedOn": "2024-07-05T20:11:50.000Z",
-          "wordCount": 8850,
-          "title": "Proton Experimental gets fixes for Farlight 84, Shadow Warrior 2, video improvements for 32bit games - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlEWEQtRkxSLVJlc2V0LUhXLUVycm9yc9IBAA",
-          "author": null,
-          "description": "Intel IDXD Driver To Better Handle Accelerators In Event Of Hardware Errors  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlEWEQtRkxSLVJlc2V0LUhXLUVycm9yc9IBAA?oc=5",
-          "publishedOn": "2024-07-05T19:31:00.000Z",
-          "wordCount": 8850,
-          "title": "Intel IDXD Driver To Better Handle Accelerators In Event Of Hardware Errors - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9ob3ctdG8vaG93LXRvLW1ha2UtdGhlLXN3aXRjaC1mcm9tLXdpbmRvd3MtdG8tbGludXjSAQA",
-          "author": null,
-          "description": "Sick of Microsoft? How to Make the Switch From Windows to Linux  PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9ob3ctdG8vaG93LXRvLW1ha2UtdGhlLXN3aXRjaC1mcm9tLXdpbmRvd3MtdG8tbGludXjSAQA?oc=5",
-          "publishedOn": "2024-07-05T19:07:30.000Z",
-          "wordCount": 8862,
-          "title": "Sick of Microsoft? How to Make the Switch From Windows to Linux - PCMag",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vaGFja2Vybm9vbi5jb20vaG93LXRvLWluc3RhbGwtZHVja3N0YXRpb24tZm9yLXBsYXlpbmctcHMxLWdhbWVzLW9uLWxpbnV40gEA",
-          "author": null,
-          "description": "How to Install DuckStation for Playing PS1 Games on Linux  hackernoon.com",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vaGFja2Vybm9vbi5jb20vaG93LXRvLWluc3RhbGwtZHVja3N0YXRpb24tZm9yLXBsYXlpbmctcHMxLWdhbWVzLW9uLWxpbnV40gEA?oc=5",
-          "publishedOn": "2024-07-05T17:01:52.000Z",
-          "wordCount": 8850,
-          "title": "How to Install DuckStation for Playing PS1 Games on Linux - hackernoon.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtTW9iaWxleWUtRXllUTZI0gEA",
-          "author": null,
-          "description": "Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMTEtTW9iaWxleWUtRXllUTZI0gEA?oc=5",
-          "publishedOn": "2024-07-05T14:34:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux 6.11 To Upstream Support For Mobileye EyeQ 6H SoC - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RNLVZlcml0eS1NdWx0aS1CdWZmZXItSGFzaNIBAA",
-          "author": null,
-          "description": "Linux 6.11 Likely To Land DM-Verity Multi-Buffer Hashing For Big Speed Boost  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0RNLVZlcml0eS1NdWx0aS1CdWZmZXItSGFzaNIBAA?oc=5",
-          "publishedOn": "2024-07-05T13:48:00.000Z",
-          "wordCount": 8850,
-          "title": "Linux 6.11 Likely To Land DM-Verity Multi-Buffer Hashing For Big Speed Boost - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS95b3UtY2FuLXJ1bi1vcy1nb29nbGUtZHJpdmUv0gEA",
-          "author": null,
-          "description": "You can apparently run an entire OS in Google Drive, but you definitely shouldn't  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS95b3UtY2FuLXJ1bi1vcy1nb29nbGUtZHJpdmUv0gEA?oc=5",
-          "publishedOn": "2024-07-05T13:47:00.000Z",
-          "wordCount": 8850,
-          "title": "You can apparently run an entire OS in Google Drive, but you definitely shouldn't - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10771,16 +10681,6 @@
           "wordCount": 3076,
           "title": "​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Scott Hanselman. Scott's a developer at Microsoft, a prolific teacher, and has hosted the Hanselminutes podcast for nearly two decades. We talk about: How he leads a fully-remote team from his home ...",
-          "link": "https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/",
-          "publishedOn": "2024-07-05T14:44:17.000Z",
-          "wordCount": 741,
-          "title": "What Scott Hanselman learned from 900 podcast interviews with devs [Podcast #131]",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         }
       ]
     }
