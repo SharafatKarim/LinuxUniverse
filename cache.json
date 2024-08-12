@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191337",
+          "author": "Web Webster",
+          "description": "This tutorial will show you three methods for determining whether your Linux system is using systemd or another init system.\nThe post Check If You Are Using SystemD or Not on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/check-if-you-are-using-systemd-or-not-on-linux/",
+          "publishedOn": "2024-08-11T21:00:16.000Z",
+          "wordCount": 9037,
+          "title": "Check If You Are Using SystemD or Not on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191399",
+          "author": "Web Webster",
+          "description": "Discover a step-by-step guide to setting up an Apache web server with Python WSGI on Ubuntu to access the Python web application on the internet.\nThe post How to Setup Apache With Python WSGI on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-setup-apache-with-python-wsgi-on-ubuntu/",
+          "publishedOn": "2024-08-11T18:25:48.000Z",
+          "wordCount": 9048,
+          "title": "How to Setup Apache With Python WSGI on Ubuntu",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189852",
           "author": "Web Webster",
           "description": "In this tutorial, learn how to lock user accounts, disable user accounts, and expire user accounts in Linux using a command-line tool or manual method.\nThe post How to Lock User Accounts in Linux (Using 6 Methods) appeared first on Linux Today.",
@@ -1816,96 +1836,6 @@
           "wordCount": 9022,
           "title": "Linux sha1sum Command Tutorial for Beginners (With Examples)",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190707",
-          "author": "Web Webster",
-          "description": "OpenShot 3.2.1 open-source video editor is here with new themes, UI/UX improvements, and bug fixes.\nThe post OpenShot 3.2.1 Video Editor: Smoother, Faster, Better appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/openshot-3-2-1-video-editor-smoother-faster-better/",
-          "publishedOn": "2024-07-13T02:00:14.000Z",
-          "wordCount": 8999,
-          "title": "OpenShot 3.2.1 Video Editor: Smoother, Faster, Better",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190690",
-          "author": "Web Webster",
-          "description": "With its last release in May 2022 and only one developer left, SSHFS’s future is uncertain. Is the project fading away?\nThe post Is the SSHFS Project Still Active? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/is-the-sshfs-project-still-active/",
-          "publishedOn": "2024-07-13T00:00:21.000Z",
-          "wordCount": 9010,
-          "title": "Is the SSHFS Project Still Active?",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190684",
-          "author": "Web Webster",
-          "description": "At the United Nations OSPOs for Good Conference, we were once more reminded of the curious situation of AI and open source programs: While the foundations of AI are built on open source tools and libraries, almost no major AI program is truly open source. OpenAI’s ChatGPT, Google’s PaLM (and its successor, the multimodel Gemini), […]\nThe post Open-Source AI: What About Data Transparency? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/open-source-ai-what-about-data-transparency/",
-          "publishedOn": "2024-07-12T22:00:45.000Z",
-          "wordCount": 9073,
-          "title": "Open-Source AI: What About Data Transparency?",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190708",
-          "author": "Web Webster",
-          "description": "Manjaro.org relaunches with a minimalistic, cleaner design and enhanced enterprise offerings.\nThe post Manjaro Linux Launches Revamped Website appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/manjaro-linux-launches-revamped-website/",
-          "publishedOn": "2024-07-12T20:00:37.000Z",
-          "wordCount": 8989,
-          "title": "Manjaro Linux Launches Revamped Website",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190715",
-          "author": "Web Webster",
-          "description": "The GNOME Project released today GNOME 46.3 as the third maintenance update to the latest GNOME 46 “Kathmandu” desktop environment series, bringing more bug fixes and small improvements.\nThe post GNOME 46.3 Desktop Environment Released With Various Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gnome-46-3-desktop-environment-released-with-various-improvements/",
-          "publishedOn": "2024-07-12T18:00:16.000Z",
-          "wordCount": 9023,
-          "title": "GNOME 46.3 Desktop Environment Released With Various Improvements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190713",
-          "author": "Web Webster",
-          "description": "PipeWire 1.2.1 multimedia framework update brings better audio with KODI, smoother KDE previews, and robust script execution.\nThe post PipeWire 1.2.1 Update Fixes Audio Bugs Across Multimedia Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/pipewire-1-2-1-update-fixes-audio-bugs-across-multimedia-apps/",
-          "publishedOn": "2024-07-12T17:00:52.000Z",
-          "wordCount": 9014,
-          "title": "PipeWire 1.2.1 Update Fixes Audio Bugs Across Multimedia Apps",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190714",
-          "author": "Web Webster",
-          "description": "KDE’s latest release, Frameworks 6.4.0, offers upgraded functionality, new features, and crucial fixes. Get the details!\nThe post KDE Frameworks 6.4.0 Rolls Out, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-frameworks-6-4-0-rolls-out-heres-whats-new/",
-          "publishedOn": "2024-07-12T16:00:08.000Z",
-          "wordCount": 9008,
-          "title": "KDE Frameworks 6.4.0 Rolls Out, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190718",
-          "author": "Web Webster",
-          "description": "The Mozilla Thunderbird 128 open-source email client has been released as a major update that introduces many new features, improvements, and bug fixes.\nThe post Mozilla Thunderbird 128 ESR Is Now Available for Download, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/mozilla-thunderbird-128-esr-is-now-available-for-download-heres-whats-new/",
-          "publishedOn": "2024-07-12T15:00:03.000Z",
-          "wordCount": 9033,
-          "title": "Mozilla Thunderbird 128 ESR Is Now Available for Download, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190719",
-          "author": "Web Webster",
-          "description": "This is your friendly reminder that Ubuntu 23.10 “Mantic Minotaur” reached end-of-life yesterday, July 11th, 2024, which means that it will no longer be supported with software and security updates.\nThe post Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-23-10-mantic-minotaur-reached-end-of-life-upgrade-to-ubuntu-24-04-lts/",
-          "publishedOn": "2024-07-12T14:17:51.000Z",
-          "wordCount": 9036,
-          "title": "Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1914,6 +1844,46 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiY0FVX3lxTE9qOTBhcnF3d3FVQXRNV19Da2JmNFhVMkJrZ0JSbHlJYmVDOWFhMVhFaUVXbGVpc0FMbmNDUkNQUlp2SVFJNmpUZUo4MGVPZ0c0TjVPLWo5cm1PTTNmZ1p0dkNuUQ",
+          "author": null,
+          "description": "Linux 6.11-rc3 Released - Boosts Intel EMR Performance, Fixes 32-bit PTI For Meltdown  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOTBhcnF3d3FVQXRNV19Da2JmNFhVMkJrZ0JSbHlJYmVDOWFhMVhFaUVXbGVpc0FMbmNDUkNQUlp2SVFJNmpUZUo4MGVPZ0c0TjVPLWo5cm1PTTNmZ1p0dkNuUQ?oc=5",
+          "publishedOn": "2024-08-11T21:39:00.000Z",
+          "wordCount": 8892,
+          "title": "Linux 6.11-rc3 Released - Boosts Intel EMR Performance, Fixes 32-bit PTI For Meltdown - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE5hUVV4V2RHcGROX1Z4ZUhqbV91ekczLUdkRlpVemc4YmJhZVE0RFY2RFBTNEFHSnNpY0cwOUVNZG9yNmFqT0N6Zzg5SHQ1Z2ZvNkl5aTI3OXduMTJUM0RDNTFYRkJZQQ",
+          "author": null,
+          "description": "Intel Raptor Lake 0x129 CPU Microcode Performance Impact On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hUVV4V2RHcGROX1Z4ZUhqbV91ekczLUdkRlpVemc4YmJhZVE0RFY2RFBTNEFHSnNpY0cwOUVNZG9yNmFqT0N6Zzg5SHQ1Z2ZvNkl5aTI3OXduMTJUM0RDNTFYRkJZQQ?oc=5",
+          "publishedOn": "2024-08-11T17:16:00.000Z",
+          "wordCount": 8892,
+          "title": "Intel Raptor Lake 0x129 CPU Microcode Performance Impact On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid0FVX3lxTE84WTBXalk4TjdmWWVKWnFFWUZhV2RELTNNTElteWNRZlNUb0tYVVlWZkd3b0lCWEFZWE5VcXljRmJCcUFNWlJKMHFXZVRNV21KTUM4ZE9QU3NVQnJmXzhJbnhXYmdqSzgyM0ljdWkxV0RlR1NSSWV30gF8QVVfeXFMTmJ5c3BZb2FBVDdrMHlfOUp1WDkzY2N1ODFWZzBQU3JObGpXQ2JRbVF6N2Rza0lBU1JRZi1HTFJYLTd5Y2hPQXYzMDg1RGpWblhoZ3BQTmQxVl9NVXF6VXdWaXBOZm5zWnJRaEtOcVE2aF9hMVhNaF9iaDZnMw",
+          "author": null,
+          "description": "Thunderbird 130 Beta Includes a Tray Icon for Linux  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WTBXalk4TjdmWWVKWnFFWUZhV2RELTNNTElteWNRZlNUb0tYVVlWZkd3b0lCWEFZWE5VcXljRmJCcUFNWlJKMHFXZVRNV21KTUM4ZE9QU3NVQnJmXzhJbnhXYmdqSzgyM0ljdWkxV0RlR1NSSWV30gF8QVVfeXFMTmJ5c3BZb2FBVDdrMHlfOUp1WDkzY2N1ODFWZzBQU3JObGpXQ2JRbVF6N2Rza0lBU1JRZi1HTFJYLTd5Y2hPQXYzMDg1RGpWblhoZ3BQTmQxVl9NVXF6VXdWaXBOZm5zWnJRaEtOcVE2aF9hMVhNaF9iaDZnMw?oc=5",
+          "publishedOn": "2024-08-11T16:57:06.000Z",
+          "wordCount": 8892,
+          "title": "Thunderbird 130 Beta Includes a Tray Icon for Linux - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxOQW1wekhyR1A1SkhSWjB4QzRhd2xEVHh1SUNoMFF1d1BudlV4OVptbEVmMTNSbldoa3V3UnI1allVOXRVWGt4NlV5SVctZ09wLWRQcGJTNklULTVzLWtNTjlmaTlZSnV5ZWFMdklHdXBkVXV0V1JRZjNYd1ZBTnFnbDBEQ25tbkdRaVZVdG1qZHIzUS1xTE1sdi1SV2VOQUnSAZsBQVVfeXFMUE5MTXBRZTI5cUdtbHlpaWVQTUN6UkxXMUdTZWxBTnpjM0NDVmxFMUNPQWRzRktLVWhYZ2VzOC0xQ0VmRy1MSFZGNEk2dWZTSGZ0ZXRKcWVTd0lYcjBZUmZBazlBdTNLc055SC1ZeFFhRFF1Q1NvcTg0cTR3RHhQSjNGQS1HcHR0UnVGRkw0ZVo0eGxiN29jaUh0emM",
+          "author": null,
+          "description": "Self-hosting: Installing Docker and an Excalidraw container on Linux  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQW1wekhyR1A1SkhSWjB4QzRhd2xEVHh1SUNoMFF1d1BudlV4OVptbEVmMTNSbldoa3V3UnI1allVOXRVWGt4NlV5SVctZ09wLWRQcGJTNklULTVzLWtNTjlmaTlZSnV5ZWFMdklHdXBkVXV0V1JRZjNYd1ZBTnFnbDBEQ25tbkdRaVZVdG1qZHIzUS1xTE1sdi1SV2VOQUnSAZsBQVVfeXFMUE5MTXBRZTI5cUdtbHlpaWVQTUN6UkxXMUdTZWxBTnpjM0NDVmxFMUNPQWRzRktLVWhYZ2VzOC0xQ0VmRy1MSFZGNEk2dWZTSGZ0ZXRKcWVTd0lYcjBZUmZBazlBdTNLc055SC1ZeFFhRFF1Q1NvcTg0cTR3RHhQSjNGQS1HcHR0UnVGRkw0ZVo0eGxiN29jaUh0emM?oc=5",
+          "publishedOn": "2024-08-11T11:16:00.000Z",
+          "wordCount": 8892,
+          "title": "Self-hosting: Installing Docker and an Excalidraw container on Linux - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiZEFVX3lxTE1lZ3lvcWNGR2NDNko0NFQ1dnNKSkJHLWlxcEtieHJobHNpYVBoSWZaZndSc1dvd1Bqc1BjYWdKdy1ZX2Y5Q3oycHQtRU9IY1E5SUhvaDFUU2ViYzB2TXFnbkVEd2Y",
           "author": null,
@@ -2492,6 +2462,16 @@
           "publishedOn": "2024-08-07T07:47:34.000Z",
           "wordCount": 8892,
           "title": "Thomas Giacomo: The BSV Association wants to be the Linux Foundation of BSV blockchain - CoinGeek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE04OXYzakloZF9ScXNXQ2NjT0JKZnc0dGthYk1tOFhvYi1iYnBRUkd5bjhOZXdJUFJwMTZrajFkT2FhSXdGWnI1NTZSTTl1Y3BWUmJ2eDAtWmZfcnlCOGhwNmlmcnhQMDB2MWRMZndqSTJzZjhLWXJ2anlR",
+          "author": null,
+          "description": "Here are all the Chromebooks that run Android and Linux apps  Android Authority",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04OXYzakloZF9ScXNXQ2NjT0JKZnc0dGthYk1tOFhvYi1iYnBRUkd5bjhOZXdJUFJwMTZrajFkT2FhSXdGWnI1NTZSTTl1Y3BWUmJ2eDAtWmZfcnlCOGhwNmlmcnhQMDB2MWRMZndqSTJzZjhLWXJ2anlR?oc=5",
+          "publishedOn": "2024-08-07T07:00:00.000Z",
+          "wordCount": 8892,
+          "title": "Here are all the Chromebooks that run Android and Linux apps - Android Authority",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7683,96 +7663,6 @@
           "wordCount": 8876,
           "title": "I tried running Photoshop 2024 on Linux - GIGAZINE（ギガジン）",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxpbnV4LUhXTU9OLUdQVS1GYW4tU3BlZWTSAQA",
-          "author": null,
-          "description": "Patch Posted For Finally Reporting Intel Graphics Card Fan Speeds Under Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxpbnV4LUhXTU9OLUdQVS1GYW4tU3BlZWTSAQA?oc=5",
-          "publishedOn": "2024-07-13T12:17:00.000Z",
-          "wordCount": 8876,
-          "title": "Patch Posted For Finally Reporting Intel Graphics Card Fan Speeds Under Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09CUy1TdHVkaW8tMzAuMi1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "OBS Studio 30.2 Released With Native NVENC Encode On Linux, More Shared Texture Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09CUy1TdHVkaW8tMzAuMi1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2024-07-13T00:25:00.000Z",
-          "wordCount": 8876,
-          "title": "OBS Studio 30.2 Released With Native NVENC Encode On Linux, More Shared Texture Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTMwLTItcmVsZWFzZWQtd2l0aC1udmVuYy1hdjEtc3VwcG9ydC1vbi1saW51eC11bmlmaWVkLXBpcGV3aXJlLXNvdXJjZdIBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTMwLTItcmVsZWFzZWQtd2l0aC1udmVuYy1hdjEtc3VwcG9ydC1vbi1saW51eC11bmlmaWVkLXBpcGV3aXJlLXNvdXJjZS9hbXA",
-          "author": null,
-          "description": "OBS Studio 30.2 Released with NVENC AV1 Support on Linux, Unified PipeWire Source  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTMwLTItcmVsZWFzZWQtd2l0aC1udmVuYy1hdjEtc3VwcG9ydC1vbi1saW51eC11bmlmaWVkLXBpcGV3aXJlLXNvdXJjZdIBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTMwLTItcmVsZWFzZWQtd2l0aC1udmVuYy1hdjEtc3VwcG9ydC1vbi1saW51eC11bmlmaWVkLXBpcGV3aXJlLXNvdXJjZS9hbXA?oc=5",
-          "publishedOn": "2024-07-12T23:32:36.000Z",
-          "wordCount": 8876,
-          "title": "OBS Studio 30.2 Released with NVENC AV1 Support on Linux, Unified PipeWire Source - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8taW5maW5pdHlib29rLXByby0xNC1nZW45LWxpbnV4LWxhcHRvcC1icmluZ3MtZmFzdC1pbnRlbC1hbmQtYW1kLWNwdXPSAWVodHRwczovLzl0bzVsaW51eC5jb20vdHV4ZWRvLWluZmluaXR5Ym9vay1wcm8tMTQtZ2VuOS1saW51eC1sYXB0b3AtYnJpbmdzLWZhc3QtaW50ZWwtYW5kLWFtZC1jcHVzL2FtcA",
-          "author": null,
-          "description": "TUXEDO InfinityBook Pro 14 Gen9 Linux Laptop Brings Fast Intel and AMD CPUs  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8taW5maW5pdHlib29rLXByby0xNC1nZW45LWxpbnV4LWxhcHRvcC1icmluZ3MtZmFzdC1pbnRlbC1hbmQtYW1kLWNwdXPSAWVodHRwczovLzl0bzVsaW51eC5jb20vdHV4ZWRvLWluZmluaXR5Ym9vay1wcm8tMTQtZ2VuOS1saW51eC1sYXB0b3AtYnJpbmdzLWZhc3QtaW50ZWwtYW5kLWFtZC1jcHVzL2FtcA?oc=5",
-          "publishedOn": "2024-07-12T17:20:19.000Z",
-          "wordCount": 8876,
-          "title": "TUXEDO InfinityBook Pro 14 Gen9 Linux Laptop Brings Fast Intel and AMD CPUs - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFodHRwczovL2xpbGlwdXRpbmcuY29tL3R1eGVkby1pbmZpbml0eWJvb2stcHJvLTE0LWxpbnV4LWxhcHRvcC1ub3ctYXZhaWxhYmxlLXdpdGgtcnl6ZW4tNy04ODQ1aHMtb3ItaW50ZWwtY29yZS11bHRyYS03LTE1NWgtY2hpcHMv0gEA",
-          "author": null,
-          "description": "Tuxedo InfinityBook Pro 14 Linux laptop now available with Ryzen 7 8845HS or Intel Core Ultra 7 155H chips  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2xpbGlwdXRpbmcuY29tL3R1eGVkby1pbmZpbml0eWJvb2stcHJvLTE0LWxpbnV4LWxhcHRvcC1ub3ctYXZhaWxhYmxlLXdpdGgtcnl6ZW4tNy04ODQ1aHMtb3ItaW50ZWwtY29yZS11bHRyYS03LTE1NWgtY2hpcHMv0gEA?oc=5",
-          "publishedOn": "2024-07-12T17:09:04.000Z",
-          "wordCount": 8876,
-          "title": "Tuxedo InfinityBook Pro 14 Linux laptop now available with Ryzen 7 8845HS or Intel Core Ultra 7 155H chips - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL29wZW5zdXNlLWFlb24taW50cm9kdWNlcy1jb21wcmVoZW5zaXZlLWZ1bGwtZGlzay1lbmNyeXB0aW9uL9IBAA",
-          "author": null,
-          "description": "openSUSE Aeon Introduces ‘Comprehensive Full Disk Encryption’  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL29wZW5zdXNlLWFlb24taW50cm9kdWNlcy1jb21wcmVoZW5zaXZlLWZ1bGwtZGlzay1lbmNyeXB0aW9uL9IBAA?oc=5",
-          "publishedOn": "2024-07-12T16:07:30.000Z",
-          "wordCount": 8876,
-          "title": "openSUSE Aeon Introduces ‘Comprehensive Full Disk Encryption’ - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RodW5kZXJiaXJkLTEyONIBAA",
-          "author": null,
-          "description": "Thunderbird 128 Now Available With More Rust Code & UI/UX Enhancements  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RodW5kZXJiaXJkLTEyONIBAA?oc=5",
-          "publishedOn": "2024-07-12T16:00:00.000Z",
-          "wordCount": 8876,
-          "title": "Thunderbird 128 Now Available With More Rust Code & UI/UX Enhancements - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LnRlY2h6aW5lLmV1L25ld3MvYXBwbGljYXRpb25zLzEyMjI0Mi9vcGVuZWxhLWF1dG9tYXRlcy1lbnRlcnByaXNlLWxpbnV4LXNvdXJjZS1kZWxpdmVyeS_SAQA",
-          "author": null,
-          "description": "OpenELA automates enterprise Linux source delivery  Techzine Europe",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlY2h6aW5lLmV1L25ld3MvYXBwbGljYXRpb25zLzEyMjI0Mi9vcGVuZWxhLWF1dG9tYXRlcy1lbnRlcnByaXNlLWxpbnV4LXNvdXJjZS1kZWxpdmVyeS_SAQA?oc=5",
-          "publishedOn": "2024-07-12T14:39:55.000Z",
-          "wordCount": 8876,
-          "title": "OpenELA automates enterprise Linux source delivery - Techzine Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMTAtbWFudGljLW1pbm90YXVyLXJlYWNoZWQtZW5kLW9mLWxpZmUtdXBncmFkZS10by11YnVudHUtMjQtMDQtbHRz0gFmaHR0cHM6Ly85dG81bGludXguY29tL3VidW50dS0yMy0xMC1tYW50aWMtbWlub3RhdXItcmVhY2hlZC1lbmQtb2YtbGlmZS11cGdyYWRlLXRvLXVidW50dS0yNC0wNC1sdHMvYW1w",
-          "author": null,
-          "description": "Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMTAtbWFudGljLW1pbm90YXVyLXJlYWNoZWQtZW5kLW9mLWxpZmUtdXBncmFkZS10by11YnVudHUtMjQtMDQtbHRz0gFmaHR0cHM6Ly85dG81bGludXguY29tL3VidW50dS0yMy0xMC1tYW50aWMtbWlub3RhdXItcmVhY2hlZC1lbmQtb2YtbGlmZS11cGdyYWRlLXRvLXVidW50dS0yNC0wNC1sdHMvYW1w?oc=5",
-          "publishedOn": "2024-07-12T13:50:43.000Z",
-          "wordCount": 8876,
-          "title": "Ubuntu 23.10 “Mantic Minotaur” Reached End of Life, Upgrade to Ubuntu 24.04 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10806,26 +10696,6 @@
           "wordCount": 3616,
           "title": "How to Set Up a CI/CD Pipeline with Husky and GitHub Actions",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/how-to-set-a-cicd-pipeline-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generics-in-java/",
-          "author": "Anjan Baradwaj",
-          "description": "In your Java program, you might have encountered the dreaded ClassCastException  at runtime while working with different types of objects such as Integer, String, and so on. This error is mostly caused by casting an object to the wrong data type. In this article, you'll learn about generics and",
-          "link": "https://www.freecodecamp.org/news/generics-in-java/",
-          "publishedOn": "2024-07-12T18:57:24.000Z",
-          "wordCount": 1836,
-          "title": "How to Use Generics in Java – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/safety.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Jessica Chan AKA Coder Coder. She's a software engineer has worked in the field for more than a decade. Interestingly, she studied photography in school and never took a programming class. We talk ab...",
-          "link": "https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/",
-          "publishedOn": "2024-07-12T16:01:03.000Z",
-          "wordCount": 819,
-          "title": "From doing data entry to becoming a developer with Jessica Chan AKA Coder Coder [Podcast #132]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1720800029976/4592a4b0-70ab-48de-a5e9-fe655d5c5445.png"
         }
       ]
     }
