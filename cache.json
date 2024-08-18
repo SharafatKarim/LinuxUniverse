@@ -18,6 +18,16 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189747",
+          "author": "Web Webster",
+          "description": "Fail2ban monitors log files for login failures and temporarily bans the failure-prone source IP address from accessing the host.\nThe post Installing and Using Fail2ban on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/security/installing-and-using-fail2ban-on-debian-12/",
+          "publishedOn": "2024-08-17T02:00:30.000Z",
+          "wordCount": 9021,
+          "title": "Installing and Using Fail2ban on Debian 12",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=189835",
           "author": "Web Webster",
           "description": "Flarum is an open-source discussion software that is the combined successor of esoTalk and FluxBB boards. In this tutorial, we will learn how to install Flarum Community Software on a server based on Ubuntu 24.04.\nThe post How to Install Flarum Community Software on Ubuntu 24.04 appeared first on Linux Today.",
@@ -1906,56 +1916,6 @@
           "wordCount": 9045,
           "title": "Best Open-Source CRM Software (2024)",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190875",
-          "author": "Web Webster",
-          "description": "Big news for Google Docs users! Google announced expanded Markdown support, allowing seamless conversion and editing of Markdown files directly within Google Docs.\nThe post Expanded Markdown Support Is Coming to Google Docs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/expanded-markdown-support-is-coming-to-google-docs/",
-          "publishedOn": "2024-07-18T20:00:16.000Z",
-          "wordCount": 9031,
-          "title": "Expanded Markdown Support Is Coming to Google Docs",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190863",
-          "author": "Web Webster",
-          "description": "It’s become clear to many that Red Hat’s recent missteps with CentOS and the availability of RHEL source code indicate that it’s fallen from its respected place as “the open organization.” SUSE seems to be poised to benefit from Red Hat’s errors. We connect the dots.\nThe post How SUSE Is Replacing Red Hat as the Linux and Open Source Enterprise Standard-Bearer appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/how-suse-is-replacing-red-hat-as-the-linux-and-open-source-enterprise-standard-bearer/",
-          "publishedOn": "2024-07-18T18:00:02.000Z",
-          "wordCount": 9076,
-          "title": "How SUSE Is Replacing Red Hat as the Linux and Open Source Enterprise Standard-Bearer",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190861",
-          "author": "Web Webster",
-          "description": "Traefik 3.1, a cloud-native HTTP reverse proxy and load balancer, brings enhanced Kubernetes support and new HTTPRoute capabilities.\nThe post Traefik 3.1 Reverse Proxy Enhances Kubernetes Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/traefik-3-1-reverse-proxy-enhances-kubernetes-support/",
-          "publishedOn": "2024-07-18T17:00:08.000Z",
-          "wordCount": 9023,
-          "title": "Traefik 3.1 Reverse Proxy Enhances Kubernetes Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190864",
-          "author": "Web Webster",
-          "description": "The Fedora-based Nobara Linux 40 rolls out with extensive updates, including KDE 6.1.1, GNOME 46, and improved driver support.\nThe post Nobara 40 Debuts With Major Overhauls and Enhanced Stability appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/nobara-40-debuts-with-major-overhauls-and-enhanced-stability/",
-          "publishedOn": "2024-07-18T16:20:02.000Z",
-          "wordCount": 9029,
-          "title": "Nobara 40 Debuts With Major Overhauls and Enhanced Stability",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190876",
-          "author": "Web Webster",
-          "description": "NVIDIA transitions fully to open-source GPU kernel modules with robust features in the upcoming R560 driver version.\nThe post NVIDIA’s GPU Kernel Modules Go Open-Source appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/nvidias-gpu-kernel-modules-go-open-source/",
-          "publishedOn": "2024-07-18T15:53:23.000Z",
-          "wordCount": 9013,
-          "title": "NVIDIA’s GPU Kernel Modules Go Open-Source",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1964,6 +1924,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMia0FVX3lxTFBhWEwyTUJ4LXlrcmdXQ09uMHJhYjAxR21Hbk00aklCNExSbTVzckJ0RzIzT0lrVk5FWFVXVjEwNDhaR2hNcjVEeHltMm5FUjNqTUhNLUxicWFtLXJpLXpNMXZKWnlLelJ3RUdn",
+          "author": null,
+          "description": "Not Enough Lines in Your Linux Terminal? Here's How to See More  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhWEwyTUJ4LXlrcmdXQ09uMHJhYjAxR21Hbk00aklCNExSbTVzckJ0RzIzT0lrVk5FWFVXVjEwNDhaR2hNcjVEeHltMm5FUjNqTUhNLUxicWFtLXJpLXpNMXZKWnlLelJ3RUdn?oc=5",
+          "publishedOn": "2024-08-17T17:15:00.000Z",
+          "wordCount": 12408,
+          "title": "Not Enough Lines in Your Linux Terminal? Here's How to See More - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE5vMkZZU1I3d3ZILXF3TWlSaHNRVU4xcDd1OFE3MkVxN3JRSlJXZlBTd1F3OWRvZmU2N2pZVjBORG5RYWpYQ2o2QTZTeHZ6Zi1BNUZJVWlJNmdzYmV2MEtSYml3SkY5YkRydTlKSXAyZ3daamo2dTJKbkp3",
+          "author": null,
+          "description": "How to Make Your Linux Laptop More Secure in 7 Steps  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMkZZU1I3d3ZILXF3TWlSaHNRVU4xcDd1OFE3MkVxN3JRSlJXZlBTd1F3OWRvZmU2N2pZVjBORG5RYWpYQ2o2QTZTeHZ6Zi1BNUZJVWlJNmdzYmV2MEtSYml3SkY5YkRydTlKSXAyZ3daamo2dTJKbkp3?oc=5",
+          "publishedOn": "2024-08-17T11:00:00.000Z",
+          "wordCount": 12408,
+          "title": "How to Make Your Linux Laptop More Secure in 7 Steps - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE00SFIzVnBQdmR6S2pMRUp4cjF0eXRTZzVjNkxZUUJyVmRMbndiNjhjYVlpajQyNkdvc3RndjJ4dGFQbHo1NDRjMnFtOFhkajlfZ1hybkkwM3dHZHlraUtON2hrdUd3WlZBMXc",
+          "author": null,
+          "description": "Archinstall 2.8.2 To Speed Up Arch Linux Installations, Other Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SFIzVnBQdmR6S2pMRUp4cjF0eXRTZzVjNkxZUUJyVmRMbndiNjhjYVlpajQyNkdvc3RndjJ4dGFQbHo1NDRjMnFtOFhkajlfZ1hybkkwM3dHZHlraUtON2hrdUd3WlZBMXc?oc=5",
+          "publishedOn": "2024-08-17T10:47:00.000Z",
+          "wordCount": 12408,
+          "title": "Archinstall 2.8.2 To Speed Up Arch Linux Installations, Other Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFBVV95cUxNako5c25leE5abk82Q0VlS2dhbkhqcW9wZ1p3YWpZUE5MbUU2Ym5JNjNTV0lfXzFteXkwb0tYUjctZEFZNW9jaE1RNEpPVW1UMG1nVHVJb0g0S0ZqdU9oLV9aUzE5Rm40dHZkUTh4ckUyQ2U2QjJ0Vks5V3I2NkRETQ",
+          "author": null,
+          "description": "How to Access Linux Ext4 partitions in Windows using WSL (great for reading Raspberry Pi microSD cards)  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNako5c25leE5abk82Q0VlS2dhbkhqcW9wZ1p3YWpZUE5MbUU2Ym5JNjNTV0lfXzFteXkwb0tYUjctZEFZNW9jaE1RNEpPVW1UMG1nVHVJb0g0S0ZqdU9oLV9aUzE5Rm40dHZkUTh4ckUyQ2U2QjJ0Vks5V3I2NkRETQ?oc=5",
+          "publishedOn": "2024-08-17T10:00:47.000Z",
+          "wordCount": 12408,
+          "title": "How to Access Linux Ext4 partitions in Windows using WSL (great for reading Raspberry Pi microSD cards) - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNU3llczM5R2F5b2V6TVZGYjFnNlBiR1NVUy1jUGtRMlY3WVVPa25KNld5NkhSampLbkZ1WnBMTXJSM182VFpCTlc4YjBGWU5IX0RoQndXLXYyZzF5SHVZX2VWYkdhOGhDcGhMR1B0TmgtUHllcXVxUk1QZ0NGM1V5SU9DRU03R0ExcG5TSGdJZ0NJQ3EtVUtsSFhoOWZ5WVHSAaQBQVVfeXFMUFhWWUU3RUU5cTl6TTdOUEhDSE5kQzlQZVF6Z3BsR1VEOXF1QUQybm5oMEhaUlNVWWpFcXlNeXNQd0xiVFVHZkVfSHhnMVk4RG1DMnhoTlJwT2tNTzB0QWkxTHBYdjlWSWhnb0tDMG5rQ09OQmIwM3dNVmxfYnZPU05vdkRRZGRwUDZOMjhHN2xlTF80emxFbG4tR0JTX1RUX0YyRFo",
+          "author": null,
+          "description": "Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3llczM5R2F5b2V6TVZGYjFnNlBiR1NVUy1jUGtRMlY3WVVPa25KNld5NkhSampLbkZ1WnBMTXJSM182VFpCTlc4YjBGWU5IX0RoQndXLXYyZzF5SHVZX2VWYkdhOGhDcGhMR1B0TmgtUHllcXVxUk1QZ0NGM1V5SU9DRU03R0ExcG5TSGdJZ0NJQ3EtVUtsSFhoOWZ5WVHSAaQBQVVfeXFMUFhWWUU3RUU5cTl6TTdOUEhDSE5kQzlQZVF6Z3BsR1VEOXF1QUQybm5oMEhaUlNVWWpFcXlNeXNQd0xiVFVHZkVfSHhnMVk4RG1DMnhoTlJwT2tNTzB0QWkxTHBYdjlWSWhnb0tDMG5rQ09OQmIwM3dNVmxfYnZPU05vdkRRZGRwUDZOMjhHN2xlTF80emxFbG4tR0JTX1RUX0YyRFo?oc=5",
+          "publishedOn": "2024-08-17T08:47:14.000Z",
+          "wordCount": 12408,
+          "title": "Archinstall 2.8.2 Arch Linux Installer Speeds Up Mirror Loading and Download - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi3gFBVV95cUxONWxEOGpIbTcxcEhqcTRLYllYcmpLSFpCNFM5LTBuZ201bzY5ZFg1SklKNjIzZkZMTkY3SDYzRnJtcXBzYV94Skd0bkdSNlB4emViNXRCZlg4dTdRc0VPV3Y0TkoteTEzZFZhMXV4aWVhUlcxajRMblFkWFVOTmtWT1VfRU9aNFRoX2tma2ZmWUJIOEtoejVkV2I5UDhoVlpBS2huc3F5N25qNm9qRmphTnpBZ0lRV0RPR25Sa3N4NnRLdWVwZzB0bUgzbWdCem5iQTVhX2R3TmlnNHhFSUE",
+          "author": null,
+          "description": "Deepin 23-based ExTiX 24.8 live Linux launches with Synaptic Package Manager and Google Chrome in tow  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONWxEOGpIbTcxcEhqcTRLYllYcmpLSFpCNFM5LTBuZ201bzY5ZFg1SklKNjIzZkZMTkY3SDYzRnJtcXBzYV94Skd0bkdSNlB4emViNXRCZlg4dTdRc0VPV3Y0TkoteTEzZFZhMXV4aWVhUlcxajRMblFkWFVOTmtWT1VfRU9aNFRoX2tma2ZmWUJIOEtoejVkV2I5UDhoVlpBS2huc3F5N25qNm9qRmphTnpBZ0lRV0RPR25Sa3N4NnRLdWVwZzB0bUgzbWdCem5iQTVhX2R3TmlnNHhFSUE?oc=5",
+          "publishedOn": "2024-08-17T08:19:08.000Z",
+          "wordCount": 12408,
+          "title": "Deepin 23-based ExTiX 24.8 live Linux launches with Synaptic Package Manager and Google Chrome in tow - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMizAFBVV95cUxOSWFVSXdfaTRSUUhtYVZWVmM2Wk5pRkNxZE1oTzlJQWxsMk1ac2ZVakN2bFBMM3pmelAxdTJCVnA0Z3RNNnZOZmNGc2JSQlZ0VVJBT2RIemVyZjNPNzl3dnRZRDRTUzE3a0Z6NUJIbzdvVTRvNlhYMGpCbUJheUNCc1RORUxId0U1eE1PekYzSEcxNm1NYlpFV2UwYUl3X09UMF8wUkdhWl94VzZ3UlFJcGdxX3BITXQ2OGo3TWxEUlhjM09zLXJsRUNyNHg",
           "author": null,
@@ -2502,6 +2522,16 @@
           "publishedOn": "2024-08-13T09:00:00.000Z",
           "wordCount": 12400,
           "title": "5 most beautiful Linux distributions: Feast your eyes on these - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA",
+          "author": null,
+          "description": "How to Become an Ethical Hacker in 2024?  Simplilearn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA?oc=5",
+          "publishedOn": "2024-08-13T07:00:00.000Z",
+          "wordCount": 12408,
+          "title": "How to Become an Ethical Hacker in 2024? - Simplilearn",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7293,226 +7323,6 @@
           "wordCount": 8959,
           "title": "Linux 6.11 Lands Support For Snapdragon X1 Elite ASUS Vivobook S15 & Lenovo Yoga Slim7x - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFodHRwczovL3d3dy5tYWN0cmFzdC5jb20vMjAyNC8wNy9hbnRpdmlydXMtY29tcGFueS1jcm93ZHN0cmlrZS1zYXlzLWdsb2JhbC1pdC1vdXRhZ2UtbGltaXRlZC10by13aW5kb3dzLXBjcy1tYWMtYW5kLWxpbnV4LW5vdC1hZmZlY3RlZC_SAYsBaHR0cHM6Ly93d3cubWFjdHJhc3QuY29tLzIwMjQvMDcvYW50aXZpcnVzLWNvbXBhbnktY3Jvd2RzdHJpa2Utc2F5cy1nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3MtbWFjLWFuZC1saW51eC1ub3QtYWZmZWN0ZWQvYW1wLw",
-          "author": null,
-          "description": "Antivirus Company Crowdstrike Says Global IT Outage Limited to Windows PCs, Mac and Linux Not Affected  Mactrast",
-          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tYWN0cmFzdC5jb20vMjAyNC8wNy9hbnRpdmlydXMtY29tcGFueS1jcm93ZHN0cmlrZS1zYXlzLWdsb2JhbC1pdC1vdXRhZ2UtbGltaXRlZC10by13aW5kb3dzLXBjcy1tYWMtYW5kLWxpbnV4LW5vdC1hZmZlY3RlZC_SAYsBaHR0cHM6Ly93d3cubWFjdHJhc3QuY29tLzIwMjQvMDcvYW50aXZpcnVzLWNvbXBhbnktY3Jvd2RzdHJpa2Utc2F5cy1nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3MtbWFjLWFuZC1saW51eC1ub3QtYWZmZWN0ZWQvYW1wLw?oc=5",
-          "publishedOn": "2024-07-19T12:56:50.000Z",
-          "wordCount": 8959,
-          "title": "Antivirus Company Crowdstrike Says Global IT Outage Limited to Windows PCs, Mac and Linux Not Affected - Mactrast",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiowFBVV95cUxPZ3pRcDR3aEMyZjlUd2JwS25DblVESkQ4aEwtUUlnYldBejAzR1lMZTNwM0lzQXFzckJlTnViVkFmS005elh2bWlraVY4bUlJX19aTTNwZ2w5azd0MHBPYnVUeVZYZG8xUU5fNklRWUlNR091TG5YbXJoWW05TzFhNEhPcnlKVHlsT05qMG15Yksza1JfWXhYWkgyMmlheTh5NjdF",
-          "author": null,
-          "description": "Bazzite Linux 3.6 out now bringing full ASUS ROG Ally X support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3pRcDR3aEMyZjlUd2JwS25DblVESkQ4aEwtUUlnYldBejAzR1lMZTNwM0lzQXFzckJlTnViVkFmS005elh2bWlraVY4bUlJX19aTTNwZ2w5azd0MHBPYnVUeVZYZG8xUU5fNklRWUlNR091TG5YbXJoWW05TzFhNEhPcnlKVHlsT05qMG15Yksza1JfWXhYWkgyMmlheTh5NjdF?oc=5",
-          "publishedOn": "2024-07-19T11:02:31.000Z",
-          "wordCount": 9016,
-          "title": "Bazzite Linux 3.6 out now bringing full ASUS ROG Ally X support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvYmF6eml0ZS1saW51eC0zNi1vdXQtbm93LWJyaW5naW5nLWZ1bGwtYXN1cy1yb2ctYWxseS14LXN1cHBvcnQv0gEA",
-          "author": null,
-          "description": "Bazzite Linux 3.6 out now bringing full ASUS ROG Ally X support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvYmF6eml0ZS1saW51eC0zNi1vdXQtbm93LWJyaW5naW5nLWZ1bGwtYXN1cy1yb2ctYWxseS14LXN1cHBvcnQv0gEA?oc=5",
-          "publishedOn": "2024-07-19T11:02:31.000Z",
-          "wordCount": 8959,
-          "title": "Bazzite Linux 3.6 out now bringing full ASUS ROG Ally X support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFodHRwczovL2ZvcnVtcy5tYWNydW1vcnMuY29tL3RocmVhZHMvY3Jvd2RzdHJpa2Utc2F5cy1nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3MtbWFjLWFuZC1saW51eC1ob3N0cy1ub3QtYWZmZWN0ZWQuMjQzMTczOC_SAQA",
-          "author": null,
-          "description": "Crowdstrike Says Global IT Outage Limited to Windows PCs, Mac and Linux Hosts Not Affected  MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL2ZvcnVtcy5tYWNydW1vcnMuY29tL3RocmVhZHMvY3Jvd2RzdHJpa2Utc2F5cy1nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3MtbWFjLWFuZC1saW51eC1ob3N0cy1ub3QtYWZmZWN0ZWQuMjQzMTczOC_SAQA?oc=5",
-          "publishedOn": "2024-07-19T10:13:00.000Z",
-          "wordCount": 8959,
-          "title": "Crowdstrike Says Global IT Outage Limited to Windows PCs, Mac and Linux Hosts Not Affected - MacRumors",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxQWDJjSDJwbWpBZ0ZLZmZJaGxkNHk0UEpsNEt3U3hKM2VuZmQ1RFhscm8xdENYTy1FekYzUWJibGJmOFpVczRnZERUMlRmczVVa3NOWUxxRWQ3ZmZSckdzYlRQR2JVeUFoLTltUmUtclVfNkdQZ0RBWk5DVHgyNGt0Nl8yOA",
-          "author": null,
-          "description": "CrowdStrike Says Global IT Outage Impacting Windows PCs, But Mac and Linux Hosts Not Affected  MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDJjSDJwbWpBZ0ZLZmZJaGxkNHk0UEpsNEt3U3hKM2VuZmQ1RFhscm8xdENYTy1FekYzUWJibGJmOFpVczRnZERUMlRmczVVa3NOWUxxRWQ3ZmZSckdzYlRQR2JVeUFoLTltUmUtclVfNkdQZ0RBWk5DVHgyNGt0Nl8yOA?oc=5",
-          "publishedOn": "2024-07-19T10:12:57.000Z",
-          "wordCount": 9016,
-          "title": "CrowdStrike Says Global IT Outage Impacting Windows PCs, But Mac and Linux Hosts Not Affected - MacRumors",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNy8xOS9nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3Mv0gEA",
-          "author": null,
-          "description": "Crowdstrike Says Global IT Outage Impacting Windows PCs, But Mac and Linux Hosts Not Affected  MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNy8xOS9nbG9iYWwtaXQtb3V0YWdlLWxpbWl0ZWQtdG8td2luZG93cy1wY3Mv0gEA?oc=5",
-          "publishedOn": "2024-07-19T10:12:57.000Z",
-          "wordCount": 8959,
-          "title": "Crowdstrike Says Global IT Outage Impacting Windows PCs, But Mac and Linux Hosts Not Affected - MacRumors",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvbnZpZGlhLXRhbGstdXAtdGhlaXItdHJhbnNpdGlvbi10by1vcGVuLXNvdXJjZS1ncHUta2VybmVsLW1vZHVsZXMv0gEA",
-          "author": null,
-          "description": "NVIDIA talk up their transition to open source GPU kernel modules  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDcvbnZpZGlhLXRhbGstdXAtdGhlaXItdHJhbnNpdGlvbi10by1vcGVuLXNvdXJjZS1ncHUta2VybmVsLW1vZHVsZXMv0gEA?oc=5",
-          "publishedOn": "2024-07-19T08:55:20.000Z",
-          "wordCount": 8959,
-          "title": "NVIDIA talk up their transition to open source GPU kernel modules - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFBVV95cUxOYUU3YTBnNGZwWlVsdnN5eXNDcDQ5N0tnM21yVXBRMjA2Rjk1eFhxQmg3ck5rWjNxa2RTVUNMX1d4RmpaVE53WUpCckM5RmM4cFB4QVYxUzY1bzJWZWxrbHZhUldLZl9ESWhnYnVZa1llakl4N0c2a3d2aEVnSzZYd0paMDZoZWhL0gGOAUFVX3lxTFA2NWxVTUMwdFl6dDlORWhWMEhGSU9vU0pLU090WFdLbnhiTll2b19rcmVBVWxuenVYT2pRcFEyZ2hIdkFncVlRSHJTVjFqNVk2TC1yZng3YTY0SDhWN0pEcjIxQ2M5b0FEaHJGZnYyNEFMdmppZS1FS1Mta0ZwYm1EOTFFRXQycXhKdkRCaVE",
-          "author": null,
-          "description": "DevToys (Developer Tools App) is Now Available for Linux  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUU3YTBnNGZwWlVsdnN5eXNDcDQ5N0tnM21yVXBRMjA2Rjk1eFhxQmg3ck5rWjNxa2RTVUNMX1d4RmpaVE53WUpCckM5RmM4cFB4QVYxUzY1bzJWZWxrbHZhUldLZl9ESWhnYnVZa1llakl4N0c2a3d2aEVnSzZYd0paMDZoZWhL0gGOAUFVX3lxTFA2NWxVTUMwdFl6dDlORWhWMEhGSU9vU0pLU090WFdLbnhiTll2b19rcmVBVWxuenVYT2pRcFEyZ2hIdkFncVlRSHJTVjFqNVk2TC1yZng3YTY0SDhWN0pEcjIxQ2M5b0FEaHJGZnYyNEFMdmppZS1FS1Mta0ZwYm1EOTFFRXQycXhKdkRCaVE?oc=5",
-          "publishedOn": "2024-07-19T07:00:00.000Z",
-          "wordCount": 9016,
-          "title": "DevToys (Developer Tools App) is Now Available for Linux - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitwFBVV95cUxOZ2dRYTAybzR3UHBjTDJweWVLYnU1XzUwU1VLNU1KWXdGZW9RQmtKMElPMEhIR05NVV92MTJqWG9rLUtBM3JVdG12ZGIwbElodUV1Nk1nZF9EY29SZndjcjlsdWtfbzFfelFpQ0hXWDBHQnM2YlVlMVpJVm5tbnpGb1pCaGh1bmtBUkpTM3RJWWhOenhpdEFjb1RPTXlqaFNXVTFsY1RESm9kSS1EVHVEbWhEWHZBSk0",
-          "author": null,
-          "description": "Play Ransomware Group’s New Linux Variant Targets ESXi, Shows Ties With Prolific Puma  Trend Micro",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2dRYTAybzR3UHBjTDJweWVLYnU1XzUwU1VLNU1KWXdGZW9RQmtKMElPMEhIR05NVV92MTJqWG9rLUtBM3JVdG12ZGIwbElodUV1Nk1nZF9EY29SZndjcjlsdWtfbzFfelFpQ0hXWDBHQnM2YlVlMVpJVm5tbnpGb1pCaGh1bmtBUkpTM3RJWWhOenhpdEFjb1RPTXlqaFNXVTFsY1RESm9kSS1EVHVEbWhEWHZBSk0?oc=5",
-          "publishedOn": "2024-07-19T06:52:13.000Z",
-          "wordCount": 9016,
-          "title": "Play Ransomware Group’s New Linux Variant Targets ESXi, Shows Ties With Prolific Puma - Trend Micro",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3LnRyZW5kbWljcm8uY29tL2VuX3VzL3Jlc2VhcmNoLzI0L2cvbmV3LXBsYXktcmFuc29td2FyZS1saW51eC12YXJpYW50LXRhcmdldHMtZXN4aS1zaG93cy10aWVzLXdpdGgtcC5odG1s0gEA",
-          "author": null,
-          "description": "Play Ransomware Group’s New Linux Variant Targets ESXi, Shows Ties With Prolific Puma  Trend Micro",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRyZW5kbWljcm8uY29tL2VuX3VzL3Jlc2VhcmNoLzI0L2cvbmV3LXBsYXktcmFuc29td2FyZS1saW51eC12YXJpYW50LXRhcmdldHMtZXN4aS1zaG93cy10aWVzLXdpdGgtcC5odG1s0gEA?oc=5",
-          "publishedOn": "2024-07-19T06:52:13.000Z",
-          "wordCount": 8959,
-          "title": "Play Ransomware Group’s New Linux Variant Targets ESXi, Shows Ties With Prolific Puma - Trend Micro",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNy8xOS9ob3ctdG8tbWVkaWF0ZWstbXQ3OTIyLWJsdWV0b290aC11YnVudHUtMjQtMDQv0gFcaHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDI0LzA3LzE5L2hvdy10by1tZWRpYXRlay1tdDc5MjItYmx1ZXRvb3RoLXVidW50dS0yNC0wNC8_YW1wPTE",
-          "author": null,
-          "description": "How to easily enable MediaTek MT7922 Bluetooth on Ubuntu 24.04  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wNy8xOS9ob3ctdG8tbWVkaWF0ZWstbXQ3OTIyLWJsdWV0b290aC11YnVudHUtMjQtMDQv0gFcaHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDI0LzA3LzE5L2hvdy10by1tZWRpYXRlay1tdDc5MjItYmx1ZXRvb3RoLXVidW50dS0yNC0wNC8_YW1wPTE?oc=5",
-          "publishedOn": "2024-07-19T02:55:00.000Z",
-          "wordCount": 8959,
-          "title": "How to easily enable MediaTek MT7922 Bluetooth on Ubuntu 24.04 - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitwFBVV95cUxQMncwMlN2QWtyOWpmQ0dkaHFJcHluUlNUNDdVZlcwMlBWelRlSVBGVlpfczk1U25adHBrNWJCNE01NjExNmpaQzFlZnJ4clc5MTRPMmNRNEluV3FrU2s5QWFCN0c3RmZzWm9WWGFEbUFWc3hKTVNWR2JWZVd6cmdpV3ZES3NQMEI2Vm9BV0w3VGF0ajlKbDhGWTl5Q1dqRl9pY2VTVjZ4N2NFRHNTak9vMlk4VnVfRzQ",
-          "author": null,
-          "description": "Nvidia finally open sources some of its GPU drivers. How to tell what's under your hood  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMncwMlN2QWtyOWpmQ0dkaHFJcHluUlNUNDdVZlcwMlBWelRlSVBGVlpfczk1U25adHBrNWJCNE01NjExNmpaQzFlZnJ4clc5MTRPMmNRNEluV3FrU2s5QWFCN0c3RmZzWm9WWGFEbUFWc3hKTVNWR2JWZVd6cmdpV3ZES3NQMEI2Vm9BV0w3VGF0ajlKbDhGWTl5Q1dqRl9pY2VTVjZ4N2NFRHNTak9vMlk4VnVfRzQ?oc=5",
-          "publishedOn": "2024-07-18T21:33:00.000Z",
-          "wordCount": 9016,
-          "title": "Nvidia finally open sources some of its GPU drivers. How to tell what's under your hood - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL252aWRpYS1maW5hbGx5LW9wZW4tc291cmNlcy1zb21lLW9mLWl0cy1ncHUtZHJpdmVycy1ob3ctdG8tdGVsbC13aGF0cy11bmRlci15b3VyLWhvb2Qv0gEA",
-          "author": null,
-          "description": "Nvidia finally open sources some of its GPU drivers. How to tell what's under your hood  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL252aWRpYS1maW5hbGx5LW9wZW4tc291cmNlcy1zb21lLW9mLWl0cy1ncHUtZHJpdmVycy1ob3ctdG8tdGVsbC13aGF0cy11bmRlci15b3VyLWhvb2Qv0gEA?oc=5",
-          "publishedOn": "2024-07-18T21:33:00.000Z",
-          "wordCount": 8959,
-          "title": "Nvidia finally open sources some of its GPU drivers. How to tell what's under your hood - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhlbGlvLW1lZ2EtdXBncmFkZS0yMDI0L9IBAA",
-          "author": null,
-          "description": "The Thelio Mega Is a Dual-GPU Linux Supercomputer  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vdGhlbGlvLW1lZ2EtdXBncmFkZS0yMDI0L9IBAA?oc=5",
-          "publishedOn": "2024-07-18T20:27:00.000Z",
-          "wordCount": 8959,
-          "title": "The Thelio Mega Is a Dual-GPU Linux Supercomputer - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL252aWRpYS1zaGlmdHMtZ2VhcnMtb3Blbi1zb3VyY2UtbGludXgtZ3B1LWRyaXZlcnMtdGFrZS1jZW50ZXItc3RhZ2UuMjAzNTk2MS_SAQA",
-          "author": null,
-          "description": "NVIDIA Shifts Gears: Open-Source Linux GPU Drivers Take Center Stage  HardForum",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL252aWRpYS1zaGlmdHMtZ2VhcnMtb3Blbi1zb3VyY2UtbGludXgtZ3B1LWRyaXZlcnMtdGFrZS1jZW50ZXItc3RhZ2UuMjAzNTk2MS_SAQA?oc=5",
-          "publishedOn": "2024-07-18T20:20:13.000Z",
-          "wordCount": 8959,
-          "title": "NVIDIA Shifts Gears: Open-Source Linux GPU Drivers Take Center Stage - HardForum",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00MS1Hb2VzLUFNRC1TRVYtU05Q0gEA",
-          "author": null,
-          "description": "Fedora 41 Proceeds With AMD SEV-SNP Virtualization Host Support For Confidential VMs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00MS1Hb2VzLUFNRC1TRVYtU05Q0gEA?oc=5",
-          "publishedOn": "2024-07-18T18:43:00.000Z",
-          "wordCount": 8959,
-          "title": "Fedora 41 Proceeds With AMD SEV-SNP Virtualization Host Support For Confidential VMs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuwFBVV95cUxOb1pBek1ObHljZG9MVlBOMEhRRHFJVElZSXJxZEpvTWVUR093UFFqd1p5cVpkY0JkTmk0azBEekxDUzZVTjV0cEZldEVGSHdEN1dLTFJYb3ZJV1Zqcjd3ZzhzWDZ6c0lvUVVTcVZGR3dETHVsYlBzMm1fSGVDbUgtdmJ2Zk9zekdPN3JtQWdwQmZYQ3NhdlVsWFdYeVU4YTNTZlU1SU5ld3Zzdk9IVjNtNUZfUTVxMVhxV2VB",
-          "author": null,
-          "description": "Nvidia transitioning to open-source GPU kernel modules for Linux — R560 and later default to open-source for Turing and newer graphics cards  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1pBek1ObHljZG9MVlBOMEhRRHFJVElZSXJxZEpvTWVUR093UFFqd1p5cVpkY0JkTmk0azBEekxDUzZVTjV0cEZldEVGSHdEN1dLTFJYb3ZJV1Zqcjd3ZzhzWDZ6c0lvUVVTcVZGR3dETHVsYlBzMm1fSGVDbUgtdmJ2Zk9zekdPN3JtQWdwQmZYQ3NhdlVsWFdYeVU4YTNTZlU1SU5ld3Zzdk9IVjNtNUZfUTVxMVhxV2VB?oc=5",
-          "publishedOn": "2024-07-18T15:23:23.000Z",
-          "wordCount": 9016,
-          "title": "Nvidia transitioning to open-source GPU kernel modules for Linux — R560 and later default to open-source for Turing and newer graphics cards - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9ncHUtZHJpdmVycy9udmlkaWEtdHJhbnNpdGlvbmluZy10by1vcGVuLXNvdXJjZS1ncHUta2VybmVsLW1vZHVsZXMtZm9yLWxpbnV40gEA",
-          "author": null,
-          "description": "Nvidia transitioning to open-source GPU kernel modules for Linux — R560 and later default to open-source for Turing and newer graphics cards  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9ncHUtZHJpdmVycy9udmlkaWEtdHJhbnNpdGlvbmluZy10by1vcGVuLXNvdXJjZS1ncHUta2VybmVsLW1vZHVsZXMtZm9yLWxpbnV40gEA?oc=5",
-          "publishedOn": "2024-07-18T15:23:23.000Z",
-          "wordCount": 8959,
-          "title": "Nvidia transitioning to open-source GPU kernel modules for Linux — R560 and later default to open-source for Turing and newer graphics cards - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vbWVkaXVtLmNvbS9AYm91dG5hcnUvdGhlLWxpbnV4LWNvbmNlcHQtam91cm5leS1saW5rLWZpbGUtYWthLXN5bWJvbGljLWxpbmstYmFiNjVmZWFjZDEw0gEA",
-          "author": null,
-          "description": "The Linux Concept Journey — Link File (aka Symbolic Link) | by Shlomi Boutnaru, Ph.D. | Jul, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbWVkaXVtLmNvbS9AYm91dG5hcnUvdGhlLWxpbnV4LWNvbmNlcHQtam91cm5leS1saW5rLWZpbGUtYWthLXN5bWJvbGljLWxpbmstYmFiNjVmZWFjZDEw0gEA?oc=5",
-          "publishedOn": "2024-07-18T15:14:02.000Z",
-          "wordCount": 8959,
-          "title": "The Linux Concept Journey — Link File (aka Symbolic Link) | by Shlomi Boutnaru, Ph.D. | Jul, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTE5ueWNZYTZzOWdnMmJrNGM5NDRjTko2NVNkcVROS19GUk4wLTl2cmVBYTltbHJMSXNVZGpTNzZoWVNpTHNCOU9nY2FzZmpfOVVZdVdiTGpZcUZCTlVJOUdtVm96cDdKNEdwOElXQTE5VmFVdU94dEk2dNIBfkFVX3lxTE5PTHlocUc0Z2R2a3VkZDVac2c2RFNJaTBwYllNbktkdnpuSVlJTjRtS0JhY2xOcVpwbDZUUU94T291cERTb1MwTmFrbzRNOVBJWmtGX3F4dFNHZmhhdDREczNZSVBtVnh2NmhaNlZGcXpYZGo3WXkwZG5qSnlnZw",
-          "author": null,
-          "description": "Nvidia's next Linux driver to be… just as open  The Register",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ueWNZYTZzOWdnMmJrNGM5NDRjTko2NVNkcVROS19GUk4wLTl2cmVBYTltbHJMSXNVZGpTNzZoWVNpTHNCOU9nY2FzZmpfOVVZdVdiTGpZcUZCTlVJOUdtVm96cDdKNEdwOElXQTE5VmFVdU94dEk2dNIBfkFVX3lxTE5PTHlocUc0Z2R2a3VkZDVac2c2RFNJaTBwYllNbktkdnpuSVlJTjRtS0JhY2xOcVpwbDZUUU94T291cERTb1MwTmFrbzRNOVBJWmtGX3F4dFNHZmhhdDREczNZSVBtVnh2NmhaNlZGcXpYZGo3WXkwZG5qSnlnZw?oc=5",
-          "publishedOn": "2024-07-18T14:55:00.000Z",
-          "wordCount": 9016,
-          "title": "Nvidia's next Linux driver to be… just as open - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzE4L252aWRpYV9kcml2ZXJzX3JlbWFpbl9hc19mb3NzL9IBSWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNy8xOC9udmlkaWFfZHJpdmVyc19yZW1haW5fYXNfZm9zcy8",
-          "author": null,
-          "description": "Nvidia's next Linux driver to be… just as open  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzA3LzE4L252aWRpYV9kcml2ZXJzX3JlbWFpbl9hc19mb3NzL9IBSWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wNy8xOC9udmlkaWFfZHJpdmVyc19yZW1haW5fYXNfZm9zcy8?oc=5",
-          "publishedOn": "2024-07-18T14:55:00.000Z",
-          "wordCount": 8959,
-          "title": "Nvidia's next Linux driver to be… just as open - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vdmlkZW9jYXJkei5jb20vbmV3ei9hbWQtcmRuYTQtZXhwZXJpbWVudGFsLWxpbnV4LWdwdS1kcml2ZXItc3VwcG9ydC1pcy1ub3ctZW5hYmxlZC1ieS1kZWZhdWx00gEA",
-          "author": null,
-          "description": "AMD RDNA4 experimental Linux GPU driver support is now enabled by default  VideoCardz.com",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdmlkZW9jYXJkei5jb20vbmV3ei9hbWQtcmRuYTQtZXhwZXJpbWVudGFsLWxpbnV4LWdwdS1kcml2ZXItc3VwcG9ydC1pcy1ub3ctZW5hYmxlZC1ieS1kZWZhdWx00gEA?oc=5",
-          "publishedOn": "2024-07-18T13:59:00.000Z",
-          "wordCount": 8959,
-          "title": "AMD RDNA4 experimental Linux GPU driver support is now enabled by default - VideoCardz.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10044,21 +9854,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.",
-          "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
-          "publishedOn": "2024-07-19T13:00:00.000Z",
-          "wordCount": 5397,
-          "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg"
         }
       ]
     },
@@ -10646,26 +10441,6 @@
           "wordCount": 810,
           "title": "How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721399825429/16053552-662a-4ff4-88ce-d3999cb3589d.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
-          "author": "Rahul Gupta",
-          "description": "If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
-          "publishedOn": "2024-07-18T21:17:44.000Z",
-          "wordCount": 2268,
-          "title": "Learn JavaScript Reactivity: How to Build Signals from Scratch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Frame-1--1-.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
-          "author": "Timothy Olanrewaju",
-          "description": "Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents",
-          "link": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
-          "publishedOn": "2024-07-18T14:42:16.000Z",
-          "wordCount": 2098,
-          "title": "How to Use React Router to Build Single Page Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"
         }
       ]
     }
