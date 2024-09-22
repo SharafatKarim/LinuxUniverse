@@ -18,6 +18,46 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192599",
+          "author": "Web Webster",
+          "description": "This article identifies the finest free and open source graphical web browsers that have a small footprint.\nThe post 10 Best Free and Open Source Lightweight Graphical Web Browsers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/10-best-free-and-open-source-lightweight-graphical-web-browsers/",
+          "publishedOn": "2024-09-21T18:00:24.000Z",
+          "wordCount": 9025,
+          "title": "10 Best Free and Open Source Lightweight Graphical Web Browsers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192590",
+          "author": "Web Webster",
+          "description": "Dive into Linux memory management, explore the differences between cache and buffer, and discover how to clear them for optimal system performance.\nThe post How to Clear Buffer and Cache Memory in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-clear-buffer-and-cache-memory-in-linux/",
+          "publishedOn": "2024-09-21T13:00:33.000Z",
+          "wordCount": 9030,
+          "title": "How to Clear Buffer and Cache Memory in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192693",
+          "author": "Web Webster",
+          "description": "A package manager is a tool that monitors the software installed on your computer, facilitating the installation of new applications, upgrading existing software to more recent versions, or removing previously installed programs. As the name indicates, a package manager manages packages, which are groups of files packaged together for installation and removal as a single […]\nThe post Debian Package Manager: Everything You Need to Know appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/debian-package-manager-everything-you-need-to-know/",
+          "publishedOn": "2024-09-21T02:20:10.000Z",
+          "wordCount": 9073,
+          "title": "Debian Package Manager: Everything You Need to Know",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192589",
+          "author": "Web Webster",
+          "description": "Discover a step-by-step guide to learn how to install the NPX package manager and use it in different scenarios with practical examples.\nThe post How to Install and Use NPX on Ubuntu (Ultimate Guide) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-and-use-npx-on-ubuntu-ultimate-guide-2/",
+          "publishedOn": "2024-09-21T01:00:06.000Z",
+          "wordCount": 9033,
+          "title": "How to Install and Use NPX on Ubuntu (Ultimate Guide)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=192559",
           "author": "Web Webster",
           "description": "Managing a server is certainly not an easy job, especially for beginners. If you are busy managing various technical matters manually, then cron jobs are an excellent solution. Cron jobs are a feature in Linux OS that can help you automate the tasks on a server easily. In this article, we invite you to learn […]\nThe post Crond: Daemon to Execute Scheduled Commands appeared first on Linux Today.",
@@ -1296,106 +1336,6 @@
           "wordCount": 9032,
           "title": "Display Memory Statistics With Free command on Linux",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191799",
-          "author": "Web Webster",
-          "description": "Learn how to install Google Chrome on various Linux distributions with this step-by-step tutorial, making the transition seamless and hassle-free.\nThe post How to Install, Update, and Remove Google Chrome on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/it-management/how-to-install-update-and-remove-google-chrome-on-linux/",
-          "publishedOn": "2024-08-23T02:00:12.000Z",
-          "wordCount": 9042,
-          "title": "How to Install, Update, and Remove Google Chrome on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191802",
-          "author": "Web Webster",
-          "description": "PHP is the most popular scripting language used to create dynamic websites, as it offers a range of new features and improvements that enhance performance and provide additional functionality. If you want to use PHP 8 with Apache or Nginx on Ubuntu 24.04, follow this guide, which will help you install PHP 8 and configure […]\nThe post How to Install PHP 8.3 on Ubuntu 24.04 with Apache or Nginx appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-php-8-3-on-ubuntu-24-04-with-apache-or-nginx/",
-          "publishedOn": "2024-08-23T00:00:09.000Z",
-          "wordCount": 9104,
-          "title": "How to Install PHP 8.3 on Ubuntu 24.04 with Apache or Nginx",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191801",
-          "author": "Web Webster",
-          "description": "In security circles, Common Vulnerabilities and Exposures security bulletins can be downright scary. In Linux, however, it’s just business as usual.\nThe post Don’t Panic! It’s Only 60 Linux CVE Security Bulletins a Week appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/dont-panic-its-only-60-linux-cve-security-bulletins-a-week/",
-          "publishedOn": "2024-08-22T22:00:08.000Z",
-          "wordCount": 9050,
-          "title": "Don’t Panic! It’s Only 60 Linux CVE Security Bulletins a Week",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191796",
-          "author": "Web Webster",
-          "description": "The latest fwupd 1.9.24 firmware update daemon rolls out enhanced Dell support, Redfish BMC fixes, and better ESP management.\nThe post Fwupd 1.9.24 Enhanced Support for Dell Devices appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fwupd-1-9-24-enhanced-support-for-dell-devices/",
-          "publishedOn": "2024-08-22T20:00:02.000Z",
-          "wordCount": 9024,
-          "title": "Fwupd 1.9.24 Enhanced Support for Dell Devices",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191797",
-          "author": "Web Webster",
-          "description": "GStreamer 1.24.7 multimedia framework rolls out with multiple bug fixes. Enhancements in qt6, rtspsrc, and more.\nThe post GStreamer 1.24.7 Released With Audio and Visual Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gstreamer-1-24-7-released-with-audio-and-visual-bug-fixes/",
-          "publishedOn": "2024-08-22T18:00:00.000Z",
-          "wordCount": 9026,
-          "title": "GStreamer 1.24.7 Released With Audio and Visual Bug Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191804",
-          "author": "Web Webster",
-          "description": "There’s been a lot of changes added since the alpha version of the GNOME 47 desktop series, and the beta release is packed with lots of goodies, including support for hardware encoding for screen recordings, support for tablet tool keybindings and actions, support for tablet tool pressure ranges, and implementation of placement and focus logic […]\nThe post GNOME 47 Beta Desktop Released With Many Changes, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gnome-47-beta-desktop-released-with-many-changes-heres-whats-new/",
-          "publishedOn": "2024-08-22T17:00:31.000Z",
-          "wordCount": 9080,
-          "title": "GNOME 47 Beta Desktop Released With Many Changes, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191808",
-          "author": "Web Webster",
-          "description": "LibreOffice 24.8 is out, featuring advanced privacy settings, a wealth of new features across all apps, and broad OS compatibility. Learn more!\nThe post LibreOffice 24.8 Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/libreoffice-24-8-released-heres-whats-new/",
-          "publishedOn": "2024-08-22T16:00:30.000Z",
-          "wordCount": 9024,
-          "title": "LibreOffice 24.8 Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191810",
-          "author": "Web Webster",
-          "description": "PipeWire 1.2.3 multimedia framework update is out now with an improved FFADO driver, fixes memory leaks, and enhances MIDI.\nThe post PipeWire 1.2.3 Rolls Out With Enhanced Audio Driver Capabilities appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/pipewire-1-2-3-rolls-out-with-enhanced-audio-driver-capabilities/",
-          "publishedOn": "2024-08-22T15:00:48.000Z",
-          "wordCount": 9035,
-          "title": "PipeWire 1.2.3 Rolls Out With Enhanced Audio Driver Capabilities",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191837",
-          "author": "Angelica Merillo",
-          "description": "Firejail allows you to easily sandbox Linux applications. Find out how to add this extra layer of security.\nThe post How to Install and Use Firejail on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-and-use-firejail-on-linux/",
-          "publishedOn": "2024-08-22T15:00:25.000Z",
-          "wordCount": 9027,
-          "title": "How to Install and Use Firejail on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191812",
-          "author": "Web Webster",
-          "description": "Highlights of KDE Gear 24.08 include new features in the Dolphin file manager to make it easier to access and manage files and folders that require administrative privileges, wizards to help install needed software, menu options to elevate your privileges, and a new “Move to New Folder…” option to create a folder and copy the […]\nThe post KDE Gear 24.08 Open-Source Software Suite Released With Many Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-gear-24-08-open-source-software-suite-released-with-many-improvements/",
-          "publishedOn": "2024-08-22T14:00:51.000Z",
-          "wordCount": 9075,
-          "title": "KDE Gear 24.08 Open-Source Software Suite Released With Many Improvements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1404,6 +1344,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiaEFVX3lxTE05VHhWd3NwSVBvX2ZTdlpkVGNRb2NYVmMzWkY0NzlZTW45Z1ZXZm16M2gycWdVLTdIanpJN0VpX0ozNW9PX240ZmNJZzVPR2s5aDF3dGl1T1A1VWQ1RmN2blVneHdfOGFB",
+          "author": null,
+          "description": "Updated XZ Code Lands In Linux 6.12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VHhWd3NwSVBvX2ZTdlpkVGNRb2NYVmMzWkY0NzlZTW45Z1ZXZm16M2gycWdVLTdIanpJN0VpX0ozNW9PX240ZmNJZzVPR2s5aDF3dGl1T1A1VWQ1RmN2blVneHdfOGFB?oc=5",
+          "publishedOn": "2024-09-21T23:53:45.000Z",
+          "wordCount": 12503,
+          "title": "Updated XZ Code Lands In Linux 6.12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxOaWRfeXBwNGdYa1N6bHdSdHVHUjVLc1h1M3kzVGh0ZWtveDBWTXBkVEZNcC1rM25ZcEZaa1hkV2U3T0RSQ2ViWW5KT0lQb3ltWEdKN2JORWhYUWV6czAtTTdFd0dxMk40TVNNbnp6SHZMaUY2Z2ZzeHJ2bmxFZ2VGbTN6anVHWi10YmJNZFc0Z2ppRnVGeEowQlRRSlpLWjA",
+          "author": null,
+          "description": "When Raw Network Sockets Aren’t Raw: Raw Sockets In MacOS And Linux  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWRfeXBwNGdYa1N6bHdSdHVHUjVLc1h1M3kzVGh0ZWtveDBWTXBkVEZNcC1rM25ZcEZaa1hkV2U3T0RSQ2ViWW5KT0lQb3ltWEdKN2JORWhYUWV6czAtTTdFd0dxMk40TVNNbnp6SHZMaUY2Z2ZzeHJ2bmxFZ2VGbTN6anVHWi10YmJNZFc0Z2ppRnVGeEowQlRRSlpLWjA?oc=5",
+          "publishedOn": "2024-09-21T23:00:00.000Z",
+          "wordCount": 12503,
+          "title": "When Raw Network Sockets Aren’t Raw: Raw Sockets In MacOS And Linux - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE50ZXU0M0FhN19kQ3UxZF9ZSTVRMXdKVnRNSEl5alBoUUt1RDFJZlJZY195NUVqTkxmVERSNHpnRTFMQ2tHaGtzVXZWbWlJaXhEZWpna1ZuMkRCV2V1emRyZlBmYzZSZw",
+          "author": null,
+          "description": "Linux, Now In Real Time  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50ZXU0M0FhN19kQ3UxZF9ZSTVRMXdKVnRNSEl5alBoUUt1RDFJZlJZY195NUVqTkxmVERSNHpnRTFMQ2tHaGtzVXZWbWlJaXhEZWpna1ZuMkRCV2V1emRyZlBmYzZSZw?oc=5",
+          "publishedOn": "2024-09-21T20:00:00.000Z",
+          "wordCount": 12503,
+          "title": "Linux, Now In Real Time - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTFBVcFhscWZCRHNFblFyQmMxQnNIQ2c0Yi1XbEpvQ1BrYmtrQ203QkR4ZTdkVzZuMmRaTzhrNl95MlYwNnc5b2loSElMQ0ZXeURRejRKVS1yZVJCX0pvSUFvR2tWbEFHdGs",
+          "author": null,
+          "description": "Sched_ext Merged For Linux 6.12 - Scheduling Policies As BPF Programs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcFhscWZCRHNFblFyQmMxQnNIQ2c0Yi1XbEpvQ1BrYmtrQ203QkR4ZTdkVzZuMmRaTzhrNl95MlYwNnc5b2loSElMQ0ZXeURRejRKVS1yZVJCX0pvSUFvR2tWbEFHdGs?oc=5",
+          "publishedOn": "2024-09-21T17:48:00.000Z",
+          "wordCount": 12503,
+          "title": "Sched_ext Merged For Linux 6.12 - Scheduling Policies As BPF Programs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE1vSURMd3JXdlg3X2VEYU5yVkR3SWFvdjM4ZFVrdWY5V2hrNnVHNGFrZzM0aHZQOUpXZk1FNzhuRjlHWHJsd08zZVZISUVHakQzWm9tT2J2ZElOY2c1NW1qc3REejlKOWJCaVM0OE4zVDNGVklHOWZWaWV2c2g",
+          "author": null,
+          "description": "Linux for kids: teaching the next generation  CyberNews.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vSURMd3JXdlg3X2VEYU5yVkR3SWFvdjM4ZFVrdWY5V2hrNnVHNGFrZzM0aHZQOUpXZk1FNzhuRjlHWHJsd08zZVZISUVHakQzWm9tT2J2ZElOY2c1NW1qc3REejlKOWJCaVM0OE4zVDNGVklHOWZWaWV2c2g?oc=5",
+          "publishedOn": "2024-09-21T16:00:34.000Z",
+          "wordCount": 12503,
+          "title": "Linux for kids: teaching the next generation - CyberNews.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXkFVX3lxTE91bmZuQlZmN2w3QnN4MEdCalJmamFfQzN6X3M4NVVINmM3SEw4NnNnVWYtM3ZzUGRYVmZWLVNtbG0xTHMwZWxLX0hYS3VGSFJ4LWpfMjRIS1JsMm9Qd3c",
+          "author": null,
+          "description": "Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bmZuQlZmN2w3QnN4MEdCalJmamFfQzN6X3M4NVVINmM3SEw4NnNnVWYtM3ZzUGRYVmZWLVNtbG0xTHMwZWxLX0hYS3VGSFJ4LWpfMjRIS1JsMm9Qd3c?oc=5",
+          "publishedOn": "2024-09-21T13:17:00.000Z",
+          "wordCount": 12503,
+          "title": "Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE53NXFJTF9xQ2FDbUhGS0o3TnRZNGh4WE9GU2NBUzQ5Yjhnem01TFVJNjVHWUpYRnFGdTE5a1E0X3d3enpXajhiWFJXdTh1Nk1HMDdTdzB5RnplODFSRV9raUlCMUNIUQ",
+          "author": null,
+          "description": "VFS+XFS Changes Land In Linux 6.12 To Support Block Sizes Larger Than Page Size  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53NXFJTF9xQ2FDbUhGS0o3TnRZNGh4WE9GU2NBUzQ5Yjhnem01TFVJNjVHWUpYRnFGdTE5a1E0X3d3enpXajhiWFJXdTh1Nk1HMDdTdzB5RnplODFSRV9raUlCMUNIUQ?oc=5",
+          "publishedOn": "2024-09-21T10:42:00.000Z",
+          "wordCount": 12503,
+          "title": "VFS+XFS Changes Land In Linux 6.12 To Support Block Sizes Larger Than Page Size - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiAFBVV95cUxPUzB2SGdpZWwwNzNldU85bVQ2aEtPbTFwelZnN0FfT3Z5ZjhiZmNfbHFhZHViQjBhMjZzeDM1aDRBdHhWUXdkSC1RT0RCcWZVSXE1Q3FsNV9jdkNyQlZQRUM2NFViMElBOTl2dlRpUUY2MjU4VUZsSXFlNTJhODJTTGNSU2pocV9q",
+          "author": null,
+          "description": "There’s No Lower Spec Linux Machine Than This One  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzB2SGdpZWwwNzNldU85bVQ2aEtPbTFwelZnN0FfT3Z5ZjhiZmNfbHFhZHViQjBhMjZzeDM1aDRBdHhWUXdkSC1RT0RCcWZVSXE1Q3FsNV9jdkNyQlZQRUM2NFViMElBOTl2dlRpUUY2MjU4VUZsSXFlNTJhODJTTGNSU2pocV9q?oc=5",
+          "publishedOn": "2024-09-21T08:00:00.000Z",
+          "wordCount": 12503,
+          "title": "There’s No Lower Spec Linux Machine Than This One - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMipAFBVV95cUxQT3lfSlZBXzRoTGFTWnBOdVhrTngzemstdnBGTW5xWnZPQjJOV2loRlVRd0FlbjFvUllKTDdlY0hFRnZETTdLdi12bkViREgtem9ZTFpsTmxlUkxtaldZaEZBb3ZGWjkxZnRqUjB4ejc5TmREZFhLMGJ0U2hIaUUzbmp4T0QzdjBjMjFEY2hPcWhaWFB0QU00dkFEYmxfMXhQWmF0T9IBqgFBVV95cUxPeVJhb3lrU3NvS0ZYcXZtWUk1RlVNejBNZ1pjT2ctQVZYUmRBMTBGdWNadHNWa0hqT3dDYjA0SUdaOENoQzlKN0pXQ3Y2aFRnbnVnN0xqdXNMOS1Zc0JBY0dvdUl2aWpZcFRHa3JvVUhyemFfZ3BqZXBnVnViMzZZQmZGVllDTy1kWGw3SU5FendqWU56ZnBNb183dkhlNjNiTmNFZFpYejZOQQ",
           "author": null,
@@ -6413,186 +6433,6 @@
           "wordCount": 12426,
           "title": "Bochs DRM Linux Driver Being Modernized - Better Performance For QEMU Display - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxPNExwYXFETm8tZjhjeDVNaF8yQzZkUnoxdk5UNkFHZGdYNmZDeEgyUF9OOEFvRndXb1hMaGtJczFUOEtsNjJhMGg0UVZVSUdyWkhyRmlJTzIzUXJxOGRDa2xkZEktbmI1X1kwbWJweVVHYktINndmQlNzWkdiYThCUGk1c1Z3ZDNVSkVFU3Fla2dCeURLd0k1cTNoaEJ3aEd1MU81SHFSWEtxTXpuZldVVzNaa0h1YW5odlBIZy03d0htdw",
-          "author": null,
-          "description": "Linus Torvalds talks AI, Rust adoption, and why the Linux kernel is 'the only thing that matters'  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNExwYXFETm8tZjhjeDVNaF8yQzZkUnoxdk5UNkFHZGdYNmZDeEgyUF9OOEFvRndXb1hMaGtJczFUOEtsNjJhMGg0UVZVSUdyWkhyRmlJTzIzUXJxOGRDa2xkZEktbmI1X1kwbWJweVVHYktINndmQlNzWkdiYThCUGk1c1Z3ZDNVSkVFU3Fla2dCeURLd0k1cTNoaEJ3aEd1MU81SHFSWEtxTXpuZldVVzNaa0h1YW5odlBIZy03d0htdw?oc=5",
-          "publishedOn": "2024-08-23T13:03:00.000Z",
-          "wordCount": 12426,
-          "title": "Linus Torvalds talks AI, Rust adoption, and why the Linux kernel is 'the only thing that matters' - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxPY2FpSzY3aTJQd3JDMGFpbHo2TEg1OFROUm9JcHJkZktVck1kUVhrZEJ6UkJzMkpSVzlDY2t2bzZIUllLWld1ZXlfN3JpVVdDVzVRV3FIVlFyU1lkQ1Z1UlZEYlBtY1lfY1QwZlNzalZpeDk5THhScC11Q1l6T1RWakNPQ1VtclNrNnBERzlHQ2I",
-          "author": null,
-          "description": "5 lightweight operating systems I run on my old laptops  Pocket-lint",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2FpSzY3aTJQd3JDMGFpbHo2TEg1OFROUm9JcHJkZktVck1kUVhrZEJ6UkJzMkpSVzlDY2t2bzZIUllLWld1ZXlfN3JpVVdDVzVRV3FIVlFyU1lkQ1Z1UlZEYlBtY1lfY1QwZlNzalZpeDk5THhScC11Q1l6T1RWakNPQ1VtclNrNnBERzlHQ2I?oc=5",
-          "publishedOn": "2024-08-23T13:00:00.000Z",
-          "wordCount": 12426,
-          "title": "5 lightweight operating systems I run on my old laptops - Pocket-lint",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTE41UWY1RXhENDVIalQzWnB0MVpBcjAzb0gtUmFHYlJ4X3dRcDhvYjZhM2NmMktJUFpHX0ZSRk5ScHF6R05HWGtOV3dVUkZraHJJZzc1R3pwUE5OWDc4eUh4VQ",
-          "author": null,
-          "description": "Proton VPN Finally Adds WireGuard Support for Linux Users  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41UWY1RXhENDVIalQzWnB0MVpBcjAzb0gtUmFHYlJ4X3dRcDhvYjZhM2NmMktJUFpHX0ZSRk5ScHF6R05HWGtOV3dVUkZraHJJZzc1R3pwUE5OWDc4eUh4VQ?oc=5",
-          "publishedOn": "2024-08-23T11:10:56.000Z",
-          "wordCount": 12426,
-          "title": "Proton VPN Finally Adds WireGuard Support for Linux Users - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE1jUlJMLXFQcGtjTGZvSmVGRHF4NGFSZ3ZiNlJKTjE3anc2d2F0SkNaTG54SXVIMEtsVTJEekdUYWlORmJIWWdpcjc3cDE2dnZrdldIRjFQcmdNTGVoWXJUTXQteml5bzhYQXhTS0t3",
-          "author": null,
-          "description": "Intel Preps More Xe2 Lunar Lake & Battlemage Driver Code For Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jUlJMLXFQcGtjTGZvSmVGRHF4NGFSZ3ZiNlJKTjE3anc2d2F0SkNaTG54SXVIMEtsVTJEekdUYWlORmJIWWdpcjc3cDE2dnZrdldIRjFQcmdNTGVoWXJUTXQteml5bzhYQXhTS0t3?oc=5",
-          "publishedOn": "2024-08-23T10:47:00.000Z",
-          "wordCount": 12426,
-          "title": "Intel Preps More Xe2 Lunar Lake & Battlemage Driver Code For Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipAFBVV95cUxNTndOMEtwRnE5SG9fX1hsU2NkXzhxcnVxb3pJbmNuaWdzOFdzRjZBYkdWeFdJeGlSX0tvMmxLVUhFajFvbHJsTlpONWc4bXpoUWlVRXhUSEQ2SXI2cW8ydGtNeE14TDgweWcwWkVsanNQb1R0Y3R1VDg1TFQtTmVvQmpMRWFWekxhc2psaDducXFSbGhJNXRqcDJybzV1TmphQ0U2VNIBqgFBVV95cUxPVjZBTVRqT2ZoLWlfRWwtZDZ0X3U3b3VyS0F4UzNsX2RZZDQ4Um81MnZjOU50VWhmWTZEZFF3UlVndUUyWExxVXA3d0IzSTI4MnpfMVVZSE41RVozT0tveUpZSnJfbkZ5YUF1Ukx2aXNaakRQSUh0RkpIalhpRFR1SjRfM2s4eXNYbUZENEpSU1FTSDNBazZJWXU5M19QZXowcWI1VGF6dVhTZw",
-          "author": null,
-          "description": "KubeCon China - at 33-and-a-third, Linux is a long player. So, why does Linus Torvalds hate AI?  diginomica",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndOMEtwRnE5SG9fX1hsU2NkXzhxcnVxb3pJbmNuaWdzOFdzRjZBYkdWeFdJeGlSX0tvMmxLVUhFajFvbHJsTlpONWc4bXpoUWlVRXhUSEQ2SXI2cW8ydGtNeE14TDgweWcwWkVsanNQb1R0Y3R1VDg1TFQtTmVvQmpMRWFWekxhc2psaDducXFSbGhJNXRqcDJybzV1TmphQ0U2VNIBqgFBVV95cUxPVjZBTVRqT2ZoLWlfRWwtZDZ0X3U3b3VyS0F4UzNsX2RZZDQ4Um81MnZjOU50VWhmWTZEZFF3UlVndUUyWExxVXA3d0IzSTI4MnpfMVVZSE41RVozT0tveUpZSnJfbkZ5YUF1Ukx2aXNaakRQSUh0RkpIalhpRFR1SjRfM2s4eXNYbUZENEpSU1FTSDNBazZJWXU5M19QZXowcWI1VGF6dVhTZw?oc=5",
-          "publishedOn": "2024-08-23T09:52:09.000Z",
-          "wordCount": 12426,
-          "title": "KubeCon China - at 33-and-a-third, Linux is a long player. So, why does Linus Torvalds hate AI? - diginomica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxQRENmb3pEZmdqLWh6OTdDeHRvVjJNU1htNERZN0YwUFRnajlxM2dTZDFic0dnYklpZGFrUk01WnVIb1VnWjM0WHJpYmtsajh2SW9oQ0lTZU9hLVJUTjVoOC1SYlV3WHp5Z0pDMXVmUjIweVFETUtJRmR5c3NiSVg0UjVtOXV6NnB4SXJIWHpLY2M",
-          "author": null,
-          "description": "Linux hits new heights as desktop market share climbs  Computing",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRENmb3pEZmdqLWh6OTdDeHRvVjJNU1htNERZN0YwUFRnajlxM2dTZDFic0dnYklpZGFrUk01WnVIb1VnWjM0WHJpYmtsajh2SW9oQ0lTZU9hLVJUTjVoOC1SYlV3WHp5Z0pDMXVmUjIweVFETUtJRmR5c3NiSVg0UjVtOXV6NnB4SXJIWHpLY2M?oc=5",
-          "publishedOn": "2024-08-23T09:11:51.000Z",
-          "wordCount": 12426,
-          "title": "Linux hits new heights as desktop market share climbs - Computing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTE5WQmJXVmY1d256Y1g1QnItNlBFNHlWbi1laGhUWWwzd09mN3ZSTGZ2anRwWXlEem1qS09RMi02NldQU01KVVgxNm9FMF95ZjVHcDJneXF3NTNfNWtQNUZpd2NDM2Z1UkllMHZuZm5ZczNldVhQckVuc0NyTENxUdIBgwFBVV95cUxQRWNmOEllWklIaVUtaXFyYzBDczYtZXhyR0dJR2dVYkExR1BfVTR4R1pqSzYtQUg0UkI2YnZvTEVhZ0xMX0E3YUw1bzF3UXd1ajdWbEhPZ2ZTaDUtUnZnbDZDZmJwcjRSaGFGVy1USE5GVEc1YTNzQ0kzU1NzaHRYQ3Q4RQ",
-          "author": null,
-          "description": "Chrome dumped support for Ubuntu 18.04 – but it'll be back  The Register",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WQmJXVmY1d256Y1g1QnItNlBFNHlWbi1laGhUWWwzd09mN3ZSTGZ2anRwWXlEem1qS09RMi02NldQU01KVVgxNm9FMF95ZjVHcDJneXF3NTNfNWtQNUZpd2NDM2Z1UkllMHZuZm5ZczNldVhQckVuc0NyTENxUdIBgwFBVV95cUxQRWNmOEllWklIaVUtaXFyYzBDczYtZXhyR0dJR2dVYkExR1BfVTR4R1pqSzYtQUg0UkI2YnZvTEVhZ0xMX0E3YUw1bzF3UXd1ajdWbEhPZ2ZTaDUtUnZnbDZDZmJwcjRSaGFGVy1USE5GVEc1YTNzQ0kzU1NzaHRYQ3Q4RQ?oc=5",
-          "publishedOn": "2024-08-22T21:20:00.000Z",
-          "wordCount": 12426,
-          "title": "Chrome dumped support for Ubuntu 18.04 – but it'll be back - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE9oWi1WUGlkU3hDTkVtaVNkM2ZjWE1abC1SclR5NndhTzVoTlAySFptV1BKOTBhdS03dkgtR1VHd2ZMQ0RyZVFIVlpQSEM3dEVFMFhMVmllOGJCVkJsUnRxMGZmWHFjSmM",
-          "author": null,
-          "description": "NILFS2 File-System Seeing More Fixes, Additional Ioctls Wired Up Ahead Of Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWi1WUGlkU3hDTkVtaVNkM2ZjWE1abC1SclR5NndhTzVoTlAySFptV1BKOTBhdS03dkgtR1VHd2ZMQ0RyZVFIVlpQSEM3dEVFMFhMVmllOGJCVkJsUnRxMGZmWHFjSmM?oc=5",
-          "publishedOn": "2024-08-22T21:01:00.000Z",
-          "wordCount": 12426,
-          "title": "NILFS2 File-System Seeing More Fixes, Additional Ioctls Wired Up Ahead Of Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTFBaOXdkdnBsYW9TMTlvZGFHTVotLXVaeEpIRHk0VFZDcE9MMmU1N3FyTUhRSUtPMnBORjZsUnRLSVRtVmx0dTN3ZzVja2E2LTBUdzBKNXEwSUZCR1oyOXQzNktDMGtHQQ",
-          "author": null,
-          "description": "Several Newer Gaming Handheld Devices To See Linux Sensor Monitoring Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaOXdkdnBsYW9TMTlvZGFHTVotLXVaeEpIRHk0VFZDcE9MMmU1N3FyTUhRSUtPMnBORjZsUnRLSVRtVmx0dTN3ZzVja2E2LTBUdzBKNXEwSUZCR1oyOXQzNktDMGtHQQ?oc=5",
-          "publishedOn": "2024-08-22T20:03:00.000Z",
-          "wordCount": 12426,
-          "title": "Several Newer Gaming Handheld Devices To See Linux Sensor Monitoring Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizAFBVV95cUxPaEp3d1diN0lLc05acVNWdDQ5cmdxR2lONUdhejZhLUd5QXdoMV94REtiMGRJV0hqYW9UR2JCanBUWC1sWktoZlA1ZnoyRE5aMUxHZGlvQ3o2czZSbF9LdXgtT1JCS0VIajM3amtob3RQOWpsbm1pQnBTOXFTclZ2ZER2N0lUaE5KZnkwalJBcFhDS0ZDZjNDS21LS045VmZ6R0l1NTZkNG45SDVTOHFwdy0tbUpzSG1Edkx6aC03ODI3OG05aldicnNjemU",
-          "author": null,
-          "description": "“Something has gone seriously wrong” — Dual-boot Windows and Linux systems get worrying warning following Microsoft update  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaEp3d1diN0lLc05acVNWdDQ5cmdxR2lONUdhejZhLUd5QXdoMV94REtiMGRJV0hqYW9UR2JCanBUWC1sWktoZlA1ZnoyRE5aMUxHZGlvQ3o2czZSbF9LdXgtT1JCS0VIajM3amtob3RQOWpsbm1pQnBTOXFTclZ2ZER2N0lUaE5KZnkwalJBcFhDS0ZDZjNDS21LS045VmZ6R0l1NTZkNG45SDVTOHFwdy0tbUpzSG1Edkx6aC03ODI3OG05aldicnNjemU?oc=5",
-          "publishedOn": "2024-08-22T17:38:24.000Z",
-          "wordCount": 12426,
-          "title": "“Something has gone seriously wrong” — Dual-boot Windows and Linux systems get worrying warning following Microsoft update - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTE1fUWItcHc2NUk3a1RET21EWlkxOXF6YVhqV3UwYmNGUXhNMVM1UHc3R3otMlQ1VUtNcWNxQXMzN3dCZEV1NEJWNXo4S2luNmh3QTRsYkU5eF9TcXVITGZEMndRcU5vR3VxZzR5MEtWWTBTODE5WTg0Mg",
-          "author": null,
-          "description": "4 Ways I Increase Privacy on My Linux Laptop  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fUWItcHc2NUk3a1RET21EWlkxOXF6YVhqV3UwYmNGUXhNMVM1UHc3R3otMlQ1VUtNcWNxQXMzN3dCZEV1NEJWNXo4S2luNmh3QTRsYkU5eF9TcXVITGZEMndRcU5vR3VxZzR5MEtWWTBTODE5WTg0Mg?oc=5",
-          "publishedOn": "2024-08-22T17:00:00.000Z",
-          "wordCount": 12426,
-          "title": "4 Ways I Increase Privacy on My Linux Laptop - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivAFBVV95cUxPMTBNeGhEZndTbHlHOUVHbHNidU1nNFR2UV9TV3RPTG5IZEp3ci1kSU5QVHRZOC1kT0NXbTNWVzRqemQ0TkVvekJURjN4emNqaTgyNVBGNkRpZG8yMzluR0FUS2FGbWRVQUx3aDNzUUVWY1FJVWZlZ2piZEU5RnZHREFVWEE3bTVQYm96S3VOdVdCSG1JaUhmdEtPMFY5cC02WlFQSE9icVJhSWRXT1ZrSVV3TjBvMmZETElFONIBwgFBVV95cUxPLTU5cWFDVzh0azdwcHdMTnM4VloxNF9YS2NsU3E2c2lwN21YMkU1cEc0M0RMMjRtMXBSTF96d0dNU3pUbGRoS0dPQkFGbXZWdnF4dlhfUFNzU2RidEZUbmNXbUlYN1JxLUg2MVMxcG9CX2k4eTFvNGFhc29RejREM2RGaXdSTWNaNkU2Z2NudjBKS2MyaG9QRzh0a3R4UzV0V1hzaG9UZV95OWRmR1BIclZRaEFXMVNscTZFSVItNU9KZw",
-          "author": null,
-          "description": "Microsoft confirms August updates break Linux boot in dual-boot systems  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTBNeGhEZndTbHlHOUVHbHNidU1nNFR2UV9TV3RPTG5IZEp3ci1kSU5QVHRZOC1kT0NXbTNWVzRqemQ0TkVvekJURjN4emNqaTgyNVBGNkRpZG8yMzluR0FUS2FGbWRVQUx3aDNzUUVWY1FJVWZlZ2piZEU5RnZHREFVWEE3bTVQYm96S3VOdVdCSG1JaUhmdEtPMFY5cC02WlFQSE9icVJhSWRXT1ZrSVV3TjBvMmZETElFONIBwgFBVV95cUxPLTU5cWFDVzh0azdwcHdMTnM4VloxNF9YS2NsU3E2c2lwN21YMkU1cEc0M0RMMjRtMXBSTF96d0dNU3pUbGRoS0dPQkFGbXZWdnF4dlhfUFNzU2RidEZUbmNXbUlYN1JxLUg2MVMxcG9CX2k4eTFvNGFhc29RejREM2RGaXdSTWNaNkU2Z2NudjBKS2MyaG9QRzh0a3R4UzV0V1hzaG9UZV95OWRmR1BIclZRaEFXMVNscTZFSVItNU9KZw?oc=5",
-          "publishedOn": "2024-08-22T16:30:39.000Z",
-          "wordCount": 12426,
-          "title": "Microsoft confirms August updates break Linux boot in dual-boot systems - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE93YWJyNnhTckVCbnRtR1Bsa2pNRnA2dElaZkRrWnhSRlZsdEFvOUpTOVl1OWtaTS1Gc2Zxc0gzVDZXOXlZMUpRWmRGRnRobl9lajg4Rk50V25URm9mSVpjSUFNc2U5MWdBbTdiQw",
-          "author": null,
-          "description": "Microsoft's Latest Update Breaks Dual-Boot PCs  Petri.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93YWJyNnhTckVCbnRtR1Bsa2pNRnA2dElaZkRrWnhSRlZsdEFvOUpTOVl1OWtaTS1Gc2Zxc0gzVDZXOXlZMUpRWmRGRnRobl9lajg4Rk50V25URm9mSVpjSUFNc2U5MWdBbTdiQw?oc=5",
-          "publishedOn": "2024-08-22T15:29:56.000Z",
-          "wordCount": 12426,
-          "title": "Microsoft's Latest Update Breaks Dual-Boot PCs - Petri.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE1WOVEyV1hGaEhqUzI3MXIweUR1d2VPR01Tc1c4Z2d3S0dLNUlsc2JMa2JLUURkZzl1TzhwbWpJM1NqS0pwZTR4eEc1cHEzUlR6THZ6OTR0VlMzXzBzMkdHc091QTdpck11V3h2bTVQM1hyNE1jTnc",
-          "author": null,
-          "description": "A Windows Update is Breaking Dual-booting PCs  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WOVEyV1hGaEhqUzI3MXIweUR1d2VPR01Tc1c4Z2d3S0dLNUlsc2JMa2JLUURkZzl1TzhwbWpJM1NqS0pwZTR4eEc1cHEzUlR6THZ6OTR0VlMzXzBzMkdHc091QTdpck11V3h2bTVQM1hyNE1jTnc?oc=5",
-          "publishedOn": "2024-08-22T15:20:00.000Z",
-          "wordCount": 12426,
-          "title": "A Windows Update is Breaking Dual-booting PCs - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxPb3c2T3U5LWhfQlJhWXFqOXZ2MjhBN2cyRGVLM1hmN2U2aFkwb3k3WXFsZU1yZmtrbm94MmU3UG1mVlhXejUzRlRWd1gzcVBIZmJPUEN1bS1pb2I0SHJENk85b3Y2azBVVEVrQ2xwX0NleGphQzdieHZtUGxRSzYwMlhpdkpSWFFSXzVDTFg0OXhOb2l2YWVR",
-          "author": null,
-          "description": "Facepalm: Microsoft's August Security Update Breaks Dual Booting Windows And Linux PCs  Hot Hardware",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3c2T3U5LWhfQlJhWXFqOXZ2MjhBN2cyRGVLM1hmN2U2aFkwb3k3WXFsZU1yZmtrbm94MmU3UG1mVlhXejUzRlRWd1gzcVBIZmJPUEN1bS1pb2I0SHJENk85b3Y2azBVVEVrQ2xwX0NleGphQzdieHZtUGxRSzYwMlhpdkpSWFFSXzVDTFg0OXhOb2l2YWVR?oc=5",
-          "publishedOn": "2024-08-22T15:10:00.000Z",
-          "wordCount": 12426,
-          "title": "Facepalm: Microsoft's August Security Update Breaks Dual Booting Windows And Linux PCs - Hot Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMickFVX3lxTE5sUHVEZWlfSEg0cXdsNXkxck9NQzh1dWxXc0ZmMzVxMlZMeDVkMVM0UG5OaFFRVGhyMnpjRzRRQlQxeHJCZmRRMGl6LVFUSkozckoza0FRS2tFLTJZeDNmYTNiT3h6VGJUaFNFV3JJRzE4Zw",
-          "author": null,
-          "description": "Dual booters, beware: the latest Windows update can make a mess of your setup  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sUHVEZWlfSEg0cXdsNXkxck9NQzh1dWxXc0ZmMzVxMlZMeDVkMVM0UG5OaFFRVGhyMnpjRzRRQlQxeHJCZmRRMGl6LVFUSkozckoza0FRS2tFLTJZeDNmYTNiT3h6VGJUaFNFV3JJRzE4Zw?oc=5",
-          "publishedOn": "2024-08-22T14:58:00.000Z",
-          "wordCount": 12426,
-          "title": "Dual booters, beware: the latest Windows update can make a mess of your setup - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib0FVX3lxTE9lTmFHZ0xOVzkweU02VXpybkppMl9jaldaUmRvSmFYZVpIMXFFMXVIam5sbkFiNEkxcWpRRmJMRzhFSHlxaVRaWWZ0Zk5lMHZVcU9pVnhVbkZ0OU8zOE1BMEVfbUJWS21YSW5HS3JKSQ",
-          "author": null,
-          "description": "A Great Linux Feature Is Coming to ChromeOS Flex  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTmFHZ0xOVzkweU02VXpybkppMl9jaldaUmRvSmFYZVpIMXFFMXVIam5sbkFiNEkxcWpRRmJMRzhFSHlxaVRaWWZ0Zk5lMHZVcU9pVnhVbkZ0OU8zOE1BMEVfbUJWS21YSW5HS3JKSQ?oc=5",
-          "publishedOn": "2024-08-22T14:55:00.000Z",
-          "wordCount": 12426,
-          "title": "A Great Linux Feature Is Coming to ChromeOS Flex - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxOSjZTT3FRbUdTeHZOVTBlYVUxeF9obkZQeUgxeXJhdHlxWVg2dzVxQWg0d1k2dWxuVC1KQks1aEZNanBKSHNYRFRscFdteFJmOFZpZVc1aV8waVBqWTUzOVZucFpaWldLQllPWFFOcWNBMGdWREdQMEg5ZFhJenJCdnJLTndwZVdvVHh3RE1IYmZGbjdmMkdyRzVwT0RXXy1tbjd1by1nWlZtNWNR",
-          "author": null,
-          "description": "The Linux security team issues 60 CVEs a week, but don't stress. Do this instead  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjZTT3FRbUdTeHZOVTBlYVUxeF9obkZQeUgxeXJhdHlxWVg2dzVxQWg0d1k2dWxuVC1KQks1aEZNanBKSHNYRFRscFdteFJmOFZpZVc1aV8waVBqWTUzOVZucFpaWldLQllPWFFOcWNBMGdWREdQMEg5ZFhJenJCdnJLTndwZVdvVHh3RE1IYmZGbjdmMkdyRzVwT0RXXy1tbjd1by1nWlZtNWNR?oc=5",
-          "publishedOn": "2024-08-22T14:00:00.000Z",
-          "wordCount": 12426,
-          "title": "The Linux security team issues 60 CVEs a week, but don't stress. Do this instead - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9047,26 +8887,6 @@
           "wordCount": 1334,
           "title": "Quick Hit #12",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380064"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380042",
-          "author": "Geoff Graham",
-          "description": "Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.\nTurns out, there’s a lot!\nThat’s an understatement! This is an incredible amount of work, even …\nBasic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/",
-          "publishedOn": "2024-08-23T13:16:20.000Z",
-          "wordCount": 1672,
-          "title": "Basic keyboard shortcut support for focused links",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380042"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380029",
-          "author": "Geoff Graham",
-          "description": "A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.\nWith a typical JavaScript library, you pass \n…\nCallbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/callbacks-on-web-components/",
-          "publishedOn": "2024-08-22T14:01:35.000Z",
-          "wordCount": 1490,
-          "title": "Callbacks on Web Components?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380029"
         }
       ]
     },
@@ -9247,6 +9067,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
+          "author": "Spruce Emmanuel",
+          "description": "Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
+          "publishedOn": "2024-09-20T21:48:26.000Z",
+          "wordCount": 5183,
+          "title": "How To Create a Progressive Web App (PWA) Using Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b83-78b9-4cd7-9040-13ade8e515f7.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
           "author": "Quincy Larson",
@@ -9766,26 +9596,6 @@
           "wordCount": 854,
           "title": "From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724431182170/14a5b2d2-0e5e-4b27-b90d-b9907edc9221.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/",
-          "author": "Beau Carnes",
-          "description": "We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...",
-          "link": "https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/",
-          "publishedOn": "2024-08-22T19:30:39.000Z",
-          "wordCount": 1100,
-          "title": "Create a MacOS App with React Native",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724355029103/aba230f3-c814-43f5-afc0-4682355a1ddd.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/",
-          "author": "Beau Carnes",
-          "description": "Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/",
-          "publishedOn": "2024-08-22T19:23:26.000Z",
-          "wordCount": 1123,
-          "title": "Learn to Use the Gemini AI MultiModal Model",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724354591577/afcfa42a-2b11-4590-b6f1-06f7837aa7fc.png"
         }
       ]
     }
