@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192619",
+          "author": "Web Webster",
+          "description": "Don’t ever run these Linux commands if you want to preserve your system.\nThe post 5 Linux commands you should never run (and why) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/5-linux-commands-you-should-never-run-and-why/",
+          "publishedOn": "2024-09-22T17:56:47.000Z",
+          "wordCount": 9003,
+          "title": "5 Linux commands you should never run (and why)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192621",
+          "author": "Web Webster",
+          "description": "Learn how to use Direnv, an open-source shell extension for Linux and macOS, to manage isolated environment variables for better project organization and deployment.\nThe post Direnv: Manage Isolated Environment Variables for Specific Project in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/direnv-manage-isolated-environment-variables-for-specific-project-in-linux/",
+          "publishedOn": "2024-09-22T13:15:59.000Z",
+          "wordCount": 9026,
+          "title": "Direnv: Manage Isolated Environment Variables for Specific Project in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=192599",
           "author": "Web Webster",
           "description": "This article identifies the finest free and open source graphical web browsers that have a small footprint.\nThe post 10 Best Free and Open Source Lightweight Graphical Web Browsers appeared first on Linux Today.",
@@ -1286,56 +1306,6 @@
           "wordCount": 9035,
           "title": "8 Best Free and Open-Source Linux Student Information Systems",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190871",
-          "author": "Web Webster",
-          "description": "Git is one of a number of open-source revision control systems available for Linux. Git is frequently regarded by many developers as the finest version control tool available.\nThe post 29 Useful Free and Open-Source Git Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/29-useful-free-and-open-source-git-tools/",
-          "publishedOn": "2024-08-23T21:00:20.000Z",
-          "wordCount": 9045,
-          "title": "29 Useful Free and Open-Source Git Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189853",
-          "author": "Web Webster",
-          "description": "In this tutorial, you’ll learn how to use UFW on Ubuntu to create, delete, and manage firewall rules in user-friendly ways.\nThe post How to Set Up UFW Firewall on Ubuntu 24.04 (for Beginners) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-set-up-ufw-firewall-on-ubuntu-24-04-for-beginners-2/",
-          "publishedOn": "2024-08-23T18:00:47.000Z",
-          "wordCount": 9048,
-          "title": "How to Set Up UFW Firewall on Ubuntu 24.04 (for Beginners)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191681",
-          "author": "Web Webster",
-          "description": "A simple and step-by-step process on how to install COSMIC desktop in Arch Linux with additional configuration steps.\nThe post How to Install COSMIC Desktop in Arch Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-cosmic-desktop-in-arch-linux/",
-          "publishedOn": "2024-08-23T17:00:08.000Z",
-          "wordCount": 9021,
-          "title": "How to Install COSMIC Desktop in Arch Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191682",
-          "author": "Web Webster",
-          "description": "Liya Linux is an Arch-based distro that offers Cinnamon and MATE desktops, Btrfs under the hood, but falls short in some areas.\nThe post Liya Linux: Yet Another Take on Arch appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/liya-linux-yet-another-take-on-arch/",
-          "publishedOn": "2024-08-23T16:00:28.000Z",
-          "wordCount": 9026,
-          "title": "Liya Linux: Yet Another Take on Arch",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=190947",
-          "author": "Web Webster",
-          "description": "Learn how to use the free command to display RAM memory, swap memory consumption, and the total size of the buffer/cache in Linux.\nThe post Display Memory Statistics With Free command on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/display-memory-statistics-with-free-command-on-linux/",
-          "publishedOn": "2024-08-23T15:00:40.000Z",
-          "wordCount": 9032,
-          "title": "Display Memory Statistics With Free command on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1344,6 +1314,166 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMidEFVX3lxTE1HLU00Nm45Qmx1SjNrT2ZDYUZjd2pOQXRmdDJqRm9VaGlKenpZVnRVdGF3VlRKTHM2WC1pMkdwUm5wV2NjOXJwQ2ZEZVRaYlBWM2JYRnNlQUt4RE9CQ0FsVXI5YU95V2phblhvbFh6NVA2WWo00gF6QVVfeXFMUDlzTzZ4SUI1bTNsYUowMDZVdHpsQTVRVU9WNm83YzRmbEl6LW0tejJ2UDJMWkcwRVY0cEFWd0Nva2REMm1qTy0wbEZOdFlJU3JtR2NKVWZWUjNyQy1rRmxZaFlkVGZPZmJPQldUQVFuUS0tR1ZqcVBLYkE",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: September 22nd, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HLU00Nm45Qmx1SjNrT2ZDYUZjd2pOQXRmdDJqRm9VaGlKenpZVnRVdGF3VlRKTHM2WC1pMkdwUm5wV2NjOXJwQ2ZEZVRaYlBWM2JYRnNlQUt4RE9CQ0FsVXI5YU95V2phblhvbFh6NVA2WWo00gF6QVVfeXFMUDlzTzZ4SUI1bTNsYUowMDZVdHpsQTVRVU9WNm83YzRmbEl6LW0tejJ2UDJMWkcwRVY0cEFWd0Nva2REMm1qTy0wbEZOdFlJU3JtR2NKVWZWUjNyQy1rRmxZaFlkVGZPZmJPQldUQVFuUS0tR1ZqcVBLYkE?oc=5",
+          "publishedOn": "2024-09-23T00:26:08.000Z",
+          "wordCount": 12503,
+          "title": "9to5Linux Weekly Roundup: September 22nd, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiowFBVV95cUxNUi1JWWk2Zmp5ZVJrdk44eU45d1VtUnJzcGNlOEE5VFVNdHhMOF9LVnVVOUlLU2ZXX3pOWnRtYWRZdUxxQUVVejZ4VzBodmJfbU9FTHh6RFMzdjg2YVhidjdaeEFseFNVaDlCalNuMFlBTlBVRExJSXJqN0ZMZzk0VW5UOUFBc1RrWkduVVdfWUJNSkJJeUZ3S0Z0bGVfVzVOUVZn",
+          "author": null,
+          "description": "SK hynix Applies CXL Optimization Solution to Linux  StockTitan",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUi1JWWk2Zmp5ZVJrdk44eU45d1VtUnJzcGNlOEE5VFVNdHhMOF9LVnVVOUlLU2ZXX3pOWnRtYWRZdUxxQUVVejZ4VzBodmJfbU9FTHh6RFMzdjg2YVhidjdaeEFseFNVaDlCalNuMFlBTlBVRExJSXJqN0ZMZzk0VW5UOUFBc1RrWkduVVdfWUJNSkJJeUZ3S0Z0bGVfVzVOUVZn?oc=5",
+          "publishedOn": "2024-09-23T00:04:54.000Z",
+          "wordCount": 12503,
+          "title": "SK hynix Applies CXL Optimization Solution to Linux - StockTitan",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiugFBVV95cUxQeVRQM003WnJ2VEFnUDk0T3owcTQyUHBhMVhpRlJ1NFNPU2JOc3R4ZzhQU1VTRDRFeE9MWFg1TzJKSFFEMENra1lrREI5NXpCLWxidUEtVk1id2d2b1RtVDF2SzBsc0cyQlloTjJBOEt6Nl8yajBSbm5EMHZ0Y1k0WDdNWTFUTmdOWXJnaWdvbVp0T1JOSmIzeWRtZEhTd0I5RjAydm56SjBVdktCdXhXa3ZOZGJfQWdVNFHSAbgBQVVfeXFMT0JHSlRDeFZsQ1g2Yjl6ZHBRNUFHbHBMSnRBM2h5WW5CdzlzbDVfODRmUUNJUF9TbmJhd2U5Umt4Nm9Samt0UXZSWC1mdjJ0a1Q1Rmd1WnoxVVZDYzhfUjY1UUtybHZhWmFidDhVTDZ5SEh4RnpGejhfakpVSUZDQmZsUXAzZ1hua2oxcjhMMVpTN0JIbXQ5TVlMM0oxSW9xWTBUVER4TmtVbHBMdnNTUHliME1EUk9Eag",
+          "author": null,
+          "description": "AMD's BIOS update is great for both Linux and Windows if you want a free performance boost  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVRQM003WnJ2VEFnUDk0T3owcTQyUHBhMVhpRlJ1NFNPU2JOc3R4ZzhQU1VTRDRFeE9MWFg1TzJKSFFEMENra1lrREI5NXpCLWxidUEtVk1id2d2b1RtVDF2SzBsc0cyQlloTjJBOEt6Nl8yajBSbm5EMHZ0Y1k0WDdNWTFUTmdOWXJnaWdvbVp0T1JOSmIzeWRtZEhTd0I5RjAydm56SjBVdktCdXhXa3ZOZGJfQWdVNFHSAbgBQVVfeXFMT0JHSlRDeFZsQ1g2Yjl6ZHBRNUFHbHBMSnRBM2h5WW5CdzlzbDVfODRmUUNJUF9TbmJhd2U5Umt4Nm9Samt0UXZSWC1mdjJ0a1Q1Rmd1WnoxVVZDYzhfUjY1UUtybHZhWmFidDhVTDZ5SEh4RnpGejhfakpVSUZDQmZsUXAzZ1hua2oxcjhMMVpTN0JIbXQ5TVlMM0oxSW9xWTBUVER4TmtVbHBMdnNTUHliME1EUk9Eag?oc=5",
+          "publishedOn": "2024-09-22T22:08:00.000Z",
+          "wordCount": 12503,
+          "title": "AMD's BIOS update is great for both Linux and Windows if you want a free performance boost - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE1pcEJEUnlabzd1TXJ2NGlqOEYxZGxrRWluSTBkaFhlOWUzMjY3Z19NakVLZHB3V2ZqYWRxNXBqeC1xMFZKX2F4U3NNaEFmM1pKakxiTDM0RWlLcXJlRlM2eWhQUW13bVpX",
+          "author": null,
+          "description": "Linus Torvalds Adds User-Access Fast Validation Via Address Masking To Linux 6.12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcEJEUnlabzd1TXJ2NGlqOEYxZGxrRWluSTBkaFhlOWUzMjY3Z19NakVLZHB3V2ZqYWRxNXBqeC1xMFZKX2F4U3NNaEFmM1pKakxiTDM0RWlLcXJlRlM2eWhQUW13bVpX?oc=5",
+          "publishedOn": "2024-09-22T20:14:00.000Z",
+          "wordCount": 12503,
+          "title": "Linus Torvalds Adds User-Access Fast Validation Via Address Masking To Linux 6.12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTE9IRkg5ZU5NbS11ZFlDS1ZBTVFVMTZUUGtpOTN2RzVFc0VtdDJuWmM3SmVOZmxWUFdLbUVIUFZKWUYxNXhBaEVHTjNVa09odk5JRWZkMWJDenRIVW5ES2g2MQ",
+          "author": null,
+          "description": "Intel TPEBS & LBR Event Logging Supported By Linux 6.12 With Perf Tools  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IRkg5ZU5NbS11ZFlDS1ZBTVFVMTZUUGtpOTN2RzVFc0VtdDJuWmM3SmVOZmxWUFdLbUVIUFZKWUYxNXhBaEVHTjNVa09odk5JRWZkMWJDenRIVW5ES2g2MQ?oc=5",
+          "publishedOn": "2024-09-22T18:45:00.000Z",
+          "wordCount": 12503,
+          "title": "Intel TPEBS & LBR Event Logging Supported By Linux 6.12 With Perf Tools - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirwFBVV95cUxObTZLWTAtWVdjN3k0VmdfSGNCUHQzWnBfSm44eWhzZHRWazBsUUJWcFlIQ3JCVGo3QV9ORjRVRVVkOVhkT2IwLWVReThkWmg5bVVEeDlCM3V6czlzOVJXQmJOVmhPTURDUGxUNkYxNHo3ejFYZFk5NXhUdmRRdVlWOVM3VjNYRVgyNWRpYkIzRUZfSUtMaUJScVdqdWQzWDlkNEY0Zy05dzBRVVU5N2JJ",
+          "author": null,
+          "description": "Valve appear to be testing ARM64 and Android support for Steam on Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTZLWTAtWVdjN3k0VmdfSGNCUHQzWnBfSm44eWhzZHRWazBsUUJWcFlIQ3JCVGo3QV9ORjRVRVVkOVhkT2IwLWVReThkWmg5bVVEeDlCM3V6czlzOVJXQmJOVmhPTURDUGxUNkYxNHo3ejFYZFk5NXhUdmRRdVlWOVM3VjNYRVgyNWRpYkIzRUZfSUtMaUJScVdqdWQzWDlkNEY0Zy05dzBRVVU5N2JJ?oc=5",
+          "publishedOn": "2024-09-22T15:58:40.000Z",
+          "wordCount": 12503,
+          "title": "Valve appear to be testing ARM64 and Android support for Steam on Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidEFVX3lxTE9HSFEzM2lVVWlIdGNiVlVNNkl4aTZIbUEydzZadmp2cFpWanpSV2VlWm5pOEpHUWgyamJQZjFfOWQ4dzZoMzU3Zi1IVnZha1ZsMi1CNFE4dkNxb2JEVXJSRjRfa2M4NXEtRE4zbldWVTM1QkFz",
+          "author": null,
+          "description": "Valve may be working on a Linux ARM64-based version of Steam  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HSFEzM2lVVWlIdGNiVlVNNkl4aTZIbUEydzZadmp2cFpWanpSV2VlWm5pOEpHUWgyamJQZjFfOWQ4dzZoMzU3Zi1IVnZha1ZsMi1CNFE4dkNxb2JEVXJSRjRfa2M4NXEtRE4zbldWVTM1QkFz?oc=5",
+          "publishedOn": "2024-09-22T15:48:00.000Z",
+          "wordCount": 12503,
+          "title": "Valve may be working on a Linux ARM64-based version of Steam - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMickFVX3lxTE9WQ3d0TFhMdDFwNzNJVU5teW1MSnZGV3NTNHN2M0ItNFpnWjVVSXFrTVJ0Q3VWSEhadUVFdmYzUWk0VXROS1l5TlhfRFl3X0FHZU1vWnk3Wk44a0xnN3RVWDZKNUpaWXRjcmZtM3J4MWtzdw",
+          "author": null,
+          "description": "Linux: Create and Connect to an NFS Share  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQ3d0TFhMdDFwNzNJVU5teW1MSnZGV3NTNHN2M0ItNFpnWjVVSXFrTVJ0Q3VWSEhadUVFdmYzUWk0VXROS1l5TlhfRFl3X0FHZU1vWnk3Wk44a0xnN3RVWDZKNUpaWXRjcmZtM3J4MWtzdw?oc=5",
+          "publishedOn": "2024-09-22T15:07:54.000Z",
+          "wordCount": 12503,
+          "title": "Linux: Create and Connect to an NFS Share - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirgFBVV95cUxNZGM2TENMU2ZVeGNYaGxDOHJnQWQ2ZzJWZC1md1kydjVqQmMzZUNBU0Z3d3d3YkxGVmFNVE9fOFQzMmo2V0RuMzVOUllod2F2Sm5iNlNocm1Nd1dLRVdUNzVCV0FFdERPZTRxSDFXZHd1UHF1c015bTFRSjh5YVBBX2ZaZHl3ejF6T0JBR0sxV0tpRzJZN1dDVDFIQndBd1VKNUtOUE9UamdQSnhYWHfSAawBQVVfeXFMTTYwczJZcGxZanNlVnZwd1JGMF8xLW91R3NGcmJyQTJtdVNXaVpJR1J0U0loa0NKclZCSjVFX3l2aGs0MlRzc25wUTBJLXRjYlZUa0tCc3gzeHFvTzVqeF9DcDMyclhIU2tZUkVDUXgwX1JBaEczWmhVZWdPTTFvMlQ2TXVkbTBiTi1SUk9sU2pVcXk2elpWcTFQTE0yV3NtTjRiemVzVm85bUNRVg",
+          "author": null,
+          "description": "Linus Torvalds accepts Microsoft's Hyper-V upgrade so next gen Linux boots faster  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGM2TENMU2ZVeGNYaGxDOHJnQWQ2ZzJWZC1md1kydjVqQmMzZUNBU0Z3d3d3YkxGVmFNVE9fOFQzMmo2V0RuMzVOUllod2F2Sm5iNlNocm1Nd1dLRVdUNzVCV0FFdERPZTRxSDFXZHd1UHF1c015bTFRSjh5YVBBX2ZaZHl3ejF6T0JBR0sxV0tpRzJZN1dDVDFIQndBd1VKNUtOUE9UamdQSnhYWHfSAawBQVVfeXFMTTYwczJZcGxZanNlVnZwd1JGMF8xLW91R3NGcmJyQTJtdVNXaVpJR1J0U0loa0NKclZCSjVFX3l2aGs0MlRzc25wUTBJLXRjYlZUa0tCc3gzeHFvTzVqeF9DcDMyclhIU2tZUkVDUXgwX1JBaEczWmhVZWdPTTFvMlQ2TXVkbTBiTi1SUk9sU2pVcXk2elpWcTFQTE0yV3NtTjRiemVzVm85bUNRVg?oc=5",
+          "publishedOn": "2024-09-22T14:12:00.000Z",
+          "wordCount": 12503,
+          "title": "Linus Torvalds accepts Microsoft's Hyper-V upgrade so next gen Linux boots faster - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxObEN0RWlKWGxTY1Zud3NNbDZGNkl2bDlFaEoxLVlpM0dZdFNUWDVWV3BfT2ZtdmdISHM4WWY2YjExQXZyU3FjSVR1eGxEQzdxcUFQV1c4VnY4Rl9QRGtPbkpyZlh2RWtCYl9IbnYzWkR2dmhDX1dXOVlINEpWZzlVWGxqMnJHWldMd2UzNjFBQ1Fyck4xTFIwUnlR",
+          "author": null,
+          "description": "How to connect to serial devices with Tio on Linux  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEN0RWlKWGxTY1Zud3NNbDZGNkl2bDlFaEoxLVlpM0dZdFNUWDVWV3BfT2ZtdmdISHM4WWY2YjExQXZyU3FjSVR1eGxEQzdxcUFQV1c4VnY4Rl9QRGtPbkpyZlh2RWtCYl9IbnYzWkR2dmhDX1dXOVlINEpWZzlVWGxqMnJHWldMd2UzNjFBQ1Fyck4xTFIwUnlR?oc=5",
+          "publishedOn": "2024-09-22T14:00:06.000Z",
+          "wordCount": 12503,
+          "title": "How to connect to serial devices with Tio on Linux - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxPZndMZ09KbjBNSGJUZGVfNFo2YTl4c3ppc0YtYTBYMkFxSkZOeW5URzJyUTcxT0E4ZGEzT1ZWVmtJZWhVNVdrTnVXTi1BOUYwSUQ3UnFBNHVsZ1J2M1ZRWm9iS19wNDZKbW9CWlNDSnpQMkVyU1pySWN4LUJOMjE2bjNOMA",
+          "author": null,
+          "description": "Managing Users and Groups in Linux | by Karthikeyan Nagaraj | Sep, 2024  Medium",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZndMZ09KbjBNSGJUZGVfNFo2YTl4c3ppc0YtYTBYMkFxSkZOeW5URzJyUTcxT0E4ZGEzT1ZWVmtJZWhVNVdrTnVXTi1BOUYwSUQ3UnFBNHVsZ1J2M1ZRWm9iS19wNDZKbW9CWlNDSnpQMkVyU1pySWN4LUJOMjE2bjNOMA?oc=5",
+          "publishedOn": "2024-09-22T13:33:23.000Z",
+          "wordCount": 12503,
+          "title": "Managing Users and Groups in Linux | by Karthikeyan Nagaraj | Sep, 2024 - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxPMjFGRXd6NlI4ekFNemo2M1lhZ3NKemFMNktLQ3lPbVJXOTJOU2tNWGxMMjYteGo2X2w1NnQ1azY0c0tVbzh4MU5kbmlFMTM2MHhweW1RbEpvLUFwZXhpcktyQTVPbWlKZGhNS2h2SEhmaW5lV282QV9YNXhvZE5scnNOdHVNRUVLeWNVYXZqMHpseEJDVlZkNm9sVTlPWW1EMnJtSg",
+          "author": null,
+          "description": "Linus Torvalds explains why aging Linux developers are a good thing  TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjFGRXd6NlI4ekFNemo2M1lhZ3NKemFMNktLQ3lPbVJXOTJOU2tNWGxMMjYteGo2X2w1NnQ1azY0c0tVbzh4MU5kbmlFMTM2MHhweW1RbEpvLUFwZXhpcktyQTVPbWlKZGhNS2h2SEhmaW5lV282QV9YNXhvZE5scnNOdHVNRUVLeWNVYXZqMHpseEJDVlZkNm9sVTlPWW1EMnJtSg?oc=5",
+          "publishedOn": "2024-09-22T13:00:00.000Z",
+          "wordCount": 12503,
+          "title": "Linus Torvalds explains why aging Linux developers are a good thing - TechCrunch",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE9PcnBUUzJoY0NQb0NBbnFOS3RFZFVReEtraVdsbHFsTy1Nc2dXOWJGQU8yOVF0b1Zhb3dmdVM2bll1TExDU2h5WkVVbWlaS0JIdUFGSGZDODVtWGtDQXI4a0FwUQ",
+          "author": null,
+          "description": "Bcachefs Hopes To Remove \"EXPERIMENTAL\" Flag In The Next Year  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PcnBUUzJoY0NQb0NBbnFOS3RFZFVReEtraVdsbHFsTy1Nc2dXOWJGQU8yOVF0b1Zhb3dmdVM2bll1TExDU2h5WkVVbWlaS0JIdUFGSGZDODVtWGtDQXI4a0FwUQ?oc=5",
+          "publishedOn": "2024-09-22T10:30:00.000Z",
+          "wordCount": 12503,
+          "title": "Bcachefs Hopes To Remove \"EXPERIMENTAL\" Flag In The Next Year - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX0FVX3lxTFB5b05JbVpXMHE0UER3dXdPSHNnUFo2RnVlbjMzdlg1Zk01a1FhUWw2Mk82Y0RPcnNUOTl6eU1PSEpDOFMzUUtWRE9Db2ZiVUwwa082ZGExblFpY0VVZlg4",
+          "author": null,
+          "description": "Native PCIe Enclosure Management Submitted For Linux 6.12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5b05JbVpXMHE0UER3dXdPSHNnUFo2RnVlbjMzdlg1Zk01a1FhUWw2Mk82Y0RPcnNUOTl6eU1PSEpDOFMzUUtWRE9Db2ZiVUwwa082ZGExblFpY0VVZlg4?oc=5",
+          "publishedOn": "2024-09-22T10:08:00.000Z",
+          "wordCount": 12503,
+          "title": "Native PCIe Enclosure Management Submitted For Linux 6.12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE5Pc2gtY2FSVVBCRXhMdmxUSlhXaXNpeW1FSkdFQ1ZDLUdsQnhNTXk4N1NsZ1Y4eTBSM19saEhmMHdaQzBWVWE1Q1FySDlnSjVJOHdzUFNjX1d1UDdRU1ppLWxhZHY1MHc",
+          "author": null,
+          "description": "Updated DeviceTree Gets Microsoft Windows Dev Kit 2023 Booting Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pc2gtY2FSVVBCRXhMdmxUSlhXaXNpeW1FSkdFQ1ZDLUdsQnhNTXk4N1NsZ1Y4eTBSM19saEhmMHdaQzBWVWE1Q1FySDlnSjVJOHdzUFNjX1d1UDdRU1ppLWxhZHY1MHc?oc=5",
+          "publishedOn": "2024-09-22T09:57:00.000Z",
+          "wordCount": 12503,
+          "title": "Updated DeviceTree Gets Microsoft Windows Dev Kit 2023 Booting Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE5aQzZpS1lRS0E0dnRHVThSMDFPUFVCa2JOcGdfSnZPUFRFSGlYTnVBejNVb3VBRGpGTFVuVlBaei02U3N3bDhRUnBXdkppWmNXdzhxUURabFZ0MmhkbDVkel9EeHE4ekszRDczTWhwa2E",
+          "author": null,
+          "description": "Is Linux Really Difficult For a Windows User? My Personal Journey Answers It!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aQzZpS1lRS0E0dnRHVThSMDFPUFVCa2JOcGdfSnZPUFRFSGlYTnVBejNVb3VBRGpGTFVuVlBaei02U3N3bDhRUnBXdkppWmNXdzhxUURabFZ0MmhkbDVkel9EeHE4ekszRDczTWhwa2E?oc=5",
+          "publishedOn": "2024-09-22T04:24:06.000Z",
+          "wordCount": 12503,
+          "title": "Is Linux Really Difficult For a Windows User? My Personal Journey Answers It! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiaEFVX3lxTE05VHhWd3NwSVBvX2ZTdlpkVGNRb2NYVmMzWkY0NzlZTW45Z1ZXZm16M2gycWdVLTdIanpJN0VpX0ozNW9PX240ZmNJZzVPR2s5aDF3dGl1T1A1VWQ1RmN2blVneHdfOGFB",
           "author": null,
@@ -6383,56 +6513,6 @@
           "wordCount": 12426,
           "title": "Stealthy 'sedexp' Linux malware evaded detection for two years - BleepingComputer",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimwFBVV95cUxNQm1RRDdVN1k2RThZY3YzM2h3WjNZMGRTOHZrX3dDLWJ1R1BfVkNCaWt5bDBheEJ6THBZSlhpaV8zc1VQbDljdnRnZmlsekRXUkFpcldzaDhzYWx4Si1XMDBVMTM0d2ktSkpQX0ptVzNpeEpmNHNsbjVlbEk5VnZCMEdQRzNZX1JHa3FrU3EtX2RDVy1TUVNKb0M3SQ",
-          "author": null,
-          "description": "NVIDIA driver with Linux kernel 6.10 causing kernel oops  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQm1RRDdVN1k2RThZY3YzM2h3WjNZMGRTOHZrX3dDLWJ1R1BfVkNCaWt5bDBheEJ6THBZSlhpaV8zc1VQbDljdnRnZmlsekRXUkFpcldzaDhzYWx4Si1XMDBVMTM0d2ktSkpQX0ptVzNpeEpmNHNsbjVlbEk5VnZCMEdQRzNZX1JHa3FrU3EtX2RDVy1TUVNKb0M3SQ?oc=5",
-          "publishedOn": "2024-08-24T11:13:11.000Z",
-          "wordCount": 12426,
-          "title": "NVIDIA driver with Linux kernel 6.10 causing kernel oops - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxPWHNBWkp1UVJpT3pkcEFmRW02cUVHeW91ZXQwOGtrWWRLbHBRZWh0QW05NXZSVmc1MUNlQzMzY2JiRFVkdjNsajg0SEpyZUlVT1hRZ0gzT1RqMGtWaU5ZVTRDNTFYNWJ4TE8xWkVsa1hPQWdIamFmXzJ6bHJWT0Z4dEYtS1FyS0FzUGd0cl9VMk9OU3k1M3NsT3pB",
-          "author": null,
-          "description": "AMD's latest Ryzen 9 9950X goes like the clappers on Linux  Fudzilla",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHNBWkp1UVJpT3pkcEFmRW02cUVHeW91ZXQwOGtrWWRLbHBRZWh0QW05NXZSVmc1MUNlQzMzY2JiRFVkdjNsajg0SEpyZUlVT1hRZ0gzT1RqMGtWaU5ZVTRDNTFYNWJ4TE8xWkVsa1hPQWdIamFmXzJ6bHJWT0Z4dEYtS1FyS0FzUGd0cl9VMk9OU3k1M3NsT3pB?oc=5",
-          "publishedOn": "2024-08-24T06:33:08.000Z",
-          "wordCount": 12426,
-          "title": "AMD's latest Ryzen 9 9950X goes like the clappers on Linux - Fudzilla",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuAFBVV95cUxOVUJoNHkyQVFYdl9haS1yMXl6N1JNaWpoXzRYcHhDMGcxaVpqdTRqMXZGd1BWOEVEVkIyM3d6MDFjV1FiLVVPM05EZGh0Rks0SC16dHRwZVNBMDBDRjVjT0FNN2VJOGVSVUk3dDBxMmdvZzBFRVAtWkFmZGFyX0pkUHg1YlRJTVRpb3ZERHR4TlVIS1V1UDJ3dVR1SGFlRGhIOC1LWWJSVk4ycGFLWS1yWHI5NEU3dkY40gG-AUFVX3lxTFBLTTBhdlRrMzZWR19lai1mOXhkMndqVVVvQVFxNlRQOHp5RVgyZkNBbTVaSi1US3lrUl9nalBXQUQ4N1l2VXdVN09PVHVGQTc3b2xOdDlkazJhR241aENwT21WX3R4U0xmamdKZ01qVUtaVl9sa2Fibjk2d1VzZmV0a3ByVzVUWE5zaE5SR2RnLVBNbWg2WVUzU00wTldDSi1QZzM0TzZmMGFsOXVHamFHWjl2R0ROXy1OUW83UlE",
-          "author": null,
-          "description": "Microsoft shares temp fix for Linux boot issues on dual-boot systems  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUJoNHkyQVFYdl9haS1yMXl6N1JNaWpoXzRYcHhDMGcxaVpqdTRqMXZGd1BWOEVEVkIyM3d6MDFjV1FiLVVPM05EZGh0Rks0SC16dHRwZVNBMDBDRjVjT0FNN2VJOGVSVUk3dDBxMmdvZzBFRVAtWkFmZGFyX0pkUHg1YlRJTVRpb3ZERHR4TlVIS1V1UDJ3dVR1SGFlRGhIOC1LWWJSVk4ycGFLWS1yWHI5NEU3dkY40gG-AUFVX3lxTFBLTTBhdlRrMzZWR19lai1mOXhkMndqVVVvQVFxNlRQOHp5RVgyZkNBbTVaSi1US3lrUl9nalBXQUQ4N1l2VXdVN09PVHVGQTc3b2xOdDlkazJhR241aENwT21WX3R4U0xmamdKZ01qVUtaVl9sa2Fibjk2d1VzZmV0a3ByVzVUWE5zaE5SR2RnLVBNbWg2WVUzU00wTldDSi1QZzM0TzZmMGFsOXVHamFHWjl2R0ROXy1OUW83UlE?oc=5",
-          "publishedOn": "2024-08-23T18:02:05.000Z",
-          "wordCount": 12426,
-          "title": "Microsoft shares temp fix for Linux boot issues on dual-boot systems - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTFBKZ25GVElGX3JDcUxnOGtkU0NTWEZzM2NZM2RvN0tuYmhiZTdwV2s5cUxWUV9UdmhIUkJGaFBPWjhEcW00T2RCbFh5NXZHX3pONG42ZGVFcVh3MW5Sb1HSAWNBVV95cUxPc2d2aUtQZzhobWJHU2NNYjFnclhUNVROb1lLLUJVQkJ2cHBqaTJrcGFMM0ZjNzA1ZDliY09NYUhrc09IaE02V2pkVWptZFZTYWRzSmtzVWxGbWVnX0NsbzVUanM",
-          "author": null,
-          "description": "Linux Deepin 23: A polished distro from China that Western desktops could learn from  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZ25GVElGX3JDcUxnOGtkU0NTWEZzM2NZM2RvN0tuYmhiZTdwV2s5cUxWUV9UdmhIUkJGaFBPWjhEcW00T2RCbFh5NXZHX3pONG42ZGVFcVh3MW5Sb1HSAWNBVV95cUxPc2d2aUtQZzhobWJHU2NNYjFnclhUNVROb1lLLUJVQkJ2cHBqaTJrcGFMM0ZjNzA1ZDliY09NYUhrc09IaE02V2pkVWptZFZTYWRzSmtzVWxGbWVnX0NsbzVUanM?oc=5",
-          "publishedOn": "2024-08-23T17:28:00.000Z",
-          "wordCount": 12426,
-          "title": "Linux Deepin 23: A polished distro from China that Western desktops could learn from - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTE9idE8zOU1ENVA1eGlsR25fU2Juc3M4UVlfVnZ5V1RBV1pvUkRqa0tULTNGc0p5UkdHRTBFMlp3NlV4NG94c2lReU5FdmJHcFBOZEV5NDZuek0yQndXeGhWQg",
-          "author": null,
-          "description": "Bochs DRM Linux Driver Being Modernized - Better Performance For QEMU Display  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idE8zOU1ENVA1eGlsR25fU2Juc3M4UVlfVnZ5V1RBV1pvUkRqa0tULTNGc0p5UkdHRTBFMlp3NlV4NG94c2lReU5FdmJHcFBOZEV5NDZuek0yQndXeGhWQg?oc=5",
-          "publishedOn": "2024-08-23T16:48:00.000Z",
-          "wordCount": 12426,
-          "title": "Bochs DRM Linux Driver Being Modernized - Better Performance For QEMU Display - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8877,16 +8957,6 @@
           "wordCount": 1329,
           "title": "Quick Hit #13",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380087"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380064",
-          "author": "Geoff Graham",
-          "description": "Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…\nQuick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-12/",
-          "publishedOn": "2024-08-23T15:43:54.000Z",
-          "wordCount": 1334,
-          "title": "Quick Hit #12",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380064"
         }
       ]
     },
@@ -9576,26 +9646,6 @@
           "wordCount": 3385,
           "title": "How to Blend Images in Rust Using Pixel Math",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724689572465/f03e4b74-1091-4673-af5b-c8827e74caf0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
-          "author": "Victoria Drake",
-          "description": "In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...",
-          "link": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
-          "publishedOn": "2024-08-23T23:01:03.000Z",
-          "wordCount": 3315,
-          "title": "How to Future-Proof Your Software Engineering Career for the Age of AGI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267267326/85a8c7ec-bc36-4d93-9ba1-b5410859d2a4.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Hiroko Nishimura. She's a special ed teacher turned system administrator turned technical instructor. Hiroko grew up in Japan and moved to the US as a kid. In her ea...",
-          "link": "https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/",
-          "publishedOn": "2024-08-23T16:40:35.000Z",
-          "wordCount": 854,
-          "title": "From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724431182170/14a5b2d2-0e5e-4b27-b90d-b9907edc9221.png"
         }
       ]
     }
