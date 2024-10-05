@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193271",
+          "author": "Web Webster",
+          "description": "This new major release beaks the libfwupd ABI to drop legacy signing formats for verification of metadata and firmware, reduce the runtime memory usage and CPU startup cost significantly, remove all the long-deprecated legacy CLI tools, remove libgusb and GUdev from plugins and use libusb and sysfs instead, and stream firmware binaries over a file […]\nThe post Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-open-source-linux-firmware-updater-released-with-major-changes/",
+          "publishedOn": "2024-10-05T00:56:43.000Z",
+          "wordCount": 9102,
+          "title": "Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193228",
+          "author": "Web Webster",
+          "description": "Creating graphical user interface (GUI) applications is a fantastic way to bring your ideas to life and make your programs more user-friendly. PyGObject is a Python library that allows developers to create GUI applications on Linux desktops using the GTK (GIMP Toolkit) framework. GTK is widely used in Linux environments, powering many popular desktop applications […]\nThe post PyGObject: A Guide to Creating Python GUI Applications on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/pygobject-a-guide-to-creating-python-gui-applications-on-linux/",
+          "publishedOn": "2024-10-04T23:08:43.000Z",
+          "wordCount": 9139,
+          "title": "PyGObject: A Guide to Creating Python GUI Applications on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193272",
+          "author": "Web Webster",
+          "description": "Fwupd 2.0 launches with major enhancements: drops old signing formats, adds Darwin support, and revamps device firmware management.\nThe post Fwupd 2.0: Major Changes and New Hardware Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-major-changes-and-new-hardware-support/",
+          "publishedOn": "2024-10-04T21:59:40.000Z",
+          "wordCount": 9051,
+          "title": "Fwupd 2.0: Major Changes and New Hardware Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193231",
+          "author": "Web Webster",
+          "description": "The XFCE developers are aiming to release the XFCE version 4.20 with the introduction of preliminary Wayland support in December 2024.\nThe post XFCE 4.20 Aims To Bring Preliminary Wayland Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/xfce-4-20-aims-to-bring-preliminary-wayland-support/",
+          "publishedOn": "2024-10-04T21:35:51.000Z",
+          "wordCount": 9057,
+          "title": "XFCE 4.20 Aims To Bring Preliminary Wayland Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193230",
+          "author": "Web Webster",
+          "description": "qBittorrent is a popular open-source BitTorrent client that allows users to download and share files over the internet. The latest version, qBittorrent 5.0, was released recently and comes packed with new features and improvements. This article will guide you on how to install qBittorrent 5.0 on Linux, highlight its key features, and explain how to […]\nThe post qBittorrent: A Lightweight, Feature-Rich BitTorrent Client for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/qbittorrent-a-lightweight-feature-rich-bittorrent-client-for-linux/",
+          "publishedOn": "2024-10-04T20:12:03.000Z",
+          "wordCount": 9102,
+          "title": "qBittorrent: A Lightweight, Feature-Rich BitTorrent Client for Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193227",
+          "author": "Web Webster",
+          "description": "Discover an amazing Tilix terminal emulator that offers features such as tiling management and command bookmarking.\nThe post Tilix: A Tiling Terminal Emulator With Bookmark Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/tilix-a-tiling-terminal-emulator-with-bookmark-support/",
+          "publishedOn": "2024-10-04T19:07:15.000Z",
+          "wordCount": 9047,
+          "title": "Tilix: A Tiling Terminal Emulator With Bookmark Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193203",
+          "author": "Web Webster",
+          "description": "The latest release of the open-source OpenStack cloud platform introduces a more modern dashboard and key features aimed at improving AI workloads and security.\nThe post OpenStack Dalmation Advances Open Source Cloud with New Dashboard, Better AI Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/openstack-dalmation-advances-open-source-cloud-with-new-dashboard-better-ai-support/",
+          "publishedOn": "2024-10-04T16:45:10.000Z",
+          "wordCount": 9080,
+          "title": "OpenStack Dalmation Advances Open Source Cloud with New Dashboard, Better AI Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193201",
+          "author": "Web Webster",
+          "description": "Speech Note is an open-source, privacy-focused application that offers offline Speech to Text (STT), Text to Speech (TTS), and Machine Translation (MT) capabilities. With Speech Note, you can take, read, and translate notes in multiple languages.\nThe post Speech Note – An Offline Speech Recognition, Text-to-Speech and Translation App for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/speech-note-an-offline-speech-recognition-text-to-speech-and-translation-app-for-linux/",
+          "publishedOn": "2024-10-04T15:43:28.000Z",
+          "wordCount": 9097,
+          "title": "Speech Note – An Offline Speech Recognition, Text-to-Speech and Translation App for Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193200",
+          "author": "Web Webster",
+          "description": "FlexGet is a multipurpose automation tool for all of your media.\nThe post FlexGet – Multipurpose Automation Download Tool appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/flexget-multipurpose-automation-download-tool/",
+          "publishedOn": "2024-10-04T14:41:42.000Z",
+          "wordCount": 9032,
+          "title": "FlexGet – Multipurpose Automation Download Tool",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193229",
+          "author": "Web Webster",
+          "description": "The Vivaldi browser unveiled a sleek new look and an experimental Dashboard in its latest snapshot. Here’s more on that!\nThe post Vivaldi Browser Unveils Revamped Design appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/vivaldi-browser-unveils-revamped-design/",
+          "publishedOn": "2024-10-04T14:10:43.000Z",
+          "wordCount": 9036,
+          "title": "Vivaldi Browser Unveils Revamped Design",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193197",
           "author": "Web Webster",
           "description": "To provide an insight into the quality of software that is available, we have compiled a list of 14 useful Linux logfile viewers. Hopefully, there will be something of interest for anyone needing to examine and process logfile data.\nThe post 14 Best Free and Open Source Linux Logfile Viewers appeared first on Linux Today.",
@@ -1826,56 +1926,6 @@
           "wordCount": 9011,
           "title": "Auto-Cpufreq 2.4 Adds Platform Profile Settings",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192054",
-          "author": "Web Webster",
-          "description": "QEMU 9.1 open-source machine emulator is here, bringing enhanced ARM and RISC-V support and security updates.\nThe post QEMU 9.1 Released with Better ARM and RISC-V Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/qemu-9-1-released-with-better-arm-and-risc-v-support/",
-          "publishedOn": "2024-09-05T13:00:34.000Z",
-          "wordCount": 9022,
-          "title": "QEMU 9.1 Released with Better ARM and RISC-V Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191904",
-          "author": "Web Webster",
-          "description": "Copr, which stands for Cool Other Package Repo, is a build system and third-party package repository designed for Fedora and RPM-based distributions.\nThe post Understanding Copr: The Community-Driven Fedora Software Repository appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/understanding-copr-the-community-driven-fedora-software-repository/",
-          "publishedOn": "2024-09-04T17:00:31.000Z",
-          "wordCount": 9024,
-          "title": "Understanding Copr: The Community-Driven Fedora Software Repository",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192001",
-          "author": "Web Webster",
-          "description": "Learn how to easily install Akregator on your Ubuntu 24.04 desktop. Follow this simple, step-by-step guide to get Akregator up and running using either Ubuntu’s default repository or Flatpak from Flathub.\nThe post How to Install Akregator on Ubuntu 24.04 Desktop via Terminal appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-akregator-on-ubuntu-24-04-desktop-via-terminal/",
-          "publishedOn": "2024-09-04T16:00:56.000Z",
-          "wordCount": 9044,
-          "title": "How to Install Akregator on Ubuntu 24.04 Desktop via Terminal",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192030",
-          "author": "Web Webster",
-          "description": "The creator of the popular open-source network protocol analyzer talks about what’s new in Wireshark 4.4, how governance has changed, and what to expect next. The open-source Wireshark network protocol analyzer is among the most widely used technologies by networking professionals. Version 4.4, which became generally available on Aug. 28, has a number of new […]\nThe post Open Source Wireshark 4.4 Boosts Network Protocol Visibility appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/open-source-wireshark-4-4-boosts-network-protocol-visibility/",
-          "publishedOn": "2024-09-04T15:00:17.000Z",
-          "wordCount": 9077,
-          "title": "Open Source Wireshark 4.4 Boosts Network Protocol Visibility",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192032",
-          "author": "Web Webster",
-          "description": "Audacity 3.6.2 open-source audio editor includes Legacy effects, enhances performance, and resolves numerous bugs.\nThe post Audacity 3.6.2 Bringing Back Legacy Effects appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/audacity-3-6-2-bringing-back-legacy-effects/",
-          "publishedOn": "2024-09-04T14:00:12.000Z",
-          "wordCount": 9001,
-          "title": "Audacity 3.6.2 Bringing Back Legacy Effects",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1884,6 +1934,176 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMixAFBVV95cUxOREtsa01GdEZ1d0FHQWM3cXNINkVkYzBiS0tITWlaQVV1U1ZMVmpuSm80akttZU5paGl3RTZWbWVqRGY4S2Q1aVFEd1RqU1lvQm5qR0NxaGU2SE4tUUluRkNfU1M4Rk9ZTlB1SHFndHlyaTYtTVJ2ZGw1dng4ajFINWYtUVBhQjJMVXdTNkhMZ2NMZU9Gc3RQMjEzbE9wX1RfNFNGSlg0UVlwUFdCZGhBZk5sTnZBczJ2Mmc2a1cyUkxDWkVW",
+          "author": null,
+          "description": "Linux systems are being hit by a wide-ranging and dangerous new malware  MSN",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREtsa01GdEZ1d0FHQWM3cXNINkVkYzBiS0tITWlaQVV1U1ZMVmpuSm80akttZU5paGl3RTZWbWVqRGY4S2Q1aVFEd1RqU1lvQm5qR0NxaGU2SE4tUUluRkNfU1M4Rk9ZTlB1SHFndHlyaTYtTVJ2ZGw1dng4ajFINWYtUVBhQjJMVXdTNkhMZ2NMZU9Gc3RQMjEzbE9wX1RfNFNGSlg0UVlwUFdCZGhBZk5sTnZBczJ2Mmc2a1cyUkxDWkVW?oc=5",
+          "publishedOn": "2024-10-04T22:35:24.000Z",
+          "wordCount": 12534,
+          "title": "Linux systems are being hit by a wide-ranging and dangerous new malware - MSN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi1AFBVV95cUxPSzcycE1La3NpVDlabXF0dUFlb2pXbC02ZWI0VVdVYWNJMWI4M3JEdGFqOWhBdF9iMHhGS0tYQ1hpSHc4S0FWa01GUGJQYm9MYi03ck81aElLbDMyNXZXMFJZMGhaQ0MwYXFlVWVob2dNTkVmU0VfaEtfVjdYWGdGRVJuald4V1p1V3NDaDRZUGgyd0QyOXhLRVFxUXd5Z0NNZ1VqQTQ5TVEtMU1VcU9ZVHJnTFdaZXhGT1kxWS11MS0wYTdESzFQU3NlbjFMUENCVzloUg",
+          "author": null,
+          "description": "Security experts claim new 'Perfctl' malware could pose a risk to any Linux server  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSzcycE1La3NpVDlabXF0dUFlb2pXbC02ZWI0VVdVYWNJMWI4M3JEdGFqOWhBdF9iMHhGS0tYQ1hpSHc4S0FWa01GUGJQYm9MYi03ck81aElLbDMyNXZXMFJZMGhaQ0MwYXFlVWVob2dNTkVmU0VfaEtfVjdYWGdGRVJuald4V1p1V3NDaDRZUGgyd0QyOXhLRVFxUXd5Z0NNZ1VqQTQ5TVEtMU1VcU9ZVHJnTFdaZXhGT1kxWS11MS0wYTdESzFQU3NlbjFMUENCVzloUg?oc=5",
+          "publishedOn": "2024-10-04T20:40:36.000Z",
+          "wordCount": 12534,
+          "title": "Security experts claim new 'Perfctl' malware could pose a risk to any Linux server - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTE56NnBZY3NFUVZPR1dNSDJTaG9RT2JPenVqWnRYU2dnRjRETHpiNnptSEJXMXRET29zMWJKbWhaRnBMX01zMHhSTmdKN1hiX3R0bmFmNUtyYlRRMVZvclRjNXJmQkhYSi10cHBveg",
+          "author": null,
+          "description": "Intel Panther Lake Introducing 5th Gen NPU - Initial Linux Patches Posted  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56NnBZY3NFUVZPR1dNSDJTaG9RT2JPenVqWnRYU2dnRjRETHpiNnptSEJXMXRET29zMWJKbWhaRnBMX01zMHhSTmdKN1hiX3R0bmFmNUtyYlRRMVZvclRjNXJmQkhYSi10cHBveg?oc=5",
+          "publishedOn": "2024-10-04T17:42:00.000Z",
+          "wordCount": 12534,
+          "title": "Intel Panther Lake Introducing 5th Gen NPU - Initial Linux Patches Posted - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE9mSlFTRG9XWkU3RmNzS0dpWjd4RHIxSHBNSE0yUjRBYVZ3dW4tbzJHbk84Yml4eHg4dVkwRXFQRlNldjNGM2JJSE81RTAyWVoxR3pjTmRodjR6NW4zUFRHdnJ5Tm91aWVtRFNDYXlB",
+          "author": null,
+          "description": "AMD Ryzen AI 300 Series Dominates Intel Core Ultra 7 Lunar Lake Performance For Linux Developers & Creators  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mSlFTRG9XWkU3RmNzS0dpWjd4RHIxSHBNSE0yUjRBYVZ3dW4tbzJHbk84Yml4eHg4dVkwRXFQRlNldjNGM2JJSE81RTAyWVoxR3pjTmRodjR6NW4zUFRHdnJ5Tm91aWVtRFNDYXlB?oc=5",
+          "publishedOn": "2024-10-04T17:30:00.000Z",
+          "wordCount": 12534,
+          "title": "AMD Ryzen AI 300 Series Dominates Intel Core Ultra 7 Lunar Lake Performance For Linux Developers & Creators - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxNWjlSQWdCY2NMMVhsQzI2Vk9NMUVYbG9Yd2JHaXVWLWNQYk1zNW9MemVUS1paUEh4TmFjcjV4Q3VNUTBuc25xV2lKeGlvMElvRlN6SG9wZnBMYmYtX3FkbnBPdkExT0xvU2x3ZVNHQ2ROM1B6VnpkMmQ0U2NkeXVpVklwZXM0NmstM1Bfa1FVUS15UkZrN3VaMDZB0gGfAUFVX3lxTE9XdGlMTXVjejlaX2pHdHJkb0RrdmpCeWVkYVRTYUYyWXNaYWpESkJacERxWUUxQk1VRFFBOEo5aWozVF9KbmlFb3lGbDNNak0yRDhyb2tMeW9VdUIzWm1mdGN6LU5CNktCQnQyNG1ObmVhR00wOTNZN0MxN2puZW5ScktUa2dVWm53UmRWNjlPVVA0ZmN0b0EzbFRXbXdzaw",
+          "author": null,
+          "description": "Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjlSQWdCY2NMMVhsQzI2Vk9NMUVYbG9Yd2JHaXVWLWNQYk1zNW9MemVUS1paUEh4TmFjcjV4Q3VNUTBuc25xV2lKeGlvMElvRlN6SG9wZnBMYmYtX3FkbnBPdkExT0xvU2x3ZVNHQ2ROM1B6VnpkMmQ0U2NkeXVpVklwZXM0NmstM1Bfa1FVUS15UkZrN3VaMDZB0gGfAUFVX3lxTE9XdGlMTXVjejlaX2pHdHJkb0RrdmpCeWVkYVRTYUYyWXNaYWpESkJacERxWUUxQk1VRFFBOEo5aWozVF9KbmlFb3lGbDNNak0yRDhyb2tMeW9VdUIzWm1mdGN6LU5CNktCQnQyNG1ObmVhR00wOTNZN0MxN2puZW5ScktUa2dVWm53UmRWNjlPVVA0ZmN0b0EzbFRXbXdzaw?oc=5",
+          "publishedOn": "2024-10-04T13:48:44.000Z",
+          "wordCount": 12534,
+          "title": "Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirwFBVV95cUxNUnE2V0FTMkZkQlRSVXF3aVY0b3dNTVI0X2pMZjlkRE9lLUMzVDluOGFZdzZlTnBHdGNFeV9qQ1dKY0NTd09ZUjNVc1lVMjN6cUZuZU9iQTF5aHFkWWxfR0dnWXFtaXIzYzdPZGQ2MTNHVVpySjZhR2tidk42OXlLT3ROcXRLdVpNTXBtSF9OOGk5cmVoSGtlZ3JhNEw3NFdyZUdZUGtRdVhIVEZpTUdn",
+          "author": null,
+          "description": "Linux systems are being hit by a wide-ranging and dangerous new malware  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnE2V0FTMkZkQlRSVXF3aVY0b3dNTVI0X2pMZjlkRE9lLUMzVDluOGFZdzZlTnBHdGNFeV9qQ1dKY0NTd09ZUjNVc1lVMjN6cUZuZU9iQTF5aHFkWWxfR0dnWXFtaXIzYzdPZGQ2MTNHVVpySjZhR2tidk42OXlLT3ROcXRLdVpNTXBtSF9OOGk5cmVoSGtlZ3JhNEw3NFdyZUdZUGtRdVhIVEZpTUdn?oc=5",
+          "publishedOn": "2024-10-04T13:28:00.000Z",
+          "wordCount": 12534,
+          "title": "Linux systems are being hit by a wide-ranging and dangerous new malware - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirAFBVV95cUxPTllBZXBHRWk5YUY1SE9SdXVIekw3YTU0NmJzcjI0UEhyX3JhYlI0TUxsNkpTMW9vaGR6R1BEQ1hZRTdOR0oxaGhXdVJvcEFiUHZCRGJWcGl2WEFoYzhMMnB0T3NIM192T3MtdklxanFyN25GU0dQZDRxZ2NaS0Z0ZGZtcERpLWxuSlVHaU4zQjh3NzN0N3FQdW10N08tU0lqWEFvcl9mbURGM1I0",
+          "author": null,
+          "description": "Cups Linux printing bugs open door to DDoS attacks, says Akamai  ComputerWeekly.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTllBZXBHRWk5YUY1SE9SdXVIekw3YTU0NmJzcjI0UEhyX3JhYlI0TUxsNkpTMW9vaGR6R1BEQ1hZRTdOR0oxaGhXdVJvcEFiUHZCRGJWcGl2WEFoYzhMMnB0T3NIM192T3MtdklxanFyN25GU0dQZDRxZ2NaS0Z0ZGZtcERpLWxuSlVHaU4zQjh3NzN0N3FQdW10N08tU0lqWEFvcl9mbURGM1I0?oc=5",
+          "publishedOn": "2024-10-04T13:27:52.000Z",
+          "wordCount": 12534,
+          "title": "Cups Linux printing bugs open door to DDoS attacks, says Akamai - ComputerWeekly.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE82azV0cklOcjA4aFl6LUZkMGcxei1KWVVBUXZ5ckhVNmNwUWxQSVFzMFlvb2NMWXZZWUJKVThtSlV5Zjkydl82S0l0c2M5NDcxdlFFUzhfZWRxR2JlOGlmWkc0OUY0Nmx0OEN3",
+          "author": null,
+          "description": "It’s finally time to say goodbye to Windows 11 — Nitrux Linux 3.7.0 is the OS you’ve been waiting for!  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82azV0cklOcjA4aFl6LUZkMGcxei1KWVVBUXZ5ckhVNmNwUWxQSVFzMFlvb2NMWXZZWUJKVThtSlV5Zjkydl82S0l0c2M5NDcxdlFFUzhfZWRxR2JlOGlmWkc0OUY0Nmx0OEN3?oc=5",
+          "publishedOn": "2024-10-04T13:02:06.000Z",
+          "wordCount": 12534,
+          "title": "It’s finally time to say goodbye to Windows 11 — Nitrux Linux 3.7.0 is the OS you’ve been waiting for! - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxQZ0o4ajRxQWRvOTVvMlU2QjlOZFpsbHA5R0NXWG9ZUFYyYkdjNkZ3cXhvRGZZS0F3SVlOQm5vMzEtTlFZYjgwVWZQQXZJUE1rNzRjMThiZGNCMHZ1ajU2QlN5aHBmM1BtWE1yWnhTZzBOU0E4cnBGRE0xODdDOEl3OVh6cU14cU5sQmpCTTVYV3NEQ2VTNzZ0eE1vV0FSX0VS0gGmAUFVX3lxTE0tWmRkMGVtNVFySktsS2xqSUNDUW5mTmljcTNtcG5FbjBDU3p4Z1c3TExDM3ZuYXkwNDFzVU1fU1QzTkhRUHU5dGZOT3lCTXdtcVN3b0FKTzlwLXBfemxFc0xWM1RUWkNXZnRaRDNmSUJiMUF4RnlWNkVlelVKUnZyYzRGR1RoSkRTN2lndXNaeU45SFJkRmJ1TFZCU2dYUDdTaTBUN0E",
+          "author": null,
+          "description": "New Perfctl Malware targets Linux servers in cryptomining campaign  Security Affairs",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0o4ajRxQWRvOTVvMlU2QjlOZFpsbHA5R0NXWG9ZUFYyYkdjNkZ3cXhvRGZZS0F3SVlOQm5vMzEtTlFZYjgwVWZQQXZJUE1rNzRjMThiZGNCMHZ1ajU2QlN5aHBmM1BtWE1yWnhTZzBOU0E4cnBGRE0xODdDOEl3OVh6cU14cU5sQmpCTTVYV3NEQ2VTNzZ0eE1vV0FSX0VS0gGmAUFVX3lxTE0tWmRkMGVtNVFySktsS2xqSUNDUW5mTmljcTNtcG5FbjBDU3p4Z1c3TExDM3ZuYXkwNDFzVU1fU1QzTkhRUHU5dGZOT3lCTXdtcVN3b0FKTzlwLXBfemxFc0xWM1RUWkNXZnRaRDNmSUJiMUF4RnlWNkVlelVKUnZyYzRGR1RoSkRTN2lndXNaeU45SFJkRmJ1TFZCU2dYUDdTaTBUN0E?oc=5",
+          "publishedOn": "2024-10-04T13:01:37.000Z",
+          "wordCount": 12534,
+          "title": "New Perfctl Malware targets Linux servers in cryptomining campaign - Security Affairs",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiowFBVV95cUxNYUdoeF84WlF2bnRfRW83bmRUMlljYzdsdHRpX0xqU1hhTkNYcmtTaVRVeldteXkyYWlFV21Eb3Y2M3M0OVhOTHkzczhjME1KU1Z0RVFWZGxJUGR2aXY5VzNxY3NWQnA3RUJzODYtTkZtcE1sc21BM0t6WDgxVEZjRDRvMHdFckNMb0NaQjRvck1lSlZCRi1hVVdTT2dmZW51WUZZ",
+          "author": null,
+          "description": "5 Things You Can Do on Linux but Not on Windows  MSN",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYUdoeF84WlF2bnRfRW83bmRUMlljYzdsdHRpX0xqU1hhTkNYcmtTaVRVeldteXkyYWlFV21Eb3Y2M3M0OVhOTHkzczhjME1KU1Z0RVFWZGxJUGR2aXY5VzNxY3NWQnA3RUJzODYtTkZtcE1sc21BM0t6WDgxVEZjRDRvMHdFckNMb0NaQjRvck1lSlZCRi1hVVdTT2dmZW51WUZZ?oc=5",
+          "publishedOn": "2024-10-04T12:49:27.000Z",
+          "wordCount": 12534,
+          "title": "5 Things You Can Do on Linux but Not on Windows - MSN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxPOVc0U0lhQUhIVTdOTEtJSVFGM1YwdHNPYVgzYlpCbEx3WjNzSWhmWE5rM19mVmU5ZEdVbGp6d2VaQzFEcXF3YzQyXzFTUFFKUDQ5c1JqZ0xJZ3VVMDlQLUhzM0YzQmtZRUxQbHB5bGxjbnRlaTVMdHBScXI0dXIyUzVIUG44Q28zYl92Z1hxYXRyMmQya2NDRC1IcnhjZ2lLQnU3TmlFRFk",
+          "author": null,
+          "description": "News - Experts Warn of DDoS Attacks Exploiting Linux Printing Vulnerabilities  TEISS",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVc0U0lhQUhIVTdOTEtJSVFGM1YwdHNPYVgzYlpCbEx3WjNzSWhmWE5rM19mVmU5ZEdVbGp6d2VaQzFEcXF3YzQyXzFTUFFKUDQ5c1JqZ0xJZ3VVMDlQLUhzM0YzQmtZRUxQbHB5bGxjbnRlaTVMdHBScXI0dXIyUzVIUG44Q28zYl92Z1hxYXRyMmQya2NDRC1IcnhjZ2lLQnU3TmlFRFk?oc=5",
+          "publishedOn": "2024-10-04T11:58:09.000Z",
+          "wordCount": 12534,
+          "title": "News - Experts Warn of DDoS Attacks Exploiting Linux Printing Vulnerabilities - TEISS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqwFBVV95cUxOVDFJTlR4eV82aXJjN0pGM0ZPb1FocmE4ek1mVzM2TU5UY2RpWHNXNTRfUzVheXNlMFgyQzh4X1dHTjljVHdpalVLbHlZYXN6Z3hIdGxqd2VEY0p3dTAydVNTcTF2QnRxT1h4NjRobU9JZkpGMS13dkRvMzNza3BrY2duMGo3M0JXUUwwRHpLbHR5ZEo3SzBzcHZNWV9zNmlzMTI4OV81eFo5dnc",
+          "author": null,
+          "description": "Valve officially sponsors Arch Linux, and here’s what that means for Steam Deck  PC Guide - For The Latest PC Hardware & Tech News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDFJTlR4eV82aXJjN0pGM0ZPb1FocmE4ek1mVzM2TU5UY2RpWHNXNTRfUzVheXNlMFgyQzh4X1dHTjljVHdpalVLbHlZYXN6Z3hIdGxqd2VEY0p3dTAydVNTcTF2QnRxT1h4NjRobU9JZkpGMS13dkRvMzNza3BrY2duMGo3M0JXUUwwRHpLbHR5ZEo3SzBzcHZNWV9zNmlzMTI4OV81eFo5dnc?oc=5",
+          "publishedOn": "2024-10-04T10:50:35.000Z",
+          "wordCount": 12534,
+          "title": "Valve officially sponsors Arch Linux, and here’s what that means for Steam Deck - PC Guide - For The Latest PC Hardware & Tech News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxOMG91THRMZnBGWUl1R0tIa2trRGtiaUdIQ0xNeTZhUW1Da3BUb25QTDNuZmdGSmppLWlSZ2hYeHJ4QzJ2QjAyUWVGZnpidDBxa1l6alk0Q2Y1dkFNQ1hYeVI0MmtQV2NPWFdZbFdCejZMdFgwT1RsdTd6amsycmV6d1ZHQkNCRUJHSVdSMXB4d0pPemxkZzZ0TUd3Y0RYV0gyU2lWa2oxVGE",
+          "author": null,
+          "description": "Unified Linux Wine Game Launcher (UMU) gets a first official release  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMG91THRMZnBGWUl1R0tIa2trRGtiaUdIQ0xNeTZhUW1Da3BUb25QTDNuZmdGSmppLWlSZ2hYeHJ4QzJ2QjAyUWVGZnpidDBxa1l6alk0Q2Y1dkFNQ1hYeVI0MmtQV2NPWFdZbFdCejZMdFgwT1RsdTd6amsycmV6d1ZHQkNCRUJHSVdSMXB4d0pPemxkZzZ0TUd3Y0RYV0gyU2lWa2oxVGE?oc=5",
+          "publishedOn": "2024-10-04T10:39:22.000Z",
+          "wordCount": 12534,
+          "title": "Unified Linux Wine Game Launcher (UMU) gets a first official release - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxNbTFzUWtaa3l5MF8xUDBYbkEtMFlTNUU3UWJQeVlFOVZUaHRoOUlWWE5YYzZSUjRwcURaMTRuUVpHQlpwbkxkNV9nWWthSEs5bndycW1LQ1N0UkhGeWxYUmkyUndreGlHYkRrOHN2UWRvWFhhWVczbVo2QzZpOHFYZzN3",
+          "author": null,
+          "description": "Linux Systems Vulnerable to perfctl Malware  Channel E2E",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTFzUWtaa3l5MF8xUDBYbkEtMFlTNUU3UWJQeVlFOVZUaHRoOUlWWE5YYzZSUjRwcURaMTRuUVpHQlpwbkxkNV9nWWthSEs5bndycW1LQ1N0UkhGeWxYUmkyUndreGlHYkRrOHN2UWRvWFhhWVczbVo2QzZpOHFYZzN3?oc=5",
+          "publishedOn": "2024-10-04T10:37:00.000Z",
+          "wordCount": 12534,
+          "title": "Linux Systems Vulnerable to perfctl Malware - Channel E2E",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMizwFBVV95cUxPWmFwSGptak85LV9fMVhwRFlNOGNfVDYwQWFSN1ZQbS1sQ2NseDBvcFhHUTBXbjVPU0xKWEl3cS1uLUJzR1IzWmhJZ3p5UE11WkNGMkQ5Slk3cE9sdXBEMW56R2hGYVJCR2pPWm1YbkpKSE5WekZEWHBrSzlNaHZDUHZsS1VwYUJVOWVNNkZJMHpDeGVVWWc3cXZzMmxwVURacnV4OUpsakUxSlA1R3dtTlFYNnI2VXJ4TzVtcF82TkRiMEpld1UxaHlDMDVpOTg",
+          "author": null,
+          "description": "Sid Meier's Civilization VII gets Windows system requirements with Linux and macOS details later  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmFwSGptak85LV9fMVhwRFlNOGNfVDYwQWFSN1ZQbS1sQ2NseDBvcFhHUTBXbjVPU0xKWEl3cS1uLUJzR1IzWmhJZ3p5UE11WkNGMkQ5Slk3cE9sdXBEMW56R2hGYVJCR2pPWm1YbkpKSE5WekZEWHBrSzlNaHZDUHZsS1VwYUJVOWVNNkZJMHpDeGVVWWc3cXZzMmxwVURacnV4OUpsakUxSlA1R3dtTlFYNnI2VXJ4TzVtcF82TkRiMEpld1UxaHlDMDVpOTg?oc=5",
+          "publishedOn": "2024-10-04T08:36:53.000Z",
+          "wordCount": 12534,
+          "title": "Sid Meier's Civilization VII gets Windows system requirements with Linux and macOS details later - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTE8wTl9oZVJ1V2pxTnFWaWNuRHJPZE5ENDRQeVdHQTU4NkdfVzF4YXRfbWw5djlGV1d3SThvSHVpN1JtUjk4Ml83dF9ELXloTmJvQjZSYlRzaTJCSGJKQTRDetIBZkFVX3lxTE4wRUt2M19ubkhYRjVtbWxWY0hHNlpRb1VMcWVQNy1TZmhadDU1NldzQWF6cG9GYVV1Q0JLZTlRdFQ2RFhsMlZ0VGxjQS1uREotS3JLLXVWLWZVQmF5S3o3OXM3OFBJdw",
+          "author": null,
+          "description": "Busybox 1.37 is tiny but capable, the way we like Linux tools to be  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wTl9oZVJ1V2pxTnFWaWNuRHJPZE5ENDRQeVdHQTU4NkdfVzF4YXRfbWw5djlGV1d3SThvSHVpN1JtUjk4Ml83dF9ELXloTmJvQjZSYlRzaTJCSGJKQTRDetIBZkFVX3lxTE4wRUt2M19ubkhYRjVtbWxWY0hHNlpRb1VMcWVQNy1TZmhadDU1NldzQWF6cG9GYVV1Q0JLZTlRdFQ2RFhsMlZ0VGxjQS1uREotS3JLLXVWLWZVQmF5S3o3OXM3OFBJdw?oc=5",
+          "publishedOn": "2024-10-04T08:30:00.000Z",
+          "wordCount": 12534,
+          "title": "Busybox 1.37 is tiny but capable, the way we like Linux tools to be - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxOS09zQzlKdXpFcVN6WEt5bUtPRUlfaGxrSE0tRFR5WS1NM0JudjJoTlpldXhURUJFYWpZcjd0bVNxNnl0T05zaWlkLTh5enNaVE1FRWQ2ZTBhUnVIS3FvWU9nREs4Wkg3NzUyNGlwcXFTYU9VSC15N0F6RjRPQkhlZHVYeHJvb1RuOXJvQ3c2S2ZyREx0",
+          "author": null,
+          "description": "Linux Endpoint Protection: Key Challenges & Best Practices  SentinelOne",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS09zQzlKdXpFcVN6WEt5bUtPRUlfaGxrSE0tRFR5WS1NM0JudjJoTlpldXhURUJFYWpZcjd0bVNxNnl0T05zaWlkLTh5enNaVE1FRWQ2ZTBhUnVIS3FvWU9nREs4Wkg3NzUyNGlwcXFTYU9VSC15N0F6RjRPQkhlZHVYeHJvb1RuOXJvQ3c2S2ZyREx0?oc=5",
+          "publishedOn": "2024-10-04T08:18:29.000Z",
+          "wordCount": 12534,
+          "title": "Linux Endpoint Protection: Key Challenges & Best Practices - SentinelOne",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMibEFVX3lxTFAwYmdHemRILXpZc1E2TnhyeV9NdGlDYUZRQ0Z1Q1p5T1hrak1Wa21MbGhyczNaLVF6eEY5cUFJNzVnT21kanBUd2ZnenMwYUwzRm1QWGpYRHpXcUZob01oS0FOTGVyVnBzT3EyS9IBckFVX3lxTE05eExCc2dKNWlCNmtlSUVYYWVsX05Vb1RiZEJtamM1T01nekxKUkltdVF1SWRJMVdOVldWUlozeTJSa2ctRmExa1Bpclo5R043LUxHZk5EX25zUTRfQmhCS3lLLTF6Wk02N0Fpa2lSTS00dw",
           "author": null,
@@ -2422,6 +2642,16 @@
           "publishedOn": "2024-10-01T07:34:26.000Z",
           "wordCount": 12522,
           "title": "Linux Mint Shows How The New Cinnamon Theme Looks Like - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihAFBVV95cUxQT20xSWptYmlIbWpoMXQ3VTc5SGRuaHIzSEhtRkh1ellqQXhQVlg5UkExdTMwT3dwZkFLMHNzRGtSSjJKZkc0NU9fNzg5ajlNTEZEdW1GenVQRG9zNExaYkc2WTNUbS13M1VXZFhVMF9RT2JVNEE4WFlFV2RiSGlNREk4dlU",
+          "author": null,
+          "description": "Exploring Network Dynamics with NetworkX on Linux  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT20xSWptYmlIbWpoMXQ3VTc5SGRuaHIzSEhtRkh1ellqQXhQVlg5UkExdTMwT3dwZkFLMHNzRGtSSjJKZkc0NU9fNzg5ajlNTEZEdW1GenVQRG9zNExaYkc2WTNUbS13M1VXZFhVMF9RT2JVNEE4WFlFV2RiSGlNREk4dlU?oc=5",
+          "publishedOn": "2024-10-01T07:00:00.000Z",
+          "wordCount": 12534,
+          "title": "Exploring Network Dynamics with NetworkX on Linux - Linux Journal",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7263,236 +7493,6 @@
           "wordCount": 12407,
           "title": "Rust, Linux, SLOs and All Things Performance at P99 CONF - The New Stack",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi2wFBVV95cUxPRWlQakVwYk5rc2JVTk5tbmM1aHA2aFFfRERYaWRQZ196a2toOEFvWElIa1dKSjVpYVJEaWdHZl9mYW51Wm9wRTJ3aW9zN19BbmpPSUhsdFlKVWU3R281R05aSHFtUjZROG8tMGJDc1ZIbTZRS1JPMm5ZQ0hZVXBxOTY2U01nSWpldFdSaUNUZmlNbGZ1clVNYXlpbDRvWmNLR1owSHg1Zl84bWhvM2JUakxMRF9GdlNIcl9VUXpsWi1qWU1yVlBUU1MwTGx3aEZhOURyT3hiQ1d4blU",
-          "author": null,
-          "description": "Cubic DTECH Fusion eHPC Achieves Red Hat Enterprise Linux 9.4 and Red Hat OpenShift Certifications  Big News Network",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWlQakVwYk5rc2JVTk5tbmM1aHA2aFFfRERYaWRQZ196a2toOEFvWElIa1dKSjVpYVJEaWdHZl9mYW51Wm9wRTJ3aW9zN19BbmpPSUhsdFlKVWU3R281R05aSHFtUjZROG8tMGJDc1ZIbTZRS1JPMm5ZQ0hZVXBxOTY2U01nSWpldFdSaUNUZmlNbGZ1clVNYXlpbDRvWmNLR1owSHg1Zl84bWhvM2JUakxMRF9GdlNIcl9VUXpsWi1qWU1yVlBUU1MwTGx3aEZhOURyT3hiQ1d4blU?oc=5",
-          "publishedOn": "2024-09-05T13:17:00.000Z",
-          "wordCount": 12407,
-          "title": "Cubic DTECH Fusion eHPC Achieves Red Hat Enterprise Linux 9.4 and Red Hat OpenShift Certifications - Big News Network",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilAFBVV95cUxOSHpCSFdpVHhqeEhPd2N2cFl1MWY1M2w2X1JhMDk5WnNzM0Y4cERvRGZkdDFxdktnTU5jVjhEekNkRWRnQlprTzBsbGNmWDI0WHNRcjNyU2hFRjBzanAwVFNnbDZtZUFFQjFyeGxGTDhmbl9sQ2gwNHltUVhiLUE5M3p5ejk3elB3Zkx1azdNRWczQWt5",
-          "author": null,
-          "description": "HelpWire Adds Linux Support in Newest Update  Big News Network",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHpCSFdpVHhqeEhPd2N2cFl1MWY1M2w2X1JhMDk5WnNzM0Y4cERvRGZkdDFxdktnTU5jVjhEekNkRWRnQlprTzBsbGNmWDI0WHNRcjNyU2hFRjBzanAwVFNnbDZtZUFFQjFyeGxGTDhmbl9sQ2gwNHltUVhiLUE5M3p5ejk3elB3Zkx1azdNRWczQWt5?oc=5",
-          "publishedOn": "2024-09-05T13:17:00.000Z",
-          "wordCount": 12407,
-          "title": "HelpWire Adds Linux Support in Newest Update - Big News Network",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxNNGd3OVg4Njk4U2tmUHZLazUwb25lWWlIcl8tME1ORjVPczZINnN2NUVDMEx0VkJSeXhVR1JJMGZiYVMyUlZHNHBIUmlZbldCaVVoOGV3WWVpRzB2ZWo4bTk3UVJPMkRLT05DVGFod1c3V0V2YXhPQUJYdzVRdVhwVkp1M2tOSXRhcUpmVDQ0WUtkS3BoSkN4NXpB0gGgAUFVX3lxTE5wdWdfWWFqTk9RSk0tN0dEdXdIQklSSG54RkdJd0VCbHFrVm5IaGxCdGNHdW4wWEo4RXJSdXU1TUY1a3ZDX05aU3lYWmJiWkhmaGg3Y0dXS3ZOeHFpaG5BZC1kU3Q3TVd6QWgyLW9RRjUxVy0xemR4MUZBMmxQSjMzczloeEZrRzREXzZoRzBCdzg0TlByUWUtQVJfTlBFN08",
-          "author": null,
-          "description": "Red Hat delivers AI-optimized Linux platform  Network World",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGd3OVg4Njk4U2tmUHZLazUwb25lWWlIcl8tME1ORjVPczZINnN2NUVDMEx0VkJSeXhVR1JJMGZiYVMyUlZHNHBIUmlZbldCaVVoOGV3WWVpRzB2ZWo4bTk3UVJPMkRLT05DVGFod1c3V0V2YXhPQUJYdzVRdVhwVkp1M2tOSXRhcUpmVDQ0WUtkS3BoSkN4NXpB0gGgAUFVX3lxTE5wdWdfWWFqTk9RSk0tN0dEdXdIQklSSG54RkdJd0VCbHFrVm5IaGxCdGNHdW4wWEo4RXJSdXU1TUY1a3ZDX05aU3lYWmJiWkhmaGg3Y0dXS3ZOeHFpaG5BZC1kU3Q3TVd6QWgyLW9RRjUxVy0xemR4MUZBMmxQSjMzczloeEZrRzREXzZoRzBCdzg0TlByUWUtQVJfTlBFN08?oc=5",
-          "publishedOn": "2024-09-05T13:07:30.000Z",
-          "wordCount": 12407,
-          "title": "Red Hat delivers AI-optimized Linux platform - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiywFBVV95cUxPajNyZERhYm1HZm1Fek5WVVZkYnZsbEZfTS05YVNZeGtmdU1SSGJhX1hvY0R2UTYzaWZRSzdMcEI4eTUyUmNBcGFVQ2R5X19zT0JqbUNqdDlDbDRZTXdjdDJqX3B6aVBYMXhHMUZFX2pzQ0o3Q285QU9PUFR3YkdPcS16YzA0MWpUblRCMEg0TEJteWNZSHF4TUs4djRhVDFZZDJxSE1GZFJaeldLNC11dUstQ3VJWTBDUVN3cFN5ZkR4MmhNb1dZSDZaQQ",
-          "author": null,
-          "description": "Cubic DTECH Fusion eHPC Achieves Red Hat Enterprise Linux 9.4 and Red Hat OpenShift Certifications  AccessWire",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajNyZERhYm1HZm1Fek5WVVZkYnZsbEZfTS05YVNZeGtmdU1SSGJhX1hvY0R2UTYzaWZRSzdMcEI4eTUyUmNBcGFVQ2R5X19zT0JqbUNqdDlDbDRZTXdjdDJqX3B6aVBYMXhHMUZFX2pzQ0o3Q285QU9PUFR3YkdPcS16YzA0MWpUblRCMEg0TEJteWNZSHF4TUs4djRhVDFZZDJxSE1GZFJaeldLNC11dUstQ3VJWTBDUVN3cFN5ZkR4MmhNb1dZSDZaQQ?oc=5",
-          "publishedOn": "2024-09-05T13:00:48.000Z",
-          "wordCount": 12407,
-          "title": "Cubic DTECH Fusion eHPC Achieves Red Hat Enterprise Linux 9.4 and Red Hat OpenShift Certifications - AccessWire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi5gFBVV95cUxOZEhBSUdZTFNqcWVObU1SYVN1YUVNS3RHcnU4M3VFWjdXbmtEa19mSjlZMlJWVXlCREVVQ3NUSWZzYjdQLWhNbjNSNlNHR2FuSnpYbGFkX0trZU1aVXphS3oyYlFLRS1VMjZEVEU4MVdGemEzWTZMRGdhY1RMV1ZPTnhlSDZaeGw5Ui1mMDBiSGRrU01GaHh3TWN0ZXBtZVhveTFvQnhRQWJkd3FxR3F4enVXVms3WUtSSmlRVUxfZ2xGQ0pvdHhEa2QwWHdQeE55eHRUaWdMdlZMZHF3dHRFdTJLWkk2Zw",
-          "author": null,
-          "description": "Red Hat Enterprise Linux AI Now Generally Available for Enterprise AI Innovation in Production  Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZEhBSUdZTFNqcWVObU1SYVN1YUVNS3RHcnU4M3VFWjdXbmtEa19mSjlZMlJWVXlCREVVQ3NUSWZzYjdQLWhNbjNSNlNHR2FuSnpYbGFkX0trZU1aVXphS3oyYlFLRS1VMjZEVEU4MVdGemEzWTZMRGdhY1RMV1ZPTnhlSDZaeGw5Ui1mMDBiSGRrU01GaHh3TWN0ZXBtZVhveTFvQnhRQWJkd3FxR3F4enVXVms3WUtSSmlRVUxfZ2xGQ0pvdHhEa2QwWHdQeE55eHRUaWdMdlZMZHF3dHRFdTJLWkk2Zw?oc=5",
-          "publishedOn": "2024-09-05T13:00:00.000Z",
-          "wordCount": 12407,
-          "title": "Red Hat Enterprise Linux AI Now Generally Available for Enterprise AI Innovation in Production - Business Wire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxObVg3Zmp5WERxNXdRcmFiQld6OUt2MHV0VDdvNC10UnZfTEhmc0NQeDhzYUtFV05pa3ZwSUJ4Z0xtdkhLeVRCSXJFbTA1dGM0UDBTWnVYRU15YVhSN2p1V19xRVFMdk8wMmRBblZrdjc3RndoRXAyTG9hWjR5Uno3d29tcDR6WDQ",
-          "author": null,
-          "description": "What's Your Favorite Linux Distribution and Why?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVg3Zmp5WERxNXdRcmFiQld6OUt2MHV0VDdvNC10UnZfTEhmc0NQeDhzYUtFV05pa3ZwSUJ4Z0xtdkhLeVRCSXJFbTA1dGM0UDBTWnVYRU15YVhSN2p1V19xRVFMdk8wMmRBblZrdjc3RndoRXAyTG9hWjR5Uno3d29tcDR6WDQ?oc=5",
-          "publishedOn": "2024-09-05T11:32:32.000Z",
-          "wordCount": 12407,
-          "title": "What's Your Favorite Linux Distribution and Why? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY0FVX3lxTE1YMUFoRXoybjI4ZElNTW9xUkg4Smdxc2xiNXAzazBZSzBPdldzLU95MVJmd3FrNENsNnEzb1EtVWZ6UTFPUElGQUNoMi1LZkQ0WkdMTGlCNU1CSnJoLXhjNUpyYw",
-          "author": null,
-          "description": "Here's Everything New in GNOME 47  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YMUFoRXoybjI4ZElNTW9xUkg4Smdxc2xiNXAzazBZSzBPdldzLU95MVJmd3FrNENsNnEzb1EtVWZ6UTFPUElGQUNoMi1LZkQ0WkdMTGlCNU1CSnJoLXhjNUpyYw?oc=5",
-          "publishedOn": "2024-09-05T11:00:00.000Z",
-          "wordCount": 12407,
-          "title": "Here's Everything New in GNOME 47 - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE9IUUdDeWFyd05taDREM3AyTHBpRzVQMlRXeEMtV3NYTUdVTzgxVXd1YkZ2aWpYUnlfYms1S3RidGtxaG1DUlJUTm1SYlVvLVhSNUd2LVFGd3R3SlFiajV0YTJ1RnV6Nmc",
-          "author": null,
-          "description": "Intel's Open-Source Vulkan Driver Will No Longer Warn Over Using Xe2 Graphics  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUUdDeWFyd05taDREM3AyTHBpRzVQMlRXeEMtV3NYTUdVTzgxVXd1YkZ2aWpYUnlfYms1S3RidGtxaG1DUlJUTm1SYlVvLVhSNUd2LVFGd3R3SlFiajV0YTJ1RnV6Nmc?oc=5",
-          "publishedOn": "2024-09-05T10:51:00.000Z",
-          "wordCount": 12407,
-          "title": "Intel's Open-Source Vulkan Driver Will No Longer Warn Over Using Xe2 Graphics - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTFBST3ZrbHkxZ2p3SVJzMnRBNE9pQ3Y4X0R3clpiVk5reHNabVJMTWZ4MVl6ZkJweURYQlJIaWR6UkxiZ2g5aG9LMXZ4MjdLRGNTb01PdVI4YmRtZC1qVm9lOVdfd0FqeGhmRmx3",
-          "author": null,
-          "description": "getrandom() vDSO Coming To More Architectures With Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBST3ZrbHkxZ2p3SVJzMnRBNE9pQ3Y4X0R3clpiVk5reHNabVJMTWZ4MVl6ZkJweURYQlJIaWR6UkxiZ2g5aG9LMXZ4MjdLRGNTb01PdVI4YmRtZC1qVm9lOVdfd0FqeGhmRmx3?oc=5",
-          "publishedOn": "2024-09-05T10:35:00.000Z",
-          "wordCount": 12407,
-          "title": "getrandom() vDSO Coming To More Architectures With Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimwFBVV95cUxQY0YzLUJrSWtHM0ZhcEJOSURsamdMX2RRZWh4TUF0SC1fdzNWZ0FZWmFDWlBaWlV0bGYyZUFZM2ZZeEU2SWZ3OXNwSzNabHZMZVJIc2JlYXNta2lfTm1pZ3ppaWhYUHYwMXVNb3FRXy1iZ1Vmdkk0a190TjdJbndpSUdGbEVZa3owR01HWmx6alJ1ZjhWYmZCcHRvVdIBoAFBVV95cUxQVXY3U0d5NWxWOXdaTkdkaXJhUlVZRGhlcTlpTWg5eUlfUlNMeS05Umw1cVZvNF90YXpQVWplM2FDZmVtcHFfRHpjVU4zS1VTb1dtTDZiZFNjdWJlYlB2V05PV2RsX3AwTy10ak5RSmdaaGwtaHgxNXRWSmZwdjBMN3NsQTE0ZXVCTkNzbUh5Z0E3NUhCSUMtalZDNXNaMVQy",
-          "author": null,
-          "description": "QEMU 9.1 Improves ARM and RISC-V Support, Adds Compression Offload Support  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0YzLUJrSWtHM0ZhcEJOSURsamdMX2RRZWh4TUF0SC1fdzNWZ0FZWmFDWlBaWlV0bGYyZUFZM2ZZeEU2SWZ3OXNwSzNabHZMZVJIc2JlYXNta2lfTm1pZ3ppaWhYUHYwMXVNb3FRXy1iZ1Vmdkk0a190TjdJbndpSUdGbEVZa3owR01HWmx6alJ1ZjhWYmZCcHRvVdIBoAFBVV95cUxQVXY3U0d5NWxWOXdaTkdkaXJhUlVZRGhlcTlpTWg5eUlfUlNMeS05Umw1cVZvNF90YXpQVWplM2FDZmVtcHFfRHpjVU4zS1VTb1dtTDZiZFNjdWJlYlB2V05PV2RsX3AwTy10ak5RSmdaaGwtaHgxNXRWSmZwdjBMN3NsQTE0ZXVCTkNzbUh5Z0E3NUhCSUMtalZDNXNaMVQy?oc=5",
-          "publishedOn": "2024-09-05T08:55:45.000Z",
-          "wordCount": 12407,
-          "title": "QEMU 9.1 Improves ARM and RISC-V Support, Adds Compression Offload Support - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiugFBVV95cUxNUVlvT25ERFFLd3VTaDFWdmY1ZUJOZ2xveW5ERzl3ekJuUkdxc0dBaWRiTGI1YmlFbHpSR1J5YU40UTJSRlQyeHAydVhUMmIyc1ZIS3lxbzFfMDVLT25DQXNVd21WSkJBWHVicHhZV2xnWXJnR3hSUHh0dlhFVDB1ZDZiMlVnNFJuQ1RlZVlfUV9aa2NxNW54ZWZvSnFVSGNjUGU5dGxKdUtsZmt1WXV2elRkc0hDVFFPQVE",
-          "author": null,
-          "description": "Exploring Machine Learning Enabled Microcontrollers As An Alternative To Linux-Based MPUs  SemiEngineering",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVlvT25ERFFLd3VTaDFWdmY1ZUJOZ2xveW5ERzl3ekJuUkdxc0dBaWRiTGI1YmlFbHpSR1J5YU40UTJSRlQyeHAydVhUMmIyc1ZIS3lxbzFfMDVLT25DQXNVd21WSkJBWHVicHhZV2xnWXJnR3hSUHh0dlhFVDB1ZDZiMlVnNFJuQ1RlZVlfUV9aa2NxNW54ZWZvSnFVSGNjUGU5dGxKdUtsZmt1WXV2elRkc0hDVFFPQVE?oc=5",
-          "publishedOn": "2024-09-05T07:40:27.000Z",
-          "wordCount": 12407,
-          "title": "Exploring Machine Learning Enabled Microcontrollers As An Alternative To Linux-Based MPUs - SemiEngineering",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTE5HTUtZQUhpSHhuM2pTYzJBRzhnblJTaTMta0FaLXVtc1JMOWRNam0xTmlESHdqckdxS1BUcXQ4cDdvV1N4QXQ1LUJ3N251UlVqclpqY0VNUVRSRGdjWFE",
-          "author": null,
-          "description": "FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HTUtZQUhpSHhuM2pTYzJBRzhnblJTaTMta0FaLXVtc1JMOWRNam0xTmlESHdqckdxS1BUcXQ4cDdvV1N4QXQ1LUJ3N251UlVqclpqY0VNUVRSRGdjWFE?oc=5",
-          "publishedOn": "2024-09-05T05:33:36.000Z",
-          "wordCount": 12407,
-          "title": "FOSS Weekly #24.36: Best Linux Terminals, Arch Repos, Windows Recall Fiasco and More - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUkFVX3lxTE5JNXZCcEhuYkNSMU82ZFB4N2EySl9zYWVfaGQzSnJHeUh6ck10T2oyRGdreXFlY3N0YXk3TjN6NjZRVXpseUNLdm9uMG9GVk1zcGc",
-          "author": null,
-          "description": "Getting Debianized  Open for Business",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JNXZCcEhuYkNSMU82ZFB4N2EySl9zYWVfaGQzSnJHeUh6ck10T2oyRGdreXFlY3N0YXk3TjN6NjZRVXpseUNLdm9uMG9GVk1zcGc?oc=5",
-          "publishedOn": "2024-09-05T02:41:30.000Z",
-          "wordCount": 12407,
-          "title": "Getting Debianized - Open for Business",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxOdGoxN01fZUc2Z2dDdURRV2JaZGVJaXNwN1oyMXdhbkZtaWFRaG5LNGRDSk5jQzRSdVNVZ3hKWTl3Mlh4Q3k2dHM0T0NXY1NncVFueWs4ZjdoTmhBV003NmFkTnpYenFkbWxfdGljNmFnaW9VWVM0bjlsTmg5bzd6WVZOM3Q",
-          "author": null,
-          "description": "6 reasons you should use Ubuntu for your own NAS  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGoxN01fZUc2Z2dDdURRV2JaZGVJaXNwN1oyMXdhbkZtaWFRaG5LNGRDSk5jQzRSdVNVZ3hKWTl3Mlh4Q3k2dHM0T0NXY1NncVFueWs4ZjdoTmhBV003NmFkTnpYenFkbWxfdGljNmFnaW9VWVM0bjlsTmg5bzd6WVZOM3Q?oc=5",
-          "publishedOn": "2024-09-05T00:00:00.000Z",
-          "wordCount": 12407,
-          "title": "6 reasons you should use Ubuntu for your own NAS - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwwFBVV95cUxQRmk5aEptSUFnNXlQY1Y4X0hyUE05clpoMnNkYXNCdGRKNjN2eDZMQWpMalNKblhxOGJnVGR1VEZQTDItbHFUcHpGQmhMWmhvcDF2cHRCTUlvSmJ0c3M5dUVQc09RT29jU1l5Z1J1am1KYVRVRjlpOThZV25qUmJmT3VhYjJmbl9Cb2lwc3BXV1BTRUZ1RVZSdlZZaUNrYVA0eC1oQWV5anYtb1pEd0FmSzJHTW1YcFJfTG5LYmotcFhBMDQ",
-          "author": null,
-          "description": "Minimalist Linux distro Peropesis 2.7 comes with archive and ISO management tools  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmk5aEptSUFnNXlQY1Y4X0hyUE05clpoMnNkYXNCdGRKNjN2eDZMQWpMalNKblhxOGJnVGR1VEZQTDItbHFUcHpGQmhMWmhvcDF2cHRCTUlvSmJ0c3M5dUVQc09RT29jU1l5Z1J1am1KYVRVRjlpOThZV25qUmJmT3VhYjJmbl9Cb2lwc3BXV1BTRUZ1RVZSdlZZaUNrYVA0eC1oQWV5anYtb1pEd0FmSzJHTW1YcFJfTG5LYmotcFhBMDQ?oc=5",
-          "publishedOn": "2024-09-04T21:10:24.000Z",
-          "wordCount": 12407,
-          "title": "Minimalist Linux distro Peropesis 2.7 comes with archive and ISO management tools - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilAFBVV95cUxOb21SekVKSVByUWF1WXI5RHdxcWRiN0hUNThVUDcxZHpPRFVobDV0YzNKbldHM05ILURtdm1QdFRNamotUXY2NTlOclZETm40YUJGdm9COU1VSWl6QlFwNDZaUnRyQ3JNVUs1Rms3V3pMR1Y0VElmdWlpTHp6Mnl6eWdWVXpxeHNxcWdXVW05TnNUSmk2",
-          "author": null,
-          "description": "Easily Run Linux Virtual Machines for Free On Your Mac With UTM  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb21SekVKSVByUWF1WXI5RHdxcWRiN0hUNThVUDcxZHpPRFVobDV0YzNKbldHM05ILURtdm1QdFRNamotUXY2NTlOclZETm40YUJGdm9COU1VSWl6QlFwNDZaUnRyQ3JNVUs1Rms3V3pMR1Y0VElmdWlpTHp6Mnl6eWdWVXpxeHNxcWdXVW05TnNUSmk2?oc=5",
-          "publishedOn": "2024-09-04T19:15:00.000Z",
-          "wordCount": 12407,
-          "title": "Easily Run Linux Virtual Machines for Free On Your Mac With UTM - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFBVV95cUxPLVJYd3ZjcTA5SzNiejRZdTRlY1hTakxfOHdKTW9kTjFkZjB0cFNzQWU4bV9ZSnh2M0hnVVJSTWNRMmVqZHN2U2NCX0JVQjUweEg1ckF6aHp2Mk1MRVVwQlc2dFlvTU9NN3daYm1KWVkzR0tXeGZJZTlZckVNTHZKWmVSQkNkQQ",
-          "author": null,
-          "description": "How to access Linux NFS share folders from MacOS  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVJYd3ZjcTA5SzNiejRZdTRlY1hTakxfOHdKTW9kTjFkZjB0cFNzQWU4bV9ZSnh2M0hnVVJSTWNRMmVqZHN2U2NCX0JVQjUweEg1ckF6aHp2Mk1MRVVwQlc2dFlvTU9NN3daYm1KWVkzR0tXeGZJZTlZckVNTHZKWmVSQkNkQQ?oc=5",
-          "publishedOn": "2024-09-04T18:55:00.000Z",
-          "wordCount": 12407,
-          "title": "How to access Linux NFS share folders from MacOS - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTE5fdTdxZ19BT3kzU2ppZkROR3JEclMxeUdMYmtKTmFJc3RFMTNQS0FWT2NGa0NwR1gzWFRSaWV6dDFSNGMyMHdNelFkd3htU004TkNDMldSQ1lHYThIejFESzVxSFc",
-          "author": null,
-          "description": "AMD Ryzen 9 9950X Power/Performance With CPU Frequency Scaling Driver Tunables Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdTdxZ19BT3kzU2ppZkROR3JEclMxeUdMYmtKTmFJc3RFMTNQS0FWT2NGa0NwR1gzWFRSaWV6dDFSNGMyMHdNelFkd3htU004TkNDMldSQ1lHYThIejFESzVxSFc?oc=5",
-          "publishedOn": "2024-09-04T18:53:00.000Z",
-          "wordCount": 12407,
-          "title": "AMD Ryzen 9 9950X Power/Performance With CPU Frequency Scaling Driver Tunables Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTFBoR1pSNXBzdHl5OU1TWUt0TVJ2c3FsVkNkZzJyX1VJRFpwOVpNTk5KTXVmcjVjVTVyOWUxMkpDODBFanFRck00cEg1SWhCYmhiZzJIRUtkbTlRWkF0S3c",
-          "author": null,
-          "description": "Redox OS Unlocks Faster VM Performance, \"Slightly Faster\" Than Linux In Some Benchmarks  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoR1pSNXBzdHl5OU1TWUt0TVJ2c3FsVkNkZzJyX1VJRFpwOVpNTk5KTXVmcjVjVTVyOWUxMkpDODBFanFRck00cEg1SWhCYmhiZzJIRUtkbTlRWkF0S3c?oc=5",
-          "publishedOn": "2024-09-04T18:12:00.000Z",
-          "wordCount": 12407,
-          "title": "Redox OS Unlocks Faster VM Performance, \"Slightly Faster\" Than Linux In Some Benchmarks - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE9WX3pmTGhsUERMX2FySjJ4YzRrMjl2SzEtVF9UMjljMko3am1xUzEtbmpyOFRKSGZsRURzTXJOcDVOT0R2ZUtpS0w3YnJ1WjAxSU5mZXpPSGgxNHZoWEpveDdYUjZTYVZCSTgyOTItamhOQWJVQ0NmSzN3ang",
-          "author": null,
-          "description": "Linus On Linux 2024  iProgrammer",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WX3pmTGhsUERMX2FySjJ4YzRrMjl2SzEtVF9UMjljMko3am1xUzEtbmpyOFRKSGZsRURzTXJOcDVOT0R2ZUtpS0w3YnJ1WjAxSU5mZXpPSGgxNHZoWEpveDdYUjZTYVZCSTgyOTItamhOQWJVQ0NmSzN3ang?oc=5",
-          "publishedOn": "2024-09-04T17:40:56.000Z",
-          "wordCount": 12407,
-          "title": "Linus On Linux 2024 - iProgrammer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTE5NVjItbzAwYUVva0llNnV2Tkg0RGdoUzZyelhmb0JwOVNBMXZrdkQxRGxkZDF6dVJRejRaT0RiSms1SW9TaUtFTk5nMkcyRGJpWmpqcGdFc3ZwaldQWFNOSA",
-          "author": null,
-          "description": "Dell Technologies and Red Hat Announce Collaboration to Fuel Open Source AI Workloads on Dell PowerEdge and Red Hat Enterprise Linux AI  WebWire",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVjItbzAwYUVva0llNnV2Tkg0RGdoUzZyelhmb0JwOVNBMXZrdkQxRGxkZDF6dVJRejRaT0RiSms1SW9TaUtFTk5nMkcyRGJpWmpqcGdFc3ZwaldQWFNOSA?oc=5",
-          "publishedOn": "2024-09-04T15:19:57.000Z",
-          "wordCount": 12407,
-          "title": "Dell Technologies and Red Hat Announce Collaboration to Fuel Open Source AI Workloads on Dell PowerEdge and Red Hat Enterprise Linux AI - WebWire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE42VW9FTVRkc3EzSDR2OVpfWXhWRmVpY2JtS01mV2NyYlg0eGlRSjdiMzN3ZTBoUnFxeVQ5RzZTMFo5TXNxYWVWNlVVTVpMSk5YQWpsMWUxQlB3eDUwNExQdHBVV0I2NEVxanVvdHdfak5LN1JMSUdtaTVfd0w",
-          "author": null,
-          "description": "Dell and Red Hat collaborate to bring Linux AI workloads to PowerEdge servers  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42VW9FTVRkc3EzSDR2OVpfWXhWRmVpY2JtS01mV2NyYlg0eGlRSjdiMzN3ZTBoUnFxeVQ5RzZTMFo5TXNxYWVWNlVVTVpMSk5YQWpsMWUxQlB3eDUwNExQdHBVV0I2NEVxanVvdHdfak5LN1JMSUdtaTVfd0w?oc=5",
-          "publishedOn": "2024-09-04T15:00:55.000Z",
-          "wordCount": 12407,
-          "title": "Dell and Red Hat collaborate to bring Linux AI workloads to PowerEdge servers - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipgFBVV95cUxNa2VGOS1QWWVxUl9ndHVySjRNNUp0cjlOb05Tc3oxblVDeEp2RFF3bjBvbjEwUTFpczNhdVpFeWFKWFVxVXVjVmFLSHZBcTVGczFuWHQ2VFMzd28yc3VaWUlkUjNKazRTX2NVSEc1MlRpOVVqMTd5ZjJONnhNdDBKS3d4SWNmbzNjamxBS1BEUFVNREJZQTZzdXJPLTJndmx5OTZMR3l3",
-          "author": null,
-          "description": "Retroid Pocket 5 and Retroid Pocket Mini will have Linux support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2VGOS1QWWVxUl9ndHVySjRNNUp0cjlOb05Tc3oxblVDeEp2RFF3bjBvbjEwUTFpczNhdVpFeWFKWFVxVXVjVmFLSHZBcTVGczFuWHQ2VFMzd28yc3VaWUlkUjNKazRTX2NVSEc1MlRpOVVqMTd5ZjJONnhNdDBKS3d4SWNmbzNjamxBS1BEUFVNREJZQTZzdXJPLTJndmx5OTZMR3l3?oc=5",
-          "publishedOn": "2024-09-04T14:11:26.000Z",
-          "wordCount": 12407,
-          "title": "Retroid Pocket 5 and Retroid Pocket Mini will have Linux support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9956,6 +9956,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
+          "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "publishedOn": "2024-10-04T09:00:00.000Z",
+          "wordCount": 5160,
+          "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "author": "hello@smashingmagazine.com (Philip Jägenstedt)",
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
@@ -10104,21 +10119,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "author": "hello@smashingmagazine.com (Philip Braunen)",
-          "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
-          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4333,
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg"
         }
       ]
     },
@@ -10127,6 +10127,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dennis Ivy, a software engineer and prolific freelancer. Dennis dropped out of college at 18 and taught himself how to build websites. He started his first agency, b...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
+          "publishedOn": "2024-10-04T13:44:45.000Z",
+          "wordCount": 1081,
+          "title": "How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [Podcast #144]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728049425954/70835994-ec19-41c3-b2ea-9c3801ef3245.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cross-browser-devtools-features/",
+          "author": "Uma Victor",
+          "description": "Building cross-browser web applications can be a difficult task, as many browsers offer few debugging tools that often vary between them. Fortunately, today most browsers support modern standards and provide helpful features for developers. Major bro...",
+          "link": "https://www.freecodecamp.org/news/cross-browser-devtools-features/",
+          "publishedOn": "2024-10-03T22:58:07.000Z",
+          "wordCount": 3005,
+          "title": "How to Boost Your Productivity With Cross-Browser DevTools Features",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JySoEnr-eOg/upload/e3e1bb6fdf9c408f7506093587114629.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/",
           "author": "Manish Shivanandhan",
@@ -10806,66 +10826,6 @@
           "wordCount": 1618,
           "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725456042044/d3744ebe-ad28-42c4-99a2-25d6bd250aee.webp"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
-          "author": "Rajdeep Singh",
-          "description": "Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
-          "publishedOn": "2024-09-05T11:52:11.000Z",
-          "wordCount": 1899,
-          "title": "How to Manage your Open Source Project with GitHub",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725180872053/0ea74f81-dc72-4f09-976f-4199c2e3893b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
-          "author": "Preston Mayieka",
-          "description": "In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...",
-          "link": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
-          "publishedOn": "2024-09-05T01:07:47.000Z",
-          "wordCount": 1779,
-          "title": "What is Speedy Web Compiler? SWC Explained With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725290113209/260f00cb-5bfe-4260-8e45-0c61a1897cae.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
-          "author": "Beau Carnes",
-          "description": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...",
-          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
-          "publishedOn": "2024-09-04T21:32:32.000Z",
-          "wordCount": 968,
-          "title": "Learn the MERN Stack by Building a Store",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485472834/b95dd94c-7118-4290-91ca-5bb9d0a0db7a.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...",
-          "link": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
-          "publishedOn": "2024-09-04T21:27:23.000Z",
-          "wordCount": 1027,
-          "title": "Master Multimodal Data Analysis with LLMs and Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485224418/61b7501f-11c6-4ba2-9864-d09d4e4ce37c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
-          "author": "Oluwatobi",
-          "description": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
-          "link": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
-          "publishedOn": "2024-09-04T16:03:10.000Z",
-          "wordCount": 2335,
-          "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725036062594/0efa7e12-c5d5-410f-ad9c-ec6a67a31f7c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
-          "author": "Brandon Wozniewicz",
-          "description": "Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...",
-          "link": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
-          "publishedOn": "2024-09-04T15:19:15.000Z",
-          "wordCount": 2503,
-          "title": "How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724883531478/4fa7979a-e61a-4268-94dc-a48dfcf17b4b.jpeg"
         }
       ]
     }
