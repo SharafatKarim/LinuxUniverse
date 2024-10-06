@@ -18,6 +18,36 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193235",
+          "author": "Web Webster",
+          "description": "Odoo 18 is an open-source suite of business applications that provides a complete ERP (Enterprise Resource Planning) solution for organizations of various sizes. It offers a wide range of integrated tools and modules to help manage all aspects of a business, such as finance, sales, inventory, human resources, and more. The open-source community edition is […]\nThe post How to Install Odoo 18 on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-odoo-18-on-ubuntu-24-04/",
+          "publishedOn": "2024-10-05T22:19:58.000Z",
+          "wordCount": 9182,
+          "title": "How to Install Odoo 18 on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193234",
+          "author": "Web Webster",
+          "description": "The first official OpenWrt One/AP-24.XY router board goes on sale, featuring MediaTek’s latest SoC with WiFi 6 for enhanced connectivity, priced at $111.\nThe post Banana Pi and OpenWrt’s One/AP-24.XY Router Board Hits the Market appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/banana-pi-and-openwrts-one-ap-24-xy-router-board-hits-the-market/",
+          "publishedOn": "2024-10-05T18:18:34.000Z",
+          "wordCount": 9071,
+          "title": "Banana Pi and OpenWrt’s One/AP-24.XY Router Board Hits the Market",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193232",
+          "author": "Web Webster",
+          "description": "Pydio Cells is an open-source document-sharing and collaboration platform for your organization. In this guide, we’ll show you how to install Pydio Cells on an Alma Linux 9 server.\nThe post How to Install Pydio Cells on AlmaLinux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-pydio-cells-on-almalinux-9/",
+          "publishedOn": "2024-10-05T15:15:28.000Z",
+          "wordCount": 9062,
+          "title": "How to Install Pydio Cells on AlmaLinux 9",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193271",
           "author": "Web Webster",
           "description": "This new major release beaks the libfwupd ABI to drop legacy signing formats for verification of metadata and firmware, reduce the runtime memory usage and CPU startup cost significantly, remove all the long-deprecated legacy CLI tools, remove libgusb and GUdev from plugins and use libusb and sysfs instead, and stream firmware binaries over a file […]\nThe post Fwupd 2.0 Open-Source Linux Firmware Updater Released with Major Changes appeared first on Linux Today.",
@@ -1846,86 +1876,6 @@
           "wordCount": 9034,
           "title": "DebPostInstall: Your Essential Post-Installation Toolkit for Debian and Ubuntu Servers",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192036",
-          "author": "Web Webster",
-          "description": "OpenBAS is an open-source platform that enables organizations to plan, schedule, and execute crisis exercises, adversary simulations, and breach simulations. Compliant with ISO 22398 standards, OpenBAS is built as a modern web application featuring a user-centric interface and a RESTful API.\nThe post OpenBAS: Open-Source Breach and Attack Simulation Platform appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/openbas-open-source-breach-and-attack-simulation-platform/",
-          "publishedOn": "2024-09-06T13:00:56.000Z",
-          "wordCount": 9034,
-          "title": "OpenBAS: Open-Source Breach and Attack Simulation Platform",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191855",
-          "author": "Web Webster",
-          "description": "Convertible laptops have gained popularity in recent years, but many models produced by mainstream manufacturers often neglect Linux support. This can lead to a frustrating experience for Linux users who seek devices tailored to their operating system. Recognizing this gap, TUXEDOComputers has introduced the InfinityFlex 14, the first 3-in-1 convertible laptop designed specifically for Linux […]\nThe post TUXEDO InfinityFlex 14 Gen1 Unveiled: The First 3-in-1 Convertible Linux Laptop appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tuxedo-infinityflex-14-gen1-unveiled-the-first-3-in-1-convertible-linux-laptop/",
-          "publishedOn": "2024-09-06T02:00:36.000Z",
-          "wordCount": 9094,
-          "title": "TUXEDO InfinityFlex 14 Gen1 Unveiled: The First 3-in-1 Convertible Linux Laptop",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191849",
-          "author": "Web Webster",
-          "description": "WonderCMS is a lightweight, open-source content management system (CMS) designed for simplicity and ease of use. In this tutorial, we will show you how to install WonderCMS on a Debian 12 server with Apache web server and PHP 8.x.\nThe post How to Install WonderCMS on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-wondercms-on-debian-12/",
-          "publishedOn": "2024-09-06T00:00:11.000Z",
-          "wordCount": 9046,
-          "title": "How to Install WonderCMS on Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191863",
-          "author": "Web Webster",
-          "description": "Redis introduced Redis Flex, cutting costs by 80%, and launched Redis for AI, empowering devs to build and deploy fast GenAI apps efficiently.\nThe post Meet Redis 8: The Fastest and Most Versatile Redis Yet appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/meet-redis-8-the-fastest-and-most-versatile-redis-yet/",
-          "publishedOn": "2024-09-05T22:00:38.000Z",
-          "wordCount": 9036,
-          "title": "Meet Redis 8: The Fastest and Most Versatile Redis Yet",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191887",
-          "author": "Web Webster",
-          "description": "The ID command is used to display the user UID, group GID, and groups to which the current user belongs to help you with user management.\nThe post Beginners Guide for ID Command in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/it-management/beginners-guide-for-id-command-in-linux/",
-          "publishedOn": "2024-09-05T20:00:23.000Z",
-          "wordCount": 9031,
-          "title": "Beginners Guide for ID Command in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191890",
-          "author": "Web Webster",
-          "description": "In this guide, we’ll walk you through the steps to enable automatic security updates to download and install important security patches as soon as they’re available in Debian 12.\nThe post How to Enable Automatic Security Updates in Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-enable-automatic-security-updates-in-debian-12/",
-          "publishedOn": "2024-09-05T18:00:18.000Z",
-          "wordCount": 9038,
-          "title": "How to Enable Automatic Security Updates in Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191906",
-          "author": "Web Webster",
-          "description": "In this tutorial, learn the simple steps to enable Flatpak support in Ubuntu 24.04 LTS to expand your app options.\nThe post How to Install Flatpak Apps on Ubuntu 24.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-flatpak-apps-on-ubuntu-24-04-lts/",
-          "publishedOn": "2024-09-05T17:00:06.000Z",
-          "wordCount": 9027,
-          "title": "How to Install Flatpak Apps on Ubuntu 24.04 LTS",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192060",
-          "author": "Web Webster",
-          "description": "Auto-cpufreq 2.4 CPU speed and power optimizer for Linux adds platform profiles, Gentoo & Dinit init system support.\nThe post Auto-Cpufreq 2.4 Adds Platform Profile Settings appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/auto-cpufreq-2-4-adds-platform-profile-settings/",
-          "publishedOn": "2024-09-05T14:53:26.000Z",
-          "wordCount": 9011,
-          "title": "Auto-Cpufreq 2.4 Adds Platform Profile Settings",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1934,6 +1884,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiggFBVV95cUxOaWxBN0FqQmRTczlubmJzSjZBZENEMUZ5RVMycnk3amxxVzJtVUJSMHM2VmR2a3ptb1FvbDRScGd0cHVxMXhzQy1FTUYzZDBRdGE0UFpMYUdmaG5fWkRoVVducFRPUkotSXZ2aEdSUGdreGlha3ZLLXZlY1pvYjFUVGhR",
+          "author": null,
+          "description": "5 best Linux distros to replace Windows 11 and take control of your PC  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaWxBN0FqQmRTczlubmJzSjZBZENEMUZ5RVMycnk3amxxVzJtVUJSMHM2VmR2a3ptb1FvbDRScGd0cHVxMXhzQy1FTUYzZDBRdGE0UFpMYUdmaG5fWkRoVVducFRPUkotSXZ2aEdSUGdreGlha3ZLLXZlY1pvYjFUVGhR?oc=5",
+          "publishedOn": "2024-10-05T21:03:34.000Z",
+          "wordCount": 12534,
+          "title": "5 best Linux distros to replace Windows 11 and take control of your PC - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikwFBVV95cUxOem03RzRoX1J3aGlTRURPQ2dSRzl3UVZvdUZ1dWVzcVI0Z3JDMnZUVm9lejA1RHItNXNHb0ZWRjJZUGtqeHpONHBKcExod3Raako4ZDA4cFc1MFRuWF9Uc1MwdlZicVVzbGlyd3dmNDZJTTZGeFBhckh3d1J3UVpzTk1WejRjeFd5cHNVZ0NCbkZMUzA",
+          "author": null,
+          "description": "ShadowPlay for Linux? Make Screencasts With GPU Screen Recorder  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOem03RzRoX1J3aGlTRURPQ2dSRzl3UVZvdUZ1dWVzcVI0Z3JDMnZUVm9lejA1RHItNXNHb0ZWRjJZUGtqeHpONHBKcExod3Raako4ZDA4cFc1MFRuWF9Uc1MwdlZicVVzbGlyd3dmNDZJTTZGeFBhckh3d1J3UVpzTk1WejRjeFd5cHNVZ0NCbkZMUzA?oc=5",
+          "publishedOn": "2024-10-05T18:30:00.000Z",
+          "wordCount": 12534,
+          "title": "ShadowPlay for Linux? Make Screencasts With GPU Screen Recorder - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi_AFBVV95cUxPUTd6Mm13dkhLTmtGUU91amFBRmoyQUlRSS1jdThNbmpyVVA2aHBhTTZRcFlZQUtDX3U1TV9ZMjZGTmxpYVByeWh4Rk1ESmZNdG5sdlU3aWpPeTVRcUVlNGt4WktSYzQ5YnNHSGQ2a2xUdlpVR05oSE4xeVhPVllyRnRvc0VpeFMxSU40LXVNVWxTSXU0M00yNzV0UDdmQUd0LXNocU90ZXQwRnZBdDljbnIyNjF1c1JQWElUR2lYNldNbkZ6dHNfeDN0ZVZsT2J6UlZTdG9UR3IyWXhMWUl3eVNHRWxFQ0Jkb3B6aHVVNjVVMlNuZ0piYVNHbzM",
+          "author": null,
+          "description": "AMD Ryzen AI 300 CPU beats Intel Core Ultra 200V CPU in Linux showdown — Strix Point was up to 1.6X faster than Lunar Lake  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUTd6Mm13dkhLTmtGUU91amFBRmoyQUlRSS1jdThNbmpyVVA2aHBhTTZRcFlZQUtDX3U1TV9ZMjZGTmxpYVByeWh4Rk1ESmZNdG5sdlU3aWpPeTVRcUVlNGt4WktSYzQ5YnNHSGQ2a2xUdlpVR05oSE4xeVhPVllyRnRvc0VpeFMxSU40LXVNVWxTSXU0M00yNzV0UDdmQUd0LXNocU90ZXQwRnZBdDljbnIyNjF1c1JQWElUR2lYNldNbkZ6dHNfeDN0ZVZsT2J6UlZTdG9UR3IyWXhMWUl3eVNHRWxFQ0Jkb3B6aHVVNjVVMlNuZ0piYVNHbzM?oc=5",
+          "publishedOn": "2024-10-05T16:59:19.000Z",
+          "wordCount": 12534,
+          "title": "AMD Ryzen AI 300 CPU beats Intel Core Ultra 200V CPU in Linux showdown — Strix Point was up to 1.6X faster than Lunar Lake - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikgFBVV95cUxPQm16a3FoNXI0ckpBLWtadHhadlYzLTk3N0JiTTZucG9oSkNvbHl0OGlyN3Jxc3pLRmFPX3poZWhXNktEX3ZkWk1JemVyRnNJRnpNV25mOGlPZFgtVFlQZGRtOC1GTzRfLXJ4R2tDNTFQcEphVUFrRE1odXdKZVZ3ZlRaR0ZhU1o4cG5VcWc0ZHZBZw",
+          "author": null,
+          "description": "I Always Install These GNOME Extensions on My Linux Computers  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm16a3FoNXI0ckpBLWtadHhadlYzLTk3N0JiTTZucG9oSkNvbHl0OGlyN3Jxc3pLRmFPX3poZWhXNktEX3ZkWk1JemVyRnNJRnpNV25mOGlPZFgtVFlQZGRtOC1GTzRfLXJ4R2tDNTFQcEphVUFrRE1odXdKZVZ3ZlRaR0ZhU1o4cG5VcWc0ZHZBZw?oc=5",
+          "publishedOn": "2024-10-05T16:30:00.000Z",
+          "wordCount": 12534,
+          "title": "I Always Install These GNOME Extensions on My Linux Computers - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxPaE1xc25rYUtZNEx6N29pNlJpdlhvOUJFcG5DR2w3NF9VM0tZNzFnTkY0RXd1REFkSHdTZmxOc2pXNGZpU2RYcDBseGI4OVFlWTJzRFN6WHA1SlMwLUh0RXVaeEhBODFuY0IxLU81aFFhZUtGZ3c0OTI0OVhnUGtUTUhrdnlrcHpfT2d4Rg",
+          "author": null,
+          "description": "Zorin OS: The Perfect Linux Distro for Migrating From Windows  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaE1xc25rYUtZNEx6N29pNlJpdlhvOUJFcG5DR2w3NF9VM0tZNzFnTkY0RXd1REFkSHdTZmxOc2pXNGZpU2RYcDBseGI4OVFlWTJzRFN6WHA1SlMwLUh0RXVaeEhBODFuY0IxLU81aFFhZUtGZ3c0OTI0OVhnUGtUTUhrdnlrcHpfT2d4Rg?oc=5",
+          "publishedOn": "2024-10-05T15:05:24.000Z",
+          "wordCount": 12534,
+          "title": "Zorin OS: The Perfect Linux Distro for Migrating From Windows - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxQOEVHZmF0YWNtNWZBMzJiMnQteS1CRi1CSHJfOWpsOEdZOFR3dmpMNUdBbVh4VXFjNXprVWVBWUVFM3BNNFdYejNuMTM2NXpuRDZhUWNSYnJTTDZ2SEFBMkx5R29XaG9nV2NSaUJvLTdEMWRnTktLSXQySVRRc3FYU1R3",
+          "author": null,
+          "description": "Stealthy Malware Has Infected Thousands of Linux Systems for Years  WIRED",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOEVHZmF0YWNtNWZBMzJiMnQteS1CRi1CSHJfOWpsOEdZOFR3dmpMNUdBbVh4VXFjNXprVWVBWUVFM3BNNFdYejNuMTM2NXpuRDZhUWNSYnJTTDZ2SEFBMkx5R29XaG9nV2NSaUJvLTdEMWRnTktLSXQySVRRc3FYU1R3?oc=5",
+          "publishedOn": "2024-10-05T13:30:00.000Z",
+          "wordCount": 12534,
+          "title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years - WIRED",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZEFVX3lxTE0tS09vM0NNZ1ZzSVNxdVM1VklqSnV6MzVXQU8tcTNFbEtJcV9CZUJTQ0xMZnpobHlVZ012eWE2MDNOaG1vLW8tOWpIZVd0bEN3enlqR1hoYXpLcS1za3ZPaElRTGY",
+          "author": null,
+          "description": "Linux 6.12 Patches Neoverse-N3 & Microsoft Azure Cobalt 100 For Speculative SSBS  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tS09vM0NNZ1ZzSVNxdVM1VklqSnV6MzVXQU8tcTNFbEtJcV9CZUJTQ0xMZnpobHlVZ012eWE2MDNOaG1vLW8tOWpIZVd0bEN3enlqR1hoYXpLcS1za3ZPaElRTGY?oc=5",
+          "publishedOn": "2024-10-05T12:53:00.000Z",
+          "wordCount": 12534,
+          "title": "Linux 6.12 Patches Neoverse-N3 & Microsoft Azure Cobalt 100 For Speculative SSBS - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuwFBVV95cUxNNFFmVUpDRFdfRVBJOTN2MmJ2OUR0T0hMajk1d2FjR0Q3clZFajJ3M0JxZTM0WWlIWGNkOHQzeUtEYnVVYW5OeGpkRUxwaDZuM0MzZ0hUZ2VKNFpiSzhZRy1wcmQ3QXl2M2J4UzVlQkk2al9xd1lTOFpMOXE4dzRMVFd3SEQzbERqTkR2ZWJmSzI0Rk1uY3d0Z3h3UkViRUlUbmMxWk1yXzhjb0tkQnpocS1LRFRaY0ljeVlr0gG6AUFVX3lxTFBFOFpHbm5fdmM4bzZkSC1MejFXeDNfRU85dEU4VkxfS0ZYT3I2SWlPdS1DTzVzR1JLUWNaVzZpMUJOM1REZ3EwelpFNEVaYW0zVC1RaklZM1IxNVZEeGk1UUFSNndZYmJDVW1FVzVFOHRfTG1mSEhvWXFOWkVBZjY0UkVrczNUMlI4MFBNNVBlWGV5MHB6MlpvNU00TTRETWM5VnZuQW9xSWNjUnBFQ001eXhqR2x6ZmFHQQ",
+          "author": null,
+          "description": "Scientists at CERN and Fermilab are using this Linux distro after Scientific Linux retired  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFFmVUpDRFdfRVBJOTN2MmJ2OUR0T0hMajk1d2FjR0Q3clZFajJ3M0JxZTM0WWlIWGNkOHQzeUtEYnVVYW5OeGpkRUxwaDZuM0MzZ0hUZ2VKNFpiSzhZRy1wcmQ3QXl2M2J4UzVlQkk2al9xd1lTOFpMOXE4dzRMVFd3SEQzbERqTkR2ZWJmSzI0Rk1uY3d0Z3h3UkViRUlUbmMxWk1yXzhjb0tkQnpocS1LRFRaY0ljeVlr0gG6AUFVX3lxTFBFOFpHbm5fdmM4bzZkSC1MejFXeDNfRU85dEU4VkxfS0ZYT3I2SWlPdS1DTzVzR1JLUWNaVzZpMUJOM1REZ3EwelpFNEVaYW0zVC1RaklZM1IxNVZEeGk1UUFSNndZYmJDVW1FVzVFOHRfTG1mSEhvWXFOWkVBZjY0UkVrczNUMlI4MFBNNVBlWGV5MHB6MlpvNU00TTRETWM5VnZuQW9xSWNjUnBFQ001eXhqR2x6ZmFHQQ?oc=5",
+          "publishedOn": "2024-10-05T10:54:00.000Z",
+          "wordCount": 12534,
+          "title": "Scientists at CERN and Fermilab are using this Linux distro after Scientific Linux retired - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgJBVV95cUxOVm52RnllcDNva2l0OGZjTnFpb2FHNHpvbXc5WWV6YXhrZnRZUm9NUGlyQmpTNGhDZ2I5SEVSZkgxcUExOGd5OVY0bXZDM0tWUTVBZ3FvWlNaNzV2eUlPejRaRzRMYUhDdURUNHRvVTJUSlI1RW91QjJFb3A5bUhud19fUmE3QXhGTnI0cTZwODFCUkM2OUZrdl9rRllxR1I0X2ZiUm5LNl9JbzdqY0w2Ui02ZXcxNzM5TWxORU5fZ3NPNDRjMEZ1alZrMl9ma1Ixdzlzc21lSlFLcy05VU0wNlp5YlhNUk1ZdlBVc0xXWWtTZzZKRmFPdlJtSktMRUNZMHhVbHJIbTlJaW9yWGc",
+          "author": null,
+          "description": "Parallels debuts AI virtual machine platform that bundles 14 tools including small language models — and promises faster performance on Windows and Linux  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVm52RnllcDNva2l0OGZjTnFpb2FHNHpvbXc5WWV6YXhrZnRZUm9NUGlyQmpTNGhDZ2I5SEVSZkgxcUExOGd5OVY0bXZDM0tWUTVBZ3FvWlNaNzV2eUlPejRaRzRMYUhDdURUNHRvVTJUSlI1RW91QjJFb3A5bUhud19fUmE3QXhGTnI0cTZwODFCUkM2OUZrdl9rRllxR1I0X2ZiUm5LNl9JbzdqY0w2Ui02ZXcxNzM5TWxORU5fZ3NPNDRjMEZ1alZrMl9ma1Ixdzlzc21lSlFLcy05VU0wNlp5YlhNUk1ZdlBVc0xXWWtTZzZKRmFPdlJtSktMRUNZMHhVbHJIbTlJaW9yWGc?oc=5",
+          "publishedOn": "2024-10-05T10:03:00.000Z",
+          "wordCount": 12534,
+          "title": "Parallels debuts AI virtual machine platform that bundles 14 tools including small language models — and promises faster performance on Windows and Linux - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMickFVX3lxTFBaVGx4RmZiaTRnYU1Xb0gxODJpMlkwOFVMSkdNTmIyRERnS09DdUhjOHpwdnpZSWhXa25LelY5eGpSaUxodm1aaGIwVVp2dXE3MDVJaDdiNlpBM09ZelNRdHAxQ3FlUHkxelNSeHRLMVFrd9IBd0FVX3lxTE85cUREeEd3Q2FVeUplMlpUTGFvYWxIbmt4V09UX21aQ2ZENEFDLUdhVm54anFPYlY3cTB0XzRCdmRkc0lPZ2FOMmJVS2UwWnVOcjdVT2sxYk5oSFd6VzRTaEhLT0lkUXpORUo3V3NWY05QdmdtVk00",
+          "author": null,
+          "description": "New Snapekit Rootkit Malware Targeting Arch Linux Users  CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaVGx4RmZiaTRnYU1Xb0gxODJpMlkwOFVMSkdNTmIyRERnS09DdUhjOHpwdnpZSWhXa25LelY5eGpSaUxodm1aaGIwVVp2dXE3MDVJaDdiNlpBM09ZelNRdHAxQ3FlUHkxelNSeHRLMVFrd9IBd0FVX3lxTE85cUREeEd3Q2FVeUplMlpUTGFvYWxIbmt4V09UX21aQ2ZENEFDLUdhVm54anFPYlY3cTB0XzRCdmRkc0lPZ2FOMmJVS2UwWnVOcjdVT2sxYk5oSFd6VzRTaEhLT0lkUXpORUo3V3NWY05QdmdtVk00?oc=5",
+          "publishedOn": "2024-10-05T06:13:30.000Z",
+          "wordCount": 12534,
+          "title": "New Snapekit Rootkit Malware Targeting Arch Linux Users - CybersecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMixAFBVV95cUxOREtsa01GdEZ1d0FHQWM3cXNINkVkYzBiS0tITWlaQVV1U1ZMVmpuSm80akttZU5paGl3RTZWbWVqRGY4S2Q1aVFEd1RqU1lvQm5qR0NxaGU2SE4tUUluRkNfU1M4Rk9ZTlB1SHFndHlyaTYtTVJ2ZGw1dng4ajFINWYtUVBhQjJMVXdTNkhMZ2NMZU9Gc3RQMjEzbE9wX1RfNFNGSlg0UVlwUFdCZGhBZk5sTnZBczJ2Mmc2a1cyUkxDWkVW",
           "author": null,
@@ -2852,6 +2902,16 @@
           "publishedOn": "2024-09-30T07:08:23.000Z",
           "wordCount": 12512,
           "title": "9to5Linux Weekly Roundup: September 29th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxPNUFxZmg4NUNIb0Y5ellrbDQySVNyTlk3bnVzMjNTYU5STDVoM0J1cHQ1b1RtaUdXRkhiUmRvTHBJRmJaYjNVUHVwVWZvVnJzVlBlb2tYOEhJeU1mNVBGaHV5WWhIc2t6WjdNQ2ZvZ1ZITV9MR2E3NmMtOG1oUVdiV095bw",
+          "author": null,
+          "description": "5 Best Linux CentOS Replacement Options & Alternatives  TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUFxZmg4NUNIb0Y5ellrbDQySVNyTlk3bnVzMjNTYU5STDVoM0J1cHQ1b1RtaUdXRkhiUmRvTHBJRmJaYjNVUHVwVWZvVnJzVlBlb2tYOEhJeU1mNVBGaHV5WWhIc2t6WjdNQ2ZvZ1ZITV9MR2E3NmMtOG1oUVdiV095bw?oc=5",
+          "publishedOn": "2024-09-30T07:00:00.000Z",
+          "wordCount": 12534,
+          "title": "5 Best Linux CentOS Replacement Options & Alternatives - TechRepublic",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7363,136 +7423,6 @@
           "wordCount": 12407,
           "title": "Pre-Ordered The ASUS Zenbook S 14 For Intel Core Ultra \"Lunar Lake\" Linux Testing - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiowFBVV95cUxQRGFpRVd4Z19nRjBtV2JDVnBLZjBYLXdHdXFXZnpYMmlJZzdnSC01cHVIclJkajRNYk9JMVZjWk54UmVBUUVybTMtTXNRUTdIYTVkUmliZmhIWHA1MFZoZE5yUVFWMW11aExOVk9ad2Q0bGtMUzVuU0dCUmhmUG84QlhkOUh0cWdlcW84ZkhGLVozdlVieWEzZklmb083YU0tRkJv0gGoAUFVX3lxTE00ck9DYnZzNV9JRks4RWFqM1AxQkVLbG10ekliVlFyNTlpZ0RkOEg4WkUyREVXd2xfcWtVQWFmay1oWmVHYzdxZmNHVVN2SDdXZlhPdVNRd2dqajI1SDdsaFVMWVVjc01VaFc4ZWVob1RhTUZaZmxidzA5eVo2WjFLOG5sa292VUxMUFR3bERVcUFzOEZLUlNLN2Nid0ZTYlV4VlNuTm5Gdg",
-          "author": null,
-          "description": "Beyond End of Life: Securing Legacy Linux Systems Like CentOS 7  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGFpRVd4Z19nRjBtV2JDVnBLZjBYLXdHdXFXZnpYMmlJZzdnSC01cHVIclJkajRNYk9JMVZjWk54UmVBUUVybTMtTXNRUTdIYTVkUmliZmhIWHA1MFZoZE5yUVFWMW11aExOVk9ad2Q0bGtMUzVuU0dCUmhmUG84QlhkOUh0cWdlcW84ZkhGLVozdlVieWEzZklmb083YU0tRkJv0gGoAUFVX3lxTE00ck9DYnZzNV9JRks4RWFqM1AxQkVLbG10ekliVlFyNTlpZ0RkOEg4WkUyREVXd2xfcWtVQWFmay1oWmVHYzdxZmNHVVN2SDdXZlhPdVNRd2dqajI1SDdsaFVMWVVjc01VaFc4ZWVob1RhTUZaZmxidzA5eVo2WjFLOG5sa292VUxMUFR3bERVcUFzOEZLUlNLN2Nid0ZTYlV4VlNuTm5Gdg?oc=5",
-          "publishedOn": "2024-09-06T13:38:13.000Z",
-          "wordCount": 12407,
-          "title": "Beyond End of Life: Securing Legacy Linux Systems Like CentOS 7 - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFBVV95cUxOUkRyMFQxejVraXVTbUdLWmRrWDlkN0t1YUNJb21RWGhxTGlBbkN3M1F6bTQ4TTdSQXJoREJiakxNMENWSk9MTHhLWlJPSjhJdnpNMmF0aS1WcTFDM0FxZ3hlWVF0MDdBRk9nTlZuZEs1d2NpNGNneDZpYzBmaExiUGtvcFRIbWRIRlc4LVc5VQ",
-          "author": null,
-          "description": "How I Found the Perfect Linux OS and Stopped Distro-Hopping  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkRyMFQxejVraXVTbUdLWmRrWDlkN0t1YUNJb21RWGhxTGlBbkN3M1F6bTQ4TTdSQXJoREJiakxNMENWSk9MTHhLWlJPSjhJdnpNMmF0aS1WcTFDM0FxZ3hlWVF0MDdBRk9nTlZuZEs1d2NpNGNneDZpYzBmaExiUGtvcFRIbWRIRlc4LVc5VQ?oc=5",
-          "publishedOn": "2024-09-06T12:00:00.000Z",
-          "wordCount": 12407,
-          "title": "How I Found the Perfect Linux OS and Stopped Distro-Hopping - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFBVV95cUxNdi0xRDFMLTJ6SGFhQlg4eGtWNVd0Wl93ejJIbUtNeGFkQ0RTU0FrUmdUZXQ4SGNNaHNDVzR5V1V2NVZJSHI0NWk5UlYxMHhBSXpBaWI5a21vNGhxdHBTNzB1RklKU0VVMkkya2lQMVl3Y0cxelVGVUU0eUVzSXpaRG930gGHAUFVX3lxTE5feWg2UHJFY1QtWlk5cUR1S2MxajJhZWNoUWl4UXVIdm5GdjRyMHVVOWJ1WU5ZTHVsMHVwMXFjSGU1OVVZem01T1BFQzk4SXEzQ3lRREFJbGE2V3ZpNjhRRDJlWDhIMEhwUmRLbnlBbUdHaXBaX2N2LWl0MVA3dTRfaVo4SkViRQ",
-          "author": null,
-          "description": "Linux Pluggable Authentication Modules Abused to Create Backdoors  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdi0xRDFMLTJ6SGFhQlg4eGtWNVd0Wl93ejJIbUtNeGFkQ0RTU0FrUmdUZXQ4SGNNaHNDVzR5V1V2NVZJSHI0NWk5UlYxMHhBSXpBaWI5a21vNGhxdHBTNzB1RklKU0VVMkkya2lQMVl3Y0cxelVGVUU0eUVzSXpaRG930gGHAUFVX3lxTE5feWg2UHJFY1QtWlk5cUR1S2MxajJhZWNoUWl4UXVIdm5GdjRyMHVVOWJ1WU5ZTHVsMHVwMXFjSGU1OVVZem01T1BFQzk4SXEzQ3lRREFJbGE2V3ZpNjhRRDJlWDhIMEhwUmRLbnlBbUdHaXBaX2N2LWl0MVA3dTRfaVo4SkViRQ?oc=5",
-          "publishedOn": "2024-09-06T08:36:37.000Z",
-          "wordCount": 12407,
-          "title": "Linux Pluggable Authentication Modules Abused to Create Backdoors - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiigFBVV95cUxPUnFFbHRoYkpxdTFaWWFwLXBHbTRQZXJNMFBOdWlRVnh6cUFTTG1OR0d0U19ld0tSSUlSRnhieXU5NWQwUUVtT3ZacjJhVUFUa1NFX1gyQUlVSDd2Si1RdlhqUU9ER3RJUDgzZFhFTUlKSnp0aUMwOGlyRU9HdDhBYUJlUEtHa1BlN2fSAY8BQVVfeXFMUFBaYS1neUUxZ3o3LVBld1hWOUVZNFFmdHdSMGdBck5hb0dyZ2dvUmpqdWUwcGJpQm1wYVJlOHhrcm1KU2lHU1FkelBmRGdEVVFFa3BpSHRrbklVcVNneWhPV1RySUJ6REhJZGpwZF9BY1dWMUZTVkIya1FMckJGUC1jaHBONk1HdGV2ZElKZFU",
-          "author": null,
-          "description": "PoC Exploit Released for Linux Kernel Vulnerability that Allows Root Access  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnFFbHRoYkpxdTFaWWFwLXBHbTRQZXJNMFBOdWlRVnh6cUFTTG1OR0d0U19ld0tSSUlSRnhieXU5NWQwUUVtT3ZacjJhVUFUa1NFX1gyQUlVSDd2Si1RdlhqUU9ER3RJUDgzZFhFTUlKSnp0aUMwOGlyRU9HdDhBYUJlUEtHa1BlN2fSAY8BQVVfeXFMUFBaYS1neUUxZ3o3LVBld1hWOUVZNFFmdHdSMGdBck5hb0dyZ2dvUmpqdWUwcGJpQm1wYVJlOHhrcm1KU2lHU1FkelBmRGdEVVFFa3BpSHRrbklVcVNneWhPV1RySUJ6REhJZGpwZF9BY1dWMUZTVkIya1FMckJGUC1jaHBONk1HdGV2ZElKZFU?oc=5",
-          "publishedOn": "2024-09-06T06:16:03.000Z",
-          "wordCount": 12407,
-          "title": "PoC Exploit Released for Linux Kernel Vulnerability that Allows Root Access - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqwFBVV95cUxNWUJFSWVTQTl4THNRMV9yUG9SZEJFYzlxYk5MSFMtazR5d3M4T0d0Rl9WbGdVVEVXZ1JSZkR3TjRoTGhINzZXdlV0S1A2RkFMSndvYmlVaWRob3NHNW5QRVd0UkdNUHFZWmoyTTczTFhiVGtfbEpsOFZSeTVDWU04MTZQNnVrTUZ1YWJpQXYtM1RBSy02NmpOeVZzTU8xSnctQ2hqc2JsU0haLUk",
-          "author": null,
-          "description": "Does ‘Warhammer 40K: Space Marine 2’ Run On Steam Deck?  Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUJFSWVTQTl4THNRMV9yUG9SZEJFYzlxYk5MSFMtazR5d3M4T0d0Rl9WbGdVVEVXZ1JSZkR3TjRoTGhINzZXdlV0S1A2RkFMSndvYmlVaWRob3NHNW5QRVd0UkdNUHFZWmoyTTczTFhiVGtfbEpsOFZSeTVDWU04MTZQNnVrTUZ1YWJpQXYtM1RBSy02NmpOeVZzTU8xSnctQ2hqc2JsU0haLUk?oc=5",
-          "publishedOn": "2024-09-06T04:43:40.000Z",
-          "wordCount": 12407,
-          "title": "Does ‘Warhammer 40K: Space Marine 2’ Run On Steam Deck? - Forbes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE04QV9JVDJwT3hTZjQxdXNZenBQd05BamhjakM0dm1BUkhqV3lheGszT2xnVEI2bGdMM096QnowQlpWSU9paVFDYy01SVpZMlpLN2xkamh1ZG1SMldKbUww",
-          "author": null,
-          "description": "Mesa 24.2.2 Enables Intel Lunar Lake & Battlemage Xe2 Graphics Out-Of-The-Box  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QV9JVDJwT3hTZjQxdXNZenBQd05BamhjakM0dm1BUkhqV3lheGszT2xnVEI2bGdMM096QnowQlpWSU9paVFDYy01SVpZMlpLN2xkamh1ZG1SMldKbUww?oc=5",
-          "publishedOn": "2024-09-06T00:35:00.000Z",
-          "wordCount": 12407,
-          "title": "Mesa 24.2.2 Enables Intel Lunar Lake & Battlemage Xe2 Graphics Out-Of-The-Box - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiekFVX3lxTE0yS0p5RlF5cTQwcUl5STNDeUVVVXdDS3lxQWNmTzNQUmtyTHZsb0JTOTFWTXlBUjIwSy0yTHNTVmxMS2trUUhaYnhMcGRrZDMteGwyNmJhd182cnVCaEMwV3pGSEYzOWl5VzBiTVhYQUR1Wm1aM3JOeDln",
-          "author": null,
-          "description": "Chromebooks Might Soon Work Better With External Drives  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yS0p5RlF5cTQwcUl5STNDeUVVVXdDS3lxQWNmTzNQUmtyTHZsb0JTOTFWTXlBUjIwSy0yTHNTVmxMS2trUUhaYnhMcGRrZDMteGwyNmJhd182cnVCaEMwV3pGSEYzOWl5VzBiTVhYQUR1Wm1aM3JOeDln?oc=5",
-          "publishedOn": "2024-09-05T20:47:00.000Z",
-          "wordCount": 12407,
-          "title": "Chromebooks Might Soon Work Better With External Drives - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiyAFBVV95cUxPeHNtMDlfN0hPd21BN09jbWJSd0c1aWRNVjR5czkxbnNjd1NnVmE5aUJRa2dvTktLYVZ5bDBzbU00UUoyUmZJaTVtRUpDaDlpOXdTdWJNLUNpeWVLS1p0UkhkUGRYYVZtOXpXQTJEeVM2RjQ5UHE3dkFodGZsRjV5MG1QWUw0bjFaZ0JoLVJ1bzJhdUo4bnhyR0xuLUt6Zm5GTnlmSlBNMHExeGZ1enhYZmxKYktlTW1VRENWenRLaGlvc3BZeHYwUA",
-          "author": null,
-          "description": "Red Hat Enterprise Linux AI Now Available Across Hybrid Cloud for Gen AI Model Development  Datanami",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHNtMDlfN0hPd21BN09jbWJSd0c1aWRNVjR5czkxbnNjd1NnVmE5aUJRa2dvTktLYVZ5bDBzbU00UUoyUmZJaTVtRUpDaDlpOXdTdWJNLUNpeWVLS1p0UkhkUGRYYVZtOXpXQTJEeVM2RjQ5UHE3dkFodGZsRjV5MG1QWUw0bjFaZ0JoLVJ1bzJhdUo4bnhyR0xuLUt6Zm5GTnlmSlBNMHExeGZ1enhYZmxKYktlTW1VRENWenRLaGlvc3BZeHYwUA?oc=5",
-          "publishedOn": "2024-09-05T18:57:59.000Z",
-          "wordCount": 12407,
-          "title": "Red Hat Enterprise Linux AI Now Available Across Hybrid Cloud for Gen AI Model Development - Datanami",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxNc0p3V2ZWMGZUQWpNMWJlaFVCQTc3RG1zQy14OGQ0QVZsSmd0cWhhTkNMLUIxZzJTb0lDSU9jbHRCM3NOQWNkaVZ3N2loZFprckhYMFg4WTVHMkRkSzlFQUtiRnZDYjF2b204aXJkN2dRRmJGUm93Rm5OT2pyaUVlMUl4REVZNV9zWjg1c2VfWVhnQk5BS3c",
-          "author": null,
-          "description": "Dell serves Gen AI-optimized Linux from Red Hat  Blocks & Files",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0p3V2ZWMGZUQWpNMWJlaFVCQTc3RG1zQy14OGQ0QVZsSmd0cWhhTkNMLUIxZzJTb0lDSU9jbHRCM3NOQWNkaVZ3N2loZFprckhYMFg4WTVHMkRkSzlFQUtiRnZDYjF2b204aXJkN2dRRmJGUm93Rm5OT2pyaUVlMUl4REVZNV9zWjg1c2VfWVhnQk5BS3c?oc=5",
-          "publishedOn": "2024-09-05T17:52:00.000Z",
-          "wordCount": 12407,
-          "title": "Dell serves Gen AI-optimized Linux from Red Hat - Blocks & Files",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivAFBVV95cUxPSnJZTnllbkJlVTRFci1GeEJkWEdxYmE1YkFTRWF6ZktDOVBFSzFHS0JDNjBqOEJSTVpkVVNvYmJTSUlDVmJxNDliWlFaaUROREY2QV9Qa0ZfbFB2OXJvbWNuRUxuVUNHSDRvbF9TTHAxdEoyLTRSY1hSWG1RME5zUDh3ZmF1aEF2Z0dSeUNjM0hhb2VqcF80SzhWSTJ5dkNvRFBMZmNEWXFvWDZNNG9qSG5QaHBDSURTWDhnYg",
-          "author": null,
-          "description": "Will Android-OS work more seamlessly (filesharing) with Linux, Win-OS, Apple-OS desktops?  ASEAN NOW",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnJZTnllbkJlVTRFci1GeEJkWEdxYmE1YkFTRWF6ZktDOVBFSzFHS0JDNjBqOEJSTVpkVVNvYmJTSUlDVmJxNDliWlFaaUROREY2QV9Qa0ZfbFB2OXJvbWNuRUxuVUNHSDRvbF9TTHAxdEoyLTRSY1hSWG1RME5zUDh3ZmF1aEF2Z0dSeUNjM0hhb2VqcF80SzhWSTJ5dkNvRFBMZmNEWXFvWDZNNG9qSG5QaHBDSURTWDhnYg?oc=5",
-          "publishedOn": "2024-09-05T17:49:39.000Z",
-          "wordCount": 12407,
-          "title": "Will Android-OS work more seamlessly (filesharing) with Linux, Win-OS, Apple-OS desktops? - ASEAN NOW",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTE9PTy1EWUhhazBHV1RTY2ZaNnBsc05oTHh4c1AxaXVXNXFkSkpxU3dBQWxpcHNIeDBSbHZub0RGN1JodGtJdms0Yk5lVU4wTWV6TUtIc3VkdS00ZkJiLWp5Z1ZOODc",
-          "author": null,
-          "description": "AmpereOne Performance On Linux 6.11 Kernel, 4K vs. 64K Page Size Comparison  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PTy1EWUhhazBHV1RTY2ZaNnBsc05oTHh4c1AxaXVXNXFkSkpxU3dBQWxpcHNIeDBSbHZub0RGN1JodGtJdms0Yk5lVU4wTWV6TUtIc3VkdS00ZkJiLWp5Z1ZOODc?oc=5",
-          "publishedOn": "2024-09-05T17:30:00.000Z",
-          "wordCount": 12407,
-          "title": "AmpereOne Performance On Linux 6.11 Kernel, 4K vs. 64K Page Size Comparison - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE12WE9KRFMxODZYWG9UZW1rcjdydjEtNkl1X0hFUFZUYUtFZE1DUzNYQU0wWGJHUF9fOFlKZ2xCVk1ZWjA5WHpqYmtVeDFETlR3TWlVR2hzazhNMy12aVBSZEhGVG90SWRjSGtvRW1HMWgydlREcGc",
-          "author": null,
-          "description": "What Is Kali Linux, and Should You Use It?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12WE9KRFMxODZYWG9UZW1rcjdydjEtNkl1X0hFUFZUYUtFZE1DUzNYQU0wWGJHUF9fOFlKZ2xCVk1ZWjA5WHpqYmtVeDFETlR3TWlVR2hzazhNMy12aVBSZEhGVG90SWRjSGtvRW1HMWgydlREcGc?oc=5",
-          "publishedOn": "2024-09-05T16:00:00.000Z",
-          "wordCount": 12407,
-          "title": "What Is Kali Linux, and Should You Use It? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxQSl9KZjYxN3E3UlNEUVlwdG5HRHJkcE5RMGw2M2h5ektGb1NDcnlSWFhfV2pFSTVLN19UaURTWFNGaE10NHl0R21idXBmNFIyVWNMR1BDdXFUcEFrYXVwOElfT0JmdjdoNURiSUJKUktOVFFiYkVKT1Y5MkVuMnA5eHNpeVc",
-          "author": null,
-          "description": "Rust, Linux, SLOs and All Things Performance at P99 CONF  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSl9KZjYxN3E3UlNEUVlwdG5HRHJkcE5RMGw2M2h5ektGb1NDcnlSWFhfV2pFSTVLN19UaURTWFNGaE10NHl0R21idXBmNFIyVWNMR1BDdXFUcEFrYXVwOElfT0JmdjdoNURiSUJKUktOVFFiYkVKT1Y5MkVuMnA5eHNpeVc?oc=5",
-          "publishedOn": "2024-09-05T15:07:24.000Z",
-          "wordCount": 12407,
-          "title": "Rust, Linux, SLOs and All Things Performance at P99 CONF - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9927,26 +9857,6 @@
           "wordCount": 1307,
           "title": "Quick Hit #17",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380584"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380340",
-          "author": "Geoff Graham",
-          "description": "“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…\nQuick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-16/",
-          "publishedOn": "2024-09-05T16:04:28.000Z",
-          "wordCount": 1310,
-          "title": "Quick Hit #16",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380340"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380298",
-          "author": "Geoff Graham",
-          "description": "Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…\nQuick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-15/",
-          "publishedOn": "2024-09-05T16:02:26.000Z",
-          "wordCount": 1275,
-          "title": "Quick Hit #15",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
         }
       ]
     },
@@ -10806,26 +10716,6 @@
           "wordCount": 960,
           "title": "Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725637064637/247793ab-f250-4618-9e14-b2ec1261d022.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/",
-          "author": "ِAya Nabil Othman",
-          "description": "If you are used to building NodeJS applications using the Mongoose ORM, this article is for you. In it, we'll discuss some cool features of Mongoose schemas that'll help you write more organized and maintainable code. To get the most out of this guid...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/",
-          "publishedOn": "2024-09-06T13:44:56.000Z",
-          "wordCount": 2935,
-          "title": "How to Write Cleaner Code Using Mongoose Schemas",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725431278897/86823d79-7b9c-4512-a834-edcdd4e11ac3.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
-          "author": "Manish Shivanandhan",
-          "description": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
-          "link": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
-          "publishedOn": "2024-09-05T15:00:53.000Z",
-          "wordCount": 1618,
-          "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725456042044/d3744ebe-ad28-42c4-99a2-25d6bd250aee.webp"
         }
       ]
     }
