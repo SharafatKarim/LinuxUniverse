@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193233",
+          "author": "Web Webster",
+          "description": "MongoDB is an open-source, cross-platform, and distributed NoSQL (Non-SQL or Non-Relational) database system. This guide will show you how to install MongoDB on an Alma Linux 9 server.\nThe post How to Install MongoDB on AlmaLinux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-mongodb-on-almalinux-9/",
+          "publishedOn": "2024-10-06T17:17:02.000Z",
+          "wordCount": 9053,
+          "title": "How to Install MongoDB on AlmaLinux 9",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193238",
+          "author": "Web Webster",
+          "description": "Ardour 8.8 Digital Audio Workstation introduces new features, including track dragging, ruler changes, and powerful parallel disk I/O.\nThe post Ardour 8.8 DAW Launches with Hot-Fixes and New Features appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/ardour-8-8-daw-launches-with-hot-fixes-and-new-features/",
+          "publishedOn": "2024-10-06T16:16:25.000Z",
+          "wordCount": 9057,
+          "title": "Ardour 8.8 DAW Launches with Hot-Fixes and New Features",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193235",
           "author": "Web Webster",
           "description": "Odoo 18 is an open-source suite of business applications that provides a complete ERP (Enterprise Resource Planning) solution for organizations of various sizes. It offers a wide range of integrated tools and modules to help manage all aspects of a business, such as finance, sales, inventory, human resources, and more. The open-source community edition is […]\nThe post How to Install Odoo 18 on Ubuntu 24.04 appeared first on Linux Today.",
@@ -1786,96 +1806,6 @@
           "wordCount": 9020,
           "title": "Immich 1.114 Unveils New Enhancements and Bug Fixes",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189615",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install Immich on openSUSE. In today’s digital age, managing and backing up our ever-growing collection of photos and videos has become a crucial task. While cloud-based solutions offer convenience, they often come with privacy concerns and storage limitations. This is where Immich comes in—a self-hosted, open-source […]\nThe post How to Install Immich on openSUSE appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/it-management/how-to-install-immich-on-opensuse/",
-          "publishedOn": "2024-09-07T02:00:59.000Z",
-          "wordCount": 9068,
-          "title": "How to Install Immich on openSUSE",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189577",
-          "author": "Web Webster",
-          "description": "Linux console file managers can be very helpful in day-to-day tasks, when managing files on a local machine, or when connected to a remote one. The visual console representation of the directory helps us quickly perform file/folder operations and saves us some time.\nThe post 10 Best Linux Console File Managers appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/storage/10-best-linux-console-file-managers/",
-          "publishedOn": "2024-09-07T00:00:45.000Z",
-          "wordCount": 9047,
-          "title": "10 Best Linux Console File Managers",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189545",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to install Ghost on Ubuntu, then create and set up a new Ghost site and configure Ghost with Nginx.\nThe post How to Install, Setup, and Use Ghost on Ubuntu (Ultimate Guide) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-setup-and-use-ghost-on-ubuntu-ultimate-guide/",
-          "publishedOn": "2024-09-06T22:00:34.000Z",
-          "wordCount": 9051,
-          "title": "How to Install, Setup, and Use Ghost on Ubuntu (Ultimate Guide)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189583",
-          "author": "Web Webster",
-          "description": "Learn how to install PyCharm on Ubuntu and other Linux distros using multiple different methods with practical examples.\nThe post How to Install PyCharm on Ubuntu and Other Linux Distros appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-pycharm-on-ubuntu-and-other-linux-distros/",
-          "publishedOn": "2024-09-06T20:00:44.000Z",
-          "wordCount": 9032,
-          "title": "How to Install PyCharm on Ubuntu and Other Linux Distros",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=189090",
-          "author": "Web Webster",
-          "description": "Laravel is a web application framework based on PHP that is used to build enterprise web applications. It’s a free and open web framework that follows model-view-controller (MVC) architecture and is based on Symfony.\nThe post How to Install Laravel PHP Framework on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-laravel-php-framework-on-ubuntu-24-04/",
-          "publishedOn": "2024-09-06T18:00:05.000Z",
-          "wordCount": 9049,
-          "title": "How to Install Laravel PHP Framework on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191885",
-          "author": "Web Webster",
-          "description": "In this guide, we’ll explore what proxies are, how to set up a proxy server, and how to make the proxy settings permanent in Ubuntu Linux.\nThe post How to Set Up a Proxy Server on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/infrastructure/how-to-set-up-a-proxy-server-on-ubuntu/",
-          "publishedOn": "2024-09-06T17:00:31.000Z",
-          "wordCount": 9053,
-          "title": "How to Set Up a Proxy Server on Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191891",
-          "author": "Web Webster",
-          "description": "Portainer’s first LTS release, 2.21, offers vital updates, now with extended support for Kubernetes v1.30 and improved performance.\nThe post Portainer 2.21 LTS: A Robust Upgrade for Container Management appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/portainer-2-21-lts-a-robust-upgrade-for-container-management/",
-          "publishedOn": "2024-09-06T16:00:52.000Z",
-          "wordCount": 9028,
-          "title": "Portainer 2.21 LTS: A Robust Upgrade for Container Management",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192085",
-          "author": "Web Webster",
-          "description": "Vulnerability scanning is an essential activity for enterprise security. We recommend the best free and open source vulnerability detection tools.\nThe post 8 Best Free and Open-Source Vulnerability Detection Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/8-best-free-and-open-source-vulnerability-detection-tools/",
-          "publishedOn": "2024-09-06T15:00:37.000Z",
-          "wordCount": 9027,
-          "title": "8 Best Free and Open-Source Vulnerability Detection Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192062",
-          "author": "Web Webster",
-          "description": "DebPostInstall is a simple Bash script to automate important post-installation tasks on a newly installed minimal Debian or Ubuntu server.\nThe post DebPostInstall: Your Essential Post-Installation Toolkit for Debian and Ubuntu Servers appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/debpostinstall-your-essential-post-installation-toolkit-for-debian-and-ubuntu-servers/",
-          "publishedOn": "2024-09-06T14:00:03.000Z",
-          "wordCount": 9034,
-          "title": "DebPostInstall: Your Essential Post-Installation Toolkit for Debian and Ubuntu Servers",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1884,6 +1814,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiY0FVX3lxTFBjX3JoYVJVeVFWSkN2QXk1VEpUUFp6RXpJR3RCWHR3MFMyWG04SlhMeDFvZ05MZTRNaTRsTWxkX1hQMElReFpoY0RxWGpKZzFONTdyZUhsNDEyNWFLZ1JzSzZPWQ",
+          "author": null,
+          "description": "Linux 6.12-rc2 Released With Initial Batch Of Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjX3JoYVJVeVFWSkN2QXk1VEpUUFp6RXpJR3RCWHR3MFMyWG04SlhMeDFvZ05MZTRNaTRsTWxkX1hQMElReFpoY0RxWGpKZzFONTdyZUhsNDEyNWFLZ1JzSzZPWQ?oc=5",
+          "publishedOn": "2024-10-06T22:52:00.000Z",
+          "wordCount": 12534,
+          "title": "Linux 6.12-rc2 Released With Initial Batch Of Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijwFBVV95cUxPaC1sTlI4NzA3QkxhcEF4R0hnRVFBLVZ6XzJpeEg0b1VSbzBJZVJ6Sk1EUVhrU2VWYmpqMWR4bDFtOXlLU0Vvd19XekpMU2JSbUlGcTlxZHJONm5OZDNqZ0M4amVmVjlpRDRfX3RjRU5ncXVFd2xyMGF5YUNLNkJEU2lyamlOMzdhVS0yTkVySQ",
+          "author": null,
+          "description": "I Tried Replacing Windows with Linux Mint, Here's How It Went  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaC1sTlI4NzA3QkxhcEF4R0hnRVFBLVZ6XzJpeEg0b1VSbzBJZVJ6Sk1EUVhrU2VWYmpqMWR4bDFtOXlLU0Vvd19XekpMU2JSbUlGcTlxZHJONm5OZDNqZ0M4amVmVjlpRDRfX3RjRU5ncXVFd2xyMGF5YUNLNkJEU2lyamlOMzdhVS0yTkVySQ?oc=5",
+          "publishedOn": "2024-10-06T14:00:00.000Z",
+          "wordCount": 12534,
+          "title": "I Tried Replacing Windows with Linux Mint, Here's How It Went - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE5BQk5idGpxTTZOODhQTDhoNjFDLUdrWlVGM1RCeFRHbzVvMEJ1THVvTmRwT000V2FUSW5TY3RkRGM2Tm94dmlyZzVtQnc1SVZXZXFINWdveUpBZ3RXVVAwZE9yblVmalhfV0tERm1R",
+          "author": null,
+          "description": "A Guide to Linux Access Control Lists  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQk5idGpxTTZOODhQTDhoNjFDLUdrWlVGM1RCeFRHbzVvMEJ1THVvTmRwT000V2FUSW5TY3RkRGM2Tm94dmlyZzVtQnc1SVZXZXFINWdveUpBZ3RXVVAwZE9yblVmalhfV0tERm1R?oc=5",
+          "publishedOn": "2024-10-06T13:06:16.000Z",
+          "wordCount": 12534,
+          "title": "A Guide to Linux Access Control Lists - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTFB5eWItcklnNkR1Ny1oZ0ZNV3QxSjRGTGdpNk14OXhWWDdQMkRmakVXdUVJbDlGRXloSDJqMnVBa0RvV01PTFZwVFFSSTlud1ExMnBqSmVia25IMVNiNUtvSVlB",
+          "author": null,
+          "description": "OpenRazer 3.9 Adds Support For Many Newer Razer Devices On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5eWItcklnNkR1Ny1oZ0ZNV3QxSjRGTGdpNk14OXhWWDdQMkRmakVXdUVJbDlGRXloSDJqMnVBa0RvV01PTFZwVFFSSTlud1ExMnBqSmVia25IMVNiNUtvSVlB?oc=5",
+          "publishedOn": "2024-10-06T10:15:00.000Z",
+          "wordCount": 12534,
+          "title": "OpenRazer 3.9 Adds Support For Many Newer Razer Devices On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSkFVX3lxTE0zcXI5NmQ5M2dnelowNXUtcWV6UGZLenQweUUtTGdUNVZ4ei1EUVJNSnRtbTFMOXRKbnlBZXFOU0NrcHdlUG9VN3lB",
+          "author": null,
+          "description": "OpenShot: The Underrated Open-Source Video Editor for Linux  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zcXI5NmQ5M2dnelowNXUtcWV6UGZLenQweUUtTGdUNVZ4ei1EUVJNSnRtbTFMOXRKbnlBZXFOU0NrcHdlUG9VN3lB?oc=5",
+          "publishedOn": "2024-10-06T08:20:23.000Z",
+          "wordCount": 12534,
+          "title": "OpenShot: The Underrated Open-Source Video Editor for Linux - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiggFBVV95cUxOaWxBN0FqQmRTczlubmJzSjZBZENEMUZ5RVMycnk3amxxVzJtVUJSMHM2VmR2a3ptb1FvbDRScGd0cHVxMXhzQy1FTUYzZDBRdGE0UFpMYUdmaG5fWkRoVVducFRPUkotSXZ2aEdSUGdreGlha3ZLLXZlY1pvYjFUVGhR",
           "author": null,
@@ -1922,6 +1902,16 @@
           "publishedOn": "2024-10-05T16:30:00.000Z",
           "wordCount": 12534,
           "title": "I Always Install These GNOME Extensions on My Linux Computers - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieEFVX3lxTE1HdlZ3RW53bjVkdm03SWRQdW1TWW5LNkNWWHYyQy1QeFBTR3RqNnRpME9uUjVHLVY1RDdXODhScU1tRjVLNklVbFdzMjZFMFJOZW5xS2NHbWtOb0ZrcUZMUEEwOTM4ZFp6Vm92WG9zUjZQZ0hGWjE4SA",
+          "author": null,
+          "description": "33 years of Linux  MyBroadband",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HdlZ3RW53bjVkdm03SWRQdW1TWW5LNkNWWHYyQy1QeFBTR3RqNnRpME9uUjVHLVY1RDdXODhScU1tRjVLNklVbFdzMjZFMFJOZW5xS2NHbWtOb0ZrcUZMUEEwOTM4ZFp6Vm92WG9zUjZQZ0hGWjE4SA?oc=5",
+          "publishedOn": "2024-10-05T15:44:20.000Z",
+          "wordCount": 12534,
+          "title": "33 years of Linux - MyBroadband",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7333,96 +7323,6 @@
           "wordCount": 12407,
           "title": "KDE Slimbook Plasma VI Linux Ultrabook Launches with AMD Ryzen 7 8845HS - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxPekRITkgxLTdsMEJxcWFQR2h3RVNacFdKZnV6T1lZSWQ4MldpMzFWMmFnYlZNbzVaMWtPRDRQRG84ZTgwU3VBMzBnbUxwNzFjbmpralM2OFVrQVRWT0lKS0JqN2JPM1daRjNzQkFpdklpZk9sVE5RQzNsZ0swYVBraGJwOVpBV1Bsc29PdzBlMnRZWU0",
-          "author": null,
-          "description": "Red Hat unleashes Enterprise Linux AI - and it's truly useful  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekRITkgxLTdsMEJxcWFQR2h3RVNacFdKZnV6T1lZSWQ4MldpMzFWMmFnYlZNbzVaMWtPRDRQRG84ZTgwU3VBMzBnbUxwNzFjbmpralM2OFVrQVRWT0lKS0JqN2JPM1daRjNzQkFpdklpZk9sVE5RQzNsZ0swYVBraGJwOVpBV1Bsc29PdzBlMnRZWU0?oc=5",
-          "publishedOn": "2024-09-06T21:10:00.000Z",
-          "wordCount": 12407,
-          "title": "Red Hat unleashes Enterprise Linux AI - and it's truly useful - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi1gFBVV95cUxNSGd2aWhWNVhnQS1nTzRBeTlYSmd1bmV0MHozcV9Mc0ZaRk1saEtjamxOcXItV1Yzb3RXQjRPbFZvZ0h0eUpjY3l2OG9kZm5Sdk12Mm9MWV9hOUNMWERXOU44VHZsXzN0bFJFTVZzbVY0amFkcjhiUTA3X0pjeWRKeDBHSHYyVUF4QUtxWXRXMHZ5d1hKeVRXemhiYVFBSmJQSjJWOGJNbFI5dTFsMEU2cmJ3elNnZW1DRFlDREd1Y0NuZ1VORDRGNkVCclB5SnNUNE5yOUtB",
-          "author": null,
-          "description": "Retroid Pocket 5 is a $219 handheld game console with a 5.5 inch display, Snapdragon 865 and Android or Linux support  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSGd2aWhWNVhnQS1nTzRBeTlYSmd1bmV0MHozcV9Mc0ZaRk1saEtjamxOcXItV1Yzb3RXQjRPbFZvZ0h0eUpjY3l2OG9kZm5Sdk12Mm9MWV9hOUNMWERXOU44VHZsXzN0bFJFTVZzbVY0amFkcjhiUTA3X0pjeWRKeDBHSHYyVUF4QUtxWXRXMHZ5d1hKeVRXemhiYVFBSmJQSjJWOGJNbFI5dTFsMEU2cmJ3elNnZW1DRFlDREd1Y0NuZ1VORDRGNkVCclB5SnNUNE5yOUtB?oc=5",
-          "publishedOn": "2024-09-06T18:56:33.000Z",
-          "wordCount": 12407,
-          "title": "Retroid Pocket 5 is a $219 handheld game console with a 5.5 inch display, Snapdragon 865 and Android or Linux support - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTFBwQ2FCVUJtdDI1eHk3Y01uNFRFdmRqTHc0MFEzUjZsUG94VVV0MUd3ZFhMcjg5bXN3Q3VxS1NBUW11QTZmRFJ4cDFPRHBraUJUZUE3aUFRaUp4dTV3VjFpdGhveW9CQQ",
-          "author": null,
-          "description": "Intel Graphics Driver With Linux 6.12 Will Finally Report Fan Speeds  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQ2FCVUJtdDI1eHk3Y01uNFRFdmRqTHc0MFEzUjZsUG94VVV0MUd3ZFhMcjg5bXN3Q3VxS1NBUW11QTZmRFJ4cDFPRHBraUJUZUE3aUFRaUp4dTV3VjFpdGhveW9CQQ?oc=5",
-          "publishedOn": "2024-09-06T17:41:00.000Z",
-          "wordCount": 12407,
-          "title": "Intel Graphics Driver With Linux 6.12 Will Finally Report Fan Speeds - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiygFBVV95cUxOLVlOcHNPa0lPZGRDQlNTWm9UWkdGNFhOMk1VR09QLVVzM0FvLXE5a2J4LTRMSTN0WExvd1IzTnRlZnFodWp1Yy0yRHlVSmliSTZBQ1EweHNxdG50MWxkVWJCZldIN0ZfemZwZ1BLOGJVY010MmVJY1JQM2dxUkNJTkNHTHNOTENoc21wYzM5T0J3YnB6RVZPcU8zTllreWpSSHdxMkJ5S1hzdWptc2UyaDVEWlZwQ3dTRWNPYXVldEdmNGMzUDFWMHlB",
-          "author": null,
-          "description": "Red Hat Enterprise Linux AI Now Generally Available for Enterprise AI Innovation in Production  CXOToday.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlOcHNPa0lPZGRDQlNTWm9UWkdGNFhOMk1VR09QLVVzM0FvLXE5a2J4LTRMSTN0WExvd1IzTnRlZnFodWp1Yy0yRHlVSmliSTZBQ1EweHNxdG50MWxkVWJCZldIN0ZfemZwZ1BLOGJVY010MmVJY1JQM2dxUkNJTkNHTHNOTENoc21wYzM5T0J3YnB6RVZPcU8zTllreWpSSHdxMkJ5S1hzdWptc2UyaDVEWlZwQ3dTRWNPYXVldEdmNGMzUDFWMHlB?oc=5",
-          "publishedOn": "2024-09-06T17:38:40.000Z",
-          "wordCount": 12407,
-          "title": "Red Hat Enterprise Linux AI Now Generally Available for Enterprise AI Innovation in Production - CXOToday.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxOZ1h1MnhWdEttcGlvSmpEYlg0TWE1ZHZnR0Y3SkVndW1CdkE2Uk1SQUFPcll0anc3N0JvUnlDTXZIT0k5ZEF6S3FOYXQzZzdWc19nX1AzTjlXaDFnUDVVZDM1QkYxdXFrNWlqUTFYelVJMEZ2dDA4NGRNcEEzZGcxdw",
-          "author": null,
-          "description": "What’s Your Favorite Text Editor for Linux?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1h1MnhWdEttcGlvSmpEYlg0TWE1ZHZnR0Y3SkVndW1CdkE2Uk1SQUFPcll0anc3N0JvUnlDTXZIT0k5ZEF6S3FOYXQzZzdWc19nX1AzTjlXaDFnUDVVZDM1QkYxdXFrNWlqUTFYelVJMEZ2dDA4NGRNcEEzZGcxdw?oc=5",
-          "publishedOn": "2024-09-06T17:33:41.000Z",
-          "wordCount": 12407,
-          "title": "What’s Your Favorite Text Editor for Linux? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiowFBVV95cUxNcVB4OEUxTTVUSl9pVlowTFg2RldsejNKR2tyQm03UnVhMHA5cXZhcVpraUFqM05oWURFaHdheHd0Qi1tR1JZa1JzVVJ1bHZPTUFRa25pRXJfZ0FSOS1PZTVnS0ZkZlVWUTR4TzhWR2NYNnIzTEw3VFZNVXR3bzY4STllRkNhQVhDR1lLWXdSby1NVnFoYlJKd2lROUR3THJGa2h3",
-          "author": null,
-          "description": "Tiny Glade: Minimum and recommended requirements for PC, Linux, and SteamOS  Destructoid",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVB4OEUxTTVUSl9pVlowTFg2RldsejNKR2tyQm03UnVhMHA5cXZhcVpraUFqM05oWURFaHdheHd0Qi1tR1JZa1JzVVJ1bHZPTUFRa25pRXJfZ0FSOS1PZTVnS0ZkZlVWUTR4TzhWR2NYNnIzTEw3VFZNVXR3bzY4STllRkNhQVhDR1lLWXdSby1NVnFoYlJKd2lROUR3THJGa2h3?oc=5",
-          "publishedOn": "2024-09-06T14:51:00.000Z",
-          "wordCount": 12407,
-          "title": "Tiny Glade: Minimum and recommended requirements for PC, Linux, and SteamOS - Destructoid",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimwFBVV95cUxPby1iVmx6Ym1NTXJ3UjdMVTQ3TF9XcGo5SV9oQ005OGtxbUpPaDdrUlk4TGItZEU1bU8weVY3ZXlHd1NGYnVuTElfb1EzUGVBWS1RYWZLZmczZnlzQVduU09xaVVFV1E3N2RtclNhaG5XZVBFb3Fsd3NXTk1qbkI5UUptTGFfN3VNOHJMSjhvWVVOemZhVGQ0LURnMNIBqAFBVV95cUxQZ1MyZS1ZX1E1N0tLWVNsR1J3am81UFFFTWVUM3JjTDlVZDhMempxZ0ZfdnRtZ1pVcHBBa3RDbHZMUktJb0cyWmp0bkliMFpfckU0c3ZEQlVBYkJqdWwxeWoxRXMtZ3cyT091S3lkOE5RQWF6Wnl5ajJKUGdxSU1wdVVoRlNsUFI1S09rb1ZURGhCTGlZVWMxNTBPYnQzaFhCdEt2SXUzNGw",
-          "author": null,
-          "description": "Best Linux Software for Developers and Programmers  Analytics Insight",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPby1iVmx6Ym1NTXJ3UjdMVTQ3TF9XcGo5SV9oQ005OGtxbUpPaDdrUlk4TGItZEU1bU8weVY3ZXlHd1NGYnVuTElfb1EzUGVBWS1RYWZLZmczZnlzQVduU09xaVVFV1E3N2RtclNhaG5XZVBFb3Fsd3NXTk1qbkI5UUptTGFfN3VNOHJMSjhvWVVOemZhVGQ0LURnMNIBqAFBVV95cUxQZ1MyZS1ZX1E1N0tLWVNsR1J3am81UFFFTWVUM3JjTDlVZDhMempxZ0ZfdnRtZ1pVcHBBa3RDbHZMUktJb0cyWmp0bkliMFpfckU0c3ZEQlVBYkJqdWwxeWoxRXMtZ3cyT091S3lkOE5RQWF6Wnl5ajJKUGdxSU1wdVVoRlNsUFI1S09rb1ZURGhCTGlZVWMxNTBPYnQzaFhCdEt2SXUzNGw?oc=5",
-          "publishedOn": "2024-09-06T14:50:00.000Z",
-          "wordCount": 12407,
-          "title": "Best Linux Software for Developers and Programmers - Analytics Insight",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE54LWZsZWQtMzFvOHczN1pqMjBMNWpFMHZJZlhFdEMyak5VbEdFY3hfSUpJbDVDbW9yZmxELVo4VEpvQ1JySEdjNzZndEpfNFhSMWp1dTlqY0RrQVM5QlotMmlVc20yM0o1YWFjTXVn",
-          "author": null,
-          "description": "Updated Patches Allow Compiling The Linux Kernel From Within macOS  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54LWZsZWQtMzFvOHczN1pqMjBMNWpFMHZJZlhFdEMyak5VbEdFY3hfSUpJbDVDbW9yZmxELVo4VEpvQ1JySEdjNzZndEpfNFhSMWp1dTlqY0RrQVM5QlotMmlVc20yM0o1YWFjTXVn?oc=5",
-          "publishedOn": "2024-09-06T14:41:00.000Z",
-          "wordCount": 12407,
-          "title": "Updated Patches Allow Compiling The Linux Kernel From Within macOS - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTFBKc2tfaG4tSy1HcEgtbmtya3lOVVQzZXRpVHVJQ3Q5MVhXd2RTN1Q5QmRjUGxuRWJvTmpPSmw2QXR6N1NGbWJOcVBLb2I5X2dSNEhxbDBkNENvNVVYeGJwWENmUFFGYXg3SldTcQ",
-          "author": null,
-          "description": "Pre-Ordered The ASUS Zenbook S 14 For Intel Core Ultra \"Lunar Lake\" Linux Testing  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKc2tfaG4tSy1HcEgtbmtya3lOVVQzZXRpVHVJQ3Q5MVhXd2RTN1Q5QmRjUGxuRWJvTmpPSmw2QXR6N1NGbWJOcVBLb2I5X2dSNEhxbDBkNENvNVVYeGJwWENmUFFGYXg3SldTcQ?oc=5",
-          "publishedOn": "2024-09-06T14:12:00.000Z",
-          "wordCount": 12407,
-          "title": "Pre-Ordered The ASUS Zenbook S 14 For Intel Core Ultra \"Lunar Lake\" Linux Testing - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10014,21 +9914,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.",
-          "link": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
-          "publishedOn": "2024-09-06T17:00:00.000Z",
-          "wordCount": 4891,
-          "title": "How To Create A Weekly Google Analytics Report That Posts To Slack",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg"
         }
       ]
     },
@@ -10686,36 +10571,6 @@
           "wordCount": 2207,
           "title": "How the Comma Ok Idiom and Package System Work in Go",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725897093899/c5eaedaf-7695-4eb8-b0a8-f3d6efffc2a8.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
-          "author": "Elizabeth Lola",
-          "description": "Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
-          "publishedOn": "2024-09-06T20:04:11.000Z",
-          "wordCount": 6566,
-          "title": "How to Use HTML Attributes to Make Your Websites and Apps More Accessible",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725281991044/7edb0d70-c31e-4a41-bc24-232c75d0fae3.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/",
-          "author": "Oduah Chigozie",
-          "description": "Lifetimes are fundamental mechanisms in Rust. There's a very high chance you'll need to work with lifetimes in any Rust project that has any sort of complexity. Even though they are important to Rust projects, lifetimes can be quite tricky to wrap yo...",
-          "link": "https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/",
-          "publishedOn": "2024-09-06T20:03:57.000Z",
-          "wordCount": 2491,
-          "title": "What are Lifetimes in Rust? Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725652969333/ba8a3fb6-3ac8-40e0-91e6-3e32e7f7b4b4.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Jack Herrington. As a kid he had to work to overcome Dyslexia and didn't have good enough grades to get into college. Despite this, he's worked as a software engineer for more than 40 years at compan...",
-          "link": "https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/",
-          "publishedOn": "2024-09-06T15:38:04.000Z",
-          "wordCount": 960,
-          "title": "Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725637064637/247793ab-f250-4618-9e14-b2ec1261d022.png"
         }
       ]
     }
