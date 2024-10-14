@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193450",
+          "author": "Web Webster",
+          "description": "Asahi Linux’s alpha release allows a smooth Apple’s M1/M2 hardware gaming with Vulkan 1.3 drivers and x86 emulation.\nThe post Asahi Linux Brings Gaming to M1/M2 Macs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/asahi-linux-brings-gaming-to-m1-m2-macs/",
+          "publishedOn": "2024-10-13T19:44:05.000Z",
+          "wordCount": 9054,
+          "title": "Asahi Linux Brings Gaming to M1/M2 Macs",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193449",
+          "author": "Web Webster",
+          "description": "SVG (Scalable Vector Graphics) files are commonly used for logos, icons, and illustrations because they can be resized without losing quality. However, sometimes you need to convert SVG files to a PNG (Portable Network Graphics) format for better compatibility with websites or applications. In Linux, there are several ways to do this conversion easily, using […]\nThe post How to Convert SVG to PNG in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-convert-svg-to-png-in-linux/",
+          "publishedOn": "2024-10-13T13:00:45.000Z",
+          "wordCount": 9098,
+          "title": "How to Convert SVG to PNG in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193448",
           "author": "Web Webster",
           "description": "Setting a static IP address on a Linux system temporarily is useful in situations where you need to troubleshoot network issues or configure networking for a specific session. This temporary change won’t persist after a reboot, but it can be easily applied for immediate network setup needs. In this guide, we’ll walk through the steps […]\nThe post How to Temporarily Set a Static IP Address on a Linux System appeared first on Linux Today.",
@@ -2056,76 +2076,6 @@
           "wordCount": 9009,
           "title": "Germany’s Sovereign Tech Fund Injects €688K into Samba",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192460",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to install and configure MariaDB on Ubuntu and how to update and remove it with practical examples.\nThe post How to Install MariaDB on Ubuntu 24.04: A Step-By-Step Guide appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-mariadb-on-ubuntu-24-04-a-step-by-step-guide/",
-          "publishedOn": "2024-09-14T00:00:36.000Z",
-          "wordCount": 9041,
-          "title": "How to Install MariaDB on Ubuntu 24.04: A Step-By-Step Guide",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192513",
-          "author": "Web Webster",
-          "description": "Ubuntu 22.04.5 LTS is here six and a half months after Ubuntu 22.04.4 LTS as an up-to-date installation media designed for those of you who want to install Ubuntu 22.04 LTS (Jammy Jellyfish) on a new computer and don’t want to download hundreds of updated packages from the repositories after the installation.\nThe post Ubuntu 22.04.5 LTS (Jammy Jellyfish) Is Now Available Powered by Linux Kernel 6.8 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-22-04-5-lts-jammy-jellyfish-is-now-available-powered-by-linux-kernel-6-8/",
-          "publishedOn": "2024-09-13T20:00:37.000Z",
-          "wordCount": 9087,
-          "title": "Ubuntu 22.04.5 LTS (Jammy Jellyfish) Is Now Available Powered by Linux Kernel 6.8",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192511",
-          "author": "Web Webster",
-          "description": "The KDE Gear 24.08.1 apps collection is now available for download, with key fixes for Dolphin, KClock, and Filelight and updated translations.\nThe post KDE Gear 24.08.1 Apps Collection Rolls Out, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-gear-24-08-1-apps-collection-rolls-out-heres-whats-new/",
-          "publishedOn": "2024-09-13T18:45:12.000Z",
-          "wordCount": 9042,
-          "title": "KDE Gear 24.08.1 Apps Collection Rolls Out, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192510",
-          "author": "Web Webster",
-          "description": "Ardour 8.7 Digital Audio Workstation rolls out new features, including track dragging, ruler changes, and enhanced MIDI scene markers.\nThe post Ardour 8.7 DAW Debuts With Enhanced Features and Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ardour-8-7-daw-debuts-with-enhanced-features-and-bug-fixes/",
-          "publishedOn": "2024-09-13T17:00:09.000Z",
-          "wordCount": 9034,
-          "title": "Ardour 8.7 DAW Debuts With Enhanced Features and Bug Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192521",
-          "author": "Web Webster",
-          "description": "A new type of malware has been discovered that is able to bypass detection by 14 major WordPress security scanners, including Wordfence. Read on to find out more!\nThe post New WordPress Malware Bypasses Top 14 Security Scanners appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/new-wordpress-malware-bypasses-top-14-security-scanners/",
-          "publishedOn": "2024-09-13T15:00:55.000Z",
-          "wordCount": 9044,
-          "title": "New WordPress Malware Bypasses Top 14 Security Scanners",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192470",
-          "author": "Web Webster",
-          "description": "The upcoming Ubuntu 24.10 operating system promises a new feature called “permissions prompting” for an extra layer of privacy and security.\nThe post Ubuntu 24.10 to Introduce User-Controlled Permissions Prompts appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ubuntu-24-10-to-introduce-user-controlled-permissions-prompts/",
-          "publishedOn": "2024-09-13T14:51:34.000Z",
-          "wordCount": 9030,
-          "title": "Ubuntu 24.10 to Introduce User-Controlled Permissions Prompts",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192522",
-          "author": "Web Webster",
-          "description": "TUXEDO Gemini 17 Gen3 is powered by AMD’s top-tier processor, the AMD Ryzen 9 7945HX, featuring 16 cores and 32 threads, 64 MB L3-Cache, 85 W TDP, up to 5,4 GHz clock speed, and AMD Radeon 610M graphics. The Linux laptop also features NVIDIA GeForce RTX 4060/4070 graphics with 8 GB GDDR6 VRAM and 115 […]\nThe post TUXEDO Gemini 17 Gen3 Linux Laptop Launches With AMD Ryzen 9 7945HX appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tuxedo-gemini-17-gen3-linux-laptop-launches-with-amd-ryzen-9-7945hx/",
-          "publishedOn": "2024-09-13T14:41:29.000Z",
-          "wordCount": 9101,
-          "title": "TUXEDO Gemini 17 Gen3 Linux Laptop Launches With AMD Ryzen 9 7945HX",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2134,6 +2084,96 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibEFVX3lxTE50S0N5RkpOU1N1QlBWcmVOdV9reFo2LTZKZFV2am85cUloREJQTVpQZVJNal83MDZRemZiV1R4ZGM1Wlpvd2F3OV9UUFdMMUdCOC1UbHlnSzFGTld3dTgxUDc4YTJ6a2pBbTIyUg",
+          "author": null,
+          "description": "Bit by Bit weekly: Counter-Strike: Neural Offensive, Large Language Models are destroying the internet, and you might be able to run Linux on Android soon  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50S0N5RkpOU1N1QlBWcmVOdV9reFo2LTZKZFV2am85cUloREJQTVpQZVJNal83MDZRemZiV1R4ZGM1Wlpvd2F3OV9UUFdMMUdCOC1UbHlnSzFGTld3dTgxUDc4YTJ6a2pBbTIyUg?oc=5",
+          "publishedOn": "2024-10-14T00:11:00.000Z",
+          "wordCount": 12549,
+          "title": "Bit by Bit weekly: Counter-Strike: Neural Offensive, Large Language Models are destroying the internet, and you might be able to run Linux on Android soon - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTE94OUkyQkU4dUVXUjZ4akJnTmFmMlNYVTNfajFybWRlWTIxczNmdUg0aWVYN295anQ4OUVKc0E1RVhvNFFzWmJOc1VVdmgyOGJjeDZvREFsejc0NkJn",
+          "author": null,
+          "description": "Looking back at 20 years of Ubuntu, the world's most popular Linux distro  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94OUkyQkU4dUVXUjZ4akJnTmFmMlNYVTNfajFybWRlWTIxczNmdUg0aWVYN295anQ4OUVKc0E1RVhvNFFzWmJOc1VVdmgyOGJjeDZvREFsejc0NkJn?oc=5",
+          "publishedOn": "2024-10-13T23:00:00.000Z",
+          "wordCount": 12549,
+          "title": "Looking back at 20 years of Ubuntu, the world's most popular Linux distro - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE1UMGlYRnN1eWhpUEZ0TkZLWjB5SS1WN0JVczZNM3FTSVp1MXZRMXBROTQ4bldCUC01UVhaTm04V1lNMVNEYi1ISDRQT3d4aHlDN0VJTjY1bjhMNmdZeS1la0p6cw",
+          "author": null,
+          "description": "Linux 6.12-rc3 Released With Some Late NTFS Driver Enhancements  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMGlYRnN1eWhpUEZ0TkZLWjB5SS1WN0JVczZNM3FTSVp1MXZRMXBROTQ4bldCUC01UVhaTm04V1lNMVNEYi1ISDRQT3d4aHlDN0VJTjY1bjhMNmdZeS1la0p6cw?oc=5",
+          "publishedOn": "2024-10-13T21:50:00.000Z",
+          "wordCount": 12549,
+          "title": "Linux 6.12-rc3 Released With Some Late NTFS Driver Enhancements - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixAFBVV95cUxQb1VTWXF4XzBmcDlENXF3YnVjOFItZUV0WVlvaDM5cmpxZ1NtRDZma1I2X0hDMUYxaDhPZTdWX2pkdTg3RXRlT0ZubjJJZE9GejRYenpuQWhuaGF1cEMzYjQxMnJZdE5HQXR3UHlXS1M5OGZtTFh1aE1tV09mc0FvTzJqUGNzcHdKX2poNWpjcENUZzNiU0NUWW9Kb1RhaG1rWHFsM0YtQTY5V3BkZG9sZExSOFFLWV8yc3l1MEs1VTZqMUtN",
+          "author": null,
+          "description": "Android 16 will include a Terminal and full Linux VM support with GPU acceleration  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1VTWXF4XzBmcDlENXF3YnVjOFItZUV0WVlvaDM5cmpxZ1NtRDZma1I2X0hDMUYxaDhPZTdWX2pkdTg3RXRlT0ZubjJJZE9GejRYenpuQWhuaGF1cEMzYjQxMnJZdE5HQXR3UHlXS1M5OGZtTFh1aE1tV09mc0FvTzJqUGNzcHdKX2poNWpjcENUZzNiU0NUWW9Kb1RhaG1rWHFsM0YtQTY5V3BkZG9sZExSOFFLWV8yc3l1MEs1VTZqMUtN?oc=5",
+          "publishedOn": "2024-10-13T16:56:00.000Z",
+          "wordCount": 12549,
+          "title": "Android 16 will include a Terminal and full Linux VM support with GPU acceleration - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiigFBVV95cUxPVFJXXzhVcmk3RlhTYWxFWmVCb1IyMEExWmJFTmdieWFMSlZicEdZN1lTc0lCLXVfY0NuTTlSOXBzM0xVWGphSWxfd0M1cjZETE8yUTBjeWFtNURuQWtCcVVaZnd5Z05EVUpkOUVRV3p5OFJ2cFdfUlZUTWVTY25nU1JRSXNBRnFadWc",
+          "author": null,
+          "description": "How to See Beautiful Git Project Stats in Your Terminal  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFJXXzhVcmk3RlhTYWxFWmVCb1IyMEExWmJFTmdieWFMSlZicEdZN1lTc0lCLXVfY0NuTTlSOXBzM0xVWGphSWxfd0M1cjZETE8yUTBjeWFtNURuQWtCcVVaZnd5Z05EVUpkOUVRV3p5OFJ2cFdfUlZUTWVTY25nU1JRSXNBRnFadWc?oc=5",
+          "publishedOn": "2024-10-13T16:00:00.000Z",
+          "wordCount": 12549,
+          "title": "How to See Beautiful Git Project Stats in Your Terminal - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxOdWFvTEhSWDdOMGpFNUdmM1p5RDlKSmo1REpyLWZzSHlXMkxCWnZDWnl5QzcxLS1ncHRzN3RFR2pOZ1A1TDJnbEZWdzUzLW0wSEtraXBmYmZVMG5GTzhHbm1uWkVwRzJaQTREYmJwQzJNZmxnLUI2QzhHUmJMX3c5LWExOA",
+          "author": null,
+          "description": "Switching from Microsoft Windows 11 to Linux is like Columbus discovering America  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWFvTEhSWDdOMGpFNUdmM1p5RDlKSmo1REpyLWZzSHlXMkxCWnZDWnl5QzcxLS1ncHRzN3RFR2pOZ1A1TDJnbEZWdzUzLW0wSEtraXBmYmZVMG5GTzhHbm1uWkVwRzJaQTREYmJwQzJNZmxnLUI2QzhHUmJMX3c5LWExOA?oc=5",
+          "publishedOn": "2024-10-13T14:03:59.000Z",
+          "wordCount": 12549,
+          "title": "Switching from Microsoft Windows 11 to Linux is like Columbus discovering America - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE56eXFoenpuWkEybVlPZFltTWZzVUtQQUhlMUlmR1ZTQzFSMkN3bGxPOVNQb3JNcG90TDM3Njg5dFBpb1JMTkdwMFJqcVAwMUYtNUR6N2xYbWZNcVByYXlWN2hJRW5xU29SQ0E",
+          "author": null,
+          "description": "Windows 11, macOS 15: What Version of Linux Are We On?  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56eXFoenpuWkEybVlPZFltTWZzVUtQQUhlMUlmR1ZTQzFSMkN3bGxPOVNQb3JNcG90TDM3Njg5dFBpb1JMTkdwMFJqcVAwMUYtNUR6N2xYbWZNcVByYXlWN2hJRW5xU29SQ0E?oc=5",
+          "publishedOn": "2024-10-13T12:00:00.000Z",
+          "wordCount": 12549,
+          "title": "Windows 11, macOS 15: What Version of Linux Are We On? - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUkFVX3lxTE5SVHlCZlFmdWtEY3ZrSlMyODJsdnVTY3hMcWtvRklNdm1MTHNUNFBOX1JPZE04Q0ZTU2JfSVJvZlh2d0U2c3MyUzJMWnRabmdJYkE",
+          "author": null,
+          "description": "10 Things You Can do on Linux but not on Windows  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVHlCZlFmdWtEY3ZrSlMyODJsdnVTY3hMcWtvRklNdm1MTHNUNFBOX1JPZE04Q0ZTU2JfSVJvZlh2d0U2c3MyUzJMWnRabmdJYkE?oc=5",
+          "publishedOn": "2024-10-13T10:38:11.000Z",
+          "wordCount": 12549,
+          "title": "10 Things You Can do on Linux but not on Windows - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZEFVX3lxTE9xZXVLazBucFRvTEVUdk01TG9GRVpwTXRtQUlPYlYtOVNkRGNSTEFGbTh3dF91dVptN1U4eE9UYU9lX3VOdFJySl9ORmdsUGtfZ191blJzWEcxcVRIRGFVWkxyMFE",
+          "author": null,
+          "description": "Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZXVLazBucFRvTEVUdk01TG9GRVpwTXRtQUlPYlYtOVNkRGNSTEFGbTh3dF91dVptN1U4eE9UYU9lX3VOdFJySl9ORmdsUGtfZ191blJzWEcxcVRIRGFVWkxyMFE?oc=5",
+          "publishedOn": "2024-10-13T10:05:00.000Z",
+          "wordCount": 12549,
+          "title": "Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiogJBVV95cUxPTnFUR3BBejRlMEVJNjBidTdEMjhzbGdEdEpRa1RzTGM2aU9OQXJLYl84V1BGcTliNHpteGdCVVJnNWlhdm5fV21kMmNNbWxDLTdxYTdvOXB1ZlI2TDhkS3VLaHFCRktWb2RKdk8wRFJzdXotRGhaaGZCcUNiUUZ5cG5Eb045RHhlWmVDQnB2MnZBOS1hWTRzT3phS3ljeWtEbHg4eXE5MGlrYVdvNHkyUXpJa2c4SHcyQ0tUU0pib3ljZVVRNGpPNDN3dkVBMnpxTmUwSC04clZUWnhvdW9HcExrN2dMNHVFa2I3Mk5mSkk0cG1sdGJiTEZkMVBSSURYT3lOMDUwaElfVXNRX0dzUEd2LUFzOTk1MnRZR3JCVDFLZw",
           "author": null,
@@ -3042,6 +3082,16 @@
           "publishedOn": "2024-10-07T14:26:48.000Z",
           "wordCount": 12549,
           "title": "Linux Kernel Exploits: Common Threats and How To Prevent Them - ITPro Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE0zOUYzTjYyd0F1YXZONGZveVdtRjNhUHZ4UE82cTN6WEVyQVlnajMtYXptWVh0SWhyYlRRQTltNm9KVzhlVndlMUZRN3pjQWItRXhnMmFjQlpCbkZoaWxuQk9xX2lkc0ZrenJrTWJQV2I",
+          "author": null,
+          "description": "Best Linux distro for education of 2024  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zOUYzTjYyd0F1YXZONGZveVdtRjNhUHZ4UE82cTN6WEVyQVlnajMtYXptWVh0SWhyYlRRQTltNm9KVzhlVndlMUZRN3pjQWItRXhnMmFjQlpCbkZoaWxuQk9xX2lkc0ZrenJrTWJQV2I?oc=5",
+          "publishedOn": "2024-10-07T14:17:32.000Z",
+          "wordCount": 12549,
+          "title": "Best Linux distro for education of 2024 - TechRadar",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7563,146 +7613,6 @@
           "wordCount": 12449,
           "title": "Linux dev swatted and handcuffed live during a development video stream — perps remain unidentified - Tom's Hardware",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxPdDI4Z3VSSWVITEJHR1AxQmFNVVI1Q2NRY1d1aVk0Tl9zbGFQWkZCNWRxWGVUTEVZU0VBdTNoUlNFbV9LbGF5YW5mdUtRRW9FZlBMYW42eWNObUdKOUdPXzMwTmZkdWhjbF93MmhuYWI3SWg2TnBaTFlUVjBHWHVTQw",
-          "author": null,
-          "description": "Use Samba on Linux for Essential Home Network File Sharing: Here's How  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDI4Z3VSSWVITEJHR1AxQmFNVVI1Q2NRY1d1aVk0Tl9zbGFQWkZCNWRxWGVUTEVZU0VBdTNoUlNFbV9LbGF5YW5mdUtRRW9FZlBMYW42eWNObUdKOUdPXzMwTmZkdWhjbF93MmhuYWI3SWg2TnBaTFlUVjBHWHVTQw?oc=5",
-          "publishedOn": "2024-09-14T13:00:00.000Z",
-          "wordCount": 12449,
-          "title": "Use Samba on Linux for Essential Home Network File Sharing: Here's How - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWkFVX3lxTE9BdG00LVN0cHBGRG1oUkJyZS1NU000d01aMGpadzdGLW5ma2ZLQmNvSF9Bb2VuU3NqMS1RemlnVWxtc2RoOC0tZmh3RUNoVGNneFF2d3ZabzJiZw",
-          "author": null,
-          "description": "EROFS Adding Support For File-Backed Mounts To Benefit Containers & Sandboxes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BdG00LVN0cHBGRG1oUkJyZS1NU000d01aMGpadzdGLW5ma2ZLQmNvSF9Bb2VuU3NqMS1RemlnVWxtc2RoOC0tZmh3RUNoVGNneFF2d3ZabzJiZw?oc=5",
-          "publishedOn": "2024-09-14T10:42:00.000Z",
-          "wordCount": 12449,
-          "title": "EROFS Adding Support For File-Backed Mounts To Benefit Containers & Sandboxes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxPNURRWTFfbjJNdmdWZ3NOaVR2RHVSbUUtcDVQTlBzd1M5WmlELVI4bjJaUzdqLXlEZVFDX210SWF6MmpsSmUtNG9GY1RYalFzUmhBWXBOc1d0US1kemJNMlQtU00xNHhhSFJ1Qi12UXJmMC1GRUZFRTk1LXlfTm9yZVh4Yy02QXUtSXZLbVl1TDJPVEdDVkHSAaMBQVVfeXFMUEZiMGVheExQcU90WHQxOFp3WjZjdTZNVXV6RTdHSkttU3JpQnJUT0dyQ3FxMEh3a1RNaWhyYWJkdXRzWVpzQTR4dTVyOGNfcmN1SVJQSmY1TnczSjdVaWJPMFUxQlJjVTQ5a09UQnlvaHA1eXVRbmliUFVpS2FIWVZnR0FMS1ZtdVRqVE45M01RSmVwbzgtN2lORFdPX1hROGZjdw",
-          "author": null,
-          "description": "Best Resources for Learning Linux Administration  Analytics Insight",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNURRWTFfbjJNdmdWZ3NOaVR2RHVSbUUtcDVQTlBzd1M5WmlELVI4bjJaUzdqLXlEZVFDX210SWF6MmpsSmUtNG9GY1RYalFzUmhBWXBOc1d0US1kemJNMlQtU00xNHhhSFJ1Qi12UXJmMC1GRUZFRTk1LXlfTm9yZVh4Yy02QXUtSXZLbVl1TDJPVEdDVkHSAaMBQVVfeXFMUEZiMGVheExQcU90WHQxOFp3WjZjdTZNVXV6RTdHSkttU3JpQnJUT0dyQ3FxMEh3a1RNaWhyYWJkdXRzWVpzQTR4dTVyOGNfcmN1SVJQSmY1TnczSjdVaWJPMFUxQlJjVTQ5a09UQnlvaHA1eXVRbmliUFVpS2FIWVZnR0FMS1ZtdVRqVE45M01RSmVwbzgtN2lORFdPX1hROGZjdw?oc=5",
-          "publishedOn": "2024-09-14T09:30:00.000Z",
-          "wordCount": 12449,
-          "title": "Best Resources for Learning Linux Administration - Analytics Insight",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi2gFBVV95cUxNbDRKdmtUQzRHVkFkU3d1ZUw0S3hoOGVfTy1IWVBubnBXRnpqcTVpTk9pRHZBNVVLNjZjampUNTJjZWNqSExjMV9nX2JaZGlBM01jSkFubFZmQ0dPN2dzMlZqTFZsSU9FbUxwczE3WE5FRzctd1oxbEtmTDJ2b25uNHQyRlU5UFVfY2N2YWZUMGdQUEloTVRUVjdtRmVGUXZGWE0xay15TDZUb19vT2Q5aERFcHpwYTZHWU9iQllseXJBMjdlU2FZaHpCV29sSlBBaFJsS1RyalNaQQ",
-          "author": null,
-          "description": "Microsoft paves the way for Linux gaming success with plan that would kill kernel-level anti-cheat  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbDRKdmtUQzRHVkFkU3d1ZUw0S3hoOGVfTy1IWVBubnBXRnpqcTVpTk9pRHZBNVVLNjZjampUNTJjZWNqSExjMV9nX2JaZGlBM01jSkFubFZmQ0dPN2dzMlZqTFZsSU9FbUxwczE3WE5FRzctd1oxbEtmTDJ2b25uNHQyRlU5UFVfY2N2YWZUMGdQUEloTVRUVjdtRmVGUXZGWE0xay15TDZUb19vT2Q5aERFcHpwYTZHWU9iQllseXJBMjdlU2FZaHpCV29sSlBBaFJsS1RyalNaQQ?oc=5",
-          "publishedOn": "2024-09-14T06:37:46.000Z",
-          "wordCount": 12449,
-          "title": "Microsoft paves the way for Linux gaming success with plan that would kill kernel-level anti-cheat - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxORExZY0xmMnlFUGpyajFWNDVpVjZYckpaajNzOEgyaEtMU3BrWVc3cW50cTZZa1VCSnltQjlvVER3aDJ3U2t1ZVQwUU1KRTJwNmw2bU8xb2Z5NGI0LVdzSVBGdXUzRC1qVVJhMnowaEdYQWQxTE91ZXMxcDkza2ZqdHd0VzRlQXBEVll3Smk3NEhzdG80MVRQeTRZc2wxRlF0SmhHTnBQc1JyLVQ1TkwwVXY3ZnhlUEEwaV9ZVkk4dExjZ9IBxwFBVV95cUxQYjRfQ2FFZjM3eGl4VlFkanRsNTFNZ0pxUThER3hvQjhNR25VbGhROTJrVFF2Z294Qjl1Z3hRQ3NHUVEwbUhEOGNtQzlFaGJFajZqSzlJOXdpRmcwQk9ZNjdudzdrOTdZcEp1NGdhN21LalpiSWllUWhDemRkVVB0dWt3S2h0TDBCSUc4TE1Zemw1MDlBWjh4bmZHMzhwa1o3cVhMMTZKdklKV0hmVDRzdGxhcTZDTjM5cHo0b2tmanhQeXdxczNZ",
-          "author": null,
-          "description": "Tuxedo introduces Gemini 17 Gen3: Powerful 17-inch laptop with Ryzen 9 and RTX 4070 for Linux  gagadget.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORExZY0xmMnlFUGpyajFWNDVpVjZYckpaajNzOEgyaEtMU3BrWVc3cW50cTZZa1VCSnltQjlvVER3aDJ3U2t1ZVQwUU1KRTJwNmw2bU8xb2Z5NGI0LVdzSVBGdXUzRC1qVVJhMnowaEdYQWQxTE91ZXMxcDkza2ZqdHd0VzRlQXBEVll3Smk3NEhzdG80MVRQeTRZc2wxRlF0SmhHTnBQc1JyLVQ1TkwwVXY3ZnhlUEEwaV9ZVkk4dExjZ9IBxwFBVV95cUxQYjRfQ2FFZjM3eGl4VlFkanRsNTFNZ0pxUThER3hvQjhNR25VbGhROTJrVFF2Z294Qjl1Z3hRQ3NHUVEwbUhEOGNtQzlFaGJFajZqSzlJOXdpRmcwQk9ZNjdudzdrOTdZcEp1NGdhN21LalpiSWllUWhDemRkVVB0dWt3S2h0TDBCSUc4TE1Zemw1MDlBWjh4bmZHMzhwa1o3cVhMMTZKdklKV0hmVDRzdGxhcTZDTjM5cHo0b2tmanhQeXdxczNZ?oc=5",
-          "publishedOn": "2024-09-14T02:51:17.000Z",
-          "wordCount": 12449,
-          "title": "Tuxedo introduces Gemini 17 Gen3: Powerful 17-inch laptop with Ryzen 9 and RTX 4070 for Linux - gagadget.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY0FVX3lxTFBiOVFPZjdVdE1ORFhtb1pZNWdLM1Z0NkFIcnJxN0dRQzgwSDhTUUVOa2t5SUNFOVp6ek5sbm5jUkFEaXF1a0RKbm9RWWhHVWg3SmVhQ1hST05tZXFwVlQzd2FBOA",
-          "author": null,
-          "description": "Haiku OS R1 Beta 5 Is Keeping the BeOS Dream Alive  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiOVFPZjdVdE1ORFhtb1pZNWdLM1Z0NkFIcnJxN0dRQzgwSDhTUUVOa2t5SUNFOVp6ek5sbm5jUkFEaXF1a0RKbm9RWWhHVWg3SmVhQ1hST05tZXFwVlQzd2FBOA?oc=5",
-          "publishedOn": "2024-09-13T20:42:00.000Z",
-          "wordCount": 12449,
-          "title": "Haiku OS R1 Beta 5 Is Keeping the BeOS Dream Alive - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE9fWVMydmJfdDJVS09uTDFad0RFblN2YzhhMTBBSUVyYWhxNlp4X3IyRkgwNHVoTWdrYUJlMFBKbFF5c3E1aGVQWDdVUGNQeTJxUzhkaDBqMWw3OEo4aXI1bU9OYnpwS1JQVDRr",
-          "author": null,
-          "description": "Linux 6.12 Finishing The Transition For Moving Intel CPUs Past The \"Family 6\" Era  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fWVMydmJfdDJVS09uTDFad0RFblN2YzhhMTBBSUVyYWhxNlp4X3IyRkgwNHVoTWdrYUJlMFBKbFF5c3E1aGVQWDdVUGNQeTJxUzhkaDBqMWw3OEo4aXI1bU9OYnpwS1JQVDRr?oc=5",
-          "publishedOn": "2024-09-13T20:22:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux 6.12 Finishing The Transition For Moving Intel CPUs Past The \"Family 6\" Era - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi-gFBVV95cUxQaTViTlRnRmJWdUZHeXFJR3lWU2VyOWxSU29QeVU4VUd4cFdKdDA2WjVLX0xSMEd6V3ptSXhTQ0IzZjhuOXczOThZaVlEdzdBeHlHQkZoRmVianlsVFhWMGRTX3JaZ19XUFVBUkUwc2J0NnA4bEh1ZTlJRE1HQV8xS1I2LXktZFhGb3E4czN0Z3RlTEpJekNONVpEVml3NFp1cFZjM3VYRGxWSm0zOWZzZ3FBa2hkekoyYUI2Wk5LWGZnWGNQLV92U3RjdExwRmd3RE5kRUFaMlJwX0x2M1ZzcjFPNUlJOE5WWUFaZGlhTVpjSE4yci1FcHV3",
-          "author": null,
-          "description": "Tuxedo Gemini 17 Gen3 Linux laptop launched with up to RTX 4070 Laptop GPU, Ryzen 9 HX CPU, 96 GB of RAM and 8 TB of storage  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaTViTlRnRmJWdUZHeXFJR3lWU2VyOWxSU29QeVU4VUd4cFdKdDA2WjVLX0xSMEd6V3ptSXhTQ0IzZjhuOXczOThZaVlEdzdBeHlHQkZoRmVianlsVFhWMGRTX3JaZ19XUFVBUkUwc2J0NnA4bEh1ZTlJRE1HQV8xS1I2LXktZFhGb3E4czN0Z3RlTEpJekNONVpEVml3NFp1cFZjM3VYRGxWSm0zOWZzZ3FBa2hkekoyYUI2Wk5LWGZnWGNQLV92U3RjdExwRmd3RE5kRUFaMlJwX0x2M1ZzcjFPNUlJOE5WWUFaZGlhTVpjSE4yci1FcHV3?oc=5",
-          "publishedOn": "2024-09-13T18:33:02.000Z",
-          "wordCount": 12449,
-          "title": "Tuxedo Gemini 17 Gen3 Linux laptop launched with up to RTX 4070 Laptop GPU, Ryzen 9 HX CPU, 96 GB of RAM and 8 TB of storage - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFBVV95cUxQNWhpV290VVRkR0lnYk5tMnM2TDNldEdrZWRzeG03X0EyMkVIYUJMcWdzNGkwMWhTRVlVRlExYnh1NE9zMWZZRVlMZVlhNVdnbjRza0EwUzdNRnpXVWQ2ZE5qd0NQU01kcHBrU1Z5c25CS3BnVEJVNGg4dEl3dWVWRjR4bzFwd0dXS183NUg5YUpwUdIBlwFBVV95cUxQS3htQ2pRNGw4c0daX1FObmNvQk10WWlsTHRZVVlOQVNTenNMLVptR2tHRDY3cTQ2eHM2QVBDb1FCMmI4WlVIeF95UG91S2FSM2k2UDNSeUlPTDR5N01sZ1hVX1FWME9mXzY1aW40SU5QUEdyQzBqcml6bDh1dl9vTnZYaXI4OGxtQXRnWm1fY0c2NGc2Wlg4",
-          "author": null,
-          "description": "New Linux malware called Hadooken targets Oracle WebLogic servers  Security Affairs",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWhpV290VVRkR0lnYk5tMnM2TDNldEdrZWRzeG03X0EyMkVIYUJMcWdzNGkwMWhTRVlVRlExYnh1NE9zMWZZRVlMZVlhNVdnbjRza0EwUzdNRnpXVWQ2ZE5qd0NQU01kcHBrU1Z5c25CS3BnVEJVNGg4dEl3dWVWRjR4bzFwd0dXS183NUg5YUpwUdIBlwFBVV95cUxQS3htQ2pRNGw4c0daX1FObmNvQk10WWlsTHRZVVlOQVNTenNMLVptR2tHRDY3cTQ2eHM2QVBDb1FCMmI4WlVIeF95UG91S2FSM2k2UDNSeUlPTDR5N01sZ1hVX1FWME9mXzY1aW40SU5QUEdyQzBqcml6bDh1dl9vTnZYaXI4OGxtQXRnWm1fY0c2NGc2Wlg4?oc=5",
-          "publishedOn": "2024-09-13T18:17:45.000Z",
-          "wordCount": 12449,
-          "title": "New Linux malware called Hadooken targets Oracle WebLogic servers - Security Affairs",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqgFBVV95cUxNc0JhVGI2OExTd2Z0dDdESTNyUkh2aXRhSzJDMG15eUJRSlBqLUxBSWdZQ244WGNFS3FWa29kOExyYWZtTnlwQno4STlDUVM1a04yM3hUQnJUYXprbVA0eldhU2txMzVuSnJvYV8zaGdtZE5xX05sdWlRN0RRSTdNNlo3dGhVZVZuVUVqOEVYWUxNYU9YbHRWV0JaaHp3dFRXSFItNzJCaEtoQdIBrwFBVV95cUxONVVHYndaQmlZcHVtRmR5Yll4YUdsMXpJdTU5dTQ3Zkt2TUNEOVhVcDdLTUlzeTF4dlAwM194bzBoSEU3N3RHdTlyZTZGSnEteUdMM2RCVlZDd2p0SnZEUHBmbFQ4by1PQVQzZW1MMGFpRENBcV9hX090Sk81cHZRMmZRc2NPVXdJRDNTT0htRDZhSFUxaFo1OGVqNGg2NWxrSnRuM00xRmlremVIb0FV",
-          "author": null,
-          "description": "New Linux malware Hadooken targets Oracle WebLogic servers  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0JhVGI2OExTd2Z0dDdESTNyUkh2aXRhSzJDMG15eUJRSlBqLUxBSWdZQ244WGNFS3FWa29kOExyYWZtTnlwQno4STlDUVM1a04yM3hUQnJUYXprbVA0eldhU2txMzVuSnJvYV8zaGdtZE5xX05sdWlRN0RRSTdNNlo3dGhVZVZuVUVqOEVYWUxNYU9YbHRWV0JaaHp3dFRXSFItNzJCaEtoQdIBrwFBVV95cUxONVVHYndaQmlZcHVtRmR5Yll4YUdsMXpJdTU5dTQ3Zkt2TUNEOVhVcDdLTUlzeTF4dlAwM194bzBoSEU3N3RHdTlyZTZGSnEteUdMM2RCVlZDd2p0SnZEUHBmbFQ4by1PQVQzZW1MMGFpRENBcV9hX090Sk81cHZRMmZRc2NPVXdJRDNTT0htRDZhSFUxaFo1OGVqNGg2NWxrSnRuM00xRmlremVIb0FV?oc=5",
-          "publishedOn": "2024-09-13T17:05:58.000Z",
-          "wordCount": 12449,
-          "title": "New Linux malware Hadooken targets Oracle WebLogic servers - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTFBKWnZaYVhZQThnZThWODkwVXN3R2Nqc2tQVEtUajlHWlNyVUM4M3ZZVWhKYWhpaUplMm05QTh5T05qUTRlbkUxbnA2eTYxaWFSVk5hdzRLMENINkRwVnF1UXRWVUQ4ZllsbnFoVXRjRlBHWDVsRFBzZWxXdG1Kd9IBgwFBVV95cUxQYi1lRXBhY3FIQWNJeWdKYTZ4YkdPTE9EN2NTSWRoVjlxcUZ4VC1lM1NwbVppYldxbm1uc0RFUHU3NFpPZzQ4Rm8zdXVNQ3FDQVlqVUgyMFozVnY2UHlIcDhfUllSb3JnaTBPYnFudEZmZ1JkY3ppSFo2STF6OVkwRVB2NA",
-          "author": null,
-          "description": "Raspberry Pi Imager Gets Qt 6 Port, Now Offers AppImages on Linux  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKWnZaYVhZQThnZThWODkwVXN3R2Nqc2tQVEtUajlHWlNyVUM4M3ZZVWhKYWhpaUplMm05QTh5T05qUTRlbkUxbnA2eTYxaWFSVk5hdzRLMENINkRwVnF1UXRWVUQ4ZllsbnFoVXRjRlBHWDVsRFBzZWxXdG1Kd9IBgwFBVV95cUxQYi1lRXBhY3FIQWNJeWdKYTZ4YkdPTE9EN2NTSWRoVjlxcUZ4VC1lM1NwbVppYldxbm1uc0RFUHU3NFpPZzQ4Rm8zdXVNQ3FDQVlqVUgyMFozVnY2UHlIcDhfUllSb3JnaTBPYnFudEZmZ1JkY3ppSFo2STF6OVkwRVB2NA?oc=5",
-          "publishedOn": "2024-09-13T15:56:15.000Z",
-          "wordCount": 12449,
-          "title": "Raspberry Pi Imager Gets Qt 6 Port, Now Offers AppImages on Linux - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxOc1FYdWxYLTcxMlpId1N0emU0aERQeG5CZUJWY2o2a1ZhMVFMX2ZtOFdkQUpQVnBBZWlORFFDeGxhWWk5X2djcjVmOHF5Y2VaNXRWbEE2dUhGZm01ZW12R21wWTlDRXFyYktvbUlVbW1sbnVqSFpzRFNydFg5aE5fWnYyZkZEcXA0ckpTdU1OckRxM1nSAZgBQVVfeXFMT3hHSmx1NWo0eWVDa19LS01nV1JXZDB3ZlZxdWpfYWduVkJBZ0VCUzBBcnRVYVk0TEEya2V2R0YxSTRkTDRHbVZKNkc0QTRhajEwUlBXRldwMEpoUnFyWkF6cWJPcFpPRk1pSUhxUkg3WDVLSkdkVW8zdlNJaFJZd3FnQURRWmQtRTVMVlNqR0FOcXNEQm5xbXc",
-          "author": null,
-          "description": "TUXEDO Gemini 17 Gen3 Linux Laptop Launches with AMD Ryzen 9 7945HX  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1FYdWxYLTcxMlpId1N0emU0aERQeG5CZUJWY2o2a1ZhMVFMX2ZtOFdkQUpQVnBBZWlORFFDeGxhWWk5X2djcjVmOHF5Y2VaNXRWbEE2dUhGZm01ZW12R21wWTlDRXFyYktvbUlVbW1sbnVqSFpzRFNydFg5aE5fWnYyZkZEcXA0ckpTdU1OckRxM1nSAZgBQVVfeXFMT3hHSmx1NWo0eWVDa19LS01nV1JXZDB3ZlZxdWpfYWduVkJBZ0VCUzBBcnRVYVk0TEEya2V2R0YxSTRkTDRHbVZKNkc0QTRhajEwUlBXRldwMEpoUnFyWkF6cWJPcFpPRk1pSUhxUkg3WDVLSkdkVW8zdlNJaFJZd3FnQURRWmQtRTVMVlNqR0FOcXNEQm5xbXc?oc=5",
-          "publishedOn": "2024-09-13T14:28:46.000Z",
-          "wordCount": 12449,
-          "title": "TUXEDO Gemini 17 Gen3 Linux Laptop Launches with AMD Ryzen 9 7945HX - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirgFBVV95cUxObkZ1QkVLbHFyLVlVcFZSN1Zmc3d6RUk3UURkeGxrVnJ0eWZBNHNDekFaQWc1bjdjM0xfek4yNDhGNTg1TlE5cFRyakFtWko2d1k3U2RkY0RqOERLeXJ6a0VGRmEwMXBiVXBUR3FFSlhNUHlCQnQxR0o2ZGRUTFpSR01fTE1JM0VSTlFRbVJBczVscWllWnRuOENzLWhiQk5adDlpbVNWaXhneElOQWc",
-          "author": null,
-          "description": "Oracle servers targeted by new Linux malware to steal passwords, crypto  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkZ1QkVLbHFyLVlVcFZSN1Zmc3d6RUk3UURkeGxrVnJ0eWZBNHNDekFaQWc1bjdjM0xfek4yNDhGNTg1TlE5cFRyakFtWko2d1k3U2RkY0RqOERLeXJ6a0VGRmEwMXBiVXBUR3FFSlhNUHlCQnQxR0o2ZGRUTFpSR01fTE1JM0VSTlFRbVJBczVscWllWnRuOENzLWhiQk5adDlpbVNWaXhneElOQWc?oc=5",
-          "publishedOn": "2024-09-13T14:07:00.000Z",
-          "wordCount": 12449,
-          "title": "Oracle servers targeted by new Linux malware to steal passwords, crypto - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwAFBVV95cUxQVmdYQS1EeHhoU0RSUnNvUmhsZ25URmY2RHVFdW5oYjZPX1gyU2xIcWVydXY5N0xlaFl5ajZuWENxRWN5QWctRGNnN2FONV9DLWRpZTJXYUxMaTJ2c29XekxBdldyclp4ZklicmVJYjZYbTVKa0o3c0tWZW11QXpESHRFUU95OXRvcjJUUlFKYXZkTXNIVnhnTm5FN1ZPSVpxSF8xQ3BKek1OZjd2cE8zbjNydU5xWVlDN2h0VWg3R2U",
-          "author": null,
-          "description": "TUXEDO Gemini 17 Gen3 is the ultimate portable Linux workstation with Ryzen 9 and RTX 4070  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmdYQS1EeHhoU0RSUnNvUmhsZ25URmY2RHVFdW5oYjZPX1gyU2xIcWVydXY5N0xlaFl5ajZuWENxRWN5QWctRGNnN2FONV9DLWRpZTJXYUxMaTJ2c29XekxBdldyclp4ZklicmVJYjZYbTVKa0o3c0tWZW11QXpESHRFUU95OXRvcjJUUlFKYXZkTXNIVnhnTm5FN1ZPSVpxSF8xQ3BKek1OZjd2cE8zbjNydU5xWVlDN2h0VWg3R2U?oc=5",
-          "publishedOn": "2024-09-13T14:06:34.000Z",
-          "wordCount": 12449,
-          "title": "TUXEDO Gemini 17 Gen3 is the ultimate portable Linux workstation with Ryzen 9 and RTX 4070 - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10107,16 +10017,6 @@
           "wordCount": 1478,
           "title": "Smashing Hour With Lynn Fisher",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380841"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380589",
-          "author": "Daniel Schwarz",
-          "description": "The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …\nTwo CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/",
-          "publishedOn": "2024-09-13T14:11:32.000Z",
-          "wordCount": 2780,
-          "title": "Two CSS Properties for Trimming Text Box Whitespace",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380589"
         }
       ]
     },
@@ -10961,16 +10861,6 @@
           "wordCount": 4490,
           "title": "How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726225376443/ae5d57c8-e79e-4dc4-b218-c3a5e34f8293.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Eddie Jaoude who is a software engineer and open source creator. He's worked more than 15 years as a developer everywhere from Germany banking sector to London's tec...",
-          "link": "https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/",
-          "publishedOn": "2024-09-13T18:32:51.000Z",
-          "wordCount": 891,
-          "title": "Lessons from freelancing for dozens of startups with Eddie Jaoude [Podcast #141]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726252226726/21c2eca2-f209-429a-977a-03f92144d2d0.png"
         }
       ]
     }
