@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193497",
+          "author": "Web Webster",
+          "description": "Dollar for dollar matching funds, cool swag, and you get to sleep better at night knowing that the folks at Tor are able to continue working hard to protect your privacy. What’s not to like about that?\nThe post FOSS Force Tor’s Raising Funds — Get Swag, Attend Events, and a Benefactor Will Match Every Donation appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/foss-force-tors-raising-funds-get-swag-attend-events-and-a-benefactor-will-match-every-donation/",
+          "publishedOn": "2024-10-16T00:33:15.000Z",
+          "wordCount": 9114,
+          "title": "FOSS Force Tor’s Raising Funds — Get Swag, Attend Events, and a Benefactor Will Match Every Donation",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193476",
+          "author": "Web Webster",
+          "description": "The Apt tool is an advanced package management system used in Debian-based Linux distributions, like Ubuntu, which allows you to easily install, update, and remove software packages. Initially, APT was designed as a front-end for dpkg to work with .deb packages. It has since gained visibility on macOS, OpenSolaris, and other systems.\nThe post How to Disable Package Updates in Ubuntu, Debian and Mint appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-disable-package-updates-in-ubuntu-debian-and-mint/",
+          "publishedOn": "2024-10-15T23:31:53.000Z",
+          "wordCount": 9098,
+          "title": "How to Disable Package Updates in Ubuntu, Debian and Mint",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193473",
+          "author": "Web Webster",
+          "description": "ZRAM is a Linux kernel module that allows you to create a compressed block device in RAM, that effectively increases the amount of usable memory on your system by compressing data stored in RAM, which can be especially useful for systems with limited physical memory, allowing them to run more applications simultaneously without slowing down. […]\nThe post How to Install ZRAM to Boost Ubuntu Performance appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-zram-to-boost-ubuntu-performance/",
+          "publishedOn": "2024-10-15T21:27:19.000Z",
+          "wordCount": 9098,
+          "title": "How to Install ZRAM to Boost Ubuntu Performance",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193504",
+          "author": "Web Webster",
+          "description": "Debian Developer Niko Tyni announced that Debian Unstable has been upgraded to Perl 5.40.0, bringing a range of new features, security updates, and bug fixes.\nThe post Debian Unstable Upgrades To Perl 5.40 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/debian-unstable-upgrades-to-perl-5-40/",
+          "publishedOn": "2024-10-15T20:27:38.000Z",
+          "wordCount": 9059,
+          "title": "Debian Unstable Upgrades To Perl 5.40",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193507",
+          "author": "Web Webster",
+          "description": "Clonezilla Live 3.2 is here a little over three months after Clonezilla Live 3.1.3 to bump the kernel from the Linux 6.9 used in the previous version to Linux 6.11 to provide users with better hardware support. It also rebases the underlying GNU/Linux operating system on the Debian Sid repository as of October 15th, 2024.\nThe post Clonezilla Live 3.2 Disk Imaging/Cloning Is Out Powered by Linux Kernel 6.11 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/clonezilla-live-3-2-disk-imaging-cloning-is-out-powered-by-linux-kernel-6-11/",
+          "publishedOn": "2024-10-15T19:31:40.000Z",
+          "wordCount": 9112,
+          "title": "Clonezilla Live 3.2 Disk Imaging/Cloning Is Out Powered by Linux Kernel 6.11",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193474",
+          "author": "Web Webster",
+          "description": "A network analyzer (also known as a packet analyzer, packet sniffer, or protocol analyzer) is software that intercepts and logs traffic that passes over a computer network or part of a network. Here are 15 free packet sniffers you should check out.\nThe post 16 Best Free and Open Source Network Analyzers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/16-best-free-and-open-source-network-analyzers/",
+          "publishedOn": "2024-10-15T19:29:34.000Z",
+          "wordCount": 9071,
+          "title": "16 Best Free and Open Source Network Analyzers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193506",
+          "author": "Web Webster",
+          "description": "LibreSSL 4.0 introduces portable changes, bug fixes, and internal cleanups. Now supporting OpenBSD 7.6, improving TLS, X.509, and RSA key handling.\nThe post LibreSSL 4.0 Debuts with Enhanced Security and Bug Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/libressl-4-0-debuts-with-enhanced-security-and-bug-fixes/",
+          "publishedOn": "2024-10-15T17:30:42.000Z",
+          "wordCount": 9067,
+          "title": "LibreSSL 4.0 Debuts with Enhanced Security and Bug Fixes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193472",
+          "author": "Web Webster",
+          "description": "Learn about the /etc/mtab file in Linux, the different sections inside it, and the similarities between mtab and fstab files with examples.\nThe post Understanding the /etc/mtab File in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/understanding-the-etc-mtab-file-in-linux/",
+          "publishedOn": "2024-10-15T17:24:53.000Z",
+          "wordCount": 9054,
+          "title": "Understanding the /etc/mtab File in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193505",
+          "author": "Web Webster",
+          "description": "Still powered by the Linux 6.10 kernel series, Solus 4.6 ships with a newer graphics stack, namely Mesa 24.2, for an extra boost in games and other graphics software. It also brings more usr-merge work, which aligns Solus with the compatibility efforts from Fedora Linux and other distributions.\nThe post Solus 4.6 “Convergence” Released with Mesa 24.2, Experimental Software Centers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/solus-4-6-convergence-released-with-mesa-24-2-experimental-software-centers/",
+          "publishedOn": "2024-10-15T16:29:35.000Z",
+          "wordCount": 9097,
+          "title": "Solus 4.6 “Convergence” Released with Mesa 24.2, Experimental Software Centers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193511",
+          "author": "Web Webster",
+          "description": "Coming just ten days after fwupd 2.0, the fwupd 2.0.1 release adds an API to allow the GNOME Firmware graphical frontend to record devices for emulation, as well as support for saving the emulation-tag devices to the database instead of the configuration file.\nThe post Fwupd 2.0.1 Adds API to Allow GNOME Firmware to Record Devices for Emulation appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-1-adds-api-to-allow-gnome-firmware-to-record-devices-for-emulation/",
+          "publishedOn": "2024-10-15T15:38:18.000Z",
+          "wordCount": 9108,
+          "title": "Fwupd 2.0.1 Adds API to Allow GNOME Firmware to Record Devices for Emulation",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193470",
           "author": "Web Webster",
           "description": "Coming more than 1 year and four months after Inkscape 1.3, the Inkscape 1.4 release introduces a new Filter Gallery dialog to make it easier to find the best filter for your needs, new grid selector buttons to make it easier to identify the grid of your choice, and new modular grids to plan layouts […]\nThe post Inkscape 1.4 Open-Source SVG Editor Released with Filter Gallery, Modular Grids appeared first on Linux Today.",
@@ -2126,16 +2226,6 @@
           "wordCount": 9014,
           "title": "MX Linux 23.4 Released, Here’s What’s New",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192560",
-          "author": "Web Webster",
-          "description": "SerNet secured €688,800 in funding from Germany’s Sovereign Tech Fund to boost Samba’s security, scalability, and functionality.\nThe post Germany’s Sovereign Tech Fund Injects €688K into Samba appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/germanys-sovereign-tech-fund-injects-e688k-into-samba/",
-          "publishedOn": "2024-09-16T13:00:15.000Z",
-          "wordCount": 9009,
-          "title": "Germany’s Sovereign Tech Fund Injects €688K into Samba",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2144,6 +2234,306 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibkFVX3lxTE5NU1JzcjRKR0FVcWVPd0FIZDhCYjhlNi1tMGVVT1k0SkpCOERNbDV6cnV4TUhlQ0dvOHJvY0lhUEoyOUhsQncyOVc3Z0ZJd1NqeUFHZ1IwR2RVRDl2Ykp3OHdHTFZMV08tNkRLY0dn",
+          "author": null,
+          "description": "Download Voyager Linux 24.10 now!  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NU1JzcjRKR0FVcWVPd0FIZDhCYjhlNi1tMGVVT1k0SkpCOERNbDV6cnV4TUhlQ0dvOHJvY0lhUEoyOUhsQncyOVc3Z0ZJd1NqeUFHZ1IwR2RVRDl2Ykp3OHdHTFZMV08tNkRLY0dn?oc=5",
+          "publishedOn": "2024-10-16T00:57:02.000Z",
+          "wordCount": 12556,
+          "title": "Download Voyager Linux 24.10 now! - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirgFBVV95cUxOa1RxSVpFOXh1a1RFdWl4Mm1lOFpvRm9kb1R3N0dBRnMwQTNlYWduSTBleWtvUVp0LTYtSzEzZ0tyUXRpMkVLN2N2SHo5TE5IQTUxcFhULVA2STN5T2ZSOWd1S3N6WWlOWUlrdS1NZ1ZzQ0xKRlV0SmczcWVrZUlMRm1sUnVfYkhiaHYwbFp4YU43ZmhfYUUzRjZNb20waUUtekRpSENHYVBWdV9penc",
+          "author": null,
+          "description": "A new Linux-based FASTCash malware steals money from ATMs  iZOOlogic",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1RxSVpFOXh1a1RFdWl4Mm1lOFpvRm9kb1R3N0dBRnMwQTNlYWduSTBleWtvUVp0LTYtSzEzZ0tyUXRpMkVLN2N2SHo5TE5IQTUxcFhULVA2STN5T2ZSOWd1S3N6WWlOWUlrdS1NZ1ZzQ0xKRlV0SmczcWVrZUlMRm1sUnVfYkhiaHYwbFp4YU43ZmhfYUUzRjZNb20waUUtekRpSENHYVBWdV9penc?oc=5",
+          "publishedOn": "2024-10-16T00:03:53.000Z",
+          "wordCount": 12556,
+          "title": "A new Linux-based FASTCash malware steals money from ATMs - iZOOlogic",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFBVV95cUxOMXRIU3JnZW9WRGZlUTQ1dGU1bjZGNUludEZnaHpaMzdldnpJNlJZVmR6N1VLVTIwaFJuWTJjVUcwU2hJeWJ2LWs1UzI5SDJEZE14eFY2TXNVNmdOMVFSTDBnazhNN3g1dVEwWWlITlJnWmQyZFNwRGFmVnlxWVRQYw",
+          "author": null,
+          "description": "Ubuntu Linux 25.04 is called Plucky Puffin  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMXRIU3JnZW9WRGZlUTQ1dGU1bjZGNUludEZnaHpaMzdldnpJNlJZVmR6N1VLVTIwaFJuWTJjVUcwU2hJeWJ2LWs1UzI5SDJEZE14eFY2TXNVNmdOMVFSTDBnazhNN3g1dVEwWWlITlJnWmQyZFNwRGFmVnlxWVRQYw?oc=5",
+          "publishedOn": "2024-10-16T00:01:09.000Z",
+          "wordCount": 12556,
+          "title": "Ubuntu Linux 25.04 is called Plucky Puffin - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi7wFBVV95cUxOZUlMZnJUM0VZR0JNU2o1Y195RHhVMWVJNm9UbExVNV9nMHdlV1c3cHYyaVhMQWY3ZzlLVko5QzZWWHh3bGVTdXo2ZGJGempTYzExczV3bmpOSDAxTy1qb0dOVXBOYUlMM2dQN3RTd0x5MmRmS2F0ZlM4R3RfM0ZkSkg4U2VlZklyY1gycFpuV0dlOEVmZFE4M2lSRlppR0ZjWEI5ekY2Z2lnMm1WRnRNa2R0eks5NHZzZUJyZkZ5dkx1WVp0SjJlb0pRMncwemxjQ0dIQzlKbm5zVmNQOVVURXlkX1QxRldpa2xDOFJjSQ",
+          "author": null,
+          "description": "TuxCare Arms Enterprises with First-Ever Endless Lifecycle Support for EOL Linux Distributions and Open-Source Software  Security Boulevard",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZUlMZnJUM0VZR0JNU2o1Y195RHhVMWVJNm9UbExVNV9nMHdlV1c3cHYyaVhMQWY3ZzlLVko5QzZWWHh3bGVTdXo2ZGJGempTYzExczV3bmpOSDAxTy1qb0dOVXBOYUlMM2dQN3RTd0x5MmRmS2F0ZlM4R3RfM0ZkSkg4U2VlZklyY1gycFpuV0dlOEVmZFE4M2lSRlppR0ZjWEI5ekY2Z2lnMm1WRnRNa2R0eks5NHZzZUJyZkZ5dkx1WVp0SjJlb0pRMncwemxjQ0dIQzlKbm5zVmNQOVVURXlkX1QxRldpa2xDOFJjSQ?oc=5",
+          "publishedOn": "2024-10-15T23:21:36.000Z",
+          "wordCount": 12556,
+          "title": "TuxCare Arms Enterprises with First-Ever Endless Lifecycle Support for EOL Linux Distributions and Open-Source Software - Security Boulevard",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiigFBVV95cUxNYnV6a0RaT09haTR4clU0VHBxU29GT3k2TE9EUU5XOThpTTBoeUk4YjQxV3pqOFZleEJDc3lpS1JVdnY1a3phNnlWZVVLVUtEVXNPQWIySWdOZlFoZzJmMGpsaDhkUUJyX3haV3Jrcmk4d2ZkZGV4UTBQUXREUEtsZTJIUDk0SGlaUWc",
+          "author": null,
+          "description": "North Korea Hackers Get Cash Fast in Linux Cyber Heists  Dark Reading",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnV6a0RaT09haTR4clU0VHBxU29GT3k2TE9EUU5XOThpTTBoeUk4YjQxV3pqOFZleEJDc3lpS1JVdnY1a3phNnlWZVVLVUtEVXNPQWIySWdOZlFoZzJmMGpsaDhkUUJyX3haV3Jrcmk4d2ZkZGV4UTBQUXREUEtsZTJIUDk0SGlaUWc?oc=5",
+          "publishedOn": "2024-10-15T21:31:45.000Z",
+          "wordCount": 12556,
+          "title": "North Korea Hackers Get Cash Fast in Linux Cyber Heists - Dark Reading",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirwFBVV95cUxNM3dFaHpDbWFraHcwVEZrMDQtUTVPTW1mSnlWWTRKS2loMnZDRXg5WHhoOFJ0ZmljLXJUWlN1VTBma3dWTjFKNEZaSHlBQ0FhQW5LYngxM0plM3phdWFWNXlTeS1oWE1Ha0Q2LWRWVnZyZmxVTkxUS0xWRmdtc0N1VTFUdGtuSWgxUEMzVjVMOUY2aC1IcTBObWpSVnNvSGpiZ1VHUVNTbS1Kb0hjakJz",
+          "author": null,
+          "description": "North Korean hackers use newly discovered Linux malware to raid ATMs  Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3dFaHpDbWFraHcwVEZrMDQtUTVPTW1mSnlWWTRKS2loMnZDRXg5WHhoOFJ0ZmljLXJUWlN1VTBma3dWTjFKNEZaSHlBQ0FhQW5LYngxM0plM3phdWFWNXlTeS1oWE1Ha0Q2LWRWVnZyZmxVTkxUS0xWRmdtc0N1VTFUdGtuSWgxUEMzVjVMOUY2aC1IcTBObWpSVnNvSGpiZ1VHUVNTbS1Kb0hjakJz?oc=5",
+          "publishedOn": "2024-10-15T21:16:05.000Z",
+          "wordCount": 12556,
+          "title": "North Korean hackers use newly discovered Linux malware to raid ATMs - Ars Technica",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE85YVZEZ2NEekNzeWdhaEZhcVpMZGN0Y1RNX1p3M0otQlJsNjFob2hLWnJ2RFlGSXZWOXhXNklDaTFtQ1NFaVMxRDQxZGxNb2Vidnl5SS1mWWl6SG53endTRWlPUGF5TmdjUU44",
+          "author": null,
+          "description": "NVIDIA Posts Linux Patches For GPU Direct RDMA For Device Private Pages  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85YVZEZ2NEekNzeWdhaEZhcVpMZGN0Y1RNX1p3M0otQlJsNjFob2hLWnJ2RFlGSXZWOXhXNklDaTFtQ1NFaVMxRDQxZGxNb2Vidnl5SS1mWWl6SG53endTRWlPUGF5TmdjUU44?oc=5",
+          "publishedOn": "2024-10-15T20:32:00.000Z",
+          "wordCount": 12556,
+          "title": "NVIDIA Posts Linux Patches For GPU Direct RDMA For Device Private Pages - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiswFBVV95cUxQcTZnQWJhZDNaUGFpMmtUZFItVDZNSjdBc2hEbUZCVWJwdFJWYlRHNUhHVUhvdmZQc0VwSnJ1M0J2V0F1Q3VqRDl0ejNhZDJDOEpQQ1EyRW5WbGd3NmdzWHJCVWN0WHc5dUdVLXJPN1VUeFJNRFhndTZBSzl3YTF0ZVY4dmNMNHBlM0xzeEg3NXNwOTdnUl91cS1veGVDZjVqbUlzMWZYSXRnZUxOLWkzdDEtVQ",
+          "author": null,
+          "description": "VirtualBox gets Windows 11 24H2 fix, many TPM improvements, Linux 6.12 support, and more  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTZnQWJhZDNaUGFpMmtUZFItVDZNSjdBc2hEbUZCVWJwdFJWYlRHNUhHVUhvdmZQc0VwSnJ1M0J2V0F1Q3VqRDl0ejNhZDJDOEpQQ1EyRW5WbGd3NmdzWHJCVWN0WHc5dUdVLXJPN1VUeFJNRFhndTZBSzl3YTF0ZVY4dmNMNHBlM0xzeEg3NXNwOTdnUl91cS1veGVDZjVqbUlzMWZYSXRnZUxOLWkzdDEtVQ?oc=5",
+          "publishedOn": "2024-10-15T19:00:00.000Z",
+          "wordCount": 12556,
+          "title": "VirtualBox gets Windows 11 24H2 fix, many TPM improvements, Linux 6.12 support, and more - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirAFBVV95cUxPNzdnaXNHRDVTYlJtZ0JoN0hhLWY3SzJMMFNfYzAzRzFsN0MybjBKM0NzTlFlX0tacDY4azZub2N1T1hOM0Q1MFhLOWdjWF9BYnRuMlFIRU1CZGhvQTNQMGJQTUR2aGpvUVo4bjdyTVN5SVRUbkNuSnVVZmdkTnNRczJWQWhpQzZnTnJYUjh2YjcwZUFTYUZOWFNleFhIeFgxSUVaTEhaSlBOSHJr0gGyAUFVX3lxTE1IOGd2VnppaUVaT0RNVWFJcERmajQybzNrb21QSzVWMWFDWVY3MHRNSFJmMGk2V3E0YXFBc3pFNXE3X2tFS2s3MFNJaUJiOWwxcEdwYlZvNmFIaDNwcmItRFdQVk1zcjBpdW5TWk5PYThXMGEzSG1yZUV5Q29Majh2S0xpRDIzRHA1blA2ZEdWX0Nlb3ZuQkF0WGNzMTVhZXE2THA4SGFJWHRpV0NOd1V0bUE",
+          "author": null,
+          "description": "A new Linux variant of FASTCash malware targets financial systems  Security Affairs",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzdnaXNHRDVTYlJtZ0JoN0hhLWY3SzJMMFNfYzAzRzFsN0MybjBKM0NzTlFlX0tacDY4azZub2N1T1hOM0Q1MFhLOWdjWF9BYnRuMlFIRU1CZGhvQTNQMGJQTUR2aGpvUVo4bjdyTVN5SVRUbkNuSnVVZmdkTnNRczJWQWhpQzZnTnJYUjh2YjcwZUFTYUZOWFNleFhIeFgxSUVaTEhaSlBOSHJr0gGyAUFVX3lxTE1IOGd2VnppaUVaT0RNVWFJcERmajQybzNrb21QSzVWMWFDWVY3MHRNSFJmMGk2V3E0YXFBc3pFNXE3X2tFS2s3MFNJaUJiOWwxcEdwYlZvNmFIaDNwcmItRFdQVk1zcjBpdW5TWk5PYThXMGEzSG1yZUV5Q29Majh2S0xpRDIzRHA1blA2ZEdWX0Nlb3ZuQkF0WGNzMTVhZXE2THA4SGFJWHRpV0NOd1V0bUE?oc=5",
+          "publishedOn": "2024-10-15T18:00:46.000Z",
+          "wordCount": 12556,
+          "title": "A new Linux variant of FASTCash malware targets financial systems - Security Affairs",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxOb2RXWEE5SXZoSnVJazZiSXhTdUNKclpzWm9fdzhZbldXQnBBaTRkRzg5NTdaeDFjNmFyY1otdGsyMW1hTldlNm5Id3NNblljQXZYcjNOV1daZW1FZ2ZDVHZkMy05aUZMMEZSVHVneHZobzVDTWctbFpCdTVGeVlOXzdxRURZcld4b21PVA",
+          "author": null,
+          "description": "ATM cash theft aimed by new FASTCash malware for Linux  scworld.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2RXWEE5SXZoSnVJazZiSXhTdUNKclpzWm9fdzhZbldXQnBBaTRkRzg5NTdaeDFjNmFyY1otdGsyMW1hTldlNm5Id3NNblljQXZYcjNOV1daZW1FZ2ZDVHZkMy05aUZMMEZSVHVneHZobzVDTWctbFpCdTVGeVlOXzdxRURZcld4b21PVA?oc=5",
+          "publishedOn": "2024-10-15T17:03:00.000Z",
+          "wordCount": 12556,
+          "title": "ATM cash theft aimed by new FASTCash malware for Linux - scworld.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNU0Uza1JWLWdzdWhKaGo3V0tVWlZlQi1Rb1V4YWsxVzRUNFNMWnhNQk9XU2drUDlzTVlsUDEyVm5CWnZYbEJqYjVWX3dqWnBhUmNWYUtaeVctMlFWY2Roc0FIcnY4MWtEZW1HZUhtX3BZclg1OS1yZ0lETUNtR1ZDOTlYZHh1QllGWERqM3djanEwZ3RvYk5wcHJFWHlOWWc",
+          "author": null,
+          "description": "Android may soon be able to run Linux apps easily  Tech Advisor",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0Uza1JWLWdzdWhKaGo3V0tVWlZlQi1Rb1V4YWsxVzRUNFNMWnhNQk9XU2drUDlzTVlsUDEyVm5CWnZYbEJqYjVWX3dqWnBhUmNWYUtaeVctMlFWY2Roc0FIcnY4MWtEZW1HZUhtX3BZclg1OS1yZ0lETUNtR1ZDOTlYZHh1QllGWERqM3djanEwZ3RvYk5wcHJFWHlOWWc?oc=5",
+          "publishedOn": "2024-10-15T16:28:00.000Z",
+          "wordCount": 12556,
+          "title": "Android may soon be able to run Linux apps easily - Tech Advisor",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie0FVX3lxTE5LYWJGTU9MalAtSU93Qy00OVdWZm1lRldNeVZmc3FhR2RXanNVVjJHSTJRa0NhdjhJVXV5Ul9DN2pmaU9WY3U4alBsQ3QyZ3NLNTQzS3VrTGM2c3NhTlNGZ1F3QTNLUXExOE8yc0JTSTE4LWNURWZJNEczbw",
+          "author": null,
+          "description": "Linux: Sync Files Between Servers With Syncthing  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LYWJGTU9MalAtSU93Qy00OVdWZm1lRldNeVZmc3FhR2RXanNVVjJHSTJRa0NhdjhJVXV5Ul9DN2pmaU9WY3U4alBsQ3QyZ3NLNTQzS3VrTGM2c3NhTlNGZ1F3QTNLUXExOE8yc0JTSTE4LWNURWZJNEczbw?oc=5",
+          "publishedOn": "2024-10-15T15:08:26.000Z",
+          "wordCount": 12556,
+          "title": "Linux: Sync Files Between Servers With Syncthing - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxQS1d0a1FLaU9hcm10aWdhbjdvT1pxaFlJWnlhSVRiSjJPX1hPc0RWVXdMLXMzRWlEZFFPX0taWjBSQ3lWOE5wb0QtckxRSzRiQ3BLb3YzZ2ljUEdBd3RxS0huNGhSUlc3a1FrQ216ck5HYTkzZW56eEltbXJrc0lwbGlpeEtXNnh3ZVJHejFnTXpHUWRjWHhvaXJ4UzcySl9XcnFjVXp2LWPSAa4BQVVfeXFMUDNXYzBrbkdDcUE5ZG1nbEY5VHNxZ2lidHItc0ZxOVU3T043N29LZVZ3QnFDeDVBeVJiVHJTeTJiTk9wNmg0ejZ6Mm1zME1OWTQ0VXJ1ZzRFTWVRbzI4clZlbVhQMkNueDJYNVBYZ1NtVnpwa2o2aE5weG1zSmJJSkRTV0RPY3dreFdmU25NczBjRGJHZ0JjaEUwY0N0WG5yTXNGS3RWa2kwQ2M2TXBn",
+          "author": null,
+          "description": "VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1d0a1FLaU9hcm10aWdhbjdvT1pxaFlJWnlhSVRiSjJPX1hPc0RWVXdMLXMzRWlEZFFPX0taWjBSQ3lWOE5wb0QtckxRSzRiQ3BLb3YzZ2ljUEdBd3RxS0huNGhSUlc3a1FrQ216ck5HYTkzZW56eEltbXJrc0lwbGlpeEtXNnh3ZVJHejFnTXpHUWRjWHhvaXJ4UzcySl9XcnFjVXp2LWPSAa4BQVVfeXFMUDNXYzBrbkdDcUE5ZG1nbEY5VHNxZ2lidHItc0ZxOVU3T043N29LZVZ3QnFDeDVBeVJiVHJTeTJiTk9wNmg0ejZ6Mm1zME1OWTQ0VXJ1ZzRFTWVRbzI4clZlbVhQMkNueDJYNVBYZ1NtVnpwa2o2aE5weG1zSmJJSkRTV0RPY3dreFdmU25NczBjRGJHZ0JjaEUwY0N0WG5yTXNGS3RWa2kwQ2M2TXBn?oc=5",
+          "publishedOn": "2024-10-15T14:52:58.000Z",
+          "wordCount": 12556,
+          "title": "VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxQNHdMX2FUbFFMWl9IbWltRkhkS1Q0WWRRaWZ5ZTRabjdyeU5Eb3NrRVNIVDJYR281Y3EyVGN5TlEycXFBWnh3aU9zSDVZdHZoSmNHcld4dGFXcTVFanRhWHg4c3ktaVRFLXhqeVN2YVR4Tk9uS1RTQ0pIYi1QTXNVaGVR",
+          "author": null,
+          "description": "New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHdMX2FUbFFMWl9IbWltRkhkS1Q0WWRRaWZ5ZTRabjdyeU5Eb3NrRVNIVDJYR281Y3EyVGN5TlEycXFBWnh3aU9zSDVZdHZoSmNHcld4dGFXcTVFanRhWHg4c3ktaVRFLXhqeVN2YVR4Tk9uS1RTQ0pIYi1QTXNVaGVR?oc=5",
+          "publishedOn": "2024-10-15T14:43:00.000Z",
+          "wordCount": 12556,
+          "title": "New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNQWxEblAtMHAydFhRNzg1cU1HTlBUOEIzbE5iS0FwalFJVVQxRm8tUkNCVzZGTzZuU1JWbmN0bnRaS3pHMDNlRnBMRlQ1WUpwZ1NLb2NuLWRkcjFlQlVZUkhkbm9MRVNHTDUweTJVWFFXc3RDMVVsRVVRSy1IWkNqTUZaQl91U190azZ6SnI0NXk3Yjk0LTBTVWtlOVhDX2vSAaQBQVVfeXFMUHNtM3laRFVGalYtNXg4cTZJRDhOc2hwTWEzVzg5NjdNUU0xQ3BQVVBNRXNLR245eGZwTlV6M1dJbzlPSXNxd2JES3FqczV0Z01oZi1fcG9FbDRVRmJleWJ5cUJNNGdQWDZQbEVMNUtobGJVV1plbFdLZVk1ZU9EdWF5ZlJpRS1fTlNUdGI4ZE1NQVpIeXlRTndNSUJpTG4xM1FydVo",
+          "author": null,
+          "description": "Fwupd 2.0.1 Adds API to Allow GNOME Firmware to Record Devices for Emulation  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWxEblAtMHAydFhRNzg1cU1HTlBUOEIzbE5iS0FwalFJVVQxRm8tUkNCVzZGTzZuU1JWbmN0bnRaS3pHMDNlRnBMRlQ1WUpwZ1NLb2NuLWRkcjFlQlVZUkhkbm9MRVNHTDUweTJVWFFXc3RDMVVsRVVRSy1IWkNqTUZaQl91U190azZ6SnI0NXk3Yjk0LTBTVWtlOVhDX2vSAaQBQVVfeXFMUHNtM3laRFVGalYtNXg4cTZJRDhOc2hwTWEzVzg5NjdNUU0xQ3BQVVBNRXNLR245eGZwTlV6M1dJbzlPSXNxd2JES3FqczV0Z01oZi1fcG9FbDRVRmJleWJ5cUJNNGdQWDZQbEVMNUtobGJVV1plbFdLZVk1ZU9EdWF5ZlJpRS1fTlNUdGI4ZE1NQVpIeXlRTndNSUJpTG4xM1FydVo?oc=5",
+          "publishedOn": "2024-10-15T14:18:20.000Z",
+          "wordCount": 12556,
+          "title": "Fwupd 2.0.1 Adds API to Allow GNOME Firmware to Record Devices for Emulation - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE50X3RvMGp1ekhUTkE2d01TWDk4SHVScUJYQVB6aW1hQUt6R0hKVEltTGIxRnI1dWcxX0ZJN3JtNHdmMzB5eWQ2Y0pKUzduZ29HWm9veWlOS3QwVVRTQnRpTlU3R2ZJRUJm",
+          "author": null,
+          "description": "Ubuntu 24.10 Developer Preview Released For Snapdragon X1 Elite Laptops  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50X3RvMGp1ekhUTkE2d01TWDk4SHVScUJYQVB6aW1hQUt6R0hKVEltTGIxRnI1dWcxX0ZJN3JtNHdmMzB5eWQ2Y0pKUzduZ29HWm9veWlOS3QwVVRTQnRpTlU3R2ZJRUJm?oc=5",
+          "publishedOn": "2024-10-15T13:42:00.000Z",
+          "wordCount": 12556,
+          "title": "Ubuntu 24.10 Developer Preview Released For Snapdragon X1 Elite Laptops - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirAFBVV95cUxOb21BUHB4bXVBRmdxdDk3VDB6NldKTHQyT3VfdlhxR000R0VBQndYUDF0Q3haWlJ1YnUtUmJHdXJfR2N6RTNmSUh3Y2xLSlBOOFVKWlUwX2tmZWlUbWMxOS1qRnM5dm1HZ2JmSHAyUDh5M2NtRVV0aUw0aFdSOFR3UWFZWTl2MkUzQWpkRHgxR2FhaHdkZWFXZUI0ZzFUaTctOUxGeFJiVm1BR2Ju0gGzAUFVX3lxTE5pZEZBZllZYno2SnM1NGpqMU1TZm5nNFdjbnd2QzR4cGNKZG5OZFRENlN5S3ZQMnFqNkRpSFhra25vWll4Z0ZjclpON0UtUGJ2UkhicUladF83akItWjNGTkxfclkwQnJibk5PRkh1NERuMm9QMDBsSjItTFVSaTFOcW16a19mM0Y5X2NNLVpWWV81WjUxT0RhdGw5WjB1MzNMd0xIODFIejlnZ01IdG1nRDFZ",
+          "author": null,
+          "description": "SUSE Edge upgrade targets Kubernetes and Linux at the edge  Network World",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb21BUHB4bXVBRmdxdDk3VDB6NldKTHQyT3VfdlhxR000R0VBQndYUDF0Q3haWlJ1YnUtUmJHdXJfR2N6RTNmSUh3Y2xLSlBOOFVKWlUwX2tmZWlUbWMxOS1qRnM5dm1HZ2JmSHAyUDh5M2NtRVV0aUw0aFdSOFR3UWFZWTl2MkUzQWpkRHgxR2FhaHdkZWFXZUI0ZzFUaTctOUxGeFJiVm1BR2Ju0gGzAUFVX3lxTE5pZEZBZllZYno2SnM1NGpqMU1TZm5nNFdjbnd2QzR4cGNKZG5OZFRENlN5S3ZQMnFqNkRpSFhra25vWll4Z0ZjclpON0UtUGJ2UkhicUladF83akItWjNGTkxfclkwQnJibk5PRkh1NERuMm9QMDBsSjItTFVSaTFOcW16a19mM0Y5X2NNLVpWWV81WjUxT0RhdGw5WjB1MzNMd0xIODFIejlnZ01IdG1nRDFZ?oc=5",
+          "publishedOn": "2024-10-15T13:22:43.000Z",
+          "wordCount": 12556,
+          "title": "SUSE Edge upgrade targets Kubernetes and Linux at the edge - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi_AFBVV95cUxNSjJ0U3pZS3dKUVFjYnNKWjQwQVcxZGNzaVVKckZhTkhNczB1NXhVV0w4Q2d0ejlqc3N4T0IzQUZWVmVRMzZRb3duUjNNLTV0VU5IWVpnR2N6NzQwbUZnUGZiQ1E4TzE2VUdnMENsa2JqQ3ZZZ3lxSlFqY3k0bzhxMDBTekVteWczdFFlOXM5N2x4b3RqUElEMWJRLXBEX3RPRTlvV2k5QnhRRlNxWW40c25fdlNQTzRRZVB6SWhnUjIyeVFrZVZORzlQN1R6ajhjekRsc2MxNk51YktuS2pKR19uVzJWLTlQMUNnU3dhU3ZtOWcwLTR4Qkx3MG0",
+          "author": null,
+          "description": "Panasonic Connect Certifies TOUGHBOOK Devices on Red Hat Enterprise Linux for Enhanced Flexibility and Security  Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSjJ0U3pZS3dKUVFjYnNKWjQwQVcxZGNzaVVKckZhTkhNczB1NXhVV0w4Q2d0ejlqc3N4T0IzQUZWVmVRMzZRb3duUjNNLTV0VU5IWVpnR2N6NzQwbUZnUGZiQ1E4TzE2VUdnMENsa2JqQ3ZZZ3lxSlFqY3k0bzhxMDBTekVteWczdFFlOXM5N2x4b3RqUElEMWJRLXBEX3RPRTlvV2k5QnhRRlNxWW40c25fdlNQTzRRZVB6SWhnUjIyeVFrZVZORzlQN1R6ajhjekRsc2MxNk51YktuS2pKR19uVzJWLTlQMUNnU3dhU3ZtOWcwLTR4Qkx3MG0?oc=5",
+          "publishedOn": "2024-10-15T13:00:00.000Z",
+          "wordCount": 12556,
+          "title": "Panasonic Connect Certifies TOUGHBOOK Devices on Red Hat Enterprise Linux for Enhanced Flexibility and Security - Business Wire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitAFBVV95cUxQLXJoTXVwbURFWlJKS0Z6cHhqMTgyRDM3dmZqUHBEUElGXzhfYjVxOG5BWlV0by1BandRZ3l0bl9rM3B4UTdVMW96VUE3ZFZPS0xyWnhPTUQtN05TSU1OOEtwS0RpZnIzcUFUUnFlUWR4Tl83R3o5dmNONjhueDJ5TWdTVnNUNDlacWJySXNzY0dhZDdlcjVibHVKTVVubEtDWk5walplVE4wZXhFSEdaSVhYNk0",
+          "author": null,
+          "description": "Ready to leave Windows 11? Solus Linux 4.6 is the gorgeous alternative you deserve  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXJoTXVwbURFWlJKS0Z6cHhqMTgyRDM3dmZqUHBEUElGXzhfYjVxOG5BWlV0by1BandRZ3l0bl9rM3B4UTdVMW96VUE3ZFZPS0xyWnhPTUQtN05TSU1OOEtwS0RpZnIzcUFUUnFlUWR4Tl83R3o5dmNONjhueDJ5TWdTVnNUNDlacWJySXNzY0dhZDdlcjVibHVKTVVubEtDWk5walplVE4wZXhFSEdaSVhYNk0?oc=5",
+          "publishedOn": "2024-10-15T12:40:13.000Z",
+          "wordCount": 12556,
+          "title": "Ready to leave Windows 11? Solus Linux 4.6 is the gorgeous alternative you deserve - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNRmZicU9ZWXNGVUo0NU5pVmRZTHdPc2Z4eDctYVh1ZDFoTnQwWGNaNHFNVEM5aVJXRWFKX1Y0Q3phd0w5TnVnVVU0SWx2eUJGSjVqckJhc3pvbGo5UTdiSGhoUUJFZHVRWFN0QUJELTRJSWFpcDJ2YlB4YjJrMDlCT2VPR2lwRXA5YklCQjZQY0NfVy01TXB1cGRuSmVYQlHSAaQBQVVfeXFMUFRZZ3lXTXE4V003YmZxalBXT1QzU2N4Yi1aVEtGSXpRUVpUd3dWWjJlcEI4eWNhUlA0SlFmT1hYdUhQMDdOYkFtZFZzRFUzV1lWV0c2OG9XaXNrR0g1ZTVqRWNrQnVUNEJhbmdwNEstZEx4RVp4dXk5bGx0eTlWN0NnVDdYT1M1Qm83a2JON1RqcmxGZHFteHpjRGpoeXRqU25JMG0",
+          "author": null,
+          "description": "Clonezilla Live 3.2 Disk Imaging/Cloning Tool Is Out Powered by Linux Kernel 6.11  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZicU9ZWXNGVUo0NU5pVmRZTHdPc2Z4eDctYVh1ZDFoTnQwWGNaNHFNVEM5aVJXRWFKX1Y0Q3phd0w5TnVnVVU0SWx2eUJGSjVqckJhc3pvbGo5UTdiSGhoUUJFZHVRWFN0QUJELTRJSWFpcDJ2YlB4YjJrMDlCT2VPR2lwRXA5YklCQjZQY0NfVy01TXB1cGRuSmVYQlHSAaQBQVVfeXFMUFRZZ3lXTXE4V003YmZxalBXT1QzU2N4Yi1aVEtGSXpRUVpUd3dWWjJlcEI4eWNhUlA0SlFmT1hYdUhQMDdOYkFtZFZzRFUzV1lWV0c2OG9XaXNrR0g1ZTVqRWNrQnVUNEJhbmdwNEstZEx4RVp4dXk5bGx0eTlWN0NnVDdYT1M1Qm83a2JON1RqcmxGZHFteHpjRGpoeXRqU25JMG0?oc=5",
+          "publishedOn": "2024-10-15T12:31:00.000Z",
+          "wordCount": 12556,
+          "title": "Clonezilla Live 3.2 Disk Imaging/Cloning Tool Is Out Powered by Linux Kernel 6.11 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxNd3ZaaUVSYmlBQldISW5PZ1pHOXM1YWVOT1ktdDlSVDNCWHNtMEVMODVMaGg2d1o1MmQyN3pXSi1hTFd4bE10VHJLbHNIa0kwRXJMV29RWGIzVWtNRzZvc0dQTU84NVpNWmFtZDhjd2VLU1ZYSjRjcF9OV0tfMXBUOVE3T3g5V00xQVhxSWNRSG5FcUhzRS1PXy1rVmkzZ9IBowFBVV95cUxQZHZzdnRIOVZiY0puMWc2d3kzQVNSNTJJc0cwc2x3UHNPU0Z3MHByZVpxN0hiVHVSTzNaWVpaU2lfRHdEYm9oQ2cwN3BQdTJ2TVZWR01lQWpPcTFOZlh0cE1JLTNQM0YwQnB1NkV2RDhyN3lTSnNBYW5wNFZ0OWZ5MTZNcy1sUFFzME1KcEYxWUhPZ1ZhTkhIZmszd1YwTXdPdi1B",
+          "author": null,
+          "description": "Solus 4.6 “Convergence” Released with Mesa 24.2, Experimental Software Centers  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3ZaaUVSYmlBQldISW5PZ1pHOXM1YWVOT1ktdDlSVDNCWHNtMEVMODVMaGg2d1o1MmQyN3pXSi1hTFd4bE10VHJLbHNIa0kwRXJMV29RWGIzVWtNRzZvc0dQTU84NVpNWmFtZDhjd2VLU1ZYSjRjcF9OV0tfMXBUOVE3T3g5V00xQVhxSWNRSG5FcUhzRS1PXy1rVmkzZ9IBowFBVV95cUxQZHZzdnRIOVZiY0puMWc2d3kzQVNSNTJJc0cwc2x3UHNPU0Z3MHByZVpxN0hiVHVSTzNaWVpaU2lfRHdEYm9oQ2cwN3BQdTJ2TVZWR01lQWpPcTFOZlh0cE1JLTNQM0YwQnB1NkV2RDhyN3lTSnNBYW5wNFZ0OWZ5MTZNcy1sUFFzME1KcEYxWUhPZ1ZhTkhIZmszd1YwTXdPdi1B?oc=5",
+          "publishedOn": "2024-10-15T11:40:50.000Z",
+          "wordCount": 12556,
+          "title": "Solus 4.6 “Convergence” Released with Mesa 24.2, Experimental Software Centers - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi2gFBVV95cUxQMzB2RGYwMnFJWVM4SUlPWTYzTmVyVmtaWWtoQllBLV9yaFc2Z1RGWkpPZDkxM3lmcHMzY3o1SjJRalN1cFZkMVNtTXY5UGRlVXpKNmVIemdoSzJoSEZJR2FBd2lEY3pzLUJHUFV3SW1YS1FIeExiWjhnZTc4ZUYyVTFyMUJFVTY2dEdJOGl4ckFLVG93RHp1d3lGNl9rLU1PMmtNYXl3X1d5endQWlZNMjB5S0xlMjFKZjFoam1Vay03UHZqREtVdHZTRlN2ZkRoUnZkV2NNc2p0dw",
+          "author": null,
+          "description": "Windows 10 only has a year of support: 12 months left to keep Copilot off your desktop or learn Linux  PC Gamer",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMzB2RGYwMnFJWVM4SUlPWTYzTmVyVmtaWWtoQllBLV9yaFc2Z1RGWkpPZDkxM3lmcHMzY3o1SjJRalN1cFZkMVNtTXY5UGRlVXpKNmVIemdoSzJoSEZJR2FBd2lEY3pzLUJHUFV3SW1YS1FIeExiWjhnZTc4ZUYyVTFyMUJFVTY2dEdJOGl4ckFLVG93RHp1d3lGNl9rLU1PMmtNYXl3X1d5endQWlZNMjB5S0xlMjFKZjFoam1Vay03UHZqREtVdHZTRlN2ZkRoUnZkV2NNc2p0dw?oc=5",
+          "publishedOn": "2024-10-15T11:40:40.000Z",
+          "wordCount": 12556,
+          "title": "Windows 10 only has a year of support: 12 months left to keep Copilot off your desktop or learn Linux - PC Gamer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE53R0NfUUZjNkdxNEJNaXgxQ3g3cUh5VnNLOHBoZHJ5ME1WRTg0a25YOTNXOWFhU2hIeDRqWmhHLWJWZVVVN2NiVC1lRGVPeng1NHZwc095aDM",
+          "author": null,
+          "description": "Solus 4.6 Released With Continued Merged Usr Migration, Experimental Software Centers  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53R0NfUUZjNkdxNEJNaXgxQ3g3cUh5VnNLOHBoZHJ5ME1WRTg0a25YOTNXOWFhU2hIeDRqWmhHLWJWZVVVN2NiVC1lRGVPeng1NHZwc095aDM?oc=5",
+          "publishedOn": "2024-10-15T11:02:00.000Z",
+          "wordCount": 12556,
+          "title": "Solus 4.6 Released With Continued Merged Usr Migration, Experimental Software Centers - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE5kblU5Mm1raVJuRUZnVEtOYWN3ZVJqRkxROEFwSHdTUm5XUTZPRW9zLXh2bk5tMm5lVS1hcjJyVXRvMXJTanlMOHFRLWpHNXVHcnhHZkR2OU1hbjlvRjhzOXdNeVo3ZmRVbW40a1c3aVJxa3JkQzZYeU85R3k",
+          "author": null,
+          "description": "5 Windows-Like Linux Distros You Should Try Out  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kblU5Mm1raVJuRUZnVEtOYWN3ZVJqRkxROEFwSHdTUm5XUTZPRW9zLXh2bk5tMm5lVS1hcjJyVXRvMXJTanlMOHFRLWpHNXVHcnhHZkR2OU1hbjlvRjhzOXdNeVo3ZmRVbW40a1c3aVJxa3JkQzZYeU85R3k?oc=5",
+          "publishedOn": "2024-10-15T11:00:00.000Z",
+          "wordCount": 12556,
+          "title": "5 Windows-Like Linux Distros You Should Try Out - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTFBZWlVZdTl0UUVESUZBekJCbDcyNkZvNTdMZ3hLcUxtZFNLdjQ0VkVueUNDeURkeHRtanpvdFk4WFZKTWl0OFVzQTBLblNUS0V2dHZRNF9SYW52YWVvYnJidExyUUNkZw",
+          "author": null,
+          "description": "Wow! Google is Working On Running a Native Linux Terminal App on Your Android Device!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZWlVZdTl0UUVESUZBekJCbDcyNkZvNTdMZ3hLcUxtZFNLdjQ0VkVueUNDeURkeHRtanpvdFk4WFZKTWl0OFVzQTBLblNUS0V2dHZRNF9SYW52YWVvYnJidExyUUNkZw?oc=5",
+          "publishedOn": "2024-10-15T10:19:14.000Z",
+          "wordCount": 12556,
+          "title": "Wow! Google is Working On Running a Native Linux Terminal App on Your Android Device! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxPeGhmUS1sNnhNdDZsbmNHR05ZbGZFMkhRUlQzLUdQeEhHQVZzbjFfRVNpQzdGZmhvRzBWM1VJUkhLbjNBa2JyVjhvdkZSdlpNSExDNm5LeHNRVnJ4aV9IRU9ILUNnaWt4bThabzR1NkRLc1B2SnJOTXNEUzlPcjlKMGVQcw",
+          "author": null,
+          "description": "How to create and manage hidden files in Linux  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGhmUS1sNnhNdDZsbmNHR05ZbGZFMkhRUlQzLUdQeEhHQVZzbjFfRVNpQzdGZmhvRzBWM1VJUkhLbjNBa2JyVjhvdkZSdlpNSExDNm5LeHNRVnJ4aV9IRU9ILUNnaWt4bThabzR1NkRLc1B2SnJOTXNEUzlPcjlKMGVQcw?oc=5",
+          "publishedOn": "2024-10-15T08:05:00.000Z",
+          "wordCount": 12556,
+          "title": "How to create and manage hidden files in Linux - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipwFBVV95cUxQWmFRZVdwVGQ2UUN3RTloMkdVV3JZdDF0R0FQNjJNdGlfNmV3WXFCQV9aZ0NzNFhzWTBVYWZlbEdGVXdGT0xFWnpoQkhyczctUmduZWNQT3UyV3lubWRBYTBzMUU3UWlKUFBqUU1mWHdoMW1XaGI2M0xkVUJDQmUtLW82clExMEdrd05PaW56MXBSTXNfSktQX09ldVdIbzkyTXp3N1V2NA",
+          "author": null,
+          "description": "Building a Retro Linux Gaming Computer Part 44: The Legend of Kobo  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmFRZVdwVGQ2UUN3RTloMkdVV3JZdDF0R0FQNjJNdGlfNmV3WXFCQV9aZ0NzNFhzWTBVYWZlbEdGVXdGT0xFWnpoQkhyczctUmduZWNQT3UyV3lubWRBYTBzMUU3UWlKUFBqUU1mWHdoMW1XaGI2M0xkVUJDQmUtLW82clExMEdrd05PaW56MXBSTXNfSktQX09ldVdIbzkyTXp3N1V2NA?oc=5",
+          "publishedOn": "2024-10-15T07:43:37.000Z",
+          "wordCount": 12556,
+          "title": "Building a Retro Linux Gaming Computer Part 44: The Legend of Kobo - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxOMjdHRkNlbzBOZGJKUWd1SzBRRldCLUpXSUpldjEtRE54SUZQZ3JfSm1NX1F1MWZPdWxEZHUwNS1zX1oxa3ZlblptMFRBelRDU2J1blhnTXdJOGxQWG83amctaG0tbzhxRHlBSjhTZTJ0NUh2dWhpVVJmM0lXQm12RWRpNEZLM2lXNk5pdk5EbzhoUGFGZDBoWFZtemVSTU84",
+          "author": null,
+          "description": "NordVPN implements post-quantum cryptography in Linux App  CloudTech News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjdHRkNlbzBOZGJKUWd1SzBRRldCLUpXSUpldjEtRE54SUZQZ3JfSm1NX1F1MWZPdWxEZHUwNS1zX1oxa3ZlblptMFRBelRDU2J1blhnTXdJOGxQWG83amctaG0tbzhxRHlBSjhTZTJ0NUh2dWhpVVJmM0lXQm12RWRpNEZLM2lXNk5pdk5EbzhoUGFGZDBoWFZtemVSTU84?oc=5",
+          "publishedOn": "2024-10-15T07:31:13.000Z",
+          "wordCount": 12556,
+          "title": "NordVPN implements post-quantum cryptography in Linux App - CloudTech News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiAFBVV95cUxQNDZfeVVESkJkdXB0NGlRci1jVmdVcnVoVHQxYWRNQjZUUWRyVjlENjktNmR2b0toWGNmVVNyWGd2Vnhjai1DY1Z1YUtTUWt4aWxkcVV3TmdmeGVNRjgzbFVnYTBSWnZRTWNVYm5VSndsNm1ibF9kd09aYnU4aEgwMFRJSWpsMlpE",
+          "author": null,
+          "description": "How to Install a .deb File – Using dpkg -i or apt – Unix & Linux  Wi-Fi Planet",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDZfeVVESkJkdXB0NGlRci1jVmdVcnVoVHQxYWRNQjZUUWRyVjlENjktNmR2b0toWGNmVVNyWGd2Vnhjai1DY1Z1YUtTUWt4aWxkcVV3TmdmeGVNRjgzbFVnYTBSWnZRTWNVYm5VSndsNm1ibF9kd09aYnU4aEgwMFRJSWpsMlpE?oc=5",
+          "publishedOn": "2024-10-15T06:02:00.000Z",
+          "wordCount": 12556,
+          "title": "How to Install a .deb File – Using dpkg -i or apt – Unix & Linux - Wi-Fi Planet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxPUV9QRVZsNDdJVkR0c0hmY0hnQnZrODJZWnF1QVI0Rm50TEllbnZtVS1pRXFqVFladm1rZGxXbnRPSnhLNXg3MEpGX3JhZDFwOXZYZmhTVy1KR1JnRVdNTWFUekFHS1M3cndnMXB1OHFodHdER1MwQnlRSlE0WTBQRXpIV3Y2SmFrQ2loWU55QnBtR3N3",
+          "author": null,
+          "description": "The Linux System Call Execution Model: An Insight  Open Source For You",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUV9QRVZsNDdJVkR0c0hmY0hnQnZrODJZWnF1QVI0Rm50TEllbnZtVS1pRXFqVFladm1rZGxXbnRPSnhLNXg3MEpGX3JhZDFwOXZYZmhTVy1KR1JnRVdNTWFUekFHS1M3cndnMXB1OHFodHdER1MwQnlRSlE0WTBQRXpIV3Y2SmFrQ2loWU55QnBtR3N3?oc=5",
+          "publishedOn": "2024-10-15T04:30:09.000Z",
+          "wordCount": 12556,
+          "title": "The Linux System Call Execution Model: An Insight - Open Source For You",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiqwFBVV95cUxQbUFSZFN1ZWdzNXdQWDVnUldJWHRENkRQbDlfREFWcVpBU2RQcm5FYVpRSXhWM0NTbmpZOWJqdnRrSTJ6UnFvTWVISEt4UEd6Q1dtMDFmVlh4YlNOWU51WlByUGx0Zl9RR1AxNkZrckloa0NtVUdVcjFlal9LMzlhaDFOWll6RlJ3WFN3SUtmR0hMdVB4WEpuU3VBX1lRR0JFLUpFUEYxYXk4cjg",
           "author": null,
@@ -7263,456 +7653,6 @@
           "wordCount": 12449,
           "title": "Linux kernel 6.11 is out - with its own BSOD - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuAFBVV95cUxOR0VVRG15NTl4YWdEMTJ4QjlRcklxdVhOTFJ3SDBJWDRROTBoc0JSVklpR25sMGhkdGR6dHdKbjliTmt0dzlTd25IcDlKMnJvWERNdW1PU0xLX09xcWJqQTFyeFY5b0hhYzJJZUtNT1NPNERBNDRyVUJLWmlUWXI2ZlpGOUFkME5yTVlxVTFkSmk5Z0RiQ2g3U0MtU0d4cjZzZG9vNEF6UUNqMF9RRHR6R3BaUkpPckpr",
-          "author": null,
-          "description": "Linux Foundation + CNCF Patently Defend Open Source Software  Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0VVRG15NTl4YWdEMTJ4QjlRcklxdVhOTFJ3SDBJWDRROTBoc0JSVklpR25sMGhkdGR6dHdKbjliTmt0dzlTd25IcDlKMnJvWERNdW1PU0xLX09xcWJqQTFyeFY5b0hhYzJJZUtNT1NPNERBNDRyVUJLWmlUWXI2ZlpGOUFkME5yTVlxVTFkSmk5Z0RiQ2g3U0MtU0d4cjZzZG9vNEF6UUNqMF9RRHR6R3BaUkpPckpr?oc=5",
-          "publishedOn": "2024-09-16T12:51:59.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation + CNCF Patently Defend Open Source Software - Forbes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxONkxESGZGc2t0azc2R3JSamNQVGQ1Rmg5V29sdE9iMW9uNzNFc2dBNVhSeUpLNmlybmE0SHN1dGRjZEZKVjNSQU9MX3o0ZU85UlNlTXRreDRxN2VXTnNaTzVvS1Vta2hhSUFOcEEzQUZ6ekx1em4wSnFBeFgtb0VhT0RSTElJMFBWaXA0Q1ZaMng3djhPLTZ1NEJSc1hYbG9UM2J1S0pON3IwTTY0",
-          "author": null,
-          "description": "AMD’s Linux graphics driver is getting too big for older machines  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkxESGZGc2t0azc2R3JSamNQVGQ1Rmg5V29sdE9iMW9uNzNFc2dBNVhSeUpLNmlybmE0SHN1dGRjZEZKVjNSQU9MX3o0ZU85UlNlTXRreDRxN2VXTnNaTzVvS1Vta2hhSUFOcEEzQUZ6ekx1em4wSnFBeFgtb0VhT0RSTElJMFBWaXA0Q1ZaMng3djhPLTZ1NEJSc1hYbG9UM2J1S0pON3IwTTY0?oc=5",
-          "publishedOn": "2024-09-16T12:49:14.000Z",
-          "wordCount": 12449,
-          "title": "AMD’s Linux graphics driver is getting too big for older machines - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinwFBVV95cUxOOXlZckxIeHhRblo1TnQ0RjhTTEsxUk1qV0JCbUdENmtweUZJeThXbExsUXhVX2dOdy1QSGFMYldxZUxtWVI1V2ZHZEhZMUsxWHFtTWlJUGxXb0VNNlhvN2lodmJ5OEkxRXFUNkF2V2liYWhBWnhpMmNSTDd5YUg0dU1LTGc5VDRnZDdCU1VaSWNZbEFTd3BTYWZnVlJ2VTg",
-          "author": null,
-          "description": "Linux Foundation’s Trust Initiative; Hedera Contributes Entire Codebase  CryptoNewsZ",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXlZckxIeHhRblo1TnQ0RjhTTEsxUk1qV0JCbUdENmtweUZJeThXbExsUXhVX2dOdy1QSGFMYldxZUxtWVI1V2ZHZEhZMUsxWHFtTWlJUGxXb0VNNlhvN2lodmJ5OEkxRXFUNkF2V2liYWhBWnhpMmNSTDd5YUg0dU1LTGc5VDRnZDdCU1VaSWNZbEFTd3BTYWZnVlJ2VTg?oc=5",
-          "publishedOn": "2024-09-16T12:30:24.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation’s Trust Initiative; Hedera Contributes Entire Codebase - CryptoNewsZ",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxPX1JFcldreENpRHhkUVQyRlR2R040ZUNrTzJvLUlxTjlqNi1MZXJyVmJwckpQS2liSTFZV0VLdDRtcHFnWTNoM0REMmZNcjZVaDJqdTBpTk9UMVJHajdnVEtLdXNDQlZPdTFrQlRzZ0NyTkpMQ29CQV9xUGNQUW54eXQwWkdfc0h6ZGhiTTdHNmpQYXV3eWxVY3lB",
-          "author": null,
-          "description": "Linux Foundation Decentralized Trust aims for web3 innovation  Developer News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1JFcldreENpRHhkUVQyRlR2R040ZUNrTzJvLUlxTjlqNi1MZXJyVmJwckpQS2liSTFZV0VLdDRtcHFnWTNoM0REMmZNcjZVaDJqdTBpTk9UMVJHajdnVEtLdXNDQlZPdTFrQlRzZ0NyTkpMQ29CQV9xUGNQUW54eXQwWkdfc0h6ZGhiTTdHNmpQYXV3eWxVY3lB?oc=5",
-          "publishedOn": "2024-09-16T12:21:47.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation Decentralized Trust aims for web3 innovation - Developer News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitwFBVV95cUxQZzk3b0NsLUR1QnU1NkIxUU5hM3RraXZwSWNvZy1GcnZ6bURXZ0tmVnBlMEIyZl9hSm5wRVNlV3B1c3h2VlV1ZEFUWkgtWmtudllLN3NBbXFzVnFVOUs3Qi11U0pLeWc2czhMQVdDZTFRX0QyeWpOck9kV3BRQ2tNR05FZ2x6NDR1dEdNSWpWYVRIQ0ZpOEQ2SXZoWXFqRktLWGprN3ZLSC1PVml4SEREOUJSNlhZLVk",
-          "author": null,
-          "description": "Hyperledger rolls into Linux Foundation Decentralized Trust as Hedera transfers code  Ledger Insights",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzk3b0NsLUR1QnU1NkIxUU5hM3RraXZwSWNvZy1GcnZ6bURXZ0tmVnBlMEIyZl9hSm5wRVNlV3B1c3h2VlV1ZEFUWkgtWmtudllLN3NBbXFzVnFVOUs3Qi11U0pLeWc2czhMQVdDZTFRX0QyeWpOck9kV3BRQ2tNR05FZ2x6NDR1dEdNSWpWYVRIQ0ZpOEQ2SXZoWXFqRktLWGprN3ZLSC1PVml4SEREOUJSNlhZLVk?oc=5",
-          "publishedOn": "2024-09-16T12:15:50.000Z",
-          "wordCount": 12449,
-          "title": "Hyperledger rolls into Linux Foundation Decentralized Trust as Hedera transfers code - Ledger Insights",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirgFBVV95cUxNcWZyVHBJWFFtU1NhMTY5LXdyTFpfZjVaU2Vtd1J4Y2VqM1EyLTFtdG5aSVdFeXhVak9UcUtlUFhpNFdDVmJJYnZkRWxXeFBvdUJBdzIxMTBJMXlHMnlyMXVneFB0dV80azQwYjFFZEk1bzJUbncyOHhvNDVsQjZPM1dnZjQ2R1lxQ0d3WGM4NW85NHVEenF6NF9tUU45TzBjUVU0a3daUTQtZHY0b2fSAbYBQVVfeXFMTi1YRG0tQzdocUxZMzFrR19uZ3pzOHJ3cm8xbGxveVBBRmxzRjFMcERwV1JnbG1YVDJhZ19Rd3BTU2NnQmR3R3cxN3VmVFNGb1Zhbmw4aWo3NHNTNkpCdUQ0cXdSRFBCRE1ybWJpcjhGZlhkeC1WaXpkUnQtcTFHbWQyZ05GQVJKN05IaFNNcXJ6cGphS3ZJYXNodUJEVjNTbjNJVmw5bkJtNUV3bHZ3aTJGU3JYbnc",
-          "author": null,
-          "description": "Linux 6.11 Release – Notable changes, Arm, RISC-V and MIPS architectures  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWZyVHBJWFFtU1NhMTY5LXdyTFpfZjVaU2Vtd1J4Y2VqM1EyLTFtdG5aSVdFeXhVak9UcUtlUFhpNFdDVmJJYnZkRWxXeFBvdUJBdzIxMTBJMXlHMnlyMXVneFB0dV80azQwYjFFZEk1bzJUbncyOHhvNDVsQjZPM1dnZjQ2R1lxQ0d3WGM4NW85NHVEenF6NF9tUU45TzBjUVU0a3daUTQtZHY0b2fSAbYBQVVfeXFMTi1YRG0tQzdocUxZMzFrR19uZ3pzOHJ3cm8xbGxveVBBRmxzRjFMcERwV1JnbG1YVDJhZ19Rd3BTU2NnQmR3R3cxN3VmVFNGb1Zhbmw4aWo3NHNTNkpCdUQ0cXdSRFBCRE1ybWJpcjhGZlhkeC1WaXpkUnQtcTFHbWQyZ05GQVJKN05IaFNNcXJ6cGphS3ZJYXNodUJEVjNTbjNJVmw5bkJtNUV3bHZ3aTJGU3JYbnc?oc=5",
-          "publishedOn": "2024-09-16T12:09:30.000Z",
-          "wordCount": 12449,
-          "title": "Linux 6.11 Release – Notable changes, Arm, RISC-V and MIPS architectures - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxPbHVDeHFldVllelM2X0VkSTRKYmE3R2kyYnBfQ0tYX3UzVHJGb2Z3amN1TzlnV2xHNTZ0czJ0UTMzaG45aDR5LUVmLUhaRTFMSnMyNGtHUzNzVmF5UW52a1IxWU45WVVMdDRUcVJCV0t3ZGVPNUx3RFJUTGMxZVdZYUd1SVJKSWxCVVZTWVFoNU1SVGtrVTdicmI2SWs2WkFvNXBzVWxtV3k0anl1",
-          "author": null,
-          "description": "Cyberpunk action-adventure Anomaly Agent gets Linux and macOS support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHVDeHFldVllelM2X0VkSTRKYmE3R2kyYnBfQ0tYX3UzVHJGb2Z3amN1TzlnV2xHNTZ0czJ0UTMzaG45aDR5LUVmLUhaRTFMSnMyNGtHUzNzVmF5UW52a1IxWU45WVVMdDRUcVJCV0t3ZGVPNUx3RFJUTGMxZVdZYUd1SVJKSWxCVVZTWVFoNU1SVGtrVTdicmI2SWs2WkFvNXBzVWxtV3k0anl1?oc=5",
-          "publishedOn": "2024-09-16T11:54:08.000Z",
-          "wordCount": 12449,
-          "title": "Cyberpunk action-adventure Anomaly Agent gets Linux and macOS support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizAFBVV95cUxOLWV0eHd3QU5kNkN0V3BpUG9EejJTd0h2aWktNFc2Z3ROSGphT2xkWjEwQlFIdEh4RFhwcHhGWV9ockRHMHRZSWRLdzdNZmNsNnJ3WFJfdGFzcUhMZkpyRzdtbTQ4ZDlHdGlVUkNTd1JOOGZjQ2tPVGFyU0dVcTBiWW5EN1FXVlliYk5WbmtoSDAwUHNSTGNPb1BRaUl6OW14Ni0wVmp1WHhUVFRtSGlIWXlKYXFhb05hbmROcm1UeXVoSVd3cndqRWx4WDU",
-          "author": null,
-          "description": "Debian 12.7-based MX Linux 23.4 launches with multiple fixes, tweaks, and updated packages  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWV0eHd3QU5kNkN0V3BpUG9EejJTd0h2aWktNFc2Z3ROSGphT2xkWjEwQlFIdEh4RFhwcHhGWV9ockRHMHRZSWRLdzdNZmNsNnJ3WFJfdGFzcUhMZkpyRzdtbTQ4ZDlHdGlVUkNTd1JOOGZjQ2tPVGFyU0dVcTBiWW5EN1FXVlliYk5WbmtoSDAwUHNSTGNPb1BRaUl6OW14Ni0wVmp1WHhUVFRtSGlIWXlKYXFhb05hbmROcm1UeXVoSVd3cndqRWx4WDU?oc=5",
-          "publishedOn": "2024-09-16T11:41:22.000Z",
-          "wordCount": 12449,
-          "title": "Debian 12.7-based MX Linux 23.4 launches with multiple fixes, tweaks, and updated packages - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiygFBVV95cUxQcjZqcXpxV2NMbmM4VDRQcDhEek9JTzk4RGtsRGRENmI0ODlNLUFXdDFpb3Bod1hWX1NNN2UybG1qR2JZSVF4NTJhdG1RR090dWhvanVRNzBpWkVKX1dza3RNTlZwY2dwWkJfNGdpWGs3dFlqWWZZd2Y3Y0JPR0xKbjJlTUpiQWY1RXphNzBUNXZtNHdWTHdBMzAtN3pTeWpXVUR4LUREVC1tZEdYbkpJWlVsMFRxd2N5QjI5TG5hcTliRjRKZnhDd1pB",
-          "author": null,
-          "description": "PlayStation 1 emulator DuckStation changes license for no commercial use and no derivatives  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjZqcXpxV2NMbmM4VDRQcDhEek9JTzk4RGtsRGRENmI0ODlNLUFXdDFpb3Bod1hWX1NNN2UybG1qR2JZSVF4NTJhdG1RR090dWhvanVRNzBpWkVKX1dza3RNTlZwY2dwWkJfNGdpWGs3dFlqWWZZd2Y3Y0JPR0xKbjJlTUpiQWY1RXphNzBUNXZtNHdWTHdBMzAtN3pTeWpXVUR4LUREVC1tZEdYbkpJWlVsMFRxd2N5QjI5TG5hcTliRjRKZnhDd1pB?oc=5",
-          "publishedOn": "2024-09-16T11:41:09.000Z",
-          "wordCount": 12503,
-          "title": "PlayStation 1 emulator DuckStation changes license for no commercial use and no derivatives - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiigFBVV95cUxONlM0Ull4R1RCckpHRVVTU2NZUUxJVXRDbGxwbk5oT1gtclVVT1NQTUlHMHN6c1M0YmpRZFNFeTRXZ1dJVFdNQU5lc0d4Z3plWlVHOUI3ek1zLTdIQ0htdXE4VVdBOWVNSEl2bV9DUG4zaDJvQmREdXFBYlU1dWc4aXkwMkVpaGRKRFE",
-          "author": null,
-          "description": "Which Desktop Environment Do You Prefer in Linux?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlM0Ull4R1RCckpHRVVTU2NZUUxJVXRDbGxwbk5oT1gtclVVT1NQTUlHMHN6c1M0YmpRZFNFeTRXZ1dJVFdNQU5lc0d4Z3plWlVHOUI3ek1zLTdIQ0htdXE4VVdBOWVNSEl2bV9DUG4zaDJvQmREdXFBYlU1dWc4aXkwMkVpaGRKRFE?oc=5",
-          "publishedOn": "2024-09-16T11:23:17.000Z",
-          "wordCount": 12449,
-          "title": "Which Desktop Environment Do You Prefer in Linux? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFBVV95cUxQT0JzTzFYdC03VGVBOTMzMDNhRWtJRDBNVDBEYldyUk9PWGhmSVJDaGpLT1pkZHJ0c0JnMWpxNkMzLXItWVRwWFdGVDFPRHYtY3hBUUg3ZHdfQl9GUkhncm0tTV9pTTVESmNBLXUxN3RYRk8xRXItUWoyLUh4dXlPZ254MmVZbktLWERz",
-          "author": null,
-          "description": "MX Linux 23.4 is the ultimate Microsoft Windows 11 replacement you need right now  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0JzTzFYdC03VGVBOTMzMDNhRWtJRDBNVDBEYldyUk9PWGhmSVJDaGpLT1pkZHJ0c0JnMWpxNkMzLXItWVRwWFdGVDFPRHYtY3hBUUg3ZHdfQl9GUkhncm0tTV9pTTVESmNBLXUxN3RYRk8xRXItUWoyLUh4dXlPZ254MmVZbktLWERz?oc=5",
-          "publishedOn": "2024-09-16T11:02:42.000Z",
-          "wordCount": 12449,
-          "title": "MX Linux 23.4 is the ultimate Microsoft Windows 11 replacement you need right now - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFBVV95cUxNcFBvVzFwazZabGE4Qmk4T0lhbWk3MVNiYVVjWVBPWjRZNy1KV3FpNzBLVWYtTG9xejBXSUEzVm43OHVOcGl5eXpqMkZ5ejd0elFSS2NZZkJyNE40X0JKQS0zWk9IU2ptYWFqbnpJWnI0Q2g1Y2JTZkcxNnJEV28ybkYtVlcyNmNWN3VjRkhmamNsdw",
-          "author": null,
-          "description": "Hedera joins Linux Foundation’s Decentralized Trust project  CoinJournal",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFBvVzFwazZabGE4Qmk4T0lhbWk3MVNiYVVjWVBPWjRZNy1KV3FpNzBLVWYtTG9xejBXSUEzVm43OHVOcGl5eXpqMkZ5ejd0elFSS2NZZkJyNE40X0JKQS0zWk9IU2ptYWFqbnpJWnI0Q2g1Y2JTZkcxNnJEV28ybkYtVlcyNmNWN3VjRkhmamNsdw?oc=5",
-          "publishedOn": "2024-09-16T11:01:40.000Z",
-          "wordCount": 12449,
-          "title": "Hedera joins Linux Foundation’s Decentralized Trust project - CoinJournal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi6wFBVV95cUxNbXBXRmZmdUZ0ajBYQ29oZTZaRXA4VTVVNTlkR280aXZqZUZGYWZyM0JlaGYxWThJel9kX2UyckxyNThGVUY2QUxUSGItZ0hLajlwZ2o0Q2I0UmdkNVBfVEh6a25VWEFOeVdaZDBhVkFTSVo0X2lGaVlWWXBVcWZyaEx2RWg5a1BlLVJyUzFoc1lMNmhHX1ZIdVYxbjlrdWFrVXlMaGFWRVltUVJ2WW03c0diSm1PbjU4UXBPMk00MXJWU0xNVUQxU0FVX2ppWXQ3b1JuWUFWRFgtVHBRQkU1dS04UzdrX19GZDVZ0gHrAUFVX3lxTE1tcFdGZmZ1RnRqMFhDb2hlNlpFcDhVNVU1OWRHbzRpdmplRkZhZnIzQmVoZjFZOEl6X2RfZTJyTHI1OEZVRjZBTFRIYi1nSEtqOXBnajRDYjRSZ2Q1UF9USHprblVYQU55V1pkMGFWQVNJWjRfaUZpWVZZcFVxZnJoTHZFaDlrUGUtUnJTMWhzWUw2aEdfVkh1VjFuOWt1YWtVeUxoYVZFWW1RUnZZbTdzR2JKbU9uNThRcE8yTTQxclZTTE1VRDFTQVVfamlZdDdvUm5ZQVZEWC1UcFFCRTV1LThTN2tfX0ZkNVk",
-          "author": null,
-          "description": "Linux Operating System Market Report, Size, Share, Growth, Trends, Industry Analysis, Forecast to 2033  WhaTech",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXBXRmZmdUZ0ajBYQ29oZTZaRXA4VTVVNTlkR280aXZqZUZGYWZyM0JlaGYxWThJel9kX2UyckxyNThGVUY2QUxUSGItZ0hLajlwZ2o0Q2I0UmdkNVBfVEh6a25VWEFOeVdaZDBhVkFTSVo0X2lGaVlWWXBVcWZyaEx2RWg5a1BlLVJyUzFoc1lMNmhHX1ZIdVYxbjlrdWFrVXlMaGFWRVltUVJ2WW03c0diSm1PbjU4UXBPMk00MXJWU0xNVUQxU0FVX2ppWXQ3b1JuWUFWRFgtVHBRQkU1dS04UzdrX19GZDVZ0gHrAUFVX3lxTE1tcFdGZmZ1RnRqMFhDb2hlNlpFcDhVNVU1OWRHbzRpdmplRkZhZnIzQmVoZjFZOEl6X2RfZTJyTHI1OEZVRjZBTFRIYi1nSEtqOXBnajRDYjRSZ2Q1UF9USHprblVYQU55V1pkMGFWQVNJWjRfaUZpWVZZcFVxZnJoTHZFaDlrUGUtUnJTMWhzWUw2aEdfVkh1VjFuOWt1YWtVeUxoYVZFWW1RUnZZbTdzR2JKbU9uNThRcE8yTTQxclZTTE1VRDFTQVVfamlZdDdvUm5ZQVZEWC1UcFFCRTV1LThTN2tfX0ZkNVk?oc=5",
-          "publishedOn": "2024-09-16T10:43:02.000Z",
-          "wordCount": 12449,
-          "title": "Linux Operating System Market Report, Size, Share, Growth, Trends, Industry Analysis, Forecast to 2033 - WhaTech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFBVV95cUxQbW9pUTA5amxINzRNSllHOXQ2LVhOWEMtZ0RieHh6LWhhaUt0Rkh2bDZBUVZuV2hDS1phZEZVREY5WFNQVmY2Wkp0aTRkWE53UUhKc3VNOExZUjBrb2cxcmFyenA3SnJlWGZZd0wzUWtkQVNrX180VEw3bDZ1eVE3SXhWMG1fMmJtUi1UcXlVQ3BwZ9IBlwFBVV95cUxQX3hOb1Y1ckxtNHN1RzFqZ3EtQTBXS3ppaTdwV3IzMzBHQzdWbUpiY3UwTnhNWms1UEdtN1huUUx0dXRTTHh3UWthQ1VyOXVKV2xfLTJtLXZzY3R5YV93VUdKMTM0aEd5Znp5UzBqdjgwcFNxbzZlSGk2U25nQlNuQ3o3a2daN3cxaF9TWF91TGhibFlIemhN",
-          "author": null,
-          "description": "MX Linux 23.4 Released with Linux Kernel 6.10, Based on Debian 12.7  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbW9pUTA5amxINzRNSllHOXQ2LVhOWEMtZ0RieHh6LWhhaUt0Rkh2bDZBUVZuV2hDS1phZEZVREY5WFNQVmY2Wkp0aTRkWE53UUhKc3VNOExZUjBrb2cxcmFyenA3SnJlWGZZd0wzUWtkQVNrX180VEw3bDZ1eVE3SXhWMG1fMmJtUi1UcXlVQ3BwZ9IBlwFBVV95cUxQX3hOb1Y1ckxtNHN1RzFqZ3EtQTBXS3ppaTdwV3IzMzBHQzdWbUpiY3UwTnhNWms1UEdtN1huUUx0dXRTTHh3UWthQ1VyOXVKV2xfLTJtLXZzY3R5YV93VUdKMTM0aEd5Znp5UzBqdjgwcFNxbzZlSGk2U25nQlNuQ3o3a2daN3cxaF9TWF91TGhibFlIemhN?oc=5",
-          "publishedOn": "2024-09-16T10:38:47.000Z",
-          "wordCount": 12449,
-          "title": "MX Linux 23.4 Released with Linux Kernel 6.10, Based on Debian 12.7 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiygFBVV95cUxPN3gxVFIzVmNaZ2t6MzkzNDB3T0ltY3dmU3VuSm5XdE42ekxJUl82cEFfVjdmSFZSSUxXUWsxMVF5blJVVVdOR2RpZWFFcUJrekpYSHFsRGZxcF93Um1MY0dlZmhxSGs2c1NmVEYzSDIxdmN2Wi1HbW5IYzVSSEpBMjctZG5vcTAzYXFMbTJnR28xcWprSkNQaDVMdlRPczJqQ3FsTHNhc2s4TkM5SHEzSlFyZDRqS2xnZ2Vsa1N2VEM0Y1dDbExfcV9n",
-          "author": null,
-          "description": "Hedera transfers the entire code to the Linux Foundation: a journey towards decentralization  The Cryptonomist",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3gxVFIzVmNaZ2t6MzkzNDB3T0ltY3dmU3VuSm5XdE42ekxJUl82cEFfVjdmSFZSSUxXUWsxMVF5blJVVVdOR2RpZWFFcUJrekpYSHFsRGZxcF93Um1MY0dlZmhxSGs2c1NmVEYzSDIxdmN2Wi1HbW5IYzVSSEpBMjctZG5vcTAzYXFMbTJnR28xcWprSkNQaDVMdlRPczJqQ3FsTHNhc2s4TkM5SHEzSlFyZDRqS2xnZ2Vsa1N2VEM0Y1dDbExfcV9n?oc=5",
-          "publishedOn": "2024-09-16T10:38:12.000Z",
-          "wordCount": 12449,
-          "title": "Hedera transfers the entire code to the Linux Foundation: a journey towards decentralization - The Cryptonomist",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTFBkNFN5OVU5dWp0aE12b3VsVUg5dWg4bUpZdW1lWFBmWkpncEFNVzB5dGJpdHlVWF9BUjJQcmFfcGdwbU9MdVhXQ1ZfWDlIZ20yY3M4VGloQzJoYnk3d2o5bXYtc2hseks3QnA1ZA",
-          "author": null,
-          "description": "The File Struct Is Smaller In Linux 6.12 - May Help File Heavy Workloads  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkNFN5OVU5dWp0aE12b3VsVUg5dWg4bUpZdW1lWFBmWkpncEFNVzB5dGJpdHlVWF9BUjJQcmFfcGdwbU9MdVhXQ1ZfWDlIZ20yY3M4VGloQzJoYnk3d2o5bXYtc2hseks3QnA1ZA?oc=5",
-          "publishedOn": "2024-09-16T10:30:00.000Z",
-          "wordCount": 12449,
-          "title": "The File Struct Is Smaller In Linux 6.12 - May Help File Heavy Workloads - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxNOEhzdmlVX003dG1pd0FjdGdMWWQ4THptQVVKR24tWHZtdm4zaFhqbGFLVVI2MDhhVkpiQndXYm1QTUdmMlBzMkh2UDNBUTd5WDNNdWlQbkpWdWU1U3d6ZG92Y3VtaVFuZmNIX3lVVXgzNnktSkwxbEFuR2tTS2VqQmxqTQ",
-          "author": null,
-          "description": "Linux kernel 6.11 is officially out now  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEhzdmlVX003dG1pd0FjdGdMWWQ4THptQVVKR24tWHZtdm4zaFhqbGFLVVI2MDhhVkpiQndXYm1QTUdmMlBzMkh2UDNBUTd5WDNNdWlQbkpWdWU1U3d6ZG92Y3VtaVFuZmNIX3lVVXgzNnktSkwxbEFuR2tTS2VqQmxqTQ?oc=5",
-          "publishedOn": "2024-09-16T10:09:03.000Z",
-          "wordCount": 12449,
-          "title": "Linux kernel 6.11 is officially out now - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidEFVX3lxTE1WeFh3dGtLRTYwWUV0eDJrdEE5UkgzWlo3Z29jSk9DT1F0cG5IVDhVUW1nMUhpbnFLd3JSSjBMdW52NlpYQVJ6b2VZZlpmcl9iRFhST21meURXdkdLLURERmVJck55NklSaHNFLUl2RGU2RXVs0gF6QVVfeXFMT2ExSHhpVUF6TjRSOHd3VU0zT3I3OWFRZENOMmJxWDRjZGRVem0xM09nQ0trU3pwYndJTzhNajhLaVF1LVBsMkhOc0FaU29XNFhEMmoyU3ZYVEpLSTBqWlZiYnhyOTZhOF9uYnhGSnpCUWF0ZjZiaUJuUGc",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: September 15th, 2024  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WeFh3dGtLRTYwWUV0eDJrdEE5UkgzWlo3Z29jSk9DT1F0cG5IVDhVUW1nMUhpbnFLd3JSSjBMdW52NlpYQVJ6b2VZZlpmcl9iRFhST21meURXdkdLLURERmVJck55NklSaHNFLUl2RGU2RXVs0gF6QVVfeXFMT2ExSHhpVUF6TjRSOHd3VU0zT3I3OWFRZENOMmJxWDRjZGRVem0xM09nQ0trU3pwYndJTzhNajhLaVF1LVBsMkhOc0FaU29XNFhEMmoyU3ZYVEpLSTBqWlZiYnhyOTZhOF9uYnhGSnpCUWF0ZjZiaUJuUGc?oc=5",
-          "publishedOn": "2024-09-16T09:49:23.000Z",
-          "wordCount": 12449,
-          "title": "9to5Linux Weekly Roundup: September 15th, 2024 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMingFBVV95cUxQLU5Ob1NBeXNhSTY4bDBZSkRrWVlIRk1vN2E1dkN4TGF1S1hmbGZYTHVoT3ZqNFV0RXI3dVBLOXpISXJJMTlUM3lmLUdfTVhRUFVfQm1ZbEpQTUVfMmZ3UDhEY2F4U0lfR0lpdmpSNEhSNVJacV9CVC0wUnJEQ1BiWmJKNF9uLXpBV2dtUHFjQmRCUWszU044SGx2MXhrUQ",
-          "author": null,
-          "description": "Hedera and Linux Foundation Partner to Share Code  Altcoin Buzz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLU5Ob1NBeXNhSTY4bDBZSkRrWVlIRk1vN2E1dkN4TGF1S1hmbGZYTHVoT3ZqNFV0RXI3dVBLOXpISXJJMTlUM3lmLUdfTVhRUFVfQm1ZbEpQTUVfMmZ3UDhEY2F4U0lfR0lpdmpSNEhSNVJacV9CVC0wUnJEQ1BiWmJKNF9uLXpBV2dtUHFjQmRCUWszU044SGx2MXhrUQ?oc=5",
-          "publishedOn": "2024-09-16T09:18:04.000Z",
-          "wordCount": 12449,
-          "title": "Hedera and Linux Foundation Partner to Share Code - Altcoin Buzz",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxPQS1uMXFiSmszMmRBOWtGTGwyOHl4ajdMVlF4ZkdrdFg5dUMxSzdpakJxa3FiWnc3RU9kMXZLNjc0aGtuSExIdHdpeVJmRmxPTHpJMzdsRzZacmhtR1F2NjFNSjE1YjAtZ2FRbDhpZkR4SVZiQ3ZUSlBRUG1UaS1RSEY5RW9SMTNyR3hnanFid0IxUVNId0xTWWVfa1AyMC1P",
-          "author": null,
-          "description": "AWS donates OpenSearch to the Linux Foundation  Techzine Europe",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQS1uMXFiSmszMmRBOWtGTGwyOHl4ajdMVlF4ZkdrdFg5dUMxSzdpakJxa3FiWnc3RU9kMXZLNjc0aGtuSExIdHdpeVJmRmxPTHpJMzdsRzZacmhtR1F2NjFNSjE1YjAtZ2FRbDhpZkR4SVZiQ3ZUSlBRUG1UaS1RSEY5RW9SMTNyR3hnanFid0IxUVNId0xTWWVfa1AyMC1P?oc=5",
-          "publishedOn": "2024-09-16T08:46:00.000Z",
-          "wordCount": 12449,
-          "title": "AWS donates OpenSearch to the Linux Foundation - Techzine Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxPQnRaNktlR3N6dElrd0trUHJWb1dkVHItUllJOUV3dTNmcE1BVl9uZl9pMTM0Y0Y1emRKZllpdEFvc2M4UGRpMUwtOHBYU2p5Z3JhSElRV3JPcnY1VktUZUliSklvWGdvX3R6QkQ2N2NkdmlJblo1a2NjdmhIQ0V3WEFBdG9iSnVqOFJkSVZn",
-          "author": null,
-          "description": "Hedera joins Linux Foundation, donates source code to new project  crypto.news",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnRaNktlR3N6dElrd0trUHJWb1dkVHItUllJOUV3dTNmcE1BVl9uZl9pMTM0Y0Y1emRKZllpdEFvc2M4UGRpMUwtOHBYU2p5Z3JhSElRV3JPcnY1VktUZUliSklvWGdvX3R6QkQ2N2NkdmlJblo1a2NjdmhIQ0V3WEFBdG9iSnVqOFJkSVZn?oc=5",
-          "publishedOn": "2024-09-16T08:37:00.000Z",
-          "wordCount": 12449,
-          "title": "Hedera joins Linux Foundation, donates source code to new project - crypto.news",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMixAFBVV95cUxNdHlJZmI4QkQwOGZKaFpSY2pEQ0ZraTJSZnJnSE1BaTRYU1JNczdwZHRtMzhlZkZEekt1UDhOckl6TnBMM3hNUWZ4c3U4ZmlNSW1sZl9XVXZiNTIwcE53TUtiRGpteUxRZlpoc2Y1TDFqYmdxcGJ5MjJkN3RudUI3Y2JMTERQQmVHS2hFcHR0djA0STI1My1DWjV2OWFPX3ZSdUJVQmNOZUFkN0N5cmltNUFhd3c1blhZaE50dkhYbVc5T3V40gHKAUFVX3lxTE4td3lBeXVwSEJ4aGZTeG9fQjVVWU9KQVZkZjVzLXVLeFJPc3JaN2NSMXlpVi1wOFVNZ2lVTFpPWjdRdkczM2txX2NfRW1fdV9tM0ROdXFWSGQ0b09nSm00ZlR5TmF6elZ4T0xWc2t5ZGdYQ0VWckl6REcxdTZ4bzZMRzZJRGlBaDJTbUdabHNLdnc1MmtJNEN0aEdudHZwWlV4bGdKbEluZzVPZmk2Q0MzcVU0OXJ4cWxaYjN6MUxBdkt1V0V6V2ltV0E",
-          "author": null,
-          "description": "World's Leading Open Source Mobile Packet Core, free5GC, Moves Under Linux Foundation  TelecomTV",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdHlJZmI4QkQwOGZKaFpSY2pEQ0ZraTJSZnJnSE1BaTRYU1JNczdwZHRtMzhlZkZEekt1UDhOckl6TnBMM3hNUWZ4c3U4ZmlNSW1sZl9XVXZiNTIwcE53TUtiRGpteUxRZlpoc2Y1TDFqYmdxcGJ5MjJkN3RudUI3Y2JMTERQQmVHS2hFcHR0djA0STI1My1DWjV2OWFPX3ZSdUJVQmNOZUFkN0N5cmltNUFhd3c1blhZaE50dkhYbVc5T3V40gHKAUFVX3lxTE4td3lBeXVwSEJ4aGZTeG9fQjVVWU9KQVZkZjVzLXVLeFJPc3JaN2NSMXlpVi1wOFVNZ2lVTFpPWjdRdkczM2txX2NfRW1fdV9tM0ROdXFWSGQ0b09nSm00ZlR5TmF6elZ4T0xWc2t5ZGdYQ0VWckl6REcxdTZ4bzZMRzZJRGlBaDJTbUdabHNLdnc1MmtJNEN0aEdudHZwWlV4bGdKbEluZzVPZmk2Q0MzcVU0OXJ4cWxaYjN6MUxBdkt1V0V6V2ltV0E?oc=5",
-          "publishedOn": "2024-09-16T08:23:45.000Z",
-          "wordCount": 12503,
-          "title": "World's Leading Open Source Mobile Packet Core, free5GC, Moves Under Linux Foundation - TelecomTV",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxNaUV0djFyNnhmcm1rd2tKMVR0WTlRcHVENWFTQlM0UU95MHF1MDc5cUFiNGFfUDY4bDNsRno1OHVJSU5yR0tnYktTbTRVSUItekRoVnN5TmFocXdVblFtOFFpRXl5V2Jva2hRam4tUVptSzctRlBZSk5KX0Nxa3FzeGhwUzhxRDA",
-          "author": null,
-          "description": "Hedera contributes entire codebase to Linux Foundation  Cointelegraph",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUV0djFyNnhmcm1rd2tKMVR0WTlRcHVENWFTQlM0UU95MHF1MDc5cUFiNGFfUDY4bDNsRno1OHVJSU5yR0tnYktTbTRVSUItekRoVnN5TmFocXdVblFtOFFpRXl5V2Jva2hRam4tUVptSzctRlBZSk5KX0Nxa3FzeGhwUzhxRDA?oc=5",
-          "publishedOn": "2024-09-16T07:43:09.000Z",
-          "wordCount": 12449,
-          "title": "Hedera contributes entire codebase to Linux Foundation - Cointelegraph",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxNR1l0QXpsQWljLXdBcDBwTGJ4REpCQi1fUUJqQTQzSDUxZDdnZTdTVWlrVGhPY2YwNG5XMHlnRDZXLTI2M0ptOFQ0aWlrYlhfbWZuckEzY2huYmU4QmpYeHN1Z1VtQTRJNUxoYVNSNDI2RG9ZVWswQ1hNN0NWV3kycDVOQUFGMkd1THZQN3ExZzk3YWhvaEF3",
-          "author": null,
-          "description": "Linux Foundation Adopts Hedera’s Open-Source Hashgraph Tech — Unites 100+ Companies for Decentralized Trust Initiative  CCN.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1l0QXpsQWljLXdBcDBwTGJ4REpCQi1fUUJqQTQzSDUxZDdnZTdTVWlrVGhPY2YwNG5XMHlnRDZXLTI2M0ptOFQ0aWlrYlhfbWZuckEzY2huYmU4QmpYeHN1Z1VtQTRJNUxoYVNSNDI2RG9ZVWswQ1hNN0NWV3kycDVOQUFGMkd1THZQN3ExZzk3YWhvaEF3?oc=5",
-          "publishedOn": "2024-09-16T07:05:24.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation Adopts Hedera’s Open-Source Hashgraph Tech — Unites 100+ Companies for Decentralized Trust Initiative - CCN.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxPcmVrSFBEZ2hOQmw3NzNyaDJ4U1JqQjdWdjNmTXJjczJRT1BsMllOVE9Rb3JBYkNnTXVSaEdybzJ6TzMtUGFCcHhIbUJTcDRzTVVYc3dhUUNTcmJTb3MyVGRNZU9LZDU4TVpJUTl1TDRDQVNVZzhrcVdjNmxzSFdHdHQ2T2xyS096Z2xoSHEyUURlemZiZ1pZ",
-          "author": null,
-          "description": "AWS brings OpenSearch under the Linux Foundation umbrella  TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmVrSFBEZ2hOQmw3NzNyaDJ4U1JqQjdWdjNmTXJjczJRT1BsMllOVE9Rb3JBYkNnTXVSaEdybzJ6TzMtUGFCcHhIbUJTcDRzTVVYc3dhUUNTcmJTb3MyVGRNZU9LZDU4TVpJUTl1TDRDQVNVZzhrcVdjNmxzSFdHdHQ2T2xyS096Z2xoSHEyUURlemZiZ1pZ?oc=5",
-          "publishedOn": "2024-09-16T07:01:00.000Z",
-          "wordCount": 12449,
-          "title": "AWS brings OpenSearch under the Linux Foundation umbrella - TechCrunch",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizwFBVV95cUxOdFNlV2ppdjRGRGZtWmF5NFcxMVhqdFRaaEN4bHM1NzdWaVI3RnQ2RUZHaE1pUjhobTR6Nzd3dnZLLVdEUzQxeGdTV1prRlo0WnAwWWpmN3ZFRDNMQzFOSHc0SlhRNG1fZXdxcDN5SUY4OTRQTXloYjZMWWh2ak92OUhIc2RIMmFyMjRhRk40TXBKMFBxQS1iN3NpamxRc1poSlFrLTRaa3VVWi1XVklMVTZBVWk3Qlo0YlZ1akR0WGc2eURSTVRTenNHdmpWQmc",
-          "author": null,
-          "description": "Hedera Becomes Founding Premier Member of Linux Foundation Decentralized Trust  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFNlV2ppdjRGRGZtWmF5NFcxMVhqdFRaaEN4bHM1NzdWaVI3RnQ2RUZHaE1pUjhobTR6Nzd3dnZLLVdEUzQxeGdTV1prRlo0WnAwWWpmN3ZFRDNMQzFOSHc0SlhRNG1fZXdxcDN5SUY4OTRQTXloYjZMWWh2ak92OUhIc2RIMmFyMjRhRk40TXBKMFBxQS1iN3NpamxRc1poSlFrLTRaa3VVWi1XVklMVTZBVWk3Qlo0YlZ1akR0WGc2eURSTVRTenNHdmpWQmc?oc=5",
-          "publishedOn": "2024-09-16T07:01:00.000Z",
-          "wordCount": 12449,
-          "title": "Hedera Becomes Founding Premier Member of Linux Foundation Decentralized Trust - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuwJBVV95cUxPLUlIa0s4bnhyRERvRnM3QzZGM3A5anFyTGtxYjVCYldWQlZYQ1lIQ2M0a2NncTFLemNKU2RYRDAwWFcxc0pyWG5UZEZ6dHI0YlhIdTNFbTMyMjBOZlNKek9IX2ZETjRrQ1ZfaTRKT0RuLWQ1QngyaFNRVWhnQVBjLXhwc00tbjZpY2ZEMnRiQ1V5NFd6QnNVcHQ4Znpvbmh3eXJ4UjNCczNaYWw4YW9fYnh0YVFtWFdkTVdhQ1FUbEIzaVByTlNpeWtLX1ppZGpXcGdaNnUtUzVIWmhaQ1VTcXRiQ2JpUGhRdEx4cVhIOTVZNlZtZGQ3bFNVSnJzZnk3R3dwaXhTTktQNFlSaG1uQkhjdjMtVnl4Rmt4M1VEdEFzeW9pM2hLeVhha2p1RWpuVWhJRm1vSFlfRTQ",
-          "author": null,
-          "description": "Hedera Becomes Founding Premier Member of Linux Foundation Decentralized Trust  WV News",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPLUlIa0s4bnhyRERvRnM3QzZGM3A5anFyTGtxYjVCYldWQlZYQ1lIQ2M0a2NncTFLemNKU2RYRDAwWFcxc0pyWG5UZEZ6dHI0YlhIdTNFbTMyMjBOZlNKek9IX2ZETjRrQ1ZfaTRKT0RuLWQ1QngyaFNRVWhnQVBjLXhwc00tbjZpY2ZEMnRiQ1V5NFd6QnNVcHQ4Znpvbmh3eXJ4UjNCczNaYWw4YW9fYnh0YVFtWFdkTVdhQ1FUbEIzaVByTlNpeWtLX1ppZGpXcGdaNnUtUzVIWmhaQ1VTcXRiQ2JpUGhRdEx4cVhIOTVZNlZtZGQ3bFNVSnJzZnk3R3dwaXhTTktQNFlSaG1uQkhjdjMtVnl4Rmt4M1VEdEFzeW9pM2hLeVhha2p1RWpuVWhJRm1vSFlfRTQ?oc=5",
-          "publishedOn": "2024-09-16T07:01:00.000Z",
-          "wordCount": 12449,
-          "title": "Hedera Becomes Founding Premier Member of Linux Foundation Decentralized Trust - WV News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMixwFBVV95cUxNMTdyWmNNZVpBX01GZnJUdjNUdEpnNnJjb1VORTZQT0VUVXdsQjcyNXAxLUxEY2RiN0lHNTlYTnIySGJVTU1veVc0aExVeC1wWVhlZ3FIZUhOdW5oeVk4S2dwM1VfUEkteTlrUDZCdGMwMjhHdG5UMGE5aU1nOFB6a1FkWVVnTWdnaE5na0hERUNrSFBMSDlqRFZmMW5fNmtPUXhGbE5RV0tZcUFOb2NzWnpQRWVheEstOGQxSmNUTHdlbl9UaVdB",
-          "author": null,
-          "description": "Linux Foundation launches OpenSearch Software Foundation to support developer community growth  SiliconANGLE News",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTdyWmNNZVpBX01GZnJUdjNUdEpnNnJjb1VORTZQT0VUVXdsQjcyNXAxLUxEY2RiN0lHNTlYTnIySGJVTU1veVc0aExVeC1wWVhlZ3FIZUhOdW5oeVk4S2dwM1VfUEkteTlrUDZCdGMwMjhHdG5UMGE5aU1nOFB6a1FkWVVnTWdnaE5na0hERUNrSFBMSDlqRFZmMW5fNmtPUXhGbE5RV0tZcUFOb2NzWnpQRWVheEstOGQxSmNUTHdlbl9UaVdB?oc=5",
-          "publishedOn": "2024-09-16T07:00:20.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation launches OpenSearch Software Foundation to support developer community growth - SiliconANGLE News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxOajRMUWVlM0xKa25IN2pvVzRFMUtNTVJCZVRxdktPQ0lLZXllb29LVDdYRC1xT3lUVnd1N05Vb2gyMXpBdnlmZG1fdzV6SWdac3c0RV8zSTdSOGR4SjNGbXZqN0tlZVNrdG5fdDFfa3hCajkwY3JQM0FJSVRjcUMxb3V0YUViTEowRGZSYTFPSFNYSVViNXfSAZwBQVVfeXFMUHVlYVR3TnVxRm1NUUhiWEZsRkkzb1M5VGs3WHp3a3kwOHFUYmxuNlZad0VCRlJFVXg4clZWZmJSaVNBOUxfMHFrdWFBN0tNbW9BVFJqRThkUVAzLUo0elJKNjRXNWhxTElNMzJPOVg5OEhHaFRhZDFYVmhUSS1NdENwRWR2RERPQmxoQ1U3cnJReXl6N3VaaUtwRkpM",
-          "author": null,
-          "description": "AWS hands OpenSearch to the Linux Foundation  InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajRMUWVlM0xKa25IN2pvVzRFMUtNTVJCZVRxdktPQ0lLZXllb29LVDdYRC1xT3lUVnd1N05Vb2gyMXpBdnlmZG1fdzV6SWdac3c0RV8zSTdSOGR4SjNGbXZqN0tlZVNrdG5fdDFfa3hCajkwY3JQM0FJSVRjcUMxb3V0YUViTEowRGZSYTFPSFNYSVViNXfSAZwBQVVfeXFMUHVlYVR3TnVxRm1NUUhiWEZsRkkzb1M5VGs3WHp3a3kwOHFUYmxuNlZad0VCRlJFVXg4clZWZmJSaVNBOUxfMHFrdWFBN0tNbW9BVFJqRThkUVAzLUo0elJKNjRXNWhxTElNMzJPOVg5OEhHaFRhZDFYVmhUSS1NdENwRWR2RERPQmxoQ1U3cnJReXl6N3VaaUtwRkpM?oc=5",
-          "publishedOn": "2024-09-16T07:00:00.000Z",
-          "wordCount": 12449,
-          "title": "AWS hands OpenSearch to the Linux Foundation - InfoWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiogJBVV95cUxQSW12cklWaWpQYzA0b19BMXNiYWRJVGVIN3lEMTF4NWNqeElKb0tHcHpEREpKdUo2Zy1JS0dhUk44cEdRdXdyb1Y0SmthUUpmVWZCTTNhU0Itajc5dzF6a1ZlTlV0THJHQTRDWEtDMzVzOUpnamNpM21sT2dScUc3RGpDSTNkb282M1hSTDVMSDdpRXY3ZVhsd2JoaUM5X2RoZGFzdDd2bHlaQm5yMUw5em12ZzdoU2tURkpBX2c2dC1vaTh3ZkhkZmhTWEJpZ1Bqc2hURkZYeG1xNk91a2pxMlFGMGNlcjRhZkM2WWhTb2dzVnQyenNBa1JnZUphVmpkV0ZKRTVOTWdsSV9ETHB0dkswa0hvMUE3RVNFaGozZnowQQ",
-          "author": null,
-          "description": "World's Leading Open Source Mobile Packet Core, free5GC, Moves Under Linux Foundation to Provide Open Source Alternatives Across 5G Deployments  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSW12cklWaWpQYzA0b19BMXNiYWRJVGVIN3lEMTF4NWNqeElKb0tHcHpEREpKdUo2Zy1JS0dhUk44cEdRdXdyb1Y0SmthUUpmVWZCTTNhU0Itajc5dzF6a1ZlTlV0THJHQTRDWEtDMzVzOUpnamNpM21sT2dScUc3RGpDSTNkb282M1hSTDVMSDdpRXY3ZVhsd2JoaUM5X2RoZGFzdDd2bHlaQm5yMUw5em12ZzdoU2tURkpBX2c2dC1vaTh3ZkhkZmhTWEJpZ1Bqc2hURkZYeG1xNk91a2pxMlFGMGNlcjRhZkM2WWhTb2dzVnQyenNBa1JnZUphVmpkV0ZKRTVOTWdsSV9ETHB0dkswa0hvMUE3RVNFaGozZnowQQ?oc=5",
-          "publishedOn": "2024-09-16T07:00:00.000Z",
-          "wordCount": 12449,
-          "title": "World's Leading Open Source Mobile Packet Core, free5GC, Moves Under Linux Foundation to Provide Open Source Alternatives Across 5G Deployments - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi-gFBVV95cUxPTHRnV3lBNHBBT2tYbXV3aGY0X09KOG50TDFGamU3akt4a2pWRzRrWmR0SGNPR0VzdXZYOUl1ZWdwSlJHdFQwSF80akladUh4NjFNdHNtSklUenFncXNuZmhSNHZrSGMtaEI5UVFJSGVOSnZsMXZtbHVKLXB3QkJzYS1YVzM2bDFZdzhJaEI3Q3lvWXpFMC01eFZpcm1rbG5GWWc2Q0w3MkZ5Y3BrT2l5WTROd0FBMHJwVG5yQkpraGRXLUhkTHN2d0pNSlR2S2l2c2djcU5iaHpuVXR6VjFtMjNhWG9TYzA3QW00Z1RtX3VsSFMya2o4M3F3",
-          "author": null,
-          "description": "Linux Foundation Announces OpenSearch Software Foundation to Foster Open Collaboration in Search and Analytics  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTHRnV3lBNHBBT2tYbXV3aGY0X09KOG50TDFGamU3akt4a2pWRzRrWmR0SGNPR0VzdXZYOUl1ZWdwSlJHdFQwSF80akladUh4NjFNdHNtSklUenFncXNuZmhSNHZrSGMtaEI5UVFJSGVOSnZsMXZtbHVKLXB3QkJzYS1YVzM2bDFZdzhJaEI3Q3lvWXpFMC01eFZpcm1rbG5GWWc2Q0w3MkZ5Y3BrT2l5WTROd0FBMHJwVG5yQkpraGRXLUhkTHN2d0pNSlR2S2l2c2djcU5iaHpuVXR6VjFtMjNhWG9TYzA3QW00Z1RtX3VsSFMya2o4M3F3?oc=5",
-          "publishedOn": "2024-09-16T07:00:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation Announces OpenSearch Software Foundation to Foster Open Collaboration in Search and Analytics - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMixwFBVV95cUxNWGMzeV9BakhHWHlINm5JWFhHM1BwdGVQcDcwTmNSQ0hxUVRCZWRScmpwTmhiUXdFRDA3Z2h2QjBDZ2k2SEJCTDgxWEQybjBmWGJTSDk2ZWx5LVFTTHYxYW1Md2VJRER3R2dqN21ycGxSRW1NWFpmOURnbmppbFVZNW0tUU1venV5YkpsM0IxRlFDV2Z5TGF5WmUtUnR4ZnljUXo4SFhMcDNLWlNwUzlPQTQ5VkVNSUVBZWdMQkFNUFFDWFpabklz",
-          "author": null,
-          "description": "Linux Foundation Announces Intent to Form Developer Relations Foundation  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGMzeV9BakhHWHlINm5JWFhHM1BwdGVQcDcwTmNSQ0hxUVRCZWRScmpwTmhiUXdFRDA3Z2h2QjBDZ2k2SEJCTDgxWEQybjBmWGJTSDk2ZWx5LVFTTHYxYW1Md2VJRER3R2dqN21ycGxSRW1NWFpmOURnbmppbFVZNW0tUU1venV5YkpsM0IxRlFDV2Z5TGF5WmUtUnR4ZnljUXo4SFhMcDNLWlNwUzlPQTQ5VkVNSUVBZWdMQkFNUFFDWFpabklz?oc=5",
-          "publishedOn": "2024-09-16T07:00:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation Announces Intent to Form Developer Relations Foundation - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi1gFBVV95cUxPcS04SzBncmhZNXE5dlF0OElqa0F2RlNUcEh4djR6Y0FtcFhwaXAwMkZEMzhBOS1LdTVzdHJsUHRpNl8zcFN3WDVmbWVNZDJBSnMzTkp6Z1dUT1RFem9qRmVfY0xJOUdZNGQ0dy1qNm5oMGk5eHFOcDlqakVHdVplWU5ROHhRX213bzVfR0xFNUdmVVBJOW5TTWFWYVg3aWRZWXRxTkc3TFNwVm9Db3E3bGJoZU01LXZnanRCS3lvX0RIWjN3SVhhWGtDdGxIQm5xRzB4Y3hB",
-          "author": null,
-          "description": "Linux Foundation Decentralized Trust Launches with 17 Projects, 100+ Founding Members  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcS04SzBncmhZNXE5dlF0OElqa0F2RlNUcEh4djR6Y0FtcFhwaXAwMkZEMzhBOS1LdTVzdHJsUHRpNl8zcFN3WDVmbWVNZDJBSnMzTkp6Z1dUT1RFem9qRmVfY0xJOUdZNGQ0dy1qNm5oMGk5eHFOcDlqakVHdVplWU5ROHhRX213bzVfR0xFNUdmVVBJOW5TTWFWYVg3aWRZWXRxTkc3TFNwVm9Db3E3bGJoZU01LXZnanRCS3lvX0RIWjN3SVhhWGtDdGxIQm5xRzB4Y3hB?oc=5",
-          "publishedOn": "2024-09-16T07:00:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux Foundation Decentralized Trust Launches with 17 Projects, 100+ Founding Members - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi0AFBVV95cUxOSWxHYzhBZnBfdmk1bnpwdVNQMGg1dGZzR20tN0VoT2E0aGNSMHVscHlHWGJuSy1IWFZvRWo2bDc0ZDkteE13Tm10OVJRcXNMaTVXME45ZVJGLUFxLWp6UFczVE5ycWxfWk84VFp1b3BBaTk4eUt0Yk1lMDhlSDNhTVF6d0IwOUtMVUkyNzN3QUNnUjB5d0hmTjV2X2RpNlJvZlVhQ0kyZ09GVjI3SzlpTDU3ckdyYTJSZHpLZHpWTnBXQVd0WmYtWnFYZUNWcGRt0gHWAUFVX3lxTFB2bGZOdkx5OVQtZ280V0VpdUFicG9iZzhDR3ItRjJtQWhfLTRydWdXNm5tR0ZMek5uREFvSGRGU21LZ2lQZk9PNWR5WjNpZ2dhVHlBY3RVVGpjVGRpc0VIMmxmYlNkUTgxT1RfQ0p3RS1Zc1VkRDRzTWJjc19QZldUQ3I0NnFwQ1FMeFFESm1TR0lrZ0pmc0dtNm90NFdIeExoM1NHVl8yLXNLaDBId2tJbFFRNjJDVnlSSUpHbG1HeExQTlZHb09XZEo0X0E5TjJnVlV4YlE",
-          "author": null,
-          "description": "Linux Operating System Market Outlook, Size, Growth Opportunities and Industry Analysis by 2032  EIN News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWxHYzhBZnBfdmk1bnpwdVNQMGg1dGZzR20tN0VoT2E0aGNSMHVscHlHWGJuSy1IWFZvRWo2bDc0ZDkteE13Tm10OVJRcXNMaTVXME45ZVJGLUFxLWp6UFczVE5ycWxfWk84VFp1b3BBaTk4eUt0Yk1lMDhlSDNhTVF6d0IwOUtMVUkyNzN3QUNnUjB5d0hmTjV2X2RpNlJvZlVhQ0kyZ09GVjI3SzlpTDU3ckdyYTJSZHpLZHpWTnBXQVd0WmYtWnFYZUNWcGRt0gHWAUFVX3lxTFB2bGZOdkx5OVQtZ280V0VpdUFicG9iZzhDR3ItRjJtQWhfLTRydWdXNm5tR0ZMek5uREFvSGRGU21LZ2lQZk9PNWR5WjNpZ2dhVHlBY3RVVGpjVGRpc0VIMmxmYlNkUTgxT1RfQ0p3RS1Zc1VkRDRzTWJjc19QZldUQ3I0NnFwQ1FMeFFESm1TR0lrZ0pmc0dtNm90NFdIeExoM1NHVl8yLXNLaDBId2tJbFFRNjJDVnlSSUpHbG1HeExQTlZHb09XZEo0X0E5TjJnVlV4YlE?oc=5",
-          "publishedOn": "2024-09-16T06:02:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux Operating System Market Outlook, Size, Growth Opportunities and Industry Analysis by 2032 - EIN News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFBPaTh6cU9RYW9NNURBRl8yR1Y1SGtTVzk5ZTdIQVdWYkpoWUlwMVhuWm1jQTJHS2NIbjlLV3pjZ2Qxa1ZVU2c3cGUxODBRbzJUWnAtVWtVSW5jXzF1NGVNc3RfSTM4cUxWdHc",
-          "author": null,
-          "description": "5 Things I Learned From The Arch Linux Distro Switch  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPaTh6cU9RYW9NNURBRl8yR1Y1SGtTVzk5ZTdIQVdWYkpoWUlwMVhuWm1jQTJHS2NIbjlLV3pjZ2Qxa1ZVU2c3cGUxODBRbzJUWnAtVWtVSW5jXzF1NGVNc3RfSTM4cUxWdHc?oc=5",
-          "publishedOn": "2024-09-16T04:32:29.000Z",
-          "wordCount": 12449,
-          "title": "5 Things I Learned From The Arch Linux Distro Switch - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTFBNMHpISnJndi0zaGMzUUduMEljMjAtZy1GQldFUjVoUWwyNUltb3ozWnp6bEtjTTFyQU5XamFURHRGdTBCQkdwTkxUX0Z1TDRwYS0xTXMzSE9kbVIyWTliRQ",
-          "author": null,
-          "description": "AMD and Intel improvements take the cake in the Linux kernel 6.11 release  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMHpISnJndi0zaGMzUUduMEljMjAtZy1GQldFUjVoUWwyNUltb3ozWnp6bEtjTTFyQU5XamFURHRGdTBCQkdwTkxUX0Z1TDRwYS0xTXMzSE9kbVIyWTliRQ?oc=5",
-          "publishedOn": "2024-09-16T04:22:26.000Z",
-          "wordCount": 12449,
-          "title": "AMD and Intel improvements take the cake in the Linux kernel 6.11 release - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwNBVV95cUxPajlJaXgzNVB4a0l6VENmRlFCdUhSMW5sX2FpS3VhUjBmWVNSM2VtbWFvcHFkMUYtQllCaHZidGZGbGwyaE41QXVFTDJaams4OFhXV0hkVFFKdjhhMkRaMXpuNVdJOFg4NkJaUVowSmp6WHN6WExGYnZhSHFEVjlSMVQzRUVDanlvT2xZQURqNzRsblpCbFZpNUVQVnlPekpnN0NZVGgybms3WXgydGItbUY5U1hkRmtOeEIzdG1FV1l0amRLM2NWb3FIRHFNaDR2WXBpWmJQTkNiZ2d3OW1jOUFoaTRHU2xEbkIxVy02Q0pqeklDQTNrdUdGMGNVM19kcTlxckl5N2RuSHpvZGZzWE9qdnlzczJVNldZRndMeFJ6YUZPbFNtTlNjeE1JMVV2R1hMVHJkOTVjdEVkTjNmV3duc0RkWGhvTktZTEpTT3o5NDRIQTBVUUI3emlyS3V2ajlPRlhuU3g2M0IyYTR6cjgxLVVuYkNVWURyaFo3cWFLam9rVHhIc0U3SEk5WEU3VDBhSVViQQ",
-          "author": null,
-          "description": "Enabling Linux in Safety Applications (ELISA) Project Welcomes Hamburg University of Technology - Institute of Aircraft Systems Engineering and Lynx Software Technologies to Strengthen their Commitment to Safety-Critical Applications in Aerospace  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPajlJaXgzNVB4a0l6VENmRlFCdUhSMW5sX2FpS3VhUjBmWVNSM2VtbWFvcHFkMUYtQllCaHZidGZGbGwyaE41QXVFTDJaams4OFhXV0hkVFFKdjhhMkRaMXpuNVdJOFg4NkJaUVowSmp6WHN6WExGYnZhSHFEVjlSMVQzRUVDanlvT2xZQURqNzRsblpCbFZpNUVQVnlPekpnN0NZVGgybms3WXgydGItbUY5U1hkRmtOeEIzdG1FV1l0amRLM2NWb3FIRHFNaDR2WXBpWmJQTkNiZ2d3OW1jOUFoaTRHU2xEbkIxVy02Q0pqeklDQTNrdUdGMGNVM19kcTlxckl5N2RuSHpvZGZzWE9qdnlzczJVNldZRndMeFJ6YUZPbFNtTlNjeE1JMVV2R1hMVHJkOTVjdEVkTjNmV3duc0RkWGhvTktZTEpTT3o5NDRIQTBVUUI3emlyS3V2ajlPRlhuU3g2M0IyYTR6cjgxLVVuYkNVWURyaFo3cWFLam9rVHhIc0U3SEk5WEU3VDBhSVViQQ?oc=5",
-          "publishedOn": "2024-09-16T03:00:00.000Z",
-          "wordCount": 12449,
-          "title": "Enabling Linux in Safety Applications (ELISA) Project Welcomes Hamburg University of Technology - Institute of Aircraft Systems Engineering and Lynx Software Technologies to Strengthen their Commitment to Safety-Critical Applications in Aerospace - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiyAFBVV95cUxNLVFWRjA4R29Pb2EwVy1ISlRJd3BKMVVSTjI1V0hLeG5KS0dxcEd5ampId0J5b01VTFJZeG9FYk1IemhhTkJaQnBDTlhBUjRTdkJ2MnV5a09KUGR4YmNNWkVCZnU5SWZsLVFOZkU4Z0E1aHA4YkJpWGJSQzQyWVBZRGZCV3hYdGlKUWdCblZ1M3VtQ3FselRjS29VaV9Jc1FadUV3MWlWUWJYWmZvQXZMdFd0MnNlY3lHVkJGMUxFREZhQ0ltWVEyMw",
-          "author": null,
-          "description": "Proving Grounds — Flimsy(Easy)Linux Box — Walkthrough A Journey To Offensive Security | by Brian | Sep, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFWRjA4R29Pb2EwVy1ISlRJd3BKMVVSTjI1V0hLeG5KS0dxcEd5ampId0J5b01VTFJZeG9FYk1IemhhTkJaQnBDTlhBUjRTdkJ2MnV5a09KUGR4YmNNWkVCZnU5SWZsLVFOZkU4Z0E1aHA4YkJpWGJSQzQyWVBZRGZCV3hYdGlKUWdCblZ1M3VtQ3FselRjS29VaV9Jc1FadUV3MWlWUWJYWmZvQXZMdFd0MnNlY3lHVkJGMUxFREZhQ0ltWVEyMw?oc=5",
-          "publishedOn": "2024-09-16T02:55:24.000Z",
-          "wordCount": 12449,
-          "title": "Proving Grounds — Flimsy(Easy)Linux Box — Walkthrough A Journey To Offensive Security | by Brian | Sep, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxOZ0x0LVJ0NUJNM1ptZVlQb25OcW5JLW5LS3VHNTZvZVgyenpZYWhLM1ZoRUgxS0hWcWs4dXExaVQ2QTVCeVF0ZTdwdUV2bjBWclpxZUtkYVFaVThwajVCeWZCdTRQYlpWTW5ud2lFcFpFOHFWNXgwRUZsanVnQ1o2ZUV2OEtsUWvSAYwBQVVfeXFMUG1MeEVGSGwwdTNGaThKbEtDMHdVN1hEb0M0NEVGZ2VJVUhsN1hCWkxuX0FmbUlCYWVDeDMzbThrOGVFdXYySWFyME96eTg4MjQ3RGlhdGRtZWVNWjJvbTZwc0dQdk9ia3hyelQtd2YwY21GeXA2bG1hQ08zVks3ZHBFaXVxdU9fdWRTN1I",
-          "author": null,
-          "description": "Linux Kernel 6.11 Released, This is What’s New  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0x0LVJ0NUJNM1ptZVlQb25OcW5JLW5LS3VHNTZvZVgyenpZYWhLM1ZoRUgxS0hWcWs4dXExaVQ2QTVCeVF0ZTdwdUV2bjBWclpxZUtkYVFaVThwajVCeWZCdTRQYlpWTW5ud2lFcFpFOHFWNXgwRUZsanVnQ1o2ZUV2OEtsUWvSAYwBQVVfeXFMUG1MeEVGSGwwdTNGaThKbEtDMHdVN1hEb0M0NEVGZ2VJVUhsN1hCWkxuX0FmbUlCYWVDeDMzbThrOGVFdXYySWFyME96eTg4MjQ3RGlhdGRtZWVNWjJvbTZwc0dQdk9ia3hyelQtd2YwY21GeXA2bG1hQ08zVks3ZHBFaXVxdU9fdWRTN1I?oc=5",
-          "publishedOn": "2024-09-15T21:18:35.000Z",
-          "wordCount": 12449,
-          "title": "Linux Kernel 6.11 Released, This is What’s New - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVEFVX3lxTE9kR2s2V2JnZl95R2lxNm1Dck9ZRThkcXFwSHZuOVVDdzhvQzcxdENpOGR4TXdrVUVqd1NhZ3VNczNsejk0LXpqenkzdWQ4LS1sWkgwcw",
-          "author": null,
-          "description": "Linux 6.11 released  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kR2s2V2JnZl95R2lxNm1Dck9ZRThkcXFwSHZuOVVDdzhvQzcxdENpOGR4TXdrVUVqd1NhZ3VNczNsejk0LXpqenkzdWQ4LS1sWkgwcw?oc=5",
-          "publishedOn": "2024-09-15T20:08:15.000Z",
-          "wordCount": 12449,
-          "title": "Linux 6.11 released - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE51OHR6Vlh5QXJnSFdqR1RLVGZBLVlpNHhXaXFoNC1STTdWMWt4OUM3RGctMmR6UTVRa3ZjV0hSZDd6S09TN042RWZROXkwMV9VRHZ6OENoQk5pX045Q1R4RV9PNnRjU3k3",
-          "author": null,
-          "description": "You Really Can Get GOG Galaxy on Linux, Here's How  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51OHR6Vlh5QXJnSFdqR1RLVGZBLVlpNHhXaXFoNC1STTdWMWt4OUM3RGctMmR6UTVRa3ZjV0hSZDd6S09TN042RWZROXkwMV9VRHZ6OENoQk5pX045Q1R4RV9PNnRjU3k3?oc=5",
-          "publishedOn": "2024-09-15T20:00:00.000Z",
-          "wordCount": 12449,
-          "title": "You Really Can Get GOG Galaxy on Linux, Here's How - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE84c2xpa1ZrMjdrUXdWT0JINEctOEFyd1NsVGpGVkJ5Qmg0NE5pbTlfUkd6c1paRmhpdGFLT1Mwc2pZT25RRVRTYTM3bWhzdnFnSl9KcGRjM2NCQ1JpUXYyejR1bE5BdHVf",
-          "author": null,
-          "description": "IO_uring Async Discard Submitted For Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84c2xpa1ZrMjdrUXdWT0JINEctOEFyd1NsVGpGVkJ5Qmg0NE5pbTlfUkd6c1paRmhpdGFLT1Mwc2pZT25RRVRTYTM3bWhzdnFnSl9KcGRjM2NCQ1JpUXYyejR1bE5BdHVf?oc=5",
-          "publishedOn": "2024-09-15T19:51:00.000Z",
-          "wordCount": 12449,
-          "title": "IO_uring Async Discard Submitted For Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiugFBVV95cUxNOGVsQkNNdllLdUQ4NWtxdVRyRFZBdXItWWZESl9uODVEZVBUTzBDZnFZRTVXVFR5VUZkdjJfd0tRMXI1aTVOSTNKWG5YYlRvOHFTelEwUlFrWEk0Y3hGQ01aYjl0N2RvUHhmc3Y1aHV5VDdLTjJ5Y2RUbGtsbkRPN2FzdFF4ZzBHZVl6eUpvWlJ0dU1reHAzVk91eHZzcXJfMDhvOVN6QkJhaTRHTnROUHZKN21QMWtZc3c",
-          "author": null,
-          "description": "Microsoft Windows kernel changes don't suddenly mean big things for Linux gaming  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGVsQkNNdllLdUQ4NWtxdVRyRFZBdXItWWZESl9uODVEZVBUTzBDZnFZRTVXVFR5VUZkdjJfd0tRMXI1aTVOSTNKWG5YYlRvOHFTelEwUlFrWEk0Y3hGQ01aYjl0N2RvUHhmc3Y1aHV5VDdLTjJ5Y2RUbGtsbkRPN2FzdFF4ZzBHZVl6eUpvWlJ0dU1reHAzVk91eHZzcXJfMDhvOVN6QkJhaTRHTnROUHZKN21QMWtZc3c?oc=5",
-          "publishedOn": "2024-09-15T16:43:13.000Z",
-          "wordCount": 12449,
-          "title": "Microsoft Windows kernel changes don't suddenly mean big things for Linux gaming - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxQclVLYnJtWWxNU2l5bkFadHRIbmhvNFdJazhMMHRKUnliNG5IbF9EcU9vczkyd0hoSV9pVmVjUkxxYXctcW1xS3RtOXhNRzdEdGx4ak9peFZHd3Z2QUN1SmdoU3REdy1pY003MTBVdnVNQ0h2RmVqY2hpWlZzZm40Q9IBhgFBVV95cUxPYzVvNzJQWnUxWU1OZnkyN2gxVkliWkt1eEJEYXl1NFVxUnYwdVRhNFBYbUJTX09TQllkOFotaGNRVGFxMXEtdlV6OUs2RUxtY1dGN3RFT1dyeHk0WnpPamFndEZId0x0cjhOOVpTajJkREdtQlVUcnh1Z0hncFZ4bUw3ZE51dw",
-          "author": null,
-          "description": "Linux Kernel 6.11 Officially Released, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclVLYnJtWWxNU2l5bkFadHRIbmhvNFdJazhMMHRKUnliNG5IbF9EcU9vczkyd0hoSV9pVmVjUkxxYXctcW1xS3RtOXhNRzdEdGx4ak9peFZHd3Z2QUN1SmdoU3REdy1pY003MTBVdnVNQ0h2RmVqY2hpWlZzZm40Q9IBhgFBVV95cUxPYzVvNzJQWnUxWU1OZnkyN2gxVkliWkt1eEJEYXl1NFVxUnYwdVRhNFBYbUJTX09TQllkOFotaGNRVGFxMXEtdlV6OUs2RUxtY1dGN3RFT1dyeHk0WnpPamFndEZId0x0cjhOOVpTajJkREdtQlVUcnh1Z0hncFZ4bUw3ZE51dw?oc=5",
-          "publishedOn": "2024-09-15T16:33:33.000Z",
-          "wordCount": 12449,
-          "title": "Linux Kernel 6.11 Officially Released, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUkFVX3lxTE95LUpMbFpvOThqSHBVc0RWaHBnMnMtcTYzR3RBLV80N2FxaFRtd2wxU042ZmdmTWFHQmdSY0EwanJDNjh4VGpQYmJPLVpxcUxxTGc",
-          "author": null,
-          "description": "Linux 6.11 Kernel Released With Some Snapdragon X1 Laptop Support & Other New Hardware  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95LUpMbFpvOThqSHBVc0RWaHBnMnMtcTYzR3RBLV80N2FxaFRtd2wxU042ZmdmTWFHQmdSY0EwanJDNjh4VGpQYmJPLVpxcUxxTGc?oc=5",
-          "publishedOn": "2024-09-15T15:12:00.000Z",
-          "wordCount": 12449,
-          "title": "Linux 6.11 Kernel Released With Some Snapdragon X1 Laptop Support & Other New Hardware - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10126,6 +10066,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.",
+          "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "publishedOn": "2024-10-15T14:00:00.000Z",
+          "wordCount": 5824,
+          "title": "It’s Here! How To Measure UX &amp; Design Impact, With Vitaly Friedman",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
@@ -10282,6 +10237,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/",
+          "author": "Eamonn Cottrell",
+          "description": "Microsoft Excel is the quintessential spreadsheet software used everywhere from universities to small businesses to enterprises. It’s a lifesaver for countless financial professionals, data analysts, and teachers. But it’s also one of those programs ...",
+          "link": "https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/",
+          "publishedOn": "2024-10-15T17:57:43.000Z",
+          "wordCount": 2387,
+          "title": "Microsoft Excel: 14 Time-Saving Keyboard Shortcuts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728930420116/82fe0d9f-89fe-4332-82dc-43b44d4ee2dc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/",
+          "author": "Alex Pliutau",
+          "description": "A container registry is a storage catalog from where you can push and pull container images. There are many public and private registries available to developers such as Docker Hub, Amazon ECR, and Google Cloud Artifact Registry. But sometimes, inste...",
+          "link": "https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/",
+          "publishedOn": "2024-10-15T17:28:30.000Z",
+          "wordCount": 2256,
+          "title": "How to Self-host a Container Registry",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728918386211/cf6fd053-453e-4257-abcd-16942c345845.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/",
+          "author": "Vikram Aruchamy",
+          "description": "Merging Word files is essential for applications like document automation, where multiple reports, proposals, or forms need to be consolidated into a single document. Content management systems also rely on this functionality to combine documents for...",
+          "link": "https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/",
+          "publishedOn": "2024-10-15T16:22:56.000Z",
+          "wordCount": 2526,
+          "title": "How to Merge Word Files Using NodeJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728997884597/9eb261f8-b299-4f43-bd0d-e2122b2c0c7b.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/",
+          "author": "Nitheesh Poojary",
+          "description": "Welcome to my latest tutorial! After a three-year hiatus from certifications, I'm thrilled to announce that I've successfully obtained the AWS Certified Security Specialty certification. As someone who strongly believes in the power of community lear...",
+          "link": "https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/",
+          "publishedOn": "2024-10-15T15:44:32.000Z",
+          "wordCount": 4626,
+          "title": "AWS Security Specialty Certification: How to Prepare for the Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729003266992/5be45b39-6a46-42a0-89f8-82dde56f0207.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rounded-and-curved-edge-css-shapes/",
+          "author": "Temani Afif",
+          "description": "In a previous article, I showed you how to create some fancy shapes that you can use as section dividers on your websites (a slanted divider, an arrow divider, and others). In this article, we will study and learn how to make more CSS shapes using th...",
+          "link": "https://www.freecodecamp.org/news/rounded-and-curved-edge-css-shapes/",
+          "publishedOn": "2024-10-14T22:07:54.000Z",
+          "wordCount": 2477,
+          "title": "How to Create Curved-Edge and Rounded-Edge Shapes Using CSS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728902609915/17a0da8c-143b-4160-8133-bc865c1b535b.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-design-and-build-ui-components-with-ai/",
           "author": "Ekemini Samuel",
