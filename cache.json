@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193565",
+          "author": "Web Webster",
+          "description": "Ardour 8.10 Digital Audio Workstation is out now. Fixes disk I/O issues, update color themes and adds new MIDI binding maps.\nThe post Ardour 8.10: Hot Fixes and Final Features Before Major Update to v9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/ardour-8-10-hot-fixes-and-final-features-before-major-update-to-v9/",
+          "publishedOn": "2024-10-18T23:35:23.000Z",
+          "wordCount": 9074,
+          "title": "Ardour 8.10: Hot Fixes and Final Features Before Major Update to v9",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193564",
+          "author": "Web Webster",
+          "description": "Today’s tech scene is buzzing about generative AI, yet many developers feel overwhelmed. Which tools and frameworks should you use to build generative AI apps with so many options available? It’s frustrating to start a project only to realize you’re missing key components or that your tech stack is outdated. The last thing you want […]\nThe post The Generative AI Technology Stack: Key Components for Innovation appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/the-generative-ai-technology-stack-key-components-for-innovation/",
+          "publishedOn": "2024-10-18T22:33:56.000Z",
+          "wordCount": 9142,
+          "title": "The Generative AI Technology Stack: Key Components for Innovation",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193561",
+          "author": "Web Webster",
+          "description": "The pam_tally2 module, once used to lock user accounts after a certain number of failed SSH login attempts, has been deprecated and replaced by pam_faillock in RHEL-based distributions and other modern Linux distributions, due to more flexibility and security options. Previously, the pam_tally2 module was responsible for counting failed login attempts and locking accounts. However, […]\nThe post How to Secure SSH with pam_faillock: Lockout Failed Login Attempts appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-secure-ssh-with-pam_faillock-lockout-failed-login-attempts/",
+          "publishedOn": "2024-10-18T20:32:04.000Z",
+          "wordCount": 9125,
+          "title": "How to Secure SSH with pam_faillock: Lockout Failed Login Attempts",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193634",
+          "author": "Web Webster",
+          "description": "MySQL 9.1 introduces key updates, including enhanced trigger handling, optimized EXPLAIN output, OpenID Connect support, and more.\nThe post MySQL 9.1: New Features, Deprecations, and Important Updates appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/mysql-9-1-new-features-deprecations-and-important-updates/",
+          "publishedOn": "2024-10-18T19:40:41.000Z",
+          "wordCount": 9054,
+          "title": "MySQL 9.1: New Features, Deprecations, and Important Updates",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193560",
+          "author": "Web Webster",
+          "description": "In this article, you will learn how to install curl (and libcurl) on a Linux system and how to use curl in your daily computing work with practical examples.\nThe post Installing and Using Curl on Linux Like a Pro appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/installing-and-using-curl-on-linux-like-a-pro/",
+          "publishedOn": "2024-10-18T18:31:05.000Z",
+          "wordCount": 9073,
+          "title": "Installing and Using Curl on Linux Like a Pro",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193604",
+          "author": "Web Webster",
+          "description": "Discover a step-by-step guide on how to install MelonDS Emulator on Ubuntu and other Linux distros and play Nintendo DS games on PC.\nThe post Play Nintendo DS Games Using MelonDS Emulator on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/play-nintendo-ds-games-using-melonds-emulator-on-linux/",
+          "publishedOn": "2024-10-18T17:37:27.000Z",
+          "wordCount": 9065,
+          "title": "Play Nintendo DS Games Using MelonDS Emulator on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193559",
+          "author": "Web Webster",
+          "description": "Learn how to install the Yarn package manager on Ubuntu using NPM, Corepack, and the APT repository with practical examples.\nThe post How to Install Yarn on Ubuntu 24.04 (via 3 Methods) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-yarn-on-ubuntu-24-04-via-3-methods-2/",
+          "publishedOn": "2024-10-18T17:29:34.000Z",
+          "wordCount": 9064,
+          "title": "How to Install Yarn on Ubuntu 24.04 (via 3 Methods)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193607",
+          "author": "Web Webster",
+          "description": "Highlights of Calibre 7.20 include a new default dedicated PDF Input engine that features automatic detection and removal of headers and footers based on document analysis. The old PDF Input engine used by Calibre is still available and you can switch between the new one and the old one in the PDF Input section of […]\nThe post Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/calibre-7-20-adds-new-pdf-input-engine-supports-new-tolino-shine-5-firmware/",
+          "publishedOn": "2024-10-18T14:00:18.000Z",
+          "wordCount": 9119,
+          "title": "Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193603",
+          "author": "Web Webster",
+          "description": "Coming a week after Ardour 8.9, the Ardour 8.10 release is here to fix some performance issues caused by the scheduling of disk input/output threads, importing of SMF (MIDI) via drag and drop to use the file name, and content-slipping of regions to update the playback buffers correctly.\nThe post Ardour 8.10 Open-Source DAW Released with Fixes for New Major Issues appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/ardour-8-10-open-source-daw-released-with-fixes-for-new-major-issues/",
+          "publishedOn": "2024-10-18T13:35:19.000Z",
+          "wordCount": 9095,
+          "title": "Ardour 8.10 Open-Source DAW Released with Fixes for New Major Issues",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193558",
+          "author": "Web Webster",
+          "description": "It’s fascinating how Windows 10 took off shortly after its release on July 29, 2015, quickly becoming one of the most popular versions of Windows. Many considered it to be the best Windows ever, which is exactly what a sequel operating system should be — unlike its predecessors (looking at you, Windows 8/8.1). As of […]\nThe post 7 Linux Distributions That Feel Just Like Windows appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/7-linux-distributions-that-feel-just-like-windows/",
+          "publishedOn": "2024-10-18T13:19:53.000Z",
+          "wordCount": 9167,
+          "title": "7 Linux Distributions That Feel Just Like Windows",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193536",
           "author": "Web Webster",
           "description": "Coming only three weeks after VirtualBox 7.1.2, the VirtualBox 7.1.4 release is here to introduce automatic upgrading of the Linux Guest Additions via the Devices menu on ARM systems, improved flickering, black screen, and other screen update issues with recent Linux kernels, and adds initial support for the upcoming Linux 6.12 kernel series in Linux […]\nThe post VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes appeared first on Linux Today.",
@@ -2086,86 +2186,6 @@
           "wordCount": 9036,
           "title": "Wind River Unveils Linux Distro for AI and Critical Workloads",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192662",
-          "author": "Web Webster",
-          "description": "PipeWire 1.2.4 multimedia framework update is out now, fixing crashes, enhancing device scanning with systemd-logind, and more.\nThe post PipeWire 1.2.4 Rolls Out With Key Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/pipewire-1-2-4-rolls-out-with-key-bug-fixes/",
-          "publishedOn": "2024-09-19T13:00:22.000Z",
-          "wordCount": 9021,
-          "title": "PipeWire 1.2.4 Rolls Out With Key Bug Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191798",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to check your private and public IP addresses, including both IPv4 and IPv6 protocols, using CLI and GUI methods.\nThe post How to Check Your Private & Public IP Addresses in Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-check-your-private-public-ip-addresses-in-ubuntu-2/",
-          "publishedOn": "2024-09-19T02:00:29.000Z",
-          "wordCount": 9042,
-          "title": "How to Check Your Private & Public IP Addresses in Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191676",
-          "author": "Web Webster",
-          "description": "COSMIC is designed to enhance user experience with features like improved workspace management, a customizable dock, and extensive keyboard navigation options that enhance productivity.\nThe post How to Install COSMIC Desktop in Fedora 40 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-cosmic-desktop-in-fedora-40/",
-          "publishedOn": "2024-09-19T00:00:28.000Z",
-          "wordCount": 9028,
-          "title": "How to Install COSMIC Desktop in Fedora 40",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191441",
-          "author": "Web Webster",
-          "description": "Explore a step-by-step guide for installing, configuring, and running Pydio Cells on Ubuntu to manage and collaborate on your document files.\nThe post How to Install Pydio Cells on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-pydio-cells-on-ubuntu-24-04/",
-          "publishedOn": "2024-09-18T22:00:05.000Z",
-          "wordCount": 9028,
-          "title": "How to Install Pydio Cells on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=191484",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to installing the Nvidia GeForce Now Client App on major Linux distributions such as Debian, Ubuntu, Fedora, etc.\nThe post How to Install Nvidia GeForce Now Client App on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/how-to-install-nvidia-geforce-now-client-app-on-linux/",
-          "publishedOn": "2024-09-18T20:00:39.000Z",
-          "wordCount": 9036,
-          "title": "How to Install Nvidia GeForce Now Client App on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192625",
-          "author": "Web Webster",
-          "description": "The Panfrost project continues to grow! Last week, initial PanVK support for V10 GPUs landed upstream in Mesa’s main branch. This means that it’s now possible to start kicking the tires on Vulkan with an open source driver on Arm Mali-G610 and Mali-G310 GPUs.\nThe post PanVK Support for Arm V10 GPUs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/panvk-support-for-arm-v10-gpus/",
-          "publishedOn": "2024-09-18T18:00:47.000Z",
-          "wordCount": 9043,
-          "title": "PanVK Support for Arm V10 GPUs",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192617",
-          "author": "Web Webster",
-          "description": "The creator of Linux detailed the latest Linux updates at the Linux Foundation’s Open Source Summit Europe event.\nThe post Linus Torvalds Advises Open-Source Developers to Pursue Meaningful Projects, Not Hype appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linus-torvalds-advises-open-source-developers-to-pursue-meaningful-projects-not-hype/",
-          "publishedOn": "2024-09-18T17:00:55.000Z",
-          "wordCount": 9035,
-          "title": "Linus Torvalds Advises Open-Source Developers to Pursue Meaningful Projects, Not Hype",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192627",
-          "author": "Web Webster",
-          "description": "The GNOME Project released today GNOME 47 as the latest series of this acclaimed and beloved desktop environment for Linux-based operating systems, bringing new features and improvements.\nThe post GNOME 47 “Denver” Desktop Environment Officially Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gnome-47-denver-desktop-environment-officially-released-heres-whats-new/",
-          "publishedOn": "2024-09-18T15:31:00.000Z",
-          "wordCount": 9035,
-          "title": "GNOME 47 “Denver” Desktop Environment Officially Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2174,6 +2194,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMigwFBVV95cUxQcEZwX1hSQk8tdEVfOHNfQnVqbXlJb2F4ZE5qWm1kQzBNY0RhZlB6UUd6RG4wZnRNVG5Zd2NFdk9yZ21TU2w3WG14SVYwSlR1UXNqb3VvWldoOWEwcC1oNzhOSFcxaEotYmJxYVJPVjZPRl9BYmstT01Dcmo5cWdMNkRUUQ",
+          "author": null,
+          "description": "A new Steam update is making native Linux gaming much simpler  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEZwX1hSQk8tdEVfOHNfQnVqbXlJb2F4ZE5qWm1kQzBNY0RhZlB6UUd6RG4wZnRNVG5Zd2NFdk9yZ21TU2w3WG14SVYwSlR1UXNqb3VvWldoOWEwcC1oNzhOSFcxaEotYmJxYVJPVjZPRl9BYmstT01Dcmo5cWdMNkRUUQ?oc=5",
+          "publishedOn": "2024-10-18T23:24:00.000Z",
+          "wordCount": 12557,
+          "title": "A new Steam update is making native Linux gaming much simpler - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFBMdVVXaGxrSTFtakhlU0VqQVhNWFNUbFV1eUE4aGoxSlBxRzJ1NkNKZ013SVp3aWdJWEI4UF8yOFRtdzIxQ1BnS0ptRE84clhibFc5WVhIT1RfTWZsVmwzZ0NJUm9HWVdnZnBaSg",
+          "author": null,
+          "description": "Ubuntu Considers Replacing initramfs-tools WIth Dracut  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdVVXaGxrSTFtakhlU0VqQVhNWFNUbFV1eUE4aGoxSlBxRzJ1NkNKZ013SVp3aWdJWEI4UF8yOFRtdzIxQ1BnS0ptRE84clhibFc5WVhIT1RfTWZsVmwzZ0NJUm9HWVdnZnBaSg?oc=5",
+          "publishedOn": "2024-10-18T16:55:00.000Z",
+          "wordCount": 12557,
+          "title": "Ubuntu Considers Replacing initramfs-tools WIth Dracut - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitAFBVV95cUxQN2xJZVcxVERoY1Q1ZnFTZFl1bFZVMVlkVVFCcTFjYnhyUXVTRWJUeDFnVGx0eWpEUU5XYXhzT1prb3Y5VldWWTBBN09GSTJYbi12M1VJclhTdGxuXzNHMldZNkF6TVhwMUMyTk5HcWN1SERkWEdnMnl4RHlnY0lhbXRzSF9kRFg2RF85djNwZTdGTklWV1NDUGM2ajA5dUFtSkFKYjg4bEJlOXpucUFmUTBoZ3TSAboBQVVfeXFMTk1xNWhtUjluc2E2TXZsX00tUDkxZDhoOFN6SmZXdFRlSHlJUVlnZWFMS1dHYzk1RHZwYjdETFhMbWpVY19BZmhZaEhudVR1aE5jOEV1dmUyYTI2dlpHNVk2bXhsVlBUendZU0c1TmZRNWpHU0x5enpfVDlTSk0tMUthWDJQYnRDcXBLa1dOQ3RmVzRpVGVQejZtb0EtNXVqMGREd1RydjkwQW9BWWlJMGJidXdBUlJMQUdR",
+          "author": null,
+          "description": "Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2xJZVcxVERoY1Q1ZnFTZFl1bFZVMVlkVVFCcTFjYnhyUXVTRWJUeDFnVGx0eWpEUU5XYXhzT1prb3Y5VldWWTBBN09GSTJYbi12M1VJclhTdGxuXzNHMldZNkF6TVhwMUMyTk5HcWN1SERkWEdnMnl4RHlnY0lhbXRzSF9kRFg2RF85djNwZTdGTklWV1NDUGM2ajA5dUFtSkFKYjg4bEJlOXpucUFmUTBoZ3TSAboBQVVfeXFMTk1xNWhtUjluc2E2TXZsX00tUDkxZDhoOFN6SmZXdFRlSHlJUVlnZWFMS1dHYzk1RHZwYjdETFhMbWpVY19BZmhZaEhudVR1aE5jOEV1dmUyYTI2dlpHNVk2bXhsVlBUendZU0c1TmZRNWpHU0x5enpfVDlTSk0tMUthWDJQYnRDcXBLa1dOQ3RmVzRpVGVQejZtb0EtNXVqMGREd1RydjkwQW9BWWlJMGJidXdBUlJMQUdR?oc=5",
+          "publishedOn": "2024-10-18T14:48:13.000Z",
+          "wordCount": 12557,
+          "title": "Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE02VmRhQllORFJmZ3VCMjE5Ukc5am1xbFdjQ25ja1QzMFF2WVVhZFJtaHZHSE1iSTZYeHRXUVJ5NGNIWFJJWE0ydTJoR2FDSFFlVUlaQnZ2RE1WSGN2dkM0c0IyY1hUOXloaGVOX1NR",
+          "author": null,
+          "description": "Linux Fixes Indirect Branch Predictor Barrier \"IBPB\" Handling For Older AMD CPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02VmRhQllORFJmZ3VCMjE5Ukc5am1xbFdjQ25ja1QzMFF2WVVhZFJtaHZHSE1iSTZYeHRXUVJ5NGNIWFJJWE0ydTJoR2FDSFFlVUlaQnZ2RE1WSGN2dkM0c0IyY1hUOXloaGVOX1NR?oc=5",
+          "publishedOn": "2024-10-18T14:42:00.000Z",
+          "wordCount": 12557,
+          "title": "Linux Fixes Indirect Branch Predictor Barrier \"IBPB\" Handling For Older AMD CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE9DczdfUlYza1ctNG5GUzdEeWF1U1ZKQVRKaVhfT3pYa0VhX01KNk5fbE9kMnRLRmlidlB1MFplUzZQMUJkS2RBdDFWLWdqZTFJN3JIcnVHZTQ3cG8wVWJXQlFNbVVaNnhfc0RF",
+          "author": null,
+          "description": "Ubuntu Snaps Up Intel's NPU User-Space Software So It's Easier To Accelerate AI  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DczdfUlYza1ctNG5GUzdEeWF1U1ZKQVRKaVhfT3pYa0VhX01KNk5fbE9kMnRLRmlidlB1MFplUzZQMUJkS2RBdDFWLWdqZTFJN3JIcnVHZTQ3cG8wVWJXQlFNbVVaNnhfc0RF?oc=5",
+          "publishedOn": "2024-10-18T10:27:00.000Z",
+          "wordCount": 12557,
+          "title": "Ubuntu Snaps Up Intel's NPU User-Space Software So It's Easier To Accelerate AI - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitAFBVV95cUxQdEwyQVp1c1FVYUxsLUp1OEFQRXk2RndQcEV6QVNtMzlUcUU3Q2w3bEhpSmJHY0FRZERTNGUwa09PblZIb2NSS2Q0NEt3alpKR2dXRVRKOUd1VlRRc3lkTEZERkFuSGVQa0liTDd3dFFSMzhtSUx4Q3FUNmlWTVl6VkN0aVZldkNVbFdNMWY0ZVZXTXV3Z0VFdHVZc1NqbGpTYzFiVTBCenpudUg5cVZGQjVpbG0",
+          "author": null,
+          "description": "Valve makes a big improvement for Native Linux games in a Steam Beta update  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwyQVp1c1FVYUxsLUp1OEFQRXk2RndQcEV6QVNtMzlUcUU3Q2w3bEhpSmJHY0FRZERTNGUwa09PblZIb2NSS2Q0NEt3alpKR2dXRVRKOUd1VlRRc3lkTEZERkFuSGVQa0liTDd3dFFSMzhtSUx4Q3FUNmlWTVl6VkN0aVZldkNVbFdNMWY0ZVZXTXV3Z0VFdHVZc1NqbGpTYzFiVTBCenpudUg5cVZGQjVpbG0?oc=5",
+          "publishedOn": "2024-10-18T09:06:22.000Z",
+          "wordCount": 12557,
+          "title": "Valve makes a big improvement for Native Linux games in a Steam Beta update - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMihwFBVV95cUxNNjR1S1hlUDFSS2NWckI1WUI0aS1fdzNMdWZsMlF6eXB6LUt1dlYyeWEyVE8tQzUyd0xMWHpHRFJnNDJZejNoY3hOYjlwNHQxaXY0SDJvWXI5Z3k1T0w5WVh3Q1JQLUlDT3JUSVNQcUQ3Yk9FQ0pPWVlLdzQyU0phc3cwaDQwMWs",
           "author": null,
@@ -7273,186 +7353,6 @@
           "wordCount": 12503,
           "title": "Installing Vivaldi on Linux just got a lot easier - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXEFVX3lxTE0yZGZscC1qT3VRakJsalQydEJ4cXloZTg2STFEUmtJQ1p0aDZVY1hRX2NVcTZvcThHMVdJNW1PQnFIVm5VZGtBVkJtd1pYcDBncXlfaVJ4YzJ0MF9N0gFiQVVfeXFMUDJIV2duWGZkSm9IRWdPVmZmRFpXa0owN2FmTFZsU0V4VG5lNjRzNXdKZXFkS2Q1QXhIb284S1Y4V1B2dDliM05OcXZTd1duaklXTFY2bmdxNnRDcjhpa19HNGc",
-          "author": null,
-          "description": "20 Best Linux Admin Tools In 2024  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yZGZscC1qT3VRakJsalQydEJ4cXloZTg2STFEUmtJQ1p0aDZVY1hRX2NVcTZvcThHMVdJNW1PQnFIVm5VZGtBVkJtd1pYcDBncXlfaVJ4YzJ0MF9N0gFiQVVfeXFMUDJIV2duWGZkSm9IRWdPVmZmRFpXa0owN2FmTFZsU0V4VG5lNjRzNXdKZXFkS2Q1QXhIb284S1Y4V1B2dDliM05OcXZTd1duaklXTFY2bmdxNnRDcjhpa19HNGc?oc=5",
-          "publishedOn": "2024-09-19T12:41:00.000Z",
-          "wordCount": 12503,
-          "title": "20 Best Linux Admin Tools In 2024 - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE8yeU1RbzhxM3BMclUyVUp5bVJoY3lYa3RldzVTOE13dV9WSTFCbHRuR1VMWXptTnNWWXBsaDV1Z0t2VXprczdZcnFnYzVDMTdEZ08wYllqZXFpdngyVGsw",
-          "author": null,
-          "description": "Linux 6.12 Scheduler Code Adds SCHED_DEADLINE Servers & Complete EEVDF  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeU1RbzhxM3BMclUyVUp5bVJoY3lYa3RldzVTOE13dV9WSTFCbHRuR1VMWXptTnNWWXBsaDV1Z0t2VXprczdZcnFnYzVDMTdEZ08wYllqZXFpdngyVGsw?oc=5",
-          "publishedOn": "2024-09-19T10:55:00.000Z",
-          "wordCount": 12503,
-          "title": "Linux 6.12 Scheduler Code Adds SCHED_DEADLINE Servers & Complete EEVDF - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE1ZYWs4SWZoNUQwR2VxcUN2SDZ1eGJWODZUdW9Yc2pwd1hyX1Z5ZTFZZk9zWEJucFdjeGU3OVBKWmZ3T2dacVRQSm1SQjBXOV9ieTZoTVNxQWJfSlRwRHJDdkhFaUs1Nmx1LXc0SQ",
-          "author": null,
-          "description": "Microsoft Optimizes Hyper-V Code To Boot Linux Faster When Having Many CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYWs4SWZoNUQwR2VxcUN2SDZ1eGJWODZUdW9Yc2pwd1hyX1Z5ZTFZZk9zWEJucFdjeGU3OVBKWmZ3T2dacVRQSm1SQjBXOV9ieTZoTVNxQWJfSlRwRHJDdkhFaUs1Nmx1LXc0SQ?oc=5",
-          "publishedOn": "2024-09-19T10:46:00.000Z",
-          "wordCount": 12503,
-          "title": "Microsoft Optimizes Hyper-V Code To Boot Linux Faster When Having Many CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxQVDAtX3NsWHFLMlN6NGxoUVdHN2lHUG55RTBDQ1pwUzl4d2FmMDNiei1LTEZEMm5TXy14TGw3ZTZaTE9ZVFY0UmtoNzlvU250NnVyU3ZDbEVxU2lIcjNZTi1sOFpnV0VzamZRaG9MU3FFUmlfeS1rUFZESXdGaUxRa29BOG94UjZERms2emMycVVqMmdGamxWMThVS1ZrX2wtaFFEYU5nQ3F1Q2p4QUg3cDFyQmc",
-          "author": null,
-          "description": "Linux is becoming a Real-Time Operating System: what does it mean?  Techzine Europe",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDAtX3NsWHFLMlN6NGxoUVdHN2lHUG55RTBDQ1pwUzl4d2FmMDNiei1LTEZEMm5TXy14TGw3ZTZaTE9ZVFY0UmtoNzlvU250NnVyU3ZDbEVxU2lIcjNZTi1sOFpnV0VzamZRaG9MU3FFUmlfeS1rUFZESXdGaUxRa29BOG94UjZERms2emMycVVqMmdGamxWMThVS1ZrX2wtaFFEYU5nQ3F1Q2p4QUg3cDFyQmc?oc=5",
-          "publishedOn": "2024-09-19T10:36:00.000Z",
-          "wordCount": 12503,
-          "title": "Linux is becoming a Real-Time Operating System: what does it mean? - Techzine Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTE96UVJkd0haS1A3Q0dYQndocXp5UUVnSXlDRmJ2MWdpOUh0NS1PZ1BnbXNaZEFGOFNIZEEzNlp4ZVYxaTBBQURFbGNJZU5TMU1xNkM2TEQxWQ",
-          "author": null,
-          "description": "XFS With Linux 6.12 Adds New Ioctls To Exchange Contents Of Two Files  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96UVJkd0haS1A3Q0dYQndocXp5UUVnSXlDRmJ2MWdpOUh0NS1PZ1BnbXNaZEFGOFNIZEEzNlp4ZVYxaTBBQURFbGNJZU5TMU1xNkM2TEQxWQ?oc=5",
-          "publishedOn": "2024-09-19T10:35:00.000Z",
-          "wordCount": 12503,
-          "title": "XFS With Linux 6.12 Adds New Ioctls To Exchange Contents Of Two Files - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTE5hX0dEcGhCNE1ha2F4WDlQaU5iUktlMEVUaVF3SHVQbWhJYlFfaXpvTks1MU9yaXRQMk5aUFNKUkNfOU1lVkp4X1BwanRpTmloR2dFM1ZRMEdxeUlpcVE",
-          "author": null,
-          "description": "FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hX0dEcGhCNE1ha2F4WDlQaU5iUktlMEVUaVF3SHVQbWhJYlFfaXpvTks1MU9yaXRQMk5aUFNKUkNfOU1lVkp4X1BwanRpTmloR2dFM1ZRMEdxeUlpcVE?oc=5",
-          "publishedOn": "2024-09-19T04:42:04.000Z",
-          "wordCount": 12503,
-          "title": "FOSS Weekly #24.38: Arch Experience, Kernel 6.11, Mint vs Ubuntu and More Linux Stuff - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi4AFBVV95cUxPQkUtV2doUU5rUmY5Y19FN0EyTVFCc0tOWU5tcHR0WmdPU1ktZWVLMmtURXlpeGpfbFBSaWY3UUFON2s2NHJPbjZORFBLU0d4bEZTbHhwWEo1TnZQTmI2TDJJNi1kMDFtYnl5bV9OWGVsMnlfREVzc0laYkJld0F2NlhMdy1KZXVFX2FXVTIteENSdTFtTGM0V19aYnJwMktRbFVrdlNyR0liemxrbncxLXNKX3NidWk0UVhmblVDN0NRU0hyNUU1QWp1QkFURm1Rak9SazNlMDdWMENIdkNrQQ",
-          "author": null,
-          "description": "Apple releases Swift 6 with improved concurrency, testing, cross-platform support – enough to lift it out of its niche?  DevClass",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQkUtV2doUU5rUmY5Y19FN0EyTVFCc0tOWU5tcHR0WmdPU1ktZWVLMmtURXlpeGpfbFBSaWY3UUFON2s2NHJPbjZORFBLU0d4bEZTbHhwWEo1TnZQTmI2TDJJNi1kMDFtYnl5bV9OWGVsMnlfREVzc0laYkJld0F2NlhMdy1KZXVFX2FXVTIteENSdTFtTGM0V19aYnJwMktRbFVrdlNyR0liemxrbncxLXNKX3NidWk0UVhmblVDN0NRU0hyNUU1QWp1QkFURm1Rak9SazNlMDdWMENIdkNrQQ?oc=5",
-          "publishedOn": "2024-09-19T04:02:46.000Z",
-          "wordCount": 12503,
-          "title": "Apple releases Swift 6 with improved concurrency, testing, cross-platform support – enough to lift it out of its niche? - DevClass",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxNcnEwZHFQYzVuV2lDOUpET2tIM1BfWVotZ2t3RzBVOGNhNVIwMVVuQXB0dTE1aVRhWHZZQnJyY0phMFZiTFhVand1a21RVU5sV2V6ZmREdk5jcENNdWdTenA0a3BTbnI2OGNBY1FvUXZIenNoTHFmam1aTy1tam40U2xNem40SXZiRzh5Uzl3",
-          "author": null,
-          "description": "Wind River Unveils Linux Distro for AI and Critical Workloads  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnEwZHFQYzVuV2lDOUpET2tIM1BfWVotZ2t3RzBVOGNhNVIwMVVuQXB0dTE1aVRhWHZZQnJyY0phMFZiTFhVand1a21RVU5sV2V6ZmREdk5jcENNdWdTenA0a3BTbnI2OGNBY1FvUXZIenNoTHFmam1aTy1tam40U2xNem40SXZiRzh5Uzl3?oc=5",
-          "publishedOn": "2024-09-18T19:07:51.000Z",
-          "wordCount": 12500,
-          "title": "Wind River Unveils Linux Distro for AI and Critical Workloads - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxOOWZPZVlRWF9oaUZjTDBGOXFpU0J5Mll3ZHNXRkFkTW9BV09vWFkzaEYwMk1MM3h5ZGt4QXMzNUhqRXA5MzdBdWVYNXJ4Z3lYX0tmVjRtTUtmZHg3SWVWck5Bb19xd1Z0UTkwdWNzcVZBMlBmbTJqekF5ZHJNeDJOUl8wSmQ",
-          "author": null,
-          "description": "What is open-source and how does it benefit you?  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWZPZVlRWF9oaUZjTDBGOXFpU0J5Mll3ZHNXRkFkTW9BV09vWFkzaEYwMk1MM3h5ZGt4QXMzNUhqRXA5MzdBdWVYNXJ4Z3lYX0tmVjRtTUtmZHg3SWVWck5Bb19xd1Z0UTkwdWNzcVZBMlBmbTJqekF5ZHJNeDJOUl8wSmQ?oc=5",
-          "publishedOn": "2024-09-18T18:38:00.000Z",
-          "wordCount": 12500,
-          "title": "What is open-source and how does it benefit you? - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTE5GeXlQd1dsUjkySHQ0TG5LekluX2RpNHNlcFl6X0ZkNG16QnpHOS1LM2RucHN4ZTZFNTFYRFU3N3h4R0x5Ty04STFsZWtnMUM0SHpqTWljWnloOWRqcVN2Vw",
-          "author": null,
-          "description": "GNOME 47 Is Coming to a Linux Desktop Near You  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GeXlQd1dsUjkySHQ0TG5LekluX2RpNHNlcFl6X0ZkNG16QnpHOS1LM2RucHN4ZTZFNTFYRFU3N3h4R0x5Ty04STFsZWtnMUM0SHpqTWljWnloOWRqcVN2Vw?oc=5",
-          "publishedOn": "2024-09-18T17:20:00.000Z",
-          "wordCount": 12500,
-          "title": "GNOME 47 Is Coming to a Linux Desktop Near You - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi3gFBVV95cUxQaVNLU0stN0oydjFUZGs1WkZua2tiWWp6Rnl0bVRJRldXQXNrNDQ1cjhyd1MtTHhjaTdLNTFkQ2R1OHEyekloT2tXd0ozZXYwOW9RbHNYTkdUZWZxQS1GOEJLZ0h5SS1pRjFNblg0YTQ0NVFFYmc0TmxIUkREY0FZa05Qci1VMEJoUlVBbm1XLTBQTmZrcTllVXQ2ZEhCLXVpaVBnV1NqbC14N29XWlFzYXlBNTBESFJ0bElhWWwzYVlTUDBJTEtaMmZtTWU1V1BRSVFiNEp2bElEMnVDWWc",
-          "author": null,
-          "description": "GTA V Online's new kernel anti-cheat rug-pull unnecessarily breaks Steam Deck and Linux compatibility  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaVNLU0stN0oydjFUZGs1WkZua2tiWWp6Rnl0bVRJRldXQXNrNDQ1cjhyd1MtTHhjaTdLNTFkQ2R1OHEyekloT2tXd0ozZXYwOW9RbHNYTkdUZWZxQS1GOEJLZ0h5SS1pRjFNblg0YTQ0NVFFYmc0TmxIUkREY0FZa05Qci1VMEJoUlVBbm1XLTBQTmZrcTllVXQ2ZEhCLXVpaVBnV1NqbC14N29XWlFzYXlBNTBESFJ0bElhWWwzYVlTUDBJTEtaMmZtTWU1V1BRSVFiNEp2bElEMnVDWWc?oc=5",
-          "publishedOn": "2024-09-18T17:15:15.000Z",
-          "wordCount": 12500,
-          "title": "GTA V Online's new kernel anti-cheat rug-pull unnecessarily breaks Steam Deck and Linux compatibility - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxNY3RoZEV6SzBDV0hiZ1FwMWc2UE9peVJnSW96THptNjJ0cE0xQXJlZ19zR3pEWnN0SC03STdZQnVjbl9DeElKSVZFem1HdkxjY1pyLUVEeFhiZzRDbmFKMzhTeGN3QkRjb0ZTTlVfaW1zeWZaZjVCOEJ2RElhcHp4VnVOLU5VNndwN2sxbGtIM0JPU2xfR1E",
-          "author": null,
-          "description": "20 years later, real-time Linux makes it to the kernel - really  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3RoZEV6SzBDV0hiZ1FwMWc2UE9peVJnSW96THptNjJ0cE0xQXJlZ19zR3pEWnN0SC03STdZQnVjbl9DeElKSVZFem1HdkxjY1pyLUVEeFhiZzRDbmFKMzhTeGN3QkRjb0ZTTlVfaW1zeWZaZjVCOEJ2RElhcHp4VnVOLU5VNndwN2sxbGtIM0JPU2xfR1E?oc=5",
-          "publishedOn": "2024-09-18T17:09:00.000Z",
-          "wordCount": 12500,
-          "title": "20 years later, real-time Linux makes it to the kernel - really - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitwFBVV95cUxOcFBhX0JJeFlUZFM1d3hlR1MtNllhOFlfeElwdkRUWDR0WGFiUnpDZ0F6ZGl3LVI2SUNURGJ4TDNMckNnS3Jjb2REdnRjVnlobWpoVER0SG1GZjR6N3luVmxSRGV0M3ZWem9vUTBBMy05SWFCZDF4ZGZ1M09EZFdwTnRsaUgxSUc2OTM5V29zelRtd19GQ3RfQVhXcEFBWjZBVUtzRDBjTFRpVE8tWXhoa01wZ0NSTDg",
-          "author": null,
-          "description": "Fedora Linux 41 beta drops Python 2 and upgrades the DNF package manager  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFBhX0JJeFlUZFM1d3hlR1MtNllhOFlfeElwdkRUWDR0WGFiUnpDZ0F6ZGl3LVI2SUNURGJ4TDNMckNnS3Jjb2REdnRjVnlobWpoVER0SG1GZjR6N3luVmxSRGV0M3ZWem9vUTBBMy05SWFCZDF4ZGZ1M09EZFdwTnRsaUgxSUc2OTM5V29zelRtd19GQ3RfQVhXcEFBWjZBVUtzRDBjTFRpVE8tWXhoa01wZ0NSTDg?oc=5",
-          "publishedOn": "2024-09-18T16:54:53.000Z",
-          "wordCount": 12500,
-          "title": "Fedora Linux 41 beta drops Python 2 and upgrades the DNF package manager - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivAFBVV95cUxOWW42SnBRZVdWUk45YkdXT3ZMcWg0ZUpUM1NWZ19UNFplbHZtYTJObG5jTVhHdTF0Y3F0alEwc25BRElEaXZDRk5DYno5a3hwTEFvQkg2TlNXVlMyUnRhU3d3MC15d0dlVGdWUlJnbllrdENWN3hmeENPdTMtS3RadEhPVXNKdnVtLThEeXlsa1NGVExlZExMbkctNk02OGVrc2ktY1dBcVVRb3llbjJJdEdPY05fUU91RER0Qg",
-          "author": null,
-          "description": "GNOME 47 Denver transforms the Linux desktop with new features and improved performance  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWW42SnBRZVdWUk45YkdXT3ZMcWg0ZUpUM1NWZ19UNFplbHZtYTJObG5jTVhHdTF0Y3F0alEwc25BRElEaXZDRk5DYno5a3hwTEFvQkg2TlNXVlMyUnRhU3d3MC15d0dlVGdWUlJnbllrdENWN3hmeENPdTMtS3RadEhPVXNKdnVtLThEeXlsa1NGVExlZExMbkctNk02OGVrc2ktY1dBcVVRb3llbjJJdEdPY05fUU91RER0Qg?oc=5",
-          "publishedOn": "2024-09-18T16:18:41.000Z",
-          "wordCount": 12500,
-          "title": "GNOME 47 Denver transforms the Linux desktop with new features and improved performance - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirwFBVV95cUxNTEVCV256OWZ3b1VHa0FlTDBqZkZJamNsUlZXcWZYOGs2RXg2V0RUMTFZYklqUDk3bnlYcTh3UXduaUpBZFZ1WnlvWWlyMS1KYVBYb2h5WF8zZXpyTWZCbEtPYkhrSXVKa2x3ZTdvSVpNLW05SlBWRkpUUUlrdmRoYV9hUERLSU04MEFVXzRBNnlDNkpZLWVXSHRaaWhiUjI4OUlXRXE0ckdmYmF5cjBJ",
-          "author": null,
-          "description": "At New York Fashion Week With Internet Personality Linux (Not The Software)  Complex",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEVCV256OWZ3b1VHa0FlTDBqZkZJamNsUlZXcWZYOGs2RXg2V0RUMTFZYklqUDk3bnlYcTh3UXduaUpBZFZ1WnlvWWlyMS1KYVBYb2h5WF8zZXpyTWZCbEtPYkhrSXVKa2x3ZTdvSVpNLW05SlBWRkpUUUlrdmRoYV9hUERLSU04MEFVXzRBNnlDNkpZLWVXSHRaaWhiUjI4OUlXRXE0ckdmYmF5cjBJ?oc=5",
-          "publishedOn": "2024-09-18T15:17:04.000Z",
-          "wordCount": 12500,
-          "title": "At New York Fashion Week With Internet Personality Linux (Not The Software) - Complex",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFBVV95cUxPNHFkRG5zTk0tVmxGN0NBZXpNcExkeVZuRlRZakdlV3lqRTE2ekhLTUY3cXZwMG1kRFp5dEJadUpCeVFlemQ0M1U3dDItRU95UElMby1kcm9wVFB3SW56U2Zla3BLRjRiZEFZM0l0S09DUDNPbzJNRFNnNm96dzJNMFRDcU9NcGxoU083Qk1zcDRGVTVXVTdzX9IBngFBVV95cUxPWnplVVh3dktmQnUteGg3amRYRHFMbl9OMGh3SVNHVUpJSHg4WDBiSnRrNWNNeXVld19pWFZoZUwzaGRsVDVyYkZqc2pwWTdXVmRvLUMwYXJBendNM0Z6d0duR055cEpzaWlMTWotNkNudXdxREhvSVNGa3diaHR6VDRvVHRkNnR4S0xaaW5DbEoyVzNHc3NlS2ZNTnNGUQ",
-          "author": null,
-          "description": "GNOME 47 “Denver” Desktop Environment Officially Released, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHFkRG5zTk0tVmxGN0NBZXpNcExkeVZuRlRZakdlV3lqRTE2ekhLTUY3cXZwMG1kRFp5dEJadUpCeVFlemQ0M1U3dDItRU95UElMby1kcm9wVFB3SW56U2Zla3BLRjRiZEFZM0l0S09DUDNPbzJNRFNnNm96dzJNMFRDcU9NcGxoU083Qk1zcDRGVTVXVTdzX9IBngFBVV95cUxPWnplVVh3dktmQnUteGg3amRYRHFMbl9OMGh3SVNHVUpJSHg4WDBiSnRrNWNNeXVld19pWFZoZUwzaGRsVDVyYkZqc2pwWTdXVmRvLUMwYXJBendNM0Z6d0duR055cEpzaWlMTWotNkNudXdxREhvSVNGa3diaHR6VDRvVHRkNnR4S0xaaW5DbEoyVzNHc3NlS2ZNTnNGUQ?oc=5",
-          "publishedOn": "2024-09-18T15:08:40.000Z",
-          "wordCount": 12500,
-          "title": "GNOME 47 “Denver” Desktop Environment Officially Released, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqAFBVV95cUxQeGtNdFcyRzF1M01GYjVoWW81RmtlU3hKc2hwV1NHaXpEcE9jdzBfTWQtU1IxQ184YXlXYnJqNXBOTlExWlhYd3RxVlBrVThXYkcxZUlpUFBBTGpXMWU3UG1XbXg2blRCbVh2amNDc0NtVDdzeHZ0M3pOczdOUnVaTDhKUzBUSHFCZUFZUWVLZTRTM0RYb05FSHFmNk8xTWZaTjh6Yk1kOEU",
-          "author": null,
-          "description": "CIQ Partners with Ansys on Optimized Rocky Linux Deployment  PR Web",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGtNdFcyRzF1M01GYjVoWW81RmtlU3hKc2hwV1NHaXpEcE9jdzBfTWQtU1IxQ184YXlXYnJqNXBOTlExWlhYd3RxVlBrVThXYkcxZUlpUFBBTGpXMWU3UG1XbXg2blRCbVh2amNDc0NtVDdzeHZ0M3pOczdOUnVaTDhKUzBUSHFCZUFZUWVLZTRTM0RYb05FSHFmNk8xTWZaTjh6Yk1kOEU?oc=5",
-          "publishedOn": "2024-09-18T15:00:00.000Z",
-          "wordCount": 12500,
-          "title": "CIQ Partners with Ansys on Optimized Rocky Linux Deployment - PR Web",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFBVV95cUxPallfQ09oVmdWRnVxMXdPaGRWRUhoTjV1YXhrMlQ5RklPV2EyT0dHMjViWDYwdzY4VmplUng1d29yQ05DUUZJd0FqRUZIMUd6ZzRsMDBDbWh0MTcwUDNuYlhQQ3RNTERnRTdKMFp5VHhsY0tnMGFoUEVlVkI1dXJINGNFQ05kTWFpVF9Rc01sYw",
-          "author": null,
-          "description": "Valkey 8.0 rides high at Open Source Summit in Vienna  The Stack",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPallfQ09oVmdWRnVxMXdPaGRWRUhoTjV1YXhrMlQ5RklPV2EyT0dHMjViWDYwdzY4VmplUng1d29yQ05DUUZJd0FqRUZIMUd6ZzRsMDBDbWh0MTcwUDNuYlhQQ3RNTERnRTdKMFp5VHhsY0tnMGFoUEVlVkI1dXJINGNFQ05kTWFpVF9Rc01sYw?oc=5",
-          "publishedOn": "2024-09-18T14:35:56.000Z",
-          "wordCount": 12500,
-          "title": "Valkey 8.0 rides high at Open Source Summit in Vienna - The Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9599,6 +9499,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381832",
+          "author": "Ryan Trimble",
+          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
+          "publishedOn": "2024-10-18T13:09:22.000Z",
+          "wordCount": 1596,
+          "title": "Combining forces, GSAP & Webflow!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381882",
+          "author": "Geoff Graham",
+          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
+          "publishedOn": "2024-10-18T11:36:04.000Z",
+          "wordCount": 1632,
+          "title": "Mastering theme.json: You might not need CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
+        },
+        {
           "id": "https://css-tricks.com/?p=381763",
           "author": "Zell Liew",
           "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -10007,6 +9927,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671271336d32f3591177c37a",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Tadas Petra. He's a software engineer and a Senior Developer Advocate at Agora.io. After learning embedded development in university, Tadas switched to building mobile apps. He's gone on to build doz...",
+          "link": "https://www.freecodecamp.org/news/tadas-petra-podcast-146/",
+          "publishedOn": "2024-10-18T14:31:15.000Z",
+          "wordCount": 1183,
+          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729261845654/2491f9ad-4c33-446b-bbae-3fa0117b2b47.png"
+        },
+        {
+          "id": "6712601db2117f64c9ba5c68",
+          "author": "Kedar Makode",
+          "description": "Ever wondered what people mean when they say, “It’s stored in the cloud”? If you’re imagining fluffy white clouds up in the sky storing your pictures, documents, or your Netflix favorites, then you’re in for a surprise! Spoiler alert: the cloud is mu...",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-computing-with-aws/",
+          "publishedOn": "2024-10-18T13:18:21.000Z",
+          "wordCount": 6052,
+          "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
+        },
         {
           "id": "671140909e01688d7732fd36",
           "author": "Beau Carnes",
@@ -10776,26 +10716,6 @@
           "wordCount": 1057,
           "title": "Learn How To Secure API Servers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726759818974/98a0ec72-f561-4b36-9bbe-aaceb22026c0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/",
-          "author": "Elizabeth Lola",
-          "description": "Did you know that CSS can play a significant role in web accessibility? While CSS primarily handles the visual presentation of a webpage, when you use it properly it can enhance the user’s experience and improve accessibility. In this article, I'll s...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/",
-          "publishedOn": "2024-09-18T17:13:12.000Z",
-          "wordCount": 2524,
-          "title": "How to Use CSS to Improve Web Accessibility",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726577970240/02631676-6492-4b83-a057-b9c2048709ee.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/",
-          "author": "Beau Carnes",
-          "description": "The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...",
-          "link": "https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/",
-          "publishedOn": "2024-09-18T13:55:42.000Z",
-          "wordCount": 3761,
-          "title": "Use the FARM Stack to Develop Full Stack Apps",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         }
       ]
     }
