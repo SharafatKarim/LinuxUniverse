@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193605",
+          "author": "Web Webster",
+          "description": "Discover Warehouse, a user-friendly tool for handling Flatpak apps and remotes on Linux, offering features like checking installed details and user data management.\nThe post Warehouse is an Ultimate Toolbox for Managing Flatpak Apps appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/warehouse-is-an-ultimate-toolbox-for-managing-flatpak-apps/",
+          "publishedOn": "2024-10-19T18:39:15.000Z",
+          "wordCount": 9067,
+          "title": "Warehouse is an Ultimate Toolbox for Managing Flatpak Apps",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193562",
+          "author": "Web Webster",
+          "description": "PHP (Hypertext Preprocessor) is a widely-used server-side scripting language known for its efficiency in web development. However, as web applications grow in complexity, performance optimization becomes crucial. One of the most effective ways to enhance PHP performance is by using Opcache, which caches the compiled bytecode of PHP scripts, reducing the overhead of loading and […]\nThe post How to Install Opcache for Optimal PHP Performance on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-opcache-for-optimal-php-performance-on-linux/",
+          "publishedOn": "2024-10-19T15:33:11.000Z",
+          "wordCount": 9124,
+          "title": "How to Install Opcache for Optimal PHP Performance on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193565",
           "author": "Web Webster",
           "description": "Ardour 8.10 Digital Audio Workstation is out now. Fixes disk I/O issues, update color themes and adds new MIDI binding maps.\nThe post Ardour 8.10: Hot Fixes and Final Features Before Major Update to v9 appeared first on Linux Today.",
@@ -2136,56 +2156,6 @@
           "wordCount": 9019,
           "title": "Zorin OS 17.2: Faster, More Secure, and User-Friendly",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192687",
-          "author": "Web Webster",
-          "description": "New Proton 9.0-3 update: Play games like Avatar, Ball at Work, Super, Flatout 3, and many others on Linux with improved stability and support.\nThe post Proton 9.0-3 Unleashes New Playable Titles and Essential Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/proton-9-0-3-unleashes-new-playable-titles-and-essential-fixes/",
-          "publishedOn": "2024-09-20T13:00:34.000Z",
-          "wordCount": 9041,
-          "title": "Proton 9.0-3 Unleashes New Playable Titles and Essential Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192492",
-          "author": "Web Webster",
-          "description": "In this detailed introduction to Oracle VirtualBox tutorial, we’ll learn what VirtualBox is, its history, use cases, and the amazing features it offers.\nThe post A Detailed Introduction to Oracle VirtualBox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/infrastructure/a-detailed-introduction-to-oracle-virtualbox/",
-          "publishedOn": "2024-09-19T17:00:47.000Z",
-          "wordCount": 9021,
-          "title": "A Detailed Introduction to Oracle VirtualBox",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192660",
-          "author": "Web Webster",
-          "description": "The work done on real-time Linux has benefitted the open-source OS for years, but it was only this week that Linus Torvalds admitted its last piece into the mainline kernel. Exactly what took so long?\nThe post 20 Years Later, Real-Time Linux Makes It to the Kernel — Really appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/20-years-later-real-time-linux-makes-it-to-the-kernel-really/",
-          "publishedOn": "2024-09-19T16:00:56.000Z",
-          "wordCount": 9059,
-          "title": "20 Years Later, Real-Time Linux Makes It to the Kernel — Really",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192658",
-          "author": "Web Webster",
-          "description": "The lightweight Linux distro Sparky 7.5 is now available for download, offering full Debian 12 compatibility and updated package base.\nThe post Sparky 7.5 Drops With Updated Packages appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparky-7-5-drops-with-updated-packages/",
-          "publishedOn": "2024-09-19T15:30:36.000Z",
-          "wordCount": 9019,
-          "title": "Sparky 7.5 Drops With Updated Packages",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192661",
-          "author": "Web Webster",
-          "description": "The new Debian-Linux-based operating system is meant to be a robust, flexible platform that scales for workloads from enterprise to edge.\nThe post Wind River Unveils Linux Distro for AI and Critical Workloads appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/wind-river-unveils-linux-distro-for-ai-and-critical-workloads/",
-          "publishedOn": "2024-09-19T14:30:31.000Z",
-          "wordCount": 9036,
-          "title": "Wind River Unveils Linux Distro for AI and Critical Workloads",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2194,6 +2164,36 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiX0FVX3lxTE8zSEc4UG5xT2dvcU5KS0l2M0FWRXRNbURzblA5TjZDZHRvckQ5OTZEUkF1UjFHcEZSeWtLX0x3SEsyb0xlSG1yX0VsQXM3RThtenRoRkJZUkdLd1NLWE9V",
+          "author": null,
+          "description": "\"100% Free\" GNU Boot Discovers Again They Have Been Shipping Non-Free Code  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zSEc4UG5xT2dvcU5KS0l2M0FWRXRNbURzblA5TjZDZHRvckQ5OTZEUkF1UjFHcEZSeWtLX0x3SEsyb0xlSG1yX0VsQXM3RThtenRoRkJZUkdLd1NLWE9V?oc=5",
+          "publishedOn": "2024-10-19T19:11:00.000Z",
+          "wordCount": 12557,
+          "title": "\"100% Free\" GNU Boot Discovers Again They Have Been Shipping Non-Free Code - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxQZ2xxM29ldDdfcVViQzY3TWx3X2JmaHExY043SmNoSmZaU1hkeS1wZ3FJOFE0ZDRBWWwwVlo2RGN3YlRPamdZRHcybHlaSERTU2VOV0NZZGxaRnhlNnZmU0JEb2R2TncxaDQwaGljdHVPQTVfOTlGckh4dlFVa24xM1V4RzFJY0hRaXhwM3JuMUJ0eGVfOU1vTQ",
+          "author": null,
+          "description": "How To Create a Custom Linux App Menu With Zenity  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2xxM29ldDdfcVViQzY3TWx3X2JmaHExY043SmNoSmZaU1hkeS1wZ3FJOFE0ZDRBWWwwVlo2RGN3YlRPamdZRHcybHlaSERTU2VOV0NZZGxaRnhlNnZmU0JEb2R2TncxaDQwaGljdHVPQTVfOTlGckh4dlFVa24xM1V4RzFJY0hRaXhwM3JuMUJ0eGVfOU1vTQ?oc=5",
+          "publishedOn": "2024-10-19T13:00:00.000Z",
+          "wordCount": 12557,
+          "title": "How To Create a Custom Linux App Menu With Zenity - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE0zNk95b1RvQ09GcDdlem5NRVBtckZ5d1dodXpfZzRBOFZRWkxKSGU2Wk02b1RPTk5Jc3hJRVhCX0lhN3BrQXVXTFV5c2txVldZaldhZmhwYW1uZjFjV0hTcWhPaWladmZV",
+          "author": null,
+          "description": "Linux 6.12-rc4 Adding Controller Support For The MSI Claw A1M & 8BitDo Ultimate 2C  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zNk95b1RvQ09GcDdlem5NRVBtckZ5d1dodXpfZzRBOFZRWkxKSGU2Wk02b1RPTk5Jc3hJRVhCX0lhN3BrQXVXTFV5c2txVldZaldhZmhwYW1uZjFjV0hTcWhPaWladmZV?oc=5",
+          "publishedOn": "2024-10-19T10:29:00.000Z",
+          "wordCount": 12557,
+          "title": "Linux 6.12-rc4 Adding Controller Support For The MSI Claw A1M & 8BitDo Ultimate 2C - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMigwFBVV95cUxQcEZwX1hSQk8tdEVfOHNfQnVqbXlJb2F4ZE5qWm1kQzBNY0RhZlB6UUd6RG4wZnRNVG5Zd2NFdk9yZ21TU2w3WG14SVYwSlR1UXNqb3VvWldoOWEwcC1oNzhOSFcxaEotYmJxYVJPVjZPRl9BYmstT01Dcmo5cWdMNkRUUQ",
           "author": null,
@@ -7103,256 +7103,6 @@
           "wordCount": 12503,
           "title": "Real-time Linux has been integrated into the main kernel following two decades of development - TechSpot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTE1ZR21jVTB1dzl4MzZJSTc1SDR6RlVKYkFKcEhQemZqdDRHc2tjSG5MUHJfeldpdDh4WFFzWHJmSncyNHJNalpTSmFtUnhxc3pjd29haUd4WQ",
-          "author": null,
-          "description": "New Wacom Drawing Tablet Driver Features With Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZR21jVTB1dzl4MzZJSTc1SDR6RlVKYkFKcEhQemZqdDRHc2tjSG5MUHJfeldpdDh4WFFzWHJmSncyNHJNalpTSmFtUnhxc3pjd29haUd4WQ?oc=5",
-          "publishedOn": "2024-09-20T13:47:00.000Z",
-          "wordCount": 12503,
-          "title": "New Wacom Drawing Tablet Driver Features With Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid0FVX3lxTE5RWGVHeC0wYjdxNmg4eE55Rms1TGw0Y203Vjh6ZzFwRTJwZ2JuTEowMk8ySzFlU1Z3ZGd1MU1OdFUyREtWeXJXMkZ6Wjd3REFNZFlocGktZS1HU3A0MmNmTVhNSjBFSWs3bHBhNU5rWjhjREc4bnZF",
-          "author": null,
-          "description": "Real time officially comes to Linux ...  eeNews Europe",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RWGVHeC0wYjdxNmg4eE55Rms1TGw0Y203Vjh6ZzFwRTJwZ2JuTEowMk8ySzFlU1Z3ZGd1MU1OdFUyREtWeXJXMkZ6Wjd3REFNZFlocGktZS1HU3A0MmNmTVhNSjBFSWs3bHBhNU5rWjhjREc4bnZF?oc=5",
-          "publishedOn": "2024-09-20T13:28:46.000Z",
-          "wordCount": 12503,
-          "title": "Real time officially comes to Linux ... - eeNews Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiigFBVV95cUxNRXBGTmVEQ0VzRHZPakxOdEthbC0xakN2Mk1BWFhzWmFMSHpwQ2w1aUtVck1Yd2p4bFZtZGp4U2VCdHpUSkZzWG9KTFhYTExMZDJMeF9ya1NLc2t4UktzNEdKWG9VNHZWRGhDWDNkRjh0U21ZRW1MLXV6S00yN093T18zZlc4NzYyT1HSAY8BQVVfeXFMTWlYMGpnd0NrcEZVeW5jTk1SUHdGby1DYTE2S0NydV9LOS0zbklydFZZVXZJS082QVhVYXFmQmp5MGlsWEE0RXpXYm5BZzFlNGR4QXA4R0pKMTRRVVZoc25WY2IzcERHWGxGYzJfZDRRbVBWc3h3cUdfWkFWb2lpc3hsMXRCTll4cDJPM2diZGs",
-          "author": null,
-          "description": "GNOME 46.5 Released with Mutter and GNOME Shell Improvements  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXBGTmVEQ0VzRHZPakxOdEthbC0xakN2Mk1BWFhzWmFMSHpwQ2w1aUtVck1Yd2p4bFZtZGp4U2VCdHpUSkZzWG9KTFhYTExMZDJMeF9ya1NLc2t4UktzNEdKWG9VNHZWRGhDWDNkRjh0U21ZRW1MLXV6S00yN093T18zZlc4NzYyT1HSAY8BQVVfeXFMTWlYMGpnd0NrcEZVeW5jTk1SUHdGby1DYTE2S0NydV9LOS0zbklydFZZVXZJS082QVhVYXFmQmp5MGlsWEE0RXpXYm5BZzFlNGR4QXA4R0pKMTRRVVZoc25WY2IzcERHWGxGYzJfZDRRbVBWc3h3cUdfWkFWb2lpc3hsMXRCTll4cDJPM2diZGs?oc=5",
-          "publishedOn": "2024-09-20T13:06:42.000Z",
-          "wordCount": 12503,
-          "title": "GNOME 46.5 Released with Mutter and GNOME Shell Improvements - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTFBmZjZ3QkplRVRsdEVIdDRJTFh5U0gzUHV0NWFJVnlMQVVPM3VfNjQ3YTJ6NGpUbWxjTWdPVHZMVVY1blFhOEwzRzM4cDRPLUlic1psbTE3Sjc3bXpGN01pMlNTYTJuVEU",
-          "author": null,
-          "description": "Proposal Seeks To Replace MySQL With MariaDB By Default For Ubuntu 25.04  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmZjZ3QkplRVRsdEVIdDRJTFh5U0gzUHV0NWFJVnlMQVVPM3VfNjQ3YTJ6NGpUbWxjTWdPVHZMVVY1blFhOEwzRzM4cDRPLUlic1psbTE3Sjc3bXpGN01pMlNTYTJuVEU?oc=5",
-          "publishedOn": "2024-09-20T13:02:00.000Z",
-          "wordCount": 12503,
-          "title": "Proposal Seeks To Replace MySQL With MariaDB By Default For Ubuntu 25.04 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTE9udlE3SUdUaGhLNzROMllXZC05eHlqTnlvOThJSXFWbF8zcXNmVVJfZWZEd3RmTG1wM2psZVZKZzdyZFBCQVozRk5zdzBnVHp5a2lvQXVaR2lLQVg1RHI2bFNWcmNIZG1RS0NFb1FucXRPQkprNkRtSTBielRJZw",
-          "author": null,
-          "description": "How Often Do You Use the Linux Terminal?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9udlE3SUdUaGhLNzROMllXZC05eHlqTnlvOThJSXFWbF8zcXNmVVJfZWZEd3RmTG1wM2psZVZKZzdyZFBCQVozRk5zdzBnVHp5a2lvQXVaR2lLQVg1RHI2bFNWcmNIZG1RS0NFb1FucXRPQkprNkRtSTBielRJZw?oc=5",
-          "publishedOn": "2024-09-20T12:23:26.000Z",
-          "wordCount": 12503,
-          "title": "How Often Do You Use the Linux Terminal? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiywFBVV95cUxQTWM1amtib1hKeVdvVWhPRmJ2bzVfT1M1NGxJek94dWpJU1BNeVNqYjZJZm91T0J5cU1JTXZOdUJnTmt6UnJSbmY2MUZJRFg5Q3VhZ3ByMFdsbUZQRzZ6eUZfX1ZmWHltTHdDSmhYX1VydWQ2Vkdsc3NyYy11Mnh6S0FLRFpKNGptS0k5NUt0Wm5raTJqbEtiMDh2dmFtVjhuM3lZYlpva19hRHYwRkpVRFRlMjQ4STd6cEFJeXN2eXJzNUZJbUdjN2xhUQ",
-          "author": null,
-          "description": "Print2Block Joins Linux Foundation’s Decentralised Trust Initiative As Founding Member  BW Disrupt",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWM1amtib1hKeVdvVWhPRmJ2bzVfT1M1NGxJek94dWpJU1BNeVNqYjZJZm91T0J5cU1JTXZOdUJnTmt6UnJSbmY2MUZJRFg5Q3VhZ3ByMFdsbUZQRzZ6eUZfX1ZmWHltTHdDSmhYX1VydWQ2Vkdsc3NyYy11Mnh6S0FLRFpKNGptS0k5NUt0Wm5raTJqbEtiMDh2dmFtVjhuM3lZYlpva19hRHYwRkpVRFRlMjQ4STd6cEFJeXN2eXJzNUZJbUdjN2xhUQ?oc=5",
-          "publishedOn": "2024-09-20T10:41:12.000Z",
-          "wordCount": 12503,
-          "title": "Print2Block Joins Linux Foundation’s Decentralised Trust Initiative As Founding Member - BW Disrupt",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTFB6QVJWampNdjdLM3dyVHBrbTBvdnNnQkFqb2FHZzlZdWNEM05aNlZ0d1cwNl9CVjZIXzlOZF9tY0RLbGRqU2pqUnE5cUxNZUhKRzQ1ZDBMWHdYZDZlQ1V1cXdVY2RlVTd2",
-          "author": null,
-          "description": "Dell XPS 9345 With Snapdragon X1 Sees Linux Patches But Not Yet Speakers & Other Features  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QVJWampNdjdLM3dyVHBrbTBvdnNnQkFqb2FHZzlZdWNEM05aNlZ0d1cwNl9CVjZIXzlOZF9tY0RLbGRqU2pqUnE5cUxNZUhKRzQ1ZDBMWHdYZDZlQ1V1cXdVY2RlVTd2?oc=5",
-          "publishedOn": "2024-09-20T10:11:00.000Z",
-          "wordCount": 12503,
-          "title": "Dell XPS 9345 With Snapdragon X1 Sees Linux Patches But Not Yet Speakers & Other Features - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE5PZmc5VU9WekI0QkxkbWFvck1zUHFjREtvbHZ3SWoxVHBiQ1cwQnA1YjlZTlpGemcwY3U4WGFmRHVtVkpZQmhjSlVxRHFFQ21zZzZMZk1LS0dYZExDWkhoRVo0YWZCQQ",
-          "author": null,
-          "description": "Real-Time \"PREEMPT_RT\" Support Merged For Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PZmc5VU9WekI0QkxkbWFvck1zUHFjREtvbHZ3SWoxVHBiQ1cwQnA1YjlZTlpGemcwY3U4WGFmRHVtVkpZQmhjSlVxRHFFQ21zZzZMZk1LS0dYZExDWkhoRVo0YWZCQQ?oc=5",
-          "publishedOn": "2024-09-20T09:47:00.000Z",
-          "wordCount": 12503,
-          "title": "Real-Time \"PREEMPT_RT\" Support Merged For Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMisgFBVV95cUxNeVlzdVRrdjZqbHZNd1R1TW5hdkV1MGFnMThOVnYwMEItbGpfUDYzZWVCeEdZVUh6MTc1VGVhOGkzdTlNbEh3MkF5WU5CRURJSU1jdTgtY2pJRkJlTHJuN0tCU3BQRThWMTh4X0dZeFpHVlFfQVhVU1UtMG04V21UclNJdzJUYUF4RnNFZi02bVZBVDlmNW04OTR1dW9DNlg0WHB3bVp0UEhmQjZxQTkwVnJn",
-          "author": null,
-          "description": "Last Epoch drops the Native Linux version, devs tell players to use Proton  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVlzdVRrdjZqbHZNd1R1TW5hdkV1MGFnMThOVnYwMEItbGpfUDYzZWVCeEdZVUh6MTc1VGVhOGkzdTlNbEh3MkF5WU5CRURJSU1jdTgtY2pJRkJlTHJuN0tCU3BQRThWMTh4X0dZeFpHVlFfQVhVU1UtMG04V21UclNJdzJUYUF4RnNFZi02bVZBVDlmNW04OTR1dW9DNlg0WHB3bVp0UEhmQjZxQTkwVnJn?oc=5",
-          "publishedOn": "2024-09-20T09:02:16.000Z",
-          "wordCount": 12503,
-          "title": "Last Epoch drops the Native Linux version, devs tell players to use Proton - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivwFBVV95cUxQd1pXdjNfMlFOWEJpN1VpQXRWRm9CN0lkMXdjMWVlSWJWeGJUaFp0am16RUstTXN4MVV0bjJVazNsZTJjT1RPSFRYdHQ0aEduQ29MckVRbUY5WHE4TDZoSlAzeUtiOTd5UlEzeThjMTN1LVVhdDlTRWxMcVpQa2ZCSmFuZExnV1IxTVZ0RzE4eUhqSHd5VnFMdEVrYy1aUUMxMzlsQzFobzFwYkthQ0VYSkIyRE9pN3BpZHRPXzlBYw",
-          "author": null,
-          "description": "Google Chrome Says Goodbye To Passwords On Windows, Mac, Linux, Android  Forbes",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1pXdjNfMlFOWEJpN1VpQXRWRm9CN0lkMXdjMWVlSWJWeGJUaFp0am16RUstTXN4MVV0bjJVazNsZTJjT1RPSFRYdHQ0aEduQ29MckVRbUY5WHE4TDZoSlAzeUtiOTd5UlEzeThjMTN1LVVhdDlTRWxMcVpQa2ZCSmFuZExnV1IxTVZ0RzE4eUhqSHd5VnFMdEVrYy1aUUMxMzlsQzFobzFwYkthQ0VYSkIyRE9pN3BpZHRPXzlBYw?oc=5",
-          "publishedOn": "2024-09-20T08:38:00.000Z",
-          "wordCount": 12503,
-          "title": "Google Chrome Says Goodbye To Passwords On Windows, Mac, Linux, Android - Forbes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxPRUU0b3pNYkRiczdONGdaRWhtSEJIaVBmMUpiX2NOYl90UnBaSHNQWTNNdUpWN1pEc2hfQTFPckVjZGlzV2xob2RVWk9zT2ktRmIwQUZ1ajRYQUtxT21xSFROSm9feTMtWkdxclZ4M3IyUWF1cXBJdGhJT1lkRGd5TFpCeXpvVEtLZWJTOG40a0hmbTZFYVlhUEVVdVdHVUZnaFhYRl8tVUVQQmxjQjh5Z3NZUQ",
-          "author": null,
-          "description": "Proton 9.0-3 released and Proton Experimental upgraded for Linux / Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUU0b3pNYkRiczdONGdaRWhtSEJIaVBmMUpiX2NOYl90UnBaSHNQWTNNdUpWN1pEc2hfQTFPckVjZGlzV2xob2RVWk9zT2ktRmIwQUZ1ajRYQUtxT21xSFROSm9feTMtWkdxclZ4M3IyUWF1cXBJdGhJT1lkRGd5TFpCeXpvVEtLZWJTOG40a0hmbTZFYVlhUEVVdVdHVUZnaFhYRl8tVUVQQmxjQjh5Z3NZUQ?oc=5",
-          "publishedOn": "2024-09-20T08:28:26.000Z",
-          "wordCount": 12503,
-          "title": "Proton 9.0-3 released and Proton Experimental upgraded for Linux / Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxQbDRyRmJVTW04MHE1WF9hSFE0TVU2RjlLV1NGRDcxSEZZeGhYNzJ1WHoyRDUxUzA4RXRjNGs5eVdfVzE1a3FlLTZXWFV0SkV4VW1lVXVieXdYbWhSeGt2TWNBaDRwOXJBY0YyaWk3OHQ3VGRESWI4dDFYV1doNmhIamVrM25iNC1mRTk3RkVR",
-          "author": null,
-          "description": "A Simple Guide to Data Visualization on Ubuntu for Beginners  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDRyRmJVTW04MHE1WF9hSFE0TVU2RjlLV1NGRDcxSEZZeGhYNzJ1WHoyRDUxUzA4RXRjNGs5eVdfVzE1a3FlLTZXWFV0SkV4VW1lVXVieXdYbWhSeGt2TWNBaDRwOXJBY0YyaWk3OHQ3VGRESWI4dDFYV1doNmhIamVrM25iNC1mRTk3RkVR?oc=5",
-          "publishedOn": "2024-09-20T00:14:11.000Z",
-          "wordCount": 12503,
-          "title": "A Simple Guide to Data Visualization on Ubuntu for Beginners - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinwFBVV95cUxPX2p5QWhkcFhBc3hSdWtFSU53d2tZY1ZQQnpvbUpVV29uUV92TUllaEFwdC14VUQwekI1dnNtZW1lM1FyRG14WkFSNmRsVk5iaGNvNU9EaVhnWkhlZjc2OFFzTkFTNUN4VWh5X19tY1hmSzRaeW5mZkt3bXdBNnBxbklqc2RwclhOekJMalZBZUZCSXF5WC1NTnNzVHRDVFk",
-          "author": null,
-          "description": "SparkyLinux 7.5 arrives with updated kernel and software packages  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2p5QWhkcFhBc3hSdWtFSU53d2tZY1ZQQnpvbUpVV29uUV92TUllaEFwdC14VUQwekI1dnNtZW1lM1FyRG14WkFSNmRsVk5iaGNvNU9EaVhnWkhlZjc2OFFzTkFTNUN4VWh5X19tY1hmSzRaeW5mZkt3bXdBNnBxbklqc2RwclhOekJMalZBZUZCSXF5WC1NTnNzVHRDVFk?oc=5",
-          "publishedOn": "2024-09-20T00:01:01.000Z",
-          "wordCount": 12503,
-          "title": "SparkyLinux 7.5 arrives with updated kernel and software packages - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE13Y1FZVWhaS0lDUzlyTDd1ekdFa19mVEREUVE3Nk9zYmNqLW01S0N2WEx2Q0lDXzNveGVEWE11a1dLcHFwRklUMFdack14UjFGU3dBV0J1eUotNlpBNlVLV2ZZQmVMR3VKeWfSAW9BVV95cUxQd2Y1RkJacGdSWGdNVXpMZUNqS0MwS0NHQ2lsNndvNEJCdWxIWDhJZ0hwc0Zta3Boc0hQNng2Y0Q1QUp1dExXSmItWEhBVUxEQWU4UmhwSUdEME40eDhRbGJOWmV0S21PWkdLaXBaRFk",
-          "author": null,
-          "description": "Zorin OS 17.2 Released, Powered by Linux Kernel 6.8  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Y1FZVWhaS0lDUzlyTDd1ekdFa19mVEREUVE3Nk9zYmNqLW01S0N2WEx2Q0lDXzNveGVEWE11a1dLcHFwRklUMFdack14UjFGU3dBV0J1eUotNlpBNlVLV2ZZQmVMR3VKeWfSAW9BVV95cUxQd2Y1RkJacGdSWGdNVXpMZUNqS0MwS0NHQ2lsNndvNEJCdWxIWDhJZ0hwc0Zta3Boc0hQNng2Y0Q1QUp1dExXSmItWEhBVUxEQWU4UmhwSUdEME40eDhRbGJOWmV0S21PWkdLaXBaRFk?oc=5",
-          "publishedOn": "2024-09-19T21:33:45.000Z",
-          "wordCount": 12503,
-          "title": "Zorin OS 17.2 Released, Powered by Linux Kernel 6.8 - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid0FVX3lxTE9ndE1lR21QTlh6UVdMdXY3Wl9LLWIwUzhCUG9PU1IxdU9faHZoSHUtbHJCRkFzekhnOG1pMFZlS1dvN1ZKcFllQW82NlR0djNYdng2czhvS21LNEo1cDdSOGFTaU9ZVWdkdzFuQkZDcUlvck5aOV9B",
-          "author": null,
-          "description": "Forget Microsoft Windows 11, Zorin OS 17.2 is the Linux-based operating system you need  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ndE1lR21QTlh6UVdMdXY3Wl9LLWIwUzhCUG9PU1IxdU9faHZoSHUtbHJCRkFzekhnOG1pMFZlS1dvN1ZKcFllQW82NlR0djNYdng2czhvS21LNEo1cDdSOGFTaU9ZVWdkdzFuQkZDcUlvck5aOV9B?oc=5",
-          "publishedOn": "2024-09-19T18:38:57.000Z",
-          "wordCount": 12503,
-          "title": "Forget Microsoft Windows 11, Zorin OS 17.2 is the Linux-based operating system you need - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE9MMXlRNFR1dllmMXJoN2pfU0dQUzZYam5NdTFGQS1GaGtVeFNGR1pxRHAtLWRRd0ZuOVJycFpBTDRTdDlUNVJ4RGhQdGd5eFZsQ0RLVTYxOVFmZ1V5UXBuR2IwTGpuWFI3",
-          "author": null,
-          "description": "Vivaldi Is Now Available as a Snap on Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MMXlRNFR1dllmMXJoN2pfU0dQUzZYam5NdTFGQS1GaGtVeFNGR1pxRHAtLWRRd0ZuOVJycFpBTDRTdDlUNVJ4RGhQdGd5eFZsQ0RLVTYxOVFmZ1V5UXBuR2IwTGpuWFI3?oc=5",
-          "publishedOn": "2024-09-19T18:37:00.000Z",
-          "wordCount": 12503,
-          "title": "Vivaldi Is Now Available as a Snap on Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxQSzZNazJ4U1ZsZlJoVjV6SzY5UkZ6WHJqZDZ6Q3A5RTVPX3pIOHFEUmRlTU9UVDR2a3ZFN0VSX09qVVBwZDBCLVFTWHhpcmc2blJYTk1VYXFGZEVrcjNzNWFXTUpNQWtxeGtoR2NHTnJaY1dGRTB4S2hQVHNtdFVoVE93RVFTbVlfeDlXWDJoTU96OW9mZ1UwcXhKcEQzU2JTNlgxZXlXSzdUeWluYTE5X2sxQQ",
-          "author": null,
-          "description": "Real-time Linux is officially part of the kernel after decades of debate  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzZNazJ4U1ZsZlJoVjV6SzY5UkZ6WHJqZDZ6Q3A5RTVPX3pIOHFEUmRlTU9UVDR2a3ZFN0VSX09qVVBwZDBCLVFTWHhpcmc2blJYTk1VYXFGZEVrcjNzNWFXTUpNQWtxeGtoR2NHTnJaY1dGRTB4S2hQVHNtdFVoVE93RVFTbVlfeDlXWDJoTU96OW9mZ1UwcXhKcEQzU2JTNlgxZXlXSzdUeWluYTE5X2sxQQ?oc=5",
-          "publishedOn": "2024-09-19T18:14:14.000Z",
-          "wordCount": 12503,
-          "title": "Real-time Linux is officially part of the kernel after decades of debate - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYkFVX3lxTE54anJRSGZGUVNidGd6RTFpc3lJRnQxQ0ZraE9jeUJwN19mRUs0RTZJci1BLXB0NnJ2LTJpZDRjMzluUXdTQ2ZZNUhVMjUzMW5HRDBOMWdtOHUyUkV3a2tJQ1JB",
-          "author": null,
-          "description": "AMD AGESA PI 1.2.0.2 Performance With The Ryzen 9 9950X On Linux Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54anJRSGZGUVNidGd6RTFpc3lJRnQxQ0ZraE9jeUJwN19mRUs0RTZJci1BLXB0NnJ2LTJpZDRjMzluUXdTQ2ZZNUhVMjUzMW5HRDBOMWdtOHUyUkV3a2tJQ1JB?oc=5",
-          "publishedOn": "2024-09-19T17:17:00.000Z",
-          "wordCount": 12503,
-          "title": "AMD AGESA PI 1.2.0.2 Performance With The Ryzen 9 9950X On Linux Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinAFBVV95cUxNVm1QMVZzaUc0aTg4RVpXS0xJbHJuXzQ2WTV4ZVBiZG1YandPQWFscHpKeHM3UGctVWNfWjV5TWhxcXBialExSGtkNTByb3BnOVZzQm5VSExNTGszUENDLTBLeWJRT1VrZ2hnZl8zalRZcjQ3azVBUUt3Ry05ZGtxUnJFUGJqbjdGcDV0d0JKT0I4QXh1Q1ZDdHFtRTTSAaIBQVVfeXFMTUxuS1diUG5KSU1IVEt1ZWc5T1BTQnplQzY0UG1pcjdrbHI4M3RRRmNFcWt1WEM3UXRFTk95QWxGWnoxNkJFTmk4Y0xzRlduT2hPaE8yNXhzQmZyWnB4ZVAtRVgyc1FBM0ZsNUtJWEtMa3M1MmlmX2kzQ2lROUZ0Vi16dW1tQkNUczltWXBTb3VCUzlSLWk2TzlhWDM3bHMyMDJR",
-          "author": null,
-          "description": "Zorin OS 17.2 Is Out Now Powered by Linux Kernel 6.8 from Ubuntu 24.04 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVm1QMVZzaUc0aTg4RVpXS0xJbHJuXzQ2WTV4ZVBiZG1YandPQWFscHpKeHM3UGctVWNfWjV5TWhxcXBialExSGtkNTByb3BnOVZzQm5VSExNTGszUENDLTBLeWJRT1VrZ2hnZl8zalRZcjQ3azVBUUt3Ry05ZGtxUnJFUGJqbjdGcDV0d0JKT0I4QXh1Q1ZDdHFtRTTSAaIBQVVfeXFMTUxuS1diUG5KSU1IVEt1ZWc5T1BTQnplQzY0UG1pcjdrbHI4M3RRRmNFcWt1WEM3UXRFTk95QWxGWnoxNkJFTmk4Y0xzRlduT2hPaE8yNXhzQmZyWnB4ZVAtRVgyc1FBM0ZsNUtJWEtMa3M1MmlmX2kzQ2lROUZ0Vi16dW1tQkNUczltWXBTb3VCUzlSLWk2TzlhWDM3bHMyMDJR?oc=5",
-          "publishedOn": "2024-09-19T16:59:10.000Z",
-          "wordCount": 12503,
-          "title": "Zorin OS 17.2 Is Out Now Powered by Linux Kernel 6.8 from Ubuntu 24.04 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE5GV2NsaDY5Q3FYbnE1b1hDejFWbXVjY2QwTmRCOVJuRFVVMzZxMzZEblVMSC1iM0x3TlVXeDNUbUowMGNpdDNHS1AzaWlJYmFqOGRfZDkybW1hdXVPQzRMR0JkZHJmX2VSV24wTjhEUndibXNGanfSAXtBVV95cUxNQWt0ajh3YlVQYmlkSUtEZWllaEt4STlOTXlHQS1jQ09nSVFtaWdkWE9WNHZhazA4dEhQRnMzMmlSbHEzS2lXam1yOXBoS0RnR2g1N0Z3YWkwVnV6Wmx2MVBUb0JUOXE1bVItREpFU3ZmNmZtT1Z6LTYxTUk",
-          "author": null,
-          "description": "Hackers Using Supershell Malware To Attack Linux SSH Servers  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV2NsaDY5Q3FYbnE1b1hDejFWbXVjY2QwTmRCOVJuRFVVMzZxMzZEblVMSC1iM0x3TlVXeDNUbUowMGNpdDNHS1AzaWlJYmFqOGRfZDkybW1hdXVPQzRMR0JkZHJmX2VSV24wTjhEUndibXNGanfSAXtBVV95cUxNQWt0ajh3YlVQYmlkSUtEZWllaEt4STlOTXlHQS1jQ09nSVFtaWdkWE9WNHZhazA4dEhQRnMzMmlSbHEzS2lXam1yOXBoS0RnR2g1N0Z3YWkwVnV6Wmx2MVBUb0JUOXE1bVItREpFU3ZmNmZtT1Z6LTYxTUk?oc=5",
-          "publishedOn": "2024-09-19T15:08:26.000Z",
-          "wordCount": 12503,
-          "title": "Hackers Using Supershell Malware To Attack Linux SSH Servers - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid0FVX3lxTE9ZTzBUckNENlhuVDVDTFpUMWNpUERaSUUzTF9YNmtqaHFZckR1LVFnSVA5YVN5TXAtNy01S283NHBtYVNjYlM2eGRLU2szQzNYYWN1aWJGeU9ZZDBWeFVySzVKZ3ZSYWdac0xjWnlkeVR2dWo5UmNB0gF8QVVfeXFMTVI4cjdtMXFZY0MxX1V3Sm02dm9KajQ2amJwLUFFXzZrM2pYXzF5aGVhNTVzc3dVcW84d29nNnVteGlkSzJ0OHlNQlpKOFA4UmtIUk9rWHBNNmVFOEIteTk5dzFZX2xuSlZvM3ljQWlLR3JtUENnYnUxSk5IMg",
-          "author": null,
-          "description": "Torvalds weighs in on 'nasty' Rust vs C for Linux debate  The Register",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZTzBUckNENlhuVDVDTFpUMWNpUERaSUUzTF9YNmtqaHFZckR1LVFnSVA5YVN5TXAtNy01S283NHBtYVNjYlM2eGRLU2szQzNYYWN1aWJGeU9ZZDBWeFVySzVKZ3ZSYWdac0xjWnlkeVR2dWo5UmNB0gF8QVVfeXFMTVI4cjdtMXFZY0MxX1V3Sm02dm9KajQ2amJwLUFFXzZrM2pYXzF5aGVhNTVzc3dVcW84d29nNnVteGlkSzJ0OHlNQlpKOFA4UmtIUk9rWHBNNmVFOEIteTk5dzFZX2xuSlZvM3ljQWlLR3JtUENnYnUxSk5IMg?oc=5",
-          "publishedOn": "2024-09-19T15:07:00.000Z",
-          "wordCount": 12503,
-          "title": "Torvalds weighs in on 'nasty' Rust vs C for Linux debate - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY0FVX3lxTE8tSndjaWhnZ0VyMm5BNEhOQUkwMUpSTWphNUtHYV9vQl9PYVlsbXoxMGgxbFljcXphS3gwdC1XelJVc2FfdlZ0dWFsZndLWlVvcWZ0X3JXZG9CMzlVNlJpUjlzMA",
-          "author": null,
-          "description": "Linux 6.12 Lands QR Code For DRM Panic Messages, Intel LNL & BMG Graphics Enabled  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tSndjaWhnZ0VyMm5BNEhOQUkwMUpSTWphNUtHYV9vQl9PYVlsbXoxMGgxbFljcXphS3gwdC1XelJVc2FfdlZ0dWFsZndLWlVvcWZ0X3JXZG9CMzlVNlJpUjlzMA?oc=5",
-          "publishedOn": "2024-09-19T14:16:00.000Z",
-          "wordCount": 12503,
-          "title": "Linux 6.12 Lands QR Code For DRM Panic Messages, Intel LNL & BMG Graphics Enabled - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif0FVX3lxTFB3X0hFMEd6eThrMWU3ZjFzbk4zQ0puZy0tWGlaMG5KODVHR0hibEFwWmZ4MXhWTG4wZjJON1RlU0JIcUIzaUVJRkpiLUJ5V3pOVUV5clRDb2p6LXRqZ1htUjdYZXpOMndtZjFxenFOYTdfRm9yYnQtVFJZVFZ1NVU",
-          "author": null,
-          "description": "Top Linux Distros for Chromebooks  GeekSided",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X0hFMEd6eThrMWU3ZjFzbk4zQ0puZy0tWGlaMG5KODVHR0hibEFwWmZ4MXhWTG4wZjJON1RlU0JIcUIzaUVJRkpiLUJ5V3pOVUV5clRDb2p6LXRqZ1htUjdYZXpOMndtZjFxenFOYTdfRm9yYnQtVFJZVFZ1NVU?oc=5",
-          "publishedOn": "2024-09-19T14:00:01.000Z",
-          "wordCount": 12503,
-          "title": "Top Linux Distros for Chromebooks - GeekSided",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWEFVX3lxTE54UHliZW45OFVkak5KaHZDRHdubDl2bzBFZVhURDU4c0h1ZWE1SXNNdTlBOV9SYnd5ajBiTkNIVWFPUllrdUhmejdwZDl0djBYLXRYbVUyc3U",
-          "author": null,
-          "description": "Linux 6.12 Perf Updates Bring Intel Lunar Lake & Arrow Lake Additions  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54UHliZW45OFVkak5KaHZDRHdubDl2bzBFZVhURDU4c0h1ZWE1SXNNdTlBOV9SYnd5ajBiTkNIVWFPUllrdUhmejdwZDl0djBYLXRYbVUyc3U?oc=5",
-          "publishedOn": "2024-09-19T13:54:00.000Z",
-          "wordCount": 12503,
-          "title": "Linux 6.12 Perf Updates Bring Intel Lunar Lake & Arrow Lake Additions - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE9EeUpkME81dDlYQUJiVzNIdGEyc3U3UkRybXNwYzBPMXdJc25LcktQVmh4WTZmNXBoNFk0UDdNc2NNOFVIbXBQaGpjYXpSNUdaRG83WmhNRWlVblhqcTFsUHVpV242bEtxSEx3M09B",
-          "author": null,
-          "description": "Installing Vivaldi on Linux just got a lot easier  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EeUpkME81dDlYQUJiVzNIdGEyc3U3UkRybXNwYzBPMXdJc25LcktQVmh4WTZmNXBoNFk0UDdNc2NNOFVIbXBQaGpjYXpSNUdaRG83WmhNRWlVblhqcTFsUHVpV242bEtxSEx3M09B?oc=5",
-          "publishedOn": "2024-09-19T13:52:00.000Z",
-          "wordCount": 12503,
-          "title": "Installing Vivaldi on Linux just got a lot easier - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9732,36 +9482,6 @@
           "wordCount": 3073,
           "title": "CSSWG Minutes Telecon (2024-09-18)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381079",
-          "author": "Geoff Graham",
-          "description": "Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…\nQuick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-20/",
-          "publishedOn": "2024-09-19T17:13:24.000Z",
-          "wordCount": 1281,
-          "title": "Quick Hit #20",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381079"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381057",
-          "author": "Geoff Graham",
-          "description": "Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.\n…\nQuick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-19/",
-          "publishedOn": "2024-09-19T14:31:06.000Z",
-          "wordCount": 1279,
-          "title": "Quick Hit #19",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381057"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380959",
-          "author": "Geoff Graham",
-          "description": "Getting right to it: the CSS-Tricks Almanac got a big refresh this week!\nI’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…\nRe-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/re-working-the-css-almanac/",
-          "publishedOn": "2024-09-19T14:19:24.000Z",
-          "wordCount": 3406,
-          "title": "Re-Working the CSS Almanac",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380959"
         }
       ]
     },
@@ -9904,21 +9624,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
-          "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
-          "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8587,
-          "title": "Embracing Introversion In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg"
         }
       ]
     },
@@ -9927,6 +9632,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6712fdc4ad96e38e0b7422ae",
+          "author": "Victoria Nduka",
+          "description": "Over one billion people worldwide live with some form of disability. That is about 16% of the global population. Now, imagine how many of these individuals might be trying to access your website. Would they navigate easily through your site, or would...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-a-web-accessibility-audit/",
+          "publishedOn": "2024-10-19T00:31:00.000Z",
+          "wordCount": 2626,
+          "title": "How to Perform a Web Accessibility Audit",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729112018927/8f769e94-9c4b-4651-a0f7-0c99d529c9c3.png"
+        },
         {
           "id": "671271336d32f3591177c37a",
           "author": "Quincy Larson",
@@ -10686,36 +10401,6 @@
           "wordCount": 5183,
           "title": "How To Create a Progressive Web App (PWA) Using Next.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b83-78b9-4cd7-9040-13ade8e515f7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Megan Risdal. She's a data scientist and Product Manager at Kaggle, Google's Data Science competition platform. Megan works closely with the global data science community, and on Google's Gemma open ...",
-          "link": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
-          "publishedOn": "2024-09-20T12:10:45.000Z",
-          "wordCount": 969,
-          "title": "From PhD drop-out to Google Data Scientist with Megan Risdal [Podcast #142]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726834180511/4191b50c-6784-4fe1-98af-0ca74a63ff7b.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
-          "author": "Beau Carnes",
-          "description": "Understanding design patterns are important for efficient software development. They offer proven solutions to common coding challenges, promote code reusability, and enhance maintainability. By mastering these patterns, developers can create more ro...",
-          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
-          "publishedOn": "2024-09-19T15:38:13.000Z",
-          "wordCount": 964,
-          "title": "Master Object-Oriented Programming and Design Patterns in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726760279000/2cd9582a-34e1-46dd-8882-d5af45dffe4f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
-          "author": "Beau Carnes",
-          "description": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
-          "publishedOn": "2024-09-19T15:30:32.000Z",
-          "wordCount": 1057,
-          "title": "Learn How To Secure API Servers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726759818974/98a0ec72-f561-4b36-9bbe-aaceb22026c0.png"
         }
       ]
     }
