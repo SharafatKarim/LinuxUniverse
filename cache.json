@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193608",
+          "author": "Web Webster",
+          "description": "Netdata is a free open-source, simple, and scalable, real-time system performance and health monitoring application for Unix-like systems such as Linux, FreeBSD, and MacOS. It gathers various metrics and visualizes them, allowing you to watch operations on your system. It supports various plugins for monitoring current system status, running applications, and services such as MySQL […]\nThe post How to Track MySQL Metrics with Netdata on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-track-mysql-metrics-with-netdata-on-linux/",
+          "publishedOn": "2024-10-20T18:42:25.000Z",
+          "wordCount": 9102,
+          "title": "How to Track MySQL Metrics with Netdata on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193606",
+          "author": "Web Webster",
+          "description": "Elgg is a powerful open-source social networking engine that enables users to create their own social networks and online communities. It’s highly customizable, making it a great choice for developers and users looking to build interactive websites. In this guide, we will go through the entire process of installing Elgg on your Ubuntu server.\nThe post Elgg: Set Up a Social Networking Platform on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/elgg-set-up-a-social-networking-platform-on-ubuntu/",
+          "publishedOn": "2024-10-20T16:40:26.000Z",
+          "wordCount": 9107,
+          "title": "Elgg: Set Up a Social Networking Platform on Ubuntu",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193605",
           "author": "Web Webster",
           "description": "Discover Warehouse, a user-friendly tool for handling Flatpak apps and remotes on Linux, offering features like checking installed details and user data management.\nThe post Warehouse is an Ultimate Toolbox for Managing Flatpak Apps appeared first on Linux Today.",
@@ -2056,106 +2076,6 @@
           "wordCount": 9025,
           "title": "10 Best Free and Open Source Lightweight Graphical Web Browsers",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192590",
-          "author": "Web Webster",
-          "description": "Dive into Linux memory management, explore the differences between cache and buffer, and discover how to clear them for optimal system performance.\nThe post How to Clear Buffer and Cache Memory in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-clear-buffer-and-cache-memory-in-linux/",
-          "publishedOn": "2024-09-21T13:00:33.000Z",
-          "wordCount": 9030,
-          "title": "How to Clear Buffer and Cache Memory in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192693",
-          "author": "Web Webster",
-          "description": "A package manager is a tool that monitors the software installed on your computer, facilitating the installation of new applications, upgrading existing software to more recent versions, or removing previously installed programs. As the name indicates, a package manager manages packages, which are groups of files packaged together for installation and removal as a single […]\nThe post Debian Package Manager: Everything You Need to Know appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/debian-package-manager-everything-you-need-to-know/",
-          "publishedOn": "2024-09-21T02:20:10.000Z",
-          "wordCount": 9073,
-          "title": "Debian Package Manager: Everything You Need to Know",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192589",
-          "author": "Web Webster",
-          "description": "Discover a step-by-step guide to learn how to install the NPX package manager and use it in different scenarios with practical examples.\nThe post How to Install and Use NPX on Ubuntu (Ultimate Guide) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-and-use-npx-on-ubuntu-ultimate-guide-2/",
-          "publishedOn": "2024-09-21T01:00:06.000Z",
-          "wordCount": 9033,
-          "title": "How to Install and Use NPX on Ubuntu (Ultimate Guide)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192559",
-          "author": "Web Webster",
-          "description": "Managing a server is certainly not an easy job, especially for beginners. If you are busy managing various technical matters manually, then cron jobs are an excellent solution. Cron jobs are a feature in Linux OS that can help you automate the tasks on a server easily. In this article, we invite you to learn […]\nThe post Crond: Daemon to Execute Scheduled Commands appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/infrastructure/crond-daemon-to-execute-scheduled-commands/",
-          "publishedOn": "2024-09-20T23:00:32.000Z",
-          "wordCount": 9079,
-          "title": "Crond: Daemon to Execute Scheduled Commands",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192706",
-          "author": "Web Webster",
-          "description": "GNOME 46.5 is here five weeks after the GNOME 46.4 release and fixes smartcard logins, adds user permissions to new Wi-Fi connections for restricted users, fixes the showing of pending PAM messages on the login screen, and fixes the “Locate Pointer” accessibility option when the “Reduce Animation” option is turned on.\nThe post GNOME 46.5 Released with Mutter and GNOME Shell Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/gnome-46-5-released-with-mutter-and-gnome-shell-improvements/",
-          "publishedOn": "2024-09-20T22:00:19.000Z",
-          "wordCount": 9053,
-          "title": "GNOME 46.5 Released with Mutter and GNOME Shell Improvements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192684",
-          "author": "Web Webster",
-          "description": "Valkey, the Redis fork, is kicking rump and taking names. At Open Source Summit Europe, the Linux Foundation announced the release of Valkey 8.0, a giant step forward to the open-source in-memory NoSQL data store. This release focuses on enhancing performance, reliability, and observability, marking a major milestone for the project initially forked from Redis […]\nThe post Valkey 8 Sets a New Bar for Open-Source In-Memory NoSQL Data Storage appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/valkey-8-sets-a-new-bar-for-open-source-in-memory-nosql-data-storage/",
-          "publishedOn": "2024-09-20T18:00:51.000Z",
-          "wordCount": 9081,
-          "title": "Valkey 8 Sets a New Bar for Open-Source In-Memory NoSQL Data Storage",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192688",
-          "author": "Web Webster",
-          "description": "Wind River’s new Debian-based server and edge Linux distribution was born out of a need to create a CentOS replacement that would remove Red Hat from the equation.\nThe post How Red Hat’s Bad Actions Led to Wind River’s eLxr Pro Linux Distro appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/how-red-hats-bad-actions-led-to-wind-rivers-elxr-pro-linux-distro/",
-          "publishedOn": "2024-09-20T17:30:05.000Z",
-          "wordCount": 9057,
-          "title": "How Red Hat’s Bad Actions Led to Wind River’s eLxr Pro Linux Distro",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192680",
-          "author": "Web Webster",
-          "description": "GStreamer 1.24.8 multimedia framework rolls out with bug fixes for video encoding and software encoder enhancements.\nThe post GStreamer 1.24.8 Rolls Out With Bugs Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gstreamer-1-24-8-rolls-out-with-bugs-fixes/",
-          "publishedOn": "2024-09-20T16:00:47.000Z",
-          "wordCount": 9016,
-          "title": "GStreamer 1.24.8 Rolls Out With Bugs Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192682",
-          "author": "Web Webster",
-          "description": "The latest 6.11 kernel release is here! This release improves performance, security, and hardware compatibility, increasing the kernel’s flexibility and efficiency for various computing environments.\nThe post Kernel 6.11: Power Moves and Hardware Grooves appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kernel-6-11-power-moves-and-hardware-grooves/",
-          "publishedOn": "2024-09-20T15:00:44.000Z",
-          "wordCount": 9024,
-          "title": "Kernel 6.11: Power Moves and Hardware Grooves",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192685",
-          "author": "Web Webster",
-          "description": "Zorin OS 17.2 launches with customizable desktops, enhanced security features, and better app behavior.\nThe post Zorin OS 17.2: Faster, More Secure, and User-Friendly appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/zorin-os-17-2-faster-more-secure-and-user-friendly/",
-          "publishedOn": "2024-09-20T14:00:41.000Z",
-          "wordCount": 9019,
-          "title": "Zorin OS 17.2: Faster, More Secure, and User-Friendly",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2164,6 +2084,96 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiqwFBVV95cUxOckwzYkxkc2RmODUyaWFHQUdPUmVDQ3ZpaWpmZGhyNS1zWXgtQzdzUU5sYXNtcmxhV3gxVGJhV2Q2T1d0bG8weFhtTndlZlpLZWFVS1NfZHl0R2JXdzJITmpvSEFqQm9xS2ZhUE16MHBCcGFCdm9MNVdQQ0FieVdZNWZybmh4YmpBTlJpYmFwLWEzVTQ1bldSRmttS3FOZ3lDXzQwYkpzejNkb2M",
+          "author": null,
+          "description": "PorteuX Linux 1.7 released with smaller ISOs and performance optimizations  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckwzYkxkc2RmODUyaWFHQUdPUmVDQ3ZpaWpmZGhyNS1zWXgtQzdzUU5sYXNtcmxhV3gxVGJhV2Q2T1d0bG8weFhtTndlZlpLZWFVS1NfZHl0R2JXdzJITmpvSEFqQm9xS2ZhUE16MHBCcGFCdm9MNVdQQ0FieVdZNWZybmh4YmpBTlJpYmFwLWEzVTQ1bldSRmttS3FOZ3lDXzQwYkpzejNkb2M?oc=5",
+          "publishedOn": "2024-10-21T01:49:06.000Z",
+          "wordCount": 12557,
+          "title": "PorteuX Linux 1.7 released with smaller ISOs and performance optimizations - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxNalVfM0I2Ym1oUk5vSmhPMWZEZUlhbk9JVjVNTXBrV01nYThPX2I3a19oTU5RbjQ5LWx2V1FwSnFLYmx4SnBPaXdSeGt6Q0pINnJTbnZEM3RIVTZRQ1JRZ1MyVTZsRUFFMF9EY2g0ZUMtVENReE9jVTkyOXBabUxpUXJZeVhmZ3RGUGRMdVo5RXo0ckY4MGlxcnFB0gGfAUFVX3lxTE5wVkp4dW5RSmxxNWNHWkNJVDRqUUYyc0hraVAxdkY2ZHJTdjNhRFFSVm1rQ2lKazRoN0dKNmJPaUZNa045XzRzUG1oaHFhcWtYYXB6LWRGTGdBRm9vVlZmV3B0LWszNHZJdXVnZ2lBeFJBRzVrQk85Zl9ZSjU4bzE0SDdTQXFYRjhEUV9MQ3lXb1J5X3A4RFlIZHh3WVhLUQ",
+          "author": null,
+          "description": "Slackware-Based PorteuX 1.7 Launches with Linux 6.11, GNOME 47.1, and More  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalVfM0I2Ym1oUk5vSmhPMWZEZUlhbk9JVjVNTXBrV01nYThPX2I3a19oTU5RbjQ5LWx2V1FwSnFLYmx4SnBPaXdSeGt6Q0pINnJTbnZEM3RIVTZRQ1JRZ1MyVTZsRUFFMF9EY2g0ZUMtVENReE9jVTkyOXBabUxpUXJZeVhmZ3RGUGRMdVo5RXo0ckY4MGlxcnFB0gGfAUFVX3lxTE5wVkp4dW5RSmxxNWNHWkNJVDRqUUYyc0hraVAxdkY2ZHJTdjNhRFFSVm1rQ2lKazRoN0dKNmJPaUZNa045XzRzUG1oaHFhcWtYYXB6LWRGTGdBRm9vVlZmV3B0LWszNHZJdXVnZ2lBeFJBRzVrQk85Zl9ZSjU4bzE0SDdTQXFYRjhEUV9MQ3lXb1J5X3A4RFlIZHh3WVhLUQ?oc=5",
+          "publishedOn": "2024-10-20T22:21:54.000Z",
+          "wordCount": 12557,
+          "title": "Slackware-Based PorteuX 1.7 Launches with Linux 6.11, GNOME 47.1, and More - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxOX0plRUtUaEJwN0tHanNvMUVyeVNtazRSdjVhYkV0TTU1bEQ4dzhQWURIaF9ka21XTXNYVTZSZ1V0eFlQMUxSeW4xb2pkMGc3Q1RxTlBsVW1hamFsd1lGaXVSRHBBNUJjVEFMTWE3NXMteWdtMjVFNHNuRllmUWVlbVF5SnhjYVJkOEEtcTRVMTVOZTJIT0NxRzgyaW4zaE3SAaQBQVVfeXFMUHJrWXY1aWpPd0JoTFhfOEV3elhUd3NqNHRoNEM1dXlPVlE1dlA5YmZ2Q1ZTVy1fOWVMVDJQNHMxOG4wcDhJTWlGRGZFd3lkSVNMa1NIeTNzc3dMTlhEWndId3g2b3RBcGx1dVRPYXRlZldlaHNTcnp3OUFuempGNzd3bTBxcWFqbnY2ZFJzRy1WWDJRZ3FvMFZqcXBoYUhxU3Y4Uno",
+          "author": null,
+          "description": "Intel’s NPU Driver for Linux is Now Available on the Snap Store  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0plRUtUaEJwN0tHanNvMUVyeVNtazRSdjVhYkV0TTU1bEQ4dzhQWURIaF9ka21XTXNYVTZSZ1V0eFlQMUxSeW4xb2pkMGc3Q1RxTlBsVW1hamFsd1lGaXVSRHBBNUJjVEFMTWE3NXMteWdtMjVFNHNuRllmUWVlbVF5SnhjYVJkOEEtcTRVMTVOZTJIT0NxRzgyaW4zaE3SAaQBQVVfeXFMUHJrWXY1aWpPd0JoTFhfOEV3elhUd3NqNHRoNEM1dXlPVlE1dlA5YmZ2Q1ZTVy1fOWVMVDJQNHMxOG4wcDhJTWlGRGZFd3lkSVNMa1NIeTNzc3dMTlhEWndId3g2b3RBcGx1dVRPYXRlZldlaHNTcnp3OUFuempGNzd3bTBxcWFqbnY2ZFJzRy1WWDJRZ3FvMFZqcXBoYUhxU3Y4Uno?oc=5",
+          "publishedOn": "2024-10-20T15:22:12.000Z",
+          "wordCount": 12557,
+          "title": "Intel’s NPU Driver for Linux is Now Available on the Snap Store - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxQdWo4SjFJRGctUDBva2tJVzVIRlNIUUR2MThiaVdib3FFZ2l4amZIRUh5d2xqMVpFcW5EY3JhVTlRdkM4TEpuYUg0Nlkwd0ZybEtoZVgxUTcxSXdKRjR2djZLRHdCeFRFU2YzOGp6OC1KdVpYMS1QTW1XYU16dGduR1hxc21KQ1V5aVVJT2FwVmdHZEtoQldyaE5YLWdXQQ",
+          "author": null,
+          "description": "How to Track MySQL Metrics with Netdata on Linux  info-mods.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWo4SjFJRGctUDBva2tJVzVIRlNIUUR2MThiaVdib3FFZ2l4amZIRUh5d2xqMVpFcW5EY3JhVTlRdkM4TEpuYUg0Nlkwd0ZybEtoZVgxUTcxSXdKRjR2djZLRHdCeFRFU2YzOGp6OC1KdVpYMS1QTW1XYU16dGduR1hxc21KQ1V5aVVJT2FwVmdHZEtoQldyaE5YLWdXQQ?oc=5",
+          "publishedOn": "2024-10-20T13:42:25.000Z",
+          "wordCount": 12557,
+          "title": "How to Track MySQL Metrics with Netdata on Linux - info-mods.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE1iT2ttXy11TDFPWG9hZFZHcHF5djd6YW55LW0yT2MwMEtqTzRSLXhBc3BTa3RUTTJHTnF3dEpHS0w5dmluYWd0VVl6WHNTbnljLWMydUpwZ0NRRE1sSmJpZjltSk5CRWc",
+          "author": null,
+          "description": "Intel Posts Patch For Fixing/Boosting Lunar Lake Linux Performance On ASUS Laptops  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iT2ttXy11TDFPWG9hZFZHcHF5djd6YW55LW0yT2MwMEtqTzRSLXhBc3BTa3RUTTJHTnF3dEpHS0w5dmluYWd0VVl6WHNTbnljLWMydUpwZ0NRRE1sSmJpZjltSk5CRWc?oc=5",
+          "publishedOn": "2024-10-20T13:18:00.000Z",
+          "wordCount": 12557,
+          "title": "Intel Posts Patch For Fixing/Boosting Lunar Lake Linux Performance On ASUS Laptops - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxQZFV6Q2c1UDZmcVhxLTV2Q3dPaE9tRl8wTUVNdEEycUNFN0VpS3FLbnVUdG5UaFJzWTMwMXpjVnNZTTNhSGFENm5ucDlzN3pPS1p6aE1YQmlhTEF5MXV4ZG4zenlFWG1oc2cwbGRhUnpLSU0tTjBnZzR6QWcwazNqb1NBS09HUQ",
+          "author": null,
+          "description": "How to update Ubuntu 24.04 to 24.10  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFV6Q2c1UDZmcVhxLTV2Q3dPaE9tRl8wTUVNdEEycUNFN0VpS3FLbnVUdG5UaFJzWTMwMXpjVnNZTTNhSGFENm5ucDlzN3pPS1p6aE1YQmlhTEF5MXV4ZG4zenlFWG1oc2cwbGRhUnpLSU0tTjBnZzR6QWcwazNqb1NBS09HUQ?oc=5",
+          "publishedOn": "2024-10-20T13:13:51.000Z",
+          "wordCount": 12557,
+          "title": "How to update Ubuntu 24.04 to 24.10 - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifkFVX3lxTFB2Sm5iU01ibmhaeTZGQkg1SXdQOG5qc3JDQ3FRU1RtNmFZRzVnSVk5ckV5Sl94SGNrWnFEMmpPb1lwZ0dRRmdkSDJMVFJLcXgtTWFUbjczNTJXbEFReW5ILWR5elY2dUIzS0ljczdVYXB6NjJCd3lGVEd5TmJ5QQ",
+          "author": null,
+          "description": "I Daily Drive Both Windows and Linux, Here's Why  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2Sm5iU01ibmhaeTZGQkg1SXdQOG5qc3JDQ3FRU1RtNmFZRzVnSVk5ckV5Sl94SGNrWnFEMmpPb1lwZ0dRRmdkSDJMVFJLcXgtTWFUbjczNTJXbEFReW5ILWR5elY2dUIzS0ljczdVYXB6NjJCd3lGVEd5TmJ5QQ?oc=5",
+          "publishedOn": "2024-10-20T11:00:00.000Z",
+          "wordCount": 12557,
+          "title": "I Daily Drive Both Windows and Linux, Here's Why - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE40ei10MWJXMXRGSTZMOXBoUklsQU55T1lwVmh3TmRSQ2dZLTgweWoyYW0zV3hBSDNaSlFtc0FHaGVQS3BoWHZZVWpmbVBtdFRoWDc0NG5BdjExZTJWeHVSbDVnY1BRTmdD",
+          "author": null,
+          "description": "ReiserFS File-System Expected To Be Removed With Linux 6.13  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40ei10MWJXMXRGSTZMOXBoUklsQU55T1lwVmh3TmRSQ2dZLTgweWoyYW0zV3hBSDNaSlFtc0FHaGVQS3BoWHZZVWpmbVBtdFRoWDc0NG5BdjExZTJWeHVSbDVnY1BRTmdD?oc=5",
+          "publishedOn": "2024-10-20T10:53:00.000Z",
+          "wordCount": 12557,
+          "title": "ReiserFS File-System Expected To Be Removed With Linux 6.13 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE16dE1nT0JZOGJJTDc5VWVnRGpqS2Z4MldyRUt5eVJSZFZsb3l2OGRmb243NmZWQThaMW5TM2NOQUNlUVJlOGRGM0kzYTJmU01pdENId0VveDcyaUZ2X1UzWm9wdHRUMW9HU1E",
+          "author": null,
+          "description": "Audio Firmware Upstreamed For Qualcomm Snapdragon X1 On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dE1nT0JZOGJJTDc5VWVnRGpqS2Z4MldyRUt5eVJSZFZsb3l2OGRmb243NmZWQThaMW5TM2NOQUNlUVJlOGRGM0kzYTJmU01pdENId0VveDcyaUZ2X1UzWm9wdHRUMW9HU1E?oc=5",
+          "publishedOn": "2024-10-20T10:30:00.000Z",
+          "wordCount": 12557,
+          "title": "Audio Firmware Upstreamed For Qualcomm Snapdragon X1 On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiX0FVX3lxTE8zSEc4UG5xT2dvcU5KS0l2M0FWRXRNbURzblA5TjZDZHRvckQ5OTZEUkF1UjFHcEZSeWtLX0x3SEsyb0xlSG1yX0VsQXM3RThtenRoRkJZUkdLd1NLWE9V",
           "author": null,
@@ -6953,156 +6963,6 @@
           "wordCount": 12503,
           "title": "Linux for kids: teaching the next generation - CyberNews.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTE91bmZuQlZmN2w3QnN4MEdCalJmamFfQzN6X3M4NVVINmM3SEw4NnNnVWYtM3ZzUGRYVmZWLVNtbG0xTHMwZWxLX0hYS3VGSFJ4LWpfMjRIS1JsMm9Qd3c",
-          "author": null,
-          "description": "Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bmZuQlZmN2w3QnN4MEdCalJmamFfQzN6X3M4NVVINmM3SEw4NnNnVWYtM3ZzUGRYVmZWLVNtbG0xTHMwZWxLX0hYS3VGSFJ4LWpfMjRIS1JsMm9Qd3c?oc=5",
-          "publishedOn": "2024-09-21T13:17:00.000Z",
-          "wordCount": 12503,
-          "title": "Firewire Maintainer Is Looking For Help Testing IEEE-1394 Devices On Linux 6.12 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE53NXFJTF9xQ2FDbUhGS0o3TnRZNGh4WE9GU2NBUzQ5Yjhnem01TFVJNjVHWUpYRnFGdTE5a1E0X3d3enpXajhiWFJXdTh1Nk1HMDdTdzB5RnplODFSRV9raUlCMUNIUQ",
-          "author": null,
-          "description": "VFS+XFS Changes Land In Linux 6.12 To Support Block Sizes Larger Than Page Size  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53NXFJTF9xQ2FDbUhGS0o3TnRZNGh4WE9GU2NBUzQ5Yjhnem01TFVJNjVHWUpYRnFGdTE5a1E0X3d3enpXajhiWFJXdTh1Nk1HMDdTdzB5RnplODFSRV9raUlCMUNIUQ?oc=5",
-          "publishedOn": "2024-09-21T10:42:00.000Z",
-          "wordCount": 12503,
-          "title": "VFS+XFS Changes Land In Linux 6.12 To Support Block Sizes Larger Than Page Size - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFBVV95cUxPUzB2SGdpZWwwNzNldU85bVQ2aEtPbTFwelZnN0FfT3Z5ZjhiZmNfbHFhZHViQjBhMjZzeDM1aDRBdHhWUXdkSC1RT0RCcWZVSXE1Q3FsNV9jdkNyQlZQRUM2NFViMElBOTl2dlRpUUY2MjU4VUZsSXFlNTJhODJTTGNSU2pocV9q",
-          "author": null,
-          "description": "There’s No Lower Spec Linux Machine Than This One  Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzB2SGdpZWwwNzNldU85bVQ2aEtPbTFwelZnN0FfT3Z5ZjhiZmNfbHFhZHViQjBhMjZzeDM1aDRBdHhWUXdkSC1RT0RCcWZVSXE1Q3FsNV9jdkNyQlZQRUM2NFViMElBOTl2dlRpUUY2MjU4VUZsSXFlNTJhODJTTGNSU2pocV9q?oc=5",
-          "publishedOn": "2024-09-21T08:00:00.000Z",
-          "wordCount": 12503,
-          "title": "There’s No Lower Spec Linux Machine Than This One - Hackaday",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipAFBVV95cUxQT3lfSlZBXzRoTGFTWnBOdVhrTngzemstdnBGTW5xWnZPQjJOV2loRlVRd0FlbjFvUllKTDdlY0hFRnZETTdLdi12bkViREgtem9ZTFpsTmxlUkxtaldZaEZBb3ZGWjkxZnRqUjB4ejc5TmREZFhLMGJ0U2hIaUUzbmp4T0QzdjBjMjFEY2hPcWhaWFB0QU00dkFEYmxfMXhQWmF0T9IBqgFBVV95cUxPeVJhb3lrU3NvS0ZYcXZtWUk1RlVNejBNZ1pjT2ctQVZYUmRBMTBGdWNadHNWa0hqT3dDYjA0SUdaOENoQzlKN0pXQ3Y2aFRnbnVnN0xqdXNMOS1Zc0JBY0dvdUl2aWpZcFRHa3JvVUhyemFfZ3BqZXBnVnViMzZZQmZGVllDTy1kWGw3SU5FendqWU56ZnBNb183dkhlNjNiTmNFZFpYejZOQQ",
-          "author": null,
-          "description": "Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3lfSlZBXzRoTGFTWnBOdVhrTngzemstdnBGTW5xWnZPQjJOV2loRlVRd0FlbjFvUllKTDdlY0hFRnZETTdLdi12bkViREgtem9ZTFpsTmxlUkxtaldZaEZBb3ZGWjkxZnRqUjB4ejc5TmREZFhLMGJ0U2hIaUUzbmp4T0QzdjBjMjFEY2hPcWhaWFB0QU00dkFEYmxfMXhQWmF0T9IBqgFBVV95cUxPeVJhb3lrU3NvS0ZYcXZtWUk1RlVNejBNZ1pjT2ctQVZYUmRBMTBGdWNadHNWa0hqT3dDYjA0SUdaOENoQzlKN0pXQ3Y2aFRnbnVnN0xqdXNMOS1Zc0JBY0dvdUl2aWpZcFRHa3JvVUhyemFfZ3BqZXBnVnViMzZZQmZGVllDTy1kWGw3SU5FendqWU56ZnBNb183dkhlNjNiTmNFZFpYejZOQQ?oc=5",
-          "publishedOn": "2024-09-21T00:27:34.000Z",
-          "wordCount": 12503,
-          "title": "Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic0FVX3lxTE1lUy1jdjlzNW1rdVVWcWNoWEd4dDc5Z01lV3Zpa3VKNlpBbDdJSUVDY1FvamxWYnVaSkhpRmFKcHhaY3Y5UFhYdFowMkRmQzh5M0ZvY2otZGFBSzM1VWxtLUdtS1YzM0lwTUNpTHZzaVJuaDA",
-          "author": null,
-          "description": "Ubuntu Linux 24.10 Oracular Oriole Beta released for testing  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lUy1jdjlzNW1rdVVWcWNoWEd4dDc5Z01lV3Zpa3VKNlpBbDdJSUVDY1FvamxWYnVaSkhpRmFKcHhaY3Y5UFhYdFowMkRmQzh5M0ZvY2otZGFBSzM1VWxtLUdtS1YzM0lwTUNpTHZzaVJuaDA?oc=5",
-          "publishedOn": "2024-09-21T00:12:25.000Z",
-          "wordCount": 12503,
-          "title": "Ubuntu Linux 24.10 Oracular Oriole Beta released for testing - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTFA2OVlFVG1fSC1BdzRpX2JpRnkzS0YwdUJDb3ZLcVlXSjF5aEhKQWZWS3RiaDJveGxrZUFiRUY1RWRObHpORzg5N2VUd0d1VFE2SndHck02ZDUzQ3c",
-          "author": null,
-          "description": "Ubuntu 24.10 Beta Released For Testing  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2OVlFVG1fSC1BdzRpX2JpRnkzS0YwdUJDb3ZLcVlXSjF5aEhKQWZWS3RiaDJveGxrZUFiRUY1RWRObHpORzg5N2VUd0d1VFE2SndHck02ZDUzQ3c?oc=5",
-          "publishedOn": "2024-09-20T23:05:00.000Z",
-          "wordCount": 12503,
-          "title": "Ubuntu 24.10 Beta Released For Testing - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivwFBVV95cUxPbVpNWGI5cXNrQlF4MnNmRC1yYXFuemJzQjhvU1JUeTFoNVhLR3ZoZXpJSWQ1OGdieEFIQXBiS0NFMVhqREZiRUtJdW43WWRadmVOZTFmM2lUZVNrcU4yUm83NTF3QTFZNUVseUdFamIyeHlVUXdoRk1UVGZQdmFGb0JYcC1CU3d3aE1TZ0ZkSXA5NDlqMTN3YV90d0tqbWNsdWkwbW5XTmhQUlhfaUxsZVBBRFhtTnU2MW1xcS1CRQ",
-          "author": null,
-          "description": "Wind River introduces eLxr Pro enterprise Linux distribution for cloud-to-edge deployments  Edge Industry Review",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVpNWGI5cXNrQlF4MnNmRC1yYXFuemJzQjhvU1JUeTFoNVhLR3ZoZXpJSWQ1OGdieEFIQXBiS0NFMVhqREZiRUtJdW43WWRadmVOZTFmM2lUZVNrcU4yUm83NTF3QTFZNUVseUdFamIyeHlVUXdoRk1UVGZQdmFGb0JYcC1CU3d3aE1TZ0ZkSXA5NDlqMTN3YV90d0tqbWNsdWkwbW5XTmhQUlhfaUxsZVBBRFhtTnU2MW1xcS1CRQ?oc=5",
-          "publishedOn": "2024-09-20T21:22:44.000Z",
-          "wordCount": 12503,
-          "title": "Wind River introduces eLxr Pro enterprise Linux distribution for cloud-to-edge deployments - Edge Industry Review",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiowFBVV95cUxQNDZXWmRxRVZPZmZLLUFfZEtnWWlFY0hvLTJVTFk0ZUNhcE5HMWFVM2pQNWpNSjFlcXZ0TXVncXpsRHFnR2RpZGI5YWFGSnp3SkZJemc4c2RSazFZRHlwdTEzUWpGM1l0NG10UGxnRGFjOVVaektqTXF5T0xMa1lOQ2ZYMWhCSzdpa0dmOVY3bG1rS3paZHJnUW9iQlAzVm9QZEtN",
-          "author": null,
-          "description": "Citrine Sleet Poisons PyPi Packages with Mac & Linux Malware  Dark Reading",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDZXWmRxRVZPZmZLLUFfZEtnWWlFY0hvLTJVTFk0ZUNhcE5HMWFVM2pQNWpNSjFlcXZ0TXVncXpsRHFnR2RpZGI5YWFGSnp3SkZJemc4c2RSazFZRHlwdTEzUWpGM1l0NG10UGxnRGFjOVVaektqTXF5T0xMa1lOQ2ZYMWhCSzdpa0dmOVY3bG1rS3paZHJnUW9iQlAzVm9QZEtN?oc=5",
-          "publishedOn": "2024-09-20T20:19:45.000Z",
-          "wordCount": 12503,
-          "title": "Citrine Sleet Poisons PyPi Packages with Mac & Linux Malware - Dark Reading",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqwFBVV95cUxOTlZEUmxUcUlNd25LYmhMaVRxV1l2MVVKSlRTUGJsamUxLTBFcXR4eDBvVzBDX0FnYnhPQUwzb1diYkdCaWo3SVBfWHE5V1BWaW9ta2VHZW0wZ0tZTG5OUW9Db2JBYjlaQ3Myd0pmNTlqYWh6aTB6OUYzcDNXaWdMS3Rta3RDT2xBajVjRXI1Vm5nMXlHRWxLX3drUEg3VkMxd1JWX09JLWxtWDg",
-          "author": null,
-          "description": "Amazon Donates OpenSearch To Linux Foundation  iProgrammer",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlZEUmxUcUlNd25LYmhMaVRxV1l2MVVKSlRTUGJsamUxLTBFcXR4eDBvVzBDX0FnYnhPQUwzb1diYkdCaWo3SVBfWHE5V1BWaW9ta2VHZW0wZ0tZTG5OUW9Db2JBYjlaQ3Myd0pmNTlqYWh6aTB6OUYzcDNXaWdMS3Rta3RDT2xBajVjRXI1Vm5nMXlHRWxLX3drUEg3VkMxd1JWX09JLWxtWDg?oc=5",
-          "publishedOn": "2024-09-20T17:03:39.000Z",
-          "wordCount": 12503,
-          "title": "Amazon Donates OpenSearch To Linux Foundation - iProgrammer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE54OHFQazJMTGt0Wi1peGhtLWxaZUl6alVwRE11enJiMmluVGszWWp1Ry1KQVp3RWVpRi00X2Q1UnhuS2FKanpHcWxYTFJmSzVjZGxRd3NreUYxZEdxYm5pVGVxYm1jY2xEb0pv",
-          "author": null,
-          "description": "Ubuntu 24.10 Making Preparations For The Raspberry Pi Compute Module 5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54OHFQazJMTGt0Wi1peGhtLWxaZUl6alVwRE11enJiMmluVGszWWp1Ry1KQVp3RWVpRi00X2Q1UnhuS2FKanpHcWxYTFJmSzVjZGxRd3NreUYxZEdxYm5pVGVxYm1jY2xEb0pv?oc=5",
-          "publishedOn": "2024-09-20T16:55:00.000Z",
-          "wordCount": 12503,
-          "title": "Ubuntu 24.10 Making Preparations For The Raspberry Pi Compute Module 5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiugFBVV95cUxOVGpWR2N2cXhnQ3ZYZ3loNWF2S1dYTURrUHNzbk9yM1NXalYyRUFLRGZkNmVWazFmUUhZblc2X1hmclVFeERrTWNvbUdvUmNnZ2FSWjBSVVM3WWQyNDN1c0lIeEdPYkVJSUthWS1WY2tsX1ktZHgxTGhkNDZ5NkVGN0NlSV9taldKUmwwS3o4bkhSbWNKQWc2WHd1WWw3bTFxcGcwZ3Y0M0ptNlVkbnpZY2hvcmktdjBua3c",
-          "author": null,
-          "description": "God of War Ragnarök released and Steam Deck Verified, needs a launch option for Desktop Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGpWR2N2cXhnQ3ZYZ3loNWF2S1dYTURrUHNzbk9yM1NXalYyRUFLRGZkNmVWazFmUUhZblc2X1hmclVFeERrTWNvbUdvUmNnZ2FSWjBSVVM3WWQyNDN1c0lIeEdPYkVJSUthWS1WY2tsX1ktZHgxTGhkNDZ5NkVGN0NlSV9taldKUmwwS3o4bkhSbWNKQWc2WHd1WWw3bTFxcGcwZ3Y0M0ptNlVkbnpZY2hvcmktdjBua3c?oc=5",
-          "publishedOn": "2024-09-20T16:53:37.000Z",
-          "wordCount": 12503,
-          "title": "God of War Ragnarök released and Steam Deck Verified, needs a launch option for Desktop Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinwFBVV95cUxPR0VWdGZtT2pnbUdkQjJ5TkJfVVZaY0YySENHTlRrcndjQkFNR2FCMUk1eEQ5SGdTUFJOTmMtMjRCckNBM1FyWERTcUcxTGM3OENqRHNteEp4V2JaaFdlWlJmSjZKMnlpM2tqN00zLVgtTll1X0VDVGtLeFZ5NnEwZThqQnFRTElQVjh1alZxVl9QR25ycjA3Zm5uYVdjUzTSAaQBQVVfeXFMTmRDSUI2RS1PTXM3c28tTk56RmdUb3RNVlZzRlBIRHdWc1dva2pkQXQ2WjZGU3NCcXRJOFFWeG1RZE1xNFZCaDIzRGRmeXZaM3FSajUxUU1VeWZSX0Uza2plT2NKZ0Vmel9ISW1sZWhteEM5bFhsMWlUem5yLXRELXZYUC0tV2JmbEIwYzhmNjJ4eDU1QlBYRUdyekhpTE5WZnBCcWc",
-          "author": null,
-          "description": "Linux Foundation & CNCF Target ‘Patent Troll’ Non-Practicing Entities  Cloud Native Now",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0VWdGZtT2pnbUdkQjJ5TkJfVVZaY0YySENHTlRrcndjQkFNR2FCMUk1eEQ5SGdTUFJOTmMtMjRCckNBM1FyWERTcUcxTGM3OENqRHNteEp4V2JaaFdlWlJmSjZKMnlpM2tqN00zLVgtTll1X0VDVGtLeFZ5NnEwZThqQnFRTElQVjh1alZxVl9QR25ycjA3Zm5uYVdjUzTSAaQBQVVfeXFMTmRDSUI2RS1PTXM3c28tTk56RmdUb3RNVlZzRlBIRHdWc1dva2pkQXQ2WjZGU3NCcXRJOFFWeG1RZE1xNFZCaDIzRGRmeXZaM3FSajUxUU1VeWZSX0Uza2plT2NKZ0Vmel9ISW1sZWhteEM5bFhsMWlUem5yLXRELXZYUC0tV2JmbEIwYzhmNjJ4eDU1QlBYRUdyekhpTE5WZnBCcWc?oc=5",
-          "publishedOn": "2024-09-20T16:28:38.000Z",
-          "wordCount": 12503,
-          "title": "Linux Foundation & CNCF Target ‘Patent Troll’ Non-Practicing Entities - Cloud Native Now",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxQNTZxUGRxMzZGZ1R6UGw0c2p4c21Ec2JKaEx4T0NlaDZqUmdCLUpIcncwbzBJNC1hOHJWOWc5VXdSTTh6TVBaREhYWjlydkxsN0dlNGRfZFFPSW1NaXNMVXhZalR0RFhDWms0VEVoV2x4bEFFeXIyTlFuYW13V0s5OGVtZ090TFpGcmk5akxB",
-          "author": null,
-          "description": "AWS Brings OpenSearch Under the Linux Foundation  Datanami",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTZxUGRxMzZGZ1R6UGw0c2p4c21Ec2JKaEx4T0NlaDZqUmdCLUpIcncwbzBJNC1hOHJWOWc5VXdSTTh6TVBaREhYWjlydkxsN0dlNGRfZFFPSW1NaXNMVXhZalR0RFhDWms0VEVoV2x4bEFFeXIyTlFuYW13V0s5OGVtZ090TFpGcmk5akxB?oc=5",
-          "publishedOn": "2024-09-20T16:07:47.000Z",
-          "wordCount": 12503,
-          "title": "AWS Brings OpenSearch Under the Linux Foundation - Datanami",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE1JVWhfR0p3SWwtTWNSa2hmUHh0Z2YyUXJzeW5lNGNQS2dKX01ZdGd6aDhSWXdfaHRlcndFSHFFOGZwb08zQ2Y4QWYtcE5fQmoyN2lEUHhabS1ZOXVZWTdv",
-          "author": null,
-          "description": "The Fastest AArch64 Linux Distribution On The 192-Core AmpereOne Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVWhfR0p3SWwtTWNSa2hmUHh0Z2YyUXJzeW5lNGNQS2dKX01ZdGd6aDhSWXdfaHRlcndFSHFFOGZwb08zQ2Y4QWYtcE5fQmoyN2lEUHhabS1ZOXVZWTdv?oc=5",
-          "publishedOn": "2024-09-20T14:30:00.000Z",
-          "wordCount": 12503,
-          "title": "The Fastest AArch64 Linux Distribution On The 192-Core AmpereOne Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipAFBVV95cUxNZmp6czFyclBlRkpudDY0czdnUUhNaEE3S3R2aGk4ZXI2MHQwQzVhWUNjNVplZHhfQXY2Z1hyVTBYcHVfek9xclpyQ2dXYV82Zk5WMUthd3VpclBEdlpreUd1UmVJbEFVNVhDUkRQdElZQTg0MWtnVkNjaW5oc2dMRXlZb0RxejhsUmV6WVhvVXREcHFXTWZwNks3NW9VYi1yV0pSaw",
-          "author": null,
-          "description": "Real-time Linux has been integrated into the main kernel following two decades of development  TechSpot",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmp6czFyclBlRkpudDY0czdnUUhNaEE3S3R2aGk4ZXI2MHQwQzVhWUNjNVplZHhfQXY2Z1hyVTBYcHVfek9xclpyQ2dXYV82Zk5WMUthd3VpclBEdlpreUd1UmVJbEFVNVhDUkRQdElZQTg0MWtnVkNjaW5oc2dMRXlZb0RxejhsUmV6WVhvVXREcHFXTWZwNks3NW9VYi1yV0pSaw?oc=5",
-          "publishedOn": "2024-09-20T14:02:00.000Z",
-          "wordCount": 12503,
-          "title": "Real-time Linux has been integrated into the main kernel following two decades of development - TechSpot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9462,26 +9322,6 @@
           "wordCount": 1622,
           "title": "The selectmenu Element is No More…Long Live select!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381134"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380952",
-          "author": "Geoff Graham",
-          "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-21/",
-          "publishedOn": "2024-09-20T16:15:26.000Z",
-          "wordCount": 1293,
-          "title": "Quick Hit #21",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381098",
-          "author": "Juan Diego Rodríguez",
-          "description": "For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …\nCSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-09-18/",
-          "publishedOn": "2024-09-20T15:15:33.000Z",
-          "wordCount": 3073,
-          "title": "CSSWG Minutes Telecon (2024-09-18)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
         }
       ]
     },
@@ -10391,16 +10231,6 @@
           "wordCount": 1564,
           "title": "What is ECS Monitoring? Explained With Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727103254033/39d8dac3-4e18-46dc-8ad6-129386a165b3.avif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
-          "author": "Spruce Emmanuel",
-          "description": "Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
-          "publishedOn": "2024-09-20T21:48:26.000Z",
-          "wordCount": 5183,
-          "title": "How To Create a Progressive Web App (PWA) Using Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b83-78b9-4cd7-9040-13ade8e515f7.png"
         }
       ]
     }
