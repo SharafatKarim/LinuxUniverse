@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193761",
+          "author": "Web Webster",
+          "description": "PipeWire 1.2.6 bugfix release resolves issues with filter-chain param aggregation and JACK IO ports and improves Bluetooth stability.\nThe post PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/pipewire-1-2-6-released-with-focus-on-jack-and-bluetooth-stability/",
+          "publishedOn": "2024-10-24T23:47:00.000Z",
+          "wordCount": 9058,
+          "title": "PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193756",
+          "author": "Web Webster",
+          "description": "What is fstab in Lunix? What are fstab options, and when should you use them? Our latest tutorial covers all the fstab details and everything you need to know about this file. Let’s get straight into it.\nThe post Fstab Options: What Are They, and When Should You Use Them? appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fstab-options-what-are-they-and-when-should-you-use-them/",
+          "publishedOn": "2024-10-24T21:44:55.000Z",
+          "wordCount": 9084,
+          "title": "Fstab Options: What Are They, and When Should You Use Them?",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193755",
+          "author": "Web Webster",
+          "description": "In this article, we will provide a few X-based commands that are generally available in most standard distributions today. If you find that any of the X-based commands listed below are not installed on your system, you can always use apt or yum to install the required packages.\nThe post 11 Useful X-window (GUI Based) Linux Commands appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/11-useful-x-window-gui-based-linux-commands/",
+          "publishedOn": "2024-10-24T19:43:58.000Z",
+          "wordCount": 9076,
+          "title": "11 Useful X-window (GUI Based) Linux Commands",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193754",
+          "author": "Web Webster",
+          "description": "The diff3 command in Linux is a helpful tool that compares three files and shows their differences, which is mainly useful for programmers and system administrators who work with multiple versions of the same file and need to merge them, or identify changes between different versions. In this article, we’ll go through the basics of […]\nThe post How to Use diff3 Command for File Merging in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-use-diff3-command-for-file-merging-in-linux/",
+          "publishedOn": "2024-10-24T17:42:24.000Z",
+          "wordCount": 9121,
+          "title": "How to Use diff3 Command for File Merging in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193753",
+          "author": "Web Webster",
+          "description": "In this article, you will learn how to solve the “traceroute: command not found” error on Linux by applying a simple solution.\nThe post Fixed “traceroute: command not found” in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fixed-traceroute-command-not-found-in-linux/",
+          "publishedOn": "2024-10-24T14:35:33.000Z",
+          "wordCount": 9054,
+          "title": "Fixed “traceroute: command not found” in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193752",
+          "author": "Web Webster",
+          "description": "In this article, you’ll learn how to install GCC on Ubuntu, followed by writing and compiling basic C/C++ programs.\nThe post How to Install GCC on Ubuntu 24.04: A Step-By-Step Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-gcc-on-ubuntu-24-04-a-step-by-step-guide/",
+          "publishedOn": "2024-10-24T12:34:33.000Z",
+          "wordCount": 9059,
+          "title": "How to Install GCC on Ubuntu 24.04: A Step-By-Step Guide",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193751",
+          "author": "Web Webster",
+          "description": "Are you concerned about your online privacy? Let’s explore some useful strategies to enhance the privacy and security of your Linux PC.\nThe post A Thorough Approach to Improve the Privacy and Security of Your Linux PC appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/a-thorough-approach-to-improve-the-privacy-and-security-of-your-linux-pc/",
+          "publishedOn": "2024-10-24T10:33:34.000Z",
+          "wordCount": 9079,
+          "title": "A Thorough Approach to Improve the Privacy and Security of Your Linux PC",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193748",
+          "author": "Web Webster",
+          "description": "The AlmaLinux Foundation warns that this new distribution, which was made available today, is not intended for production use but for developers working downstream of AlmaLinux OS.\nThe post AlmaLinux Kitten Distro: Based on CentOS Stream 10 for Downstream Devs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/almalinux-kitten-distro-based-on-centos-stream-10-for-downstream-devs/",
+          "publishedOn": "2024-10-24T09:28:04.000Z",
+          "wordCount": 9072,
+          "title": "AlmaLinux Kitten Distro: Based on CentOS Stream 10 for Downstream Devs",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193742",
+          "author": "Web Webster",
+          "description": "Calamares 3.3.10 released with updates to permissions handling, keyboard, and locale modules.\nThe post Calamares Installer 3.3.10 Released, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/calamares-installer-3-3-10-released-heres-whats-new/",
+          "publishedOn": "2024-10-24T07:13:52.000Z",
+          "wordCount": 9031,
+          "title": "Calamares Installer 3.3.10 Released, Here’s What’s New",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193741",
+          "author": "Web Webster",
+          "description": "Podman shifts to a quarterly release cycle, starting with Podman 5.3 in November 2024, offering predictable updates.\nThe post Podman Announces Move to Timed Releases appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/podman-announces-move-to-timed-releases/",
+          "publishedOn": "2024-10-24T06:12:52.000Z",
+          "wordCount": 9038,
+          "title": "Podman Announces Move to Timed Releases",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=193710",
           "author": "Web Webster",
           "description": "PocketPal AI is an Open source AI Assistant that lets you interact with various small language models (SLMs) directly on your smartphone, even without an internet connection.\nThe post Run Language Models On Your Smartphone With PocketPal AI appeared first on Linux Today.",
@@ -2036,86 +2136,6 @@
           "wordCount": 9039,
           "title": "OpenSSH 9.9 Features Enhanced Quantum-Resistant Algorithms",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192932",
-          "author": "Web Webster",
-          "description": "We take a fresh look at MusicPod and note that the program has seen significant improvements.\nThe post Revisited: MusicPod – music, podcast and internet radio player appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/revisited-musicpod-music-podcast-and-internet-radio-player/",
-          "publishedOn": "2024-09-25T12:21:30.000Z",
-          "wordCount": 9055,
-          "title": "Revisited: MusicPod – music, podcast and internet radio player",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192931",
-          "author": "Web Webster",
-          "description": "In this brief tutorial, we will learn how to efficiently search Linux Manual Pages with the ‘man -k’ command in Linux with an example.\nThe post How To Efficiently Search Linux Manual Pages with the man -k Command appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-efficiently-search-linux-manual-pages-with-the-man-k-command/",
-          "publishedOn": "2024-09-25T10:20:40.000Z",
-          "wordCount": 9085,
-          "title": "How To Efficiently Search Linux Manual Pages with the man -k Command",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192929",
-          "author": "Web Webster",
-          "description": "The latest Wine release, 9.18, brings essential updates and a new Desktop Control applet. Here’s more on that!\nThe post Wine 9.18 Launches with Enhanced Features appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/wine-9-18-launches-with-enhanced-features/",
-          "publishedOn": "2024-09-25T08:19:41.000Z",
-          "wordCount": 9043,
-          "title": "Wine 9.18 Launches with Enhanced Features",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192928",
-          "author": "Web Webster",
-          "description": "Learn about the new features of LibreOffice 24.8 which brings considerable update across its base modules.\nThe post LibreOffice 24.8: Best New Features appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/libreoffice-24-8-best-new-features/",
-          "publishedOn": "2024-09-25T06:17:18.000Z",
-          "wordCount": 9035,
-          "title": "LibreOffice 24.8: Best New Features",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192691",
-          "author": "Web Webster",
-          "description": "Object–relational mapping (ORM) is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a “virtual object database” that can be used from within the programming language.\nThe post 5 Best Free and Open Source JavaScript Object-Relational Mapping Software appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/5-best-free-and-open-source-javascript-object-relational-mapping-software/",
-          "publishedOn": "2024-09-24T22:08:06.000Z",
-          "wordCount": 9076,
-          "title": "5 Best Free and Open Source JavaScript Object-Relational Mapping Software",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192921",
-          "author": "Web Webster",
-          "description": "While no method can guarantee 100% security for your data, encryption provides a highly reliable layer of protection, making it significantly more difficult for hackers and unauthorized users to access your private information. In this tutorial, we’ll explore the best encryption solutions available for Linux users and walk you through the process of creating an […]\nThe post Secure Your Data: How to Encrypt a Partition or Disk on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/secure-your-data-how-to-encrypt-a-partition-or-disk-on-linux/",
-          "publishedOn": "2024-09-24T21:34:27.000Z",
-          "wordCount": 9107,
-          "title": "Secure Your Data: How to Encrypt a Partition or Disk on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192690",
-          "author": "Web Webster",
-          "description": "Learn how to install and use the screen command in Linux to manage multiple shell sessions during an SSH connection, with practical examples.\nThe post How to Install and Use Screen on Linux (15 Practical Examples) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-and-use-screen-on-linux-15-practical-examples/",
-          "publishedOn": "2024-09-24T20:06:56.000Z",
-          "wordCount": 9066,
-          "title": "How to Install and Use Screen on Linux (15 Practical Examples)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=192923",
-          "author": "Web Webster",
-          "description": "With only three weeks left before Ubuntu 24.10 hits the streets in a stable form, the beta is here to give us a glimpse of what to expect from the final version. Ubuntu 24.10 has the just-released GNOME 47 desktop environment by default and is powered by the latest and greatest Linux 6.11 kernel series.\nThe post Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/ubuntu-24-10-oracular-oriole-enters-public-beta-testing-with-linux-6-11-gnome-47/",
-          "publishedOn": "2024-09-24T16:08:57.000Z",
-          "wordCount": 9114,
-          "title": "Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2124,6 +2144,136 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ",
+          "author": null,
+          "description": "Removal of Russian coders spurs debate about Linux kernel’s politics  Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ?oc=5",
+          "publishedOn": "2024-10-24T18:21:50.000Z",
+          "wordCount": 12548,
+          "title": "Removal of Russian coders spurs debate about Linux kernel’s politics - Ars Technica",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ",
+          "author": null,
+          "description": "Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ?oc=5",
+          "publishedOn": "2024-10-24T17:51:51.000Z",
+          "wordCount": 12548,
+          "title": "Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’ - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM",
+          "author": null,
+          "description": "Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers  SecurityWeek",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM?oc=5",
+          "publishedOn": "2024-10-24T17:05:50.000Z",
+          "wordCount": 12548,
+          "title": "Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers - SecurityWeek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ",
+          "author": null,
+          "description": "How to examine files on Linux  Network World",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ?oc=5",
+          "publishedOn": "2024-10-24T16:49:33.000Z",
+          "wordCount": 12548,
+          "title": "How to examine files on Linux - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA",
+          "author": null,
+          "description": "RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12  Electropages",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA?oc=5",
+          "publishedOn": "2024-10-24T15:22:11.000Z",
+          "wordCount": 12548,
+          "title": "RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12 - Electropages",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw",
+          "author": null,
+          "description": "“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions  The Insider",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw?oc=5",
+          "publishedOn": "2024-10-24T15:09:09.000Z",
+          "wordCount": 12548,
+          "title": "“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions - The Insider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3",
+          "author": null,
+          "description": "Intel Core Ultra 9 285K \"Arrow Lake\" Delivers Strong Linux Performance Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3?oc=5",
+          "publishedOn": "2024-10-24T15:00:00.000Z",
+          "wordCount": 12548,
+          "title": "Intel Core Ultra 9 285K \"Arrow Lake\" Delivers Strong Linux Performance Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFBVV95cUxNYWZBTVVTaUFrMEo3dnZrd3Y5V1dwVUVqSTFjd1VlMndHanpZM2l3UWhKeFpVSGFlNDI3M3pKTVZKVW9OaGhBQ0p1NW1ZNlo2T21EMUJIbUpzNldYQTBDczdQWTFacmdKUm5HWkVsYzU3TXMwXy1qVE1zby12NUNzaVZuN0hHRXVWWjdWTGJPVDQtdEFHbXMwTDJGekPSAaIBQVVfeXFMT1J2eU5LSVRYRUt4SGZOclZaZkhhbHZUNFRVMGNaaXUzOWhMZEtRclNsZ3JRS3B4Z3QtdVpBc3hMcVpjakF3RVg3aHdvUzdqUzhkWEdQMmJBM294eDZfTzhYajdLNTFySVo5OGhLdjdSVjBWQndQdjFwRlk0ZnlMTDhNNFQ3UlVkRG15THNmME1GRHlwLV9iZE9GWE1vSTJVbjlB",
+          "author": null,
+          "description": "Russian linux kernel maintainers removed due to sanctions  Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWZBTVVTaUFrMEo3dnZrd3Y5V1dwVUVqSTFjd1VlMndHanpZM2l3UWhKeFpVSGFlNDI3M3pKTVZKVW9OaGhBQ0p1NW1ZNlo2T21EMUJIbUpzNldYQTBDczdQWTFacmdKUm5HWkVsYzU3TXMwXy1qVE1zby12NUNzaVZuN0hHRXVWWjdWTGJPVDQtdEFHbXMwTDJGekPSAaIBQVVfeXFMT1J2eU5LSVRYRUt4SGZOclZaZkhhbHZUNFRVMGNaaXUzOWhMZEtRclNsZ3JRS3B4Z3QtdVpBc3hMcVpjakF3RVg3aHdvUzdqUzhkWEdQMmJBM294eDZfTzhYajdLNTFySVo5OGhLdjdSVjBWQndQdjFwRlk0ZnlMTDhNNFQ3UlVkRG15THNmME1GRHlwLV9iZE9GWE1vSTJVbjlB?oc=5",
+          "publishedOn": "2024-10-24T13:30:39.000Z",
+          "wordCount": 12548,
+          "title": "Russian linux kernel maintainers removed due to sanctions - Boing Boing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE9KU0k4TEE5RFlObWpnZ1phd3ZIUTFCR1l0NW9VQnJma0psbmR0Wk5PTnZZdndwQXRfZE5ia29sWDNxOTdwOEh4bkZOdkFlRG1HWDBfYkNiTi1mM1pQQjdJdnFteDNYXzVmTWNR",
+          "author": null,
+          "description": "AMD EPYC 9755 Performance On The Linux 6.11 & Linux 6.12 Kernels  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KU0k4TEE5RFlObWpnZ1phd3ZIUTFCR1l0NW9VQnJma0psbmR0Wk5PTnZZdndwQXRfZE5ia29sWDNxOTdwOEh4bkZOdkFlRG1HWDBfYkNiTi1mM1pQQjdJdnFteDNYXzVmTWNR?oc=5",
+          "publishedOn": "2024-10-24T12:36:00.000Z",
+          "wordCount": 12548,
+          "title": "AMD EPYC 9755 Performance On The Linux 6.11 & Linux 6.12 Kernels - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivgFBVV95cUxPamozYjkycXBKMnlpaXA0a05pREUtcnFxbzY4bHh3UXJQbWZiYWx5NGRodE5nNl8xQVBkckhJeXJWUFpGNFp1NEU3TXVDM09fOWY0NF9TT2pybTVzWTRaZTFHNmdPLWRScWs0aEZLTDZrbTdmZFhSSUNFemxRYnpyRWowU044Qkt2czB4TEExaHhjWGhNdjZXVjg2blFxSVZISDk5M0JmckZxcUdEMzUzdUVkbk9XU05kUGs3VHF3",
+          "author": null,
+          "description": "Linux partnering with Task 53 of the IEA on bidirectional EV charging  Renewable Energy Magazine",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamozYjkycXBKMnlpaXA0a05pREUtcnFxbzY4bHh3UXJQbWZiYWx5NGRodE5nNl8xQVBkckhJeXJWUFpGNFp1NEU3TXVDM09fOWY0NF9TT2pybTVzWTRaZTFHNmdPLWRScWs0aEZLTDZrbTdmZFhSSUNFemxRYnpyRWowU044Qkt2czB4TEExaHhjWGhNdjZXVjg2blFxSVZISDk5M0JmckZxcUdEMzUzdUVkbk9XU05kUGs3VHF3?oc=5",
+          "publishedOn": "2024-10-24T12:17:48.000Z",
+          "wordCount": 12548,
+          "title": "Linux partnering with Task 53 of the IEA on bidirectional EV charging - Renewable Energy Magazine",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikwFBVV95cUxQVGRWbndjSHdkVHFJa2VROXNER1VWQk84T2VSWjlPejhhOEk1S2lkVTBnR2prQzJqMml1SlhQaGNyYUxycDgtTUl3akpZa2t6ejFuRk15eWxIQldnZHgzQkZHMm5TYVg0QVJ3bW44dVVsRGtCUEtSMjh2T3R0Q2g5Z0pTTW90N2xyNEwyVnhnOUM0elXSAZgBQVVfeXFMUE9SWUpLT2pjNHE2MDh3elZiZ0FBS2pidDFaRkhDSW9zMnFfai00V0dJN05pTENVZFJCbm5EbTRaU1dyR3VvemxmUUFWRk9pbjRZN0taRUNxZ3B6Yk1OYW5STDVCZmthbGN1YjhScmUwQ0psTnVxcWk3SlV1UnNXSE5oV2hsZ0xTcEdjZm9HT0Z3WWpKUEhiZWc",
+          "author": null,
+          "description": "Linux starts banning Russian leading kernel developers  Mezha.Media",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGRWbndjSHdkVHFJa2VROXNER1VWQk84T2VSWjlPejhhOEk1S2lkVTBnR2prQzJqMml1SlhQaGNyYUxycDgtTUl3akpZa2t6ejFuRk15eWxIQldnZHgzQkZHMm5TYVg0QVJ3bW44dVVsRGtCUEtSMjh2T3R0Q2g5Z0pTTW90N2xyNEwyVnhnOUM0elXSAZgBQVVfeXFMUE9SWUpLT2pjNHE2MDh3elZiZ0FBS2pidDFaRkhDSW9zMnFfai00V0dJN05pTENVZFJCbm5EbTRaU1dyR3VvemxmUUFWRk9pbjRZN0taRUNxZ3B6Yk1OYW5STDVCZmthbGN1YjhScmUwQ0psTnVxcWk3SlV1UnNXSE5oV2hsZ0xTcEdjZm9HT0Z3WWpKUEhiZWc?oc=5",
+          "publishedOn": "2024-10-24T11:04:51.000Z",
+          "wordCount": 12548,
+          "title": "Linux starts banning Russian leading kernel developers - Mezha.Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXkFVX3lxTE5SSGhvdEJZQVBKMW50U1dKRGV1bWZNcDVkTkU3OXZpWXZIVE5LSWhrMDNMT09ieXhCSU1nLVZ0bWRhdXEwVlp6SHMwTllreEl5bnJ6d2tCNXNVSHdKd1E",
+          "author": null,
+          "description": "FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSGhvdEJZQVBKMW50U1dKRGV1bWZNcDVkTkU3OXZpWXZIVE5LSWhrMDNMT09ieXhCSU1nLVZ0bWRhdXEwVlp6SHMwTllreEl5bnJ6d2tCNXNVSHdKd1E?oc=5",
+          "publishedOn": "2024-10-24T04:33:17.000Z",
+          "wordCount": 12548,
+          "title": "FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivwFBVV95cUxQWjdEMEZ3MThyQ0FZanB0VlNCUE9ua0dJSWRVc2s2NElhekVab2pjMkMyV0l1am9TeWpmWS1uSTNPU1lZVlJySHY1aThJMlAwSklTOTFzblZrRUdIdThKZTZCS0k5anU2RHlWZWg3RW1nLVJzS0lkdlFOMGd2eFA0YVlnVzJuQWV3bzhUOUpRYTI5cmxvU1J2RGMxb1NHamhDTHctbkFiVTdSbFUwclVQZW5IMkxEdWVKMkNmWkRzUQ",
+          "author": null,
+          "description": "Linux creator names and shames Intel, NVIDIA, and AMD for having 'buggy hardware'  TweakTown",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjdEMEZ3MThyQ0FZanB0VlNCUE9ua0dJSWRVc2s2NElhekVab2pjMkMyV0l1am9TeWpmWS1uSTNPU1lZVlJySHY1aThJMlAwSklTOTFzblZrRUdIdThKZTZCS0k5anU2RHlWZWg3RW1nLVJzS0lkdlFOMGd2eFA0YVlnVzJuQWV3bzhUOUpRYTI5cmxvU1J2RGMxb1NHamhDTHctbkFiVTdSbFUwclVQZW5IMkxEdWVKMkNmWkRzUQ?oc=5",
+          "publishedOn": "2024-10-24T03:10:02.000Z",
+          "wordCount": 12548,
+          "title": "Linux creator names and shames Intel, NVIDIA, and AMD for having 'buggy hardware' - TweakTown",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMinwFBVV95cUxQV19ZUS1wdXNjWEtzTmZaakRwSXd1dkhkYy1ZMzdPNWtOX0ZjZFB3QTdaM3FWZDN3UTdsYU1CV0lzWUxlTE9WeS1WQ0hROUtham14LXRYeDlMb2lwWllvSmRMUFlSN0xpdnlJdkJOVDFtbndsbDFnV2hJeXRpV29JQXJETFJsbWdfeGd1ZkE2TGtTdFB5b2p0VWNYYXBLUG8",
           "author": null,
@@ -2162,6 +2312,16 @@
           "publishedOn": "2024-10-23T20:09:00.000Z",
           "wordCount": 12557,
           "title": "Linus Torvalds is \"fed up\" with making kernel changes to address faulty hardware - TechSpot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiR0FVX3lxTE55a2hLcUJoNmVNZTdfMWlhckw1b1J4UGl2NVBtMl9EajY1Q2xmbU1TM2FTcVlMQXV2bXJDTGdaSENWdkNNREVF",
+          "author": null,
+          "description": "11 Russians removed from Linux kernel software development project over alleged “compliance requirements”  The Insider",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55a2hLcUJoNmVNZTdfMWlhckw1b1J4UGl2NVBtMl9EajY1Q2xmbU1TM2FTcVlMQXV2bXJDTGdaSENWdkNNREVF?oc=5",
+          "publishedOn": "2024-10-23T19:52:44.000Z",
+          "wordCount": 12548,
+          "title": "11 Russians removed from Linux kernel software development project over alleged “compliance requirements” - The Insider",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2402,6 +2562,26 @@
           "publishedOn": "2024-10-22T12:58:01.000Z",
           "wordCount": 12557,
           "title": "7 Discontinued Linux Distros I Still Miss in 2024 - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuwFBVV95cUxPNHBhTXZtSzVYMW9nS0N1Mnc1RVc5Q0V5djlTaXVEaGw4UjZ2R3JsYndIUWVIWUhLOVZSQ2IxRTM1cjNwRTVrMjQyV0p2TDhNc3lycEMtcl8zaUVzTERPclM3NWJ2NHRQeTJxNXUxUUJvbUduelBzaHExZ3hKVlJWdEhlSHF1VE5oNjkwM2hsUy1ETlp6MHAxSWxGczJKcE9XZ0Rud09RWGExT2xQU2tQVFRXQzBKaHppRE1z",
+          "author": null,
+          "description": "Get over 60 games free with Prime Gaming right now - many work on Steam Deck / Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHBhTXZtSzVYMW9nS0N1Mnc1RVc5Q0V5djlTaXVEaGw4UjZ2R3JsYndIUWVIWUhLOVZSQ2IxRTM1cjNwRTVrMjQyV0p2TDhNc3lycEMtcl8zaUVzTERPclM3NWJ2NHRQeTJxNXUxUUJvbUduelBzaHExZ3hKVlJWdEhlSHF1VE5oNjkwM2hsUy1ETlp6MHAxSWxGczJKcE9XZ0Rud09RWGExT2xQU2tQVFRXQzBKaHppRE1z?oc=5",
+          "publishedOn": "2024-10-22T09:41:45.000Z",
+          "wordCount": 12548,
+          "title": "Get over 60 games free with Prime Gaming right now - many work on Steam Deck / Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA",
+          "author": null,
+          "description": "How to Become an Ethical Hacker in 2025?  Simplilearn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA?oc=5",
+          "publishedOn": "2024-10-22T07:00:00.000Z",
+          "wordCount": 12548,
+          "title": "How to Become an Ethical Hacker in 2025? - Simplilearn",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6663,216 +6843,6 @@
           "wordCount": 12515,
           "title": "Rust In Linux 6.12 Prepares For Rust Binder, Supports Sanitizers & CPU Mitigations - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ0FVX3lxTE5kREx1UDA1R1FndjhWQWVYb2NvS0N2aWlzU0ZUdEFaNnNXQUd0bVdPV2NBdU85bmxTZzFRaWoxc2FNQ0U",
-          "author": null,
-          "description": "Check Hardware Info on Linux Graphically With Hardinfo  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5kREx1UDA1R1FndjhWQWVYb2NvS0N2aWlzU0ZUdEFaNnNXQUd0bVdPV2NBdU85bmxTZzFRaWoxc2FNQ0U?oc=5",
-          "publishedOn": "2024-09-25T12:45:00.000Z",
-          "wordCount": 12516,
-          "title": "Check Hardware Info on Linux Graphically With Hardinfo - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE1LWFdTeXljRnR3MndURnpSSnVzVjlOXzN4aXF5QWIxdHI5NkRUSUhqQ3NWenh5Vm9iSVJTS3lRcl9ULWQ0aDRQdERJQVVXOU12UVBwRTV2WlN6eXRiYndmSnlRR1NRMkxxVlUxTWJFNWxnODZvQktlVGN1b2M",
-          "author": null,
-          "description": "What’s Your Favorite Linux File Manager?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWFdTeXljRnR3MndURnpSSnVzVjlOXzN4aXF5QWIxdHI5NkRUSUhqQ3NWenh5Vm9iSVJTS3lRcl9ULWQ0aDRQdERJQVVXOU12UVBwRTV2WlN6eXRiYndmSnlRR1NRMkxxVlUxTWJFNWxnODZvQktlVGN1b2M?oc=5",
-          "publishedOn": "2024-09-25T11:24:38.000Z",
-          "wordCount": 12515,
-          "title": "What’s Your Favorite Linux File Manager? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxOcHRtSVJCb3dIM1NvTFNLb2Z5dWFXWmlUOFRENGxDNWh2RDNVSXF5VHA0dm04SFRaTnRsaE9oWkhsYTRJUFhRQUxMaEtaelRtZGpVV2NZMC1JcTgzQ1V0U1d4VHMycnduWlZfZ1J3RWJ3YkVvaG1yYVAtZHgxdF9XX3RFOA",
-          "author": null,
-          "description": "Essential Linux Security Practices | by Karthikeyan Nagaraj | Sep, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHRtSVJCb3dIM1NvTFNLb2Z5dWFXWmlUOFRENGxDNWh2RDNVSXF5VHA0dm04SFRaTnRsaE9oWkhsYTRJUFhRQUxMaEtaelRtZGpVV2NZMC1JcTgzQ1V0U1d4VHMycnduWlZfZ1J3RWJ3YkVvaG1yYVAtZHgxdF9XX3RFOA?oc=5",
-          "publishedOn": "2024-09-25T10:38:17.000Z",
-          "wordCount": 12515,
-          "title": "Essential Linux Security Practices | by Karthikeyan Nagaraj | Sep, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTFBVRWp1TGxzaWM4RGFlczBUcVRuRldCYm1KLVZSbHNKS3ZEWlRIa045UFRFTkRXUmlFQ1NtOTg5d2NWeXBBbWlrUFF6dEMyaEllVDhtZ0VyYw",
-          "author": null,
-          "description": "Linux 6.12 NFS Adds LOCALIO Protocol For \"Extreme\" Performance Boost  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVRWp1TGxzaWM4RGFlczBUcVRuRldCYm1KLVZSbHNKS3ZEWlRIa045UFRFTkRXUmlFQ1NtOTg5d2NWeXBBbWlrUFF6dEMyaEllVDhtZ0VyYw?oc=5",
-          "publishedOn": "2024-09-25T10:36:00.000Z",
-          "wordCount": 12515,
-          "title": "Linux 6.12 NFS Adds LOCALIO Protocol For \"Extreme\" Performance Boost - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVEFVX3lxTFByZE9UdEkzQlJOWk5TTHVUM2o3djNmUE15ZTJ5MEE4N2NjUmUyR2hISFBHTVFsXzJVTDBYNjM2bXk3XzhjZHNieE9YaFpPUkhPbUtpVQ",
-          "author": null,
-          "description": "Fwupd 1.9.25 Supports Firmware Updates For A Few More Devices Under Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByZE9UdEkzQlJOWk5TTHVUM2o3djNmUE15ZTJ5MEE4N2NjUmUyR2hISFBHTVFsXzJVTDBYNjM2bXk3XzhjZHNieE9YaFpPUkhPbUtpVQ?oc=5",
-          "publishedOn": "2024-09-25T10:17:00.000Z",
-          "wordCount": 12515,
-          "title": "Fwupd 1.9.25 Supports Firmware Updates For A Few More Devices Under Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipwFBVV95cUxOdmhVczJRQXFIeXYwdGxvZW1jMUhjYkNpUlhZRWtxclZBS1ZpWE9FQ0J2R05VM0VwVDlUV0g0RzhabjNaU3hfdlJtWS15YjgyYlJqQ2lRRFJZWmJJdjFnQmFZaVBDc04zbnJGVGdwaVlUWDE1Qmx2ZmhwTWJ5MUJWNDdISDIweVFmenJ2dTdTMVp2Si1nVENhTEtpb3RnaUxOT0gxXzVlcw",
-          "author": null,
-          "description": "Arch Linux-based Liya 2.1 rolls out with the 6.11.0-1 kernel  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmhVczJRQXFIeXYwdGxvZW1jMUhjYkNpUlhZRWtxclZBS1ZpWE9FQ0J2R05VM0VwVDlUV0g0RzhabjNaU3hfdlJtWS15YjgyYlJqQ2lRRFJZWmJJdjFnQmFZaVBDc04zbnJGVGdwaVlUWDE1Qmx2ZmhwTWJ5MUJWNDdISDIweVFmenJ2dTdTMVp2Si1nVENhTEtpb3RnaUxOT0gxXzVlcw?oc=5",
-          "publishedOn": "2024-09-25T09:56:15.000Z",
-          "wordCount": 12515,
-          "title": "Arch Linux-based Liya 2.1 rolls out with the 6.11.0-1 kernel - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwAFBVV95cUxOdENiSFVxQy1CU2t1c2tQYW9HdnA2VjB0T2VjSDVPVDdUeXJLcW9xWFJ5YmlBaldya0hQZ2swMnhqQk51YzFJSHl0VVNVcGFRMDVIR2NJanJ0MGthSmpULUg1RDNxTTNxcmZYZkhROXE2YURvNkMwdkstal9jRlY1WFRLUk50aW5mcVl2cDNxNzVzVkVqNkRyWFhyTUczZEtkNDdoYWZObW5NaHR4Sm41SV9FeEhDTFZmU3B2YzB4eDQ",
-          "author": null,
-          "description": "Cross-platform Nexus Mods app adds support for Mod Collections, fixes REDmod on Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdENiSFVxQy1CU2t1c2tQYW9HdnA2VjB0T2VjSDVPVDdUeXJLcW9xWFJ5YmlBaldya0hQZ2swMnhqQk51YzFJSHl0VVNVcGFRMDVIR2NJanJ0MGthSmpULUg1RDNxTTNxcmZYZkhROXE2YURvNkMwdkstal9jRlY1WFRLUk50aW5mcVl2cDNxNzVzVkVqNkRyWFhyTUczZEtkNDdoYWZObW5NaHR4Sm41SV9FeEhDTFZmU3B2YzB4eDQ?oc=5",
-          "publishedOn": "2024-09-25T09:53:38.000Z",
-          "wordCount": 12515,
-          "title": "Cross-platform Nexus Mods app adds support for Mod Collections, fixes REDmod on Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxNOXpBWGl5aDhoYUN0dHFTZXd1TUtDeXJta0NwTHlIMmJ3bmFvWTFGdjI3OVFBQTZNSDk3bHItc0RpR3UtU3EzNUFWODk2MTRmZWNPbUxtRnRpbWZFUU9WbXFJZFc4aGJuc1NlbURTbjB4amw5UU00NkFJZ0FZRkw1a1FSZUtQM0E1VnFJWmp2ZGswUFJwdWc",
-          "author": null,
-          "description": "Bloke gets Linux to run on a 1971 processor  Fudzilla",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXpBWGl5aDhoYUN0dHFTZXd1TUtDeXJta0NwTHlIMmJ3bmFvWTFGdjI3OVFBQTZNSDk3bHItc0RpR3UtU3EzNUFWODk2MTRmZWNPbUxtRnRpbWZFUU9WbXFJZFc4aGJuc1NlbURTbjB4amw5UU00NkFJZ0FZRkw1a1FSZUtQM0E1VnFJWmp2ZGswUFJwdWc?oc=5",
-          "publishedOn": "2024-09-25T09:29:00.000Z",
-          "wordCount": 12515,
-          "title": "Bloke gets Linux to run on a 1971 processor - Fudzilla",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxOUDFwalZnakRUaXFGdzhUZEtKdjk0b1QyQk1XY0FmaXVaellHeXNwUENkcG13eFBnR1VBRzdHOWtoZHhoQzc1VUdzLUpCX1VKMTFZa29jdGN6U1pFaTQyR3hyRGpRb2ZyemZIUmhyaEdhY2tvQmJ6bm5qSVZzYkhTQ0MyRGh4THlLLW9sYUxR",
-          "author": null,
-          "description": "Windows malware expands its reach, now targeting Linux systems  Tech Edition",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFwalZnakRUaXFGdzhUZEtKdjk0b1QyQk1XY0FmaXVaellHeXNwUENkcG13eFBnR1VBRzdHOWtoZHhoQzc1VUdzLUpCX1VKMTFZa29jdGN6U1pFaTQyR3hyRGpRb2ZyemZIUmhyaEdhY2tvQmJ6bm5qSVZzYkhTQ0MyRGh4THlLLW9sYUxR?oc=5",
-          "publishedOn": "2024-09-25T07:17:02.000Z",
-          "wordCount": 12515,
-          "title": "Windows malware expands its reach, now targeting Linux systems - Tech Edition",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE1KVU5FZ3hZMWkwY19UcHhkMG5CZTZ3U2pzMTR0Ykk2cl8teTAzTVAzaUJRNFRTMm9zUk1QWkpYWGVHZjQyRFZJY042ZUdOOFY3eWFPTnhYSWRaM2dWWkMwQnlKR2dVcGZwcEE",
-          "author": null,
-          "description": "Intel Lunar Lake Linux Benchmarks Are Still Forthcoming  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KVU5FZ3hZMWkwY19UcHhkMG5CZTZ3U2pzMTR0Ykk2cl8teTAzTVAzaUJRNFRTMm9zUk1QWkpYWGVHZjQyRFZJY042ZUdOOFY3eWFPTnhYSWRaM2dWWkMwQnlKR2dVcGZwcEE?oc=5",
-          "publishedOn": "2024-09-25T04:00:00.000Z",
-          "wordCount": 12515,
-          "title": "Intel Lunar Lake Linux Benchmarks Are Still Forthcoming - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxNS2VxX01LTDNBSXB5N3RmYlU2RUR4bFphNjdVR3RXRXZLYk5xdEZ5ekNUX0dpcnNzNm5iZDE4aG85VmlSb3dJODNBYjgtbEQ2ZXM0X1FsRXJQNUoxRVpGSno5YU0wbXpDNzhCN1RQaWgwaVVVOHFld1dBdUlUOHdaMUdWZnkzTm9KSFU0RlpDZVgwSXhMUVJCTlZR",
-          "author": null,
-          "description": "Hacker miraculously gets an Intel 4004 to run Linux, takes about five days to boot  TechSpot",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2VxX01LTDNBSXB5N3RmYlU2RUR4bFphNjdVR3RXRXZLYk5xdEZ5ekNUX0dpcnNzNm5iZDE4aG85VmlSb3dJODNBYjgtbEQ2ZXM0X1FsRXJQNUoxRVpGSno5YU0wbXpDNzhCN1RQaWgwaVVVOHFld1dBdUlUOHdaMUdWZnkzTm9KSFU0RlpDZVgwSXhMUVJCTlZR?oc=5",
-          "publishedOn": "2024-09-24T21:34:00.000Z",
-          "wordCount": 12518,
-          "title": "Hacker miraculously gets an Intel 4004 to run Linux, takes about five days to boot - TechSpot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE9kT0hCRm9GMmRzSUVTV2JJMXBGSUJXWm1RLW1BT21KRF91SG9VNlpaUUk0ZnVNcnBtS2U0cWt5YUlCbGVjRmlHc25RSlJfRmp5UFNieWUtX2RMLXpVZEhwcjVYYllMQms",
-          "author": null,
-          "description": "NVIDIA Mellanox Linux Driver Spearheads Multi-Path PCI As \"A Sign Of Things To Come\"  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kT0hCRm9GMmRzSUVTV2JJMXBGSUJXWm1RLW1BT21KRF91SG9VNlpaUUk0ZnVNcnBtS2U0cWt5YUlCbGVjRmlHc25RSlJfRmp5UFNieWUtX2RMLXpVZEhwcjVYYllMQms?oc=5",
-          "publishedOn": "2024-09-24T20:30:00.000Z",
-          "wordCount": 12518,
-          "title": "NVIDIA Mellanox Linux Driver Spearheads Multi-Path PCI As \"A Sign Of Things To Come\" - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxNUjZ0eV9NODk2TW5QZGFlSDJGQVk0aFdDU2ZQZF8weEc3VUl3eHJTZ2FIV2RnY21hb0tzZXk2cmpqLVVNRGVWUmtTSmZsSVJ1dVJ3eWdORnIxeGphRlJINnQyS2d2Q3o2UlExMWRHYkJHa0F2V21XN2lCSlpqYzZ2QlVkVDJHeVNpNnhVbkxxNXJTeXB1c0xNYWRoUHlKcmJE",
-          "author": null,
-          "description": "This Windows malware is now evolving to target Linux systems  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjZ0eV9NODk2TW5QZGFlSDJGQVk0aFdDU2ZQZF8weEc3VUl3eHJTZ2FIV2RnY21hb0tzZXk2cmpqLVVNRGVWUmtTSmZsSVJ1dVJ3eWdORnIxeGphRlJINnQyS2d2Q3o2UlExMWRHYkJHa0F2V21XN2lCSlpqYzZ2QlVkVDJHeVNpNnhVbkxxNXJTeXB1c0xNYWRoUHlKcmJE?oc=5",
-          "publishedOn": "2024-09-24T18:34:00.000Z",
-          "wordCount": 12518,
-          "title": "This Windows malware is now evolving to target Linux systems - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi0wFBVV95cUxNanZfZFdUVDJ4R0F2M3UwRDRYRXpzZkN6a0VDMU9hcUx4YzJMNHdGSk1YLUxkdFoyNkVWSjZickVQQ3hSM2t5NEYzam5feVlYWERjVUJLa1JCdlk2YUszWi0yZ0FlU0NnNHUyUHJIcVp3czlnLVZHQjQ1ajNxUnpONXM0a0E4bWRzT1l0b3pIaW51ajQ0VnhUdWJDS3ZhRzhTZTBfeUM4V2JyQXN6cG5XUVNtenZJSERVdEU1cUVZcGZGN3A1VjU0TW5hcjd4NjVjMmVj",
-          "author": null,
-          "description": "Linux takes 4.76 days to boot on an ancient Intel 4004 CPU — CPU precedes the OS by 20 years  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNanZfZFdUVDJ4R0F2M3UwRDRYRXpzZkN6a0VDMU9hcUx4YzJMNHdGSk1YLUxkdFoyNkVWSjZickVQQ3hSM2t5NEYzam5feVlYWERjVUJLa1JCdlk2YUszWi0yZ0FlU0NnNHUyUHJIcVp3czlnLVZHQjQ1ajNxUnpONXM0a0E4bWRzT1l0b3pIaW51ajQ0VnhUdWJDS3ZhRzhTZTBfeUM4V2JyQXN6cG5XUVNtenZJSERVdEU1cUVZcGZGN3A1VjU0TW5hcjd4NjVjMmVj?oc=5",
-          "publishedOn": "2024-09-24T18:19:01.000Z",
-          "wordCount": 12518,
-          "title": "Linux takes 4.76 days to boot on an ancient Intel 4004 CPU — CPU precedes the OS by 20 years - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxQczlfSVN6dzBhZW9KNHRJLWd0WTl3Ykcwc3VXTXdaRW1HbG51SU5hZkpJeFUyYVljcXhwNzJtVU9OcEk3M2R6dHdzUndQb1JheF9EbTRqWXFqbWQzOVBEeS1HY3FYcFM2MEpKN1dIMDBfUmp3bTdCVXdLUkhwUWY5V0E3Y3I",
-          "author": null,
-          "description": "Microsoft Open Sources OpenHCL, a Linux-Based ‘Paravisor’  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczlfSVN6dzBhZW9KNHRJLWd0WTl3Ykcwc3VXTXdaRW1HbG51SU5hZkpJeFUyYVljcXhwNzJtVU9OcEk3M2R6dHdzUndQb1JheF9EbTRqWXFqbWQzOVBEeS1HY3FYcFM2MEpKN1dIMDBfUmp3bTdCVXdLUkhwUWY5V0E3Y3I?oc=5",
-          "publishedOn": "2024-09-24T18:07:49.000Z",
-          "wordCount": 12518,
-          "title": "Microsoft Open Sources OpenHCL, a Linux-Based ‘Paravisor’ - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE9aaGJXWHBYMWdRalVvT1NTZzkxSHhWZjM4NTZEaVpsVUI1Z19faEdueUE4NXNmU0J6YjZyYjZ6ZVVsWU4ySENXYWhQdlZZUVZPbUpDVGxOTjJKVGNBZW9aREgzSVREOHBoMks5SA",
-          "author": null,
-          "description": "NVIDIA Publishes Open-Source Linux Driver Code For GPU Virtualization \"vGPU\" Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaGJXWHBYMWdRalVvT1NTZzkxSHhWZjM4NTZEaVpsVUI1Z19faEdueUE4NXNmU0J6YjZyYjZ6ZVVsWU4ySENXYWhQdlZZUVZPbUpDVGxOTjJKVGNBZW9aREgzSVREOHBoMks5SA?oc=5",
-          "publishedOn": "2024-09-24T17:32:00.000Z",
-          "wordCount": 12518,
-          "title": "NVIDIA Publishes Open-Source Linux Driver Code For GPU Virtualization \"vGPU\" Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi3wFBVV95cUxPWW9ONUpKQkdXVEI4R2pkSVJkSmlBMWNtU2tGYlFiaHNtMDVfT2FESlBpX1RxU2J4azlQdGNVUlA0OWNGc3Y3Uk1UcVlYNUhxdU92em91WGdLNU1IaTFFLUdoZGJMbHlreWstUVlxN2pIVGJ3MzBRQzZBaXF0dWt3WXNxazlOQkVLTEpaU2V6cG9pbkFXbkxIS2NOTUh5OW1hZUZwUC0yTGszOFVhVHRmM05hMThSOFhaUVVxYUxTa043SFA2OWRMdmxOTFEzdEVBZ19YWDZRcnA0OUFLNFFj",
-          "author": null,
-          "description": "Hacking wizard gets Linux to run on a 1971 processor, though it takes almost 5 days to boot the kernel  PC Gamer",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW9ONUpKQkdXVEI4R2pkSVJkSmlBMWNtU2tGYlFiaHNtMDVfT2FESlBpX1RxU2J4azlQdGNVUlA0OWNGc3Y3Uk1UcVlYNUhxdU92em91WGdLNU1IaTFFLUdoZGJMbHlreWstUVlxN2pIVGJ3MzBRQzZBaXF0dWt3WXNxazlOQkVLTEpaU2V6cG9pbkFXbkxIS2NOTUh5OW1hZUZwUC0yTGszOFVhVHRmM05hMThSOFhaUVVxYUxTa043SFA2OWRMdmxOTFEzdEVBZ19YWDZRcnA0OUFLNFFj?oc=5",
-          "publishedOn": "2024-09-24T15:14:04.000Z",
-          "wordCount": 12518,
-          "title": "Hacking wizard gets Linux to run on a 1971 processor, though it takes almost 5 days to boot the kernel - PC Gamer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE9WTTNFX0JERnFENmtSUTR3VVBjWDZDaUpBdkpwZXpXVzFQYzdWRndLNXljVDdEeFJxdWptZU1nTktXYkNpd3BXUkdGNHJEOGJhdVNPNjBCVEVGNFhzYl9iOGVPMWtHRTJrMzFGdw",
-          "author": null,
-          "description": "Intel Xeon 6980P \"Granite Rapids\" Linux Benchmarks Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTTNFX0JERnFENmtSUTR3VVBjWDZDaUpBdkpwZXpXVzFQYzdWRndLNXljVDdEeFJxdWptZU1nTktXYkNpd3BXUkdGNHJEOGJhdVNPNjBCVEVGNFhzYl9iOGVPMWtHRTJrMzFGdw?oc=5",
-          "publishedOn": "2024-09-24T15:00:00.000Z",
-          "wordCount": 12518,
-          "title": "Intel Xeon 6980P \"Granite Rapids\" Linux Benchmarks Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE4xTzZTaVNqQkMtYnM0Rnk2OFdXUkxxNndhWXpGeEFZZDNqN3JCU0NhQlFqa0M2bFFkMmdvZU9Wd1dDYms2ck9Kbl9xakJNUk91LXpGcUxoODdodnVmQ0g1aklTRE11a28xcE9VMA",
-          "author": null,
-          "description": "Intel Gaudi 3 Linux Driver Support Expected Next Month  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTzZTaVNqQkMtYnM0Rnk2OFdXUkxxNndhWXpGeEFZZDNqN3JCU0NhQlFqa0M2bFFkMmdvZU9Wd1dDYms2ck9Kbl9xakJNUk91LXpGcUxoODdodnVmQ0g1aklTRE11a28xcE9VMA?oc=5",
-          "publishedOn": "2024-09-24T15:00:00.000Z",
-          "wordCount": 12518,
-          "title": "Intel Gaudi 3 Linux Driver Support Expected Next Month - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMisAFBVV95cUxOYUlibHZ3ajlhZlJHSU9oWHN3SzFRcThwck1jakRwb3pHeUtkOFYwZGVNdmRpdjVRc19hWmMyaEVFbmQ2TURNR1RrYUY2YlI4ZDRYSnpjSHN2S1BfOGx1TXoySWowd1oxczJjZkRzLXdmaU5CQm9ZZ1p3cWllSHJZWU15cUEtNGxDMXhOX1lhbjdJQXk1VUU2Rmh1RXk1M1hPM0xUUC00RnYxaEtuTy14bw",
-          "author": null,
-          "description": "Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlibHZ3ajlhZlJHSU9oWHN3SzFRcThwck1jakRwb3pHeUtkOFYwZGVNdmRpdjVRc19hWmMyaEVFbmQ2TURNR1RrYUY2YlI4ZDRYSnpjSHN2S1BfOGx1TXoySWowd1oxczJjZkRzLXdmaU5CQm9ZZ1p3cWllSHJZWU15cUEtNGxDMXhOX1lhbjdJQXk1VUU2Rmh1RXk1M1hPM0xUUC00RnYxaEtuTy14bw?oc=5",
-          "publishedOn": "2024-09-24T14:46:46.000Z",
-          "wordCount": 12518,
-          "title": "Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiyAFBVV95cUxQVXFRenNTVDUxS29NZlJuaEY5d3NKY1VWQ0M3U1NQaHVJUXEyN2dWbENkSFQtSjZyTVBsNkRXOGpVOFF5dk81c1oxN1RGSENoOTU1c3RuUFBhMjZ5TE96RWNKdFZCZzhOYy12V1VWbFFITmptSUlNYkdsNFdPbHV3N0NVX0JJbU1EQjlIODgzUWRYZnNDeDh3SkRvMEtac2owSjQ2eHQ4U0FNY1JmVDVEbWxwalFCZDFaY25xdlVjaHI3d01HQ2JaSA",
-          "author": null,
-          "description": "SK hynix Brings CXL Optimization Software HMSDK to Linux for Enhanced AI Memory Performance  HPCwire",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXFRenNTVDUxS29NZlJuaEY5d3NKY1VWQ0M3U1NQaHVJUXEyN2dWbENkSFQtSjZyTVBsNkRXOGpVOFF5dk81c1oxN1RGSENoOTU1c3RuUFBhMjZ5TE96RWNKdFZCZzhOYy12V1VWbFFITmptSUlNYkdsNFdPbHV3N0NVX0JJbU1EQjlIODgzUWRYZnNDeDh3SkRvMEtac2owSjQ2eHQ4U0FNY1JmVDVEbWxwalFCZDFaY25xdlVjaHI3d01HQ2JaSA?oc=5",
-          "publishedOn": "2024-09-24T14:28:36.000Z",
-          "wordCount": 12518,
-          "title": "SK hynix Brings CXL Optimization Software HMSDK to Linux for Enhanced AI Memory Performance - HPCwire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9019,6 +8989,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382065",
+          "author": "Geoff Graham",
+          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
+          "publishedOn": "2024-10-24T14:05:56.000Z",
+          "wordCount": 1480,
+          "title": "You can use text-wrap: balance; on icons",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
+        },
+        {
           "id": "https://css-tricks.com/?p=382008",
           "author": "Zell Liew",
           "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -9247,16 +9227,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381060"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381068",
-          "author": "Geoff Graham",
-          "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/color-mixing-with-animation-composition/",
-          "publishedOn": "2024-09-24T18:22:01.000Z",
-          "wordCount": 1866,
-          "title": "Color Mixing With Animation Composition",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
         }
       ]
     },
@@ -9392,6 +9362,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671a85db0db570158155ec00",
+          "author": "Ankur Tyagi",
+          "description": "Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...",
+          "link": "https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/",
+          "publishedOn": "2024-10-24T17:37:31.000Z",
+          "wordCount": 5197,
+          "title": "How to Implement Fine-Grained Authorization in Java and SpringBoot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783227124/9725e8cf-553d-42c3-a823-5215e8d4d0e9.png"
+        },
+        {
+          "id": "671a6769ad3ef266b980f1f7",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into the world of full-stack web development and AI-powered applications? This comprehensive tutorial takes you through the exciting process of building and deploying an intelligent, fully-featured email client from scratch. Usi...",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/",
+          "publishedOn": "2024-10-24T15:27:37.000Z",
+          "wordCount": 1329,
+          "title": "Code a Full Stack AI-Powered Email SaaS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783635668/eaaebc91-0673-4e10-818a-46091872d887.png"
+        },
+        {
+          "id": "671a661b1687492df2d18436",
+          "author": "Beau Carnes",
+          "description": "We've just released a comprehensive course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Digital Leader certification exam – and it's completely free. This in-depth course, created by cloud expert Andrew Brown, is d...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-and-pass-the-google-cloud-digital-leader-certification-exam/",
+          "publishedOn": "2024-10-24T15:22:03.000Z",
+          "wordCount": 1300,
+          "title": "Prepare For and Pass the Google Cloud Digital Leader Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783303497/1b442dbf-9474-4a71-adab-fc8b6aa8ebb9.png"
+        },
+        {
+          "id": "671a63a2c56e050e75cb0298",
+          "author": "Manish Shivanandhan",
+          "description": "Ethical hacking involves testing and finding vulnerabilities in systems. But doing this on live networks or public servers can lead to accidental damage. Setting up a virtual lab for hacking is a great way to sharpen your skills in a safe environment...",
+          "link": "https://www.freecodecamp.org/news/build-a-private-hacking-lab-with-virtualbox/",
+          "publishedOn": "2024-10-24T15:11:30.000Z",
+          "wordCount": 1967,
+          "title": "How to Build Your Own Private Hacking Lab with VirtualBox",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729751281544/6500642d-4c1e-4dba-b5d0-ab97f9f10003.jpeg"
+        },
+        {
+          "id": "671a62b68210490d9d68e83f",
+          "author": "Danny",
+          "description": "The SOLID Principles are five software design principles that help you to write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand these five...",
+          "link": "https://www.freecodecamp.org/news/what-are-the-solid-principles-in-csharp/",
+          "publishedOn": "2024-10-24T15:07:34.000Z",
+          "wordCount": 4131,
+          "title": "What are the SOLID Principles in C#? Explained With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729777076695/7d956373-1835-4823-9a6a-d2d232cd64d5.png"
+        },
+        {
+          "id": "671a5f1685689d5790d302c5",
+          "author": "Sanjay R",
+          "description": "CRUD operations are the basis of every application, so it is essential to become proficient in them when learning new technologies. In this tutorial, you’ll learn how to build a CRUD application using React and Convex. We’ll cover these operations by...",
+          "link": "https://www.freecodecamp.org/news/build-crud-app-react-and-convex/",
+          "publishedOn": "2024-10-24T14:52:06.000Z",
+          "wordCount": 3638,
+          "title": "How to Build a CRUD Application using React and Convex",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729397399755/9c747607-fa82-4caf-9c20-8e64ec82c3f2.jpeg"
+        },
+        {
+          "id": "671a57eebe723181116c2f10",
+          "author": "Bello Joseph",
+          "description": "JavaScript is a widely used programming language for creating client-side and server-side applications. Its use cases go beyond web development, as JavaScript is also used in mobile app development and artificial intelligence. This makes JavaScript a...",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-javascript-applications/",
+          "publishedOn": "2024-10-24T14:21:34.000Z",
+          "wordCount": 3879,
+          "title": "How to Secure JavaScript Applications: Common Vulnerabilities and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729618116705/41f6dfda-4563-4333-88ad-733238d86ec1.png"
+        },
+        {
+          "id": "671a576a1d53cf0b6813a51c",
+          "author": "Syeda Maham Fahim",
+          "description": "Have you ever worked with numbers like 1/3, where the result is 0.33333… and continues forever? As humans, we naturally round off such numbers, but have you ever wondered how computers handle them? In this article, you’ll explore how computers manage...",
+          "link": "https://www.freecodecamp.org/news/what-is-a-floating-point-arithmetic-problem/",
+          "publishedOn": "2024-10-24T14:19:22.000Z",
+          "wordCount": 2033,
+          "title": "What is a Floating-Point Arithmetic Problem?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729588035734/9824633d-727a-49ce-9080-0fa3a7b18ed6.jpeg"
+        },
+        {
+          "id": "671a491036e11cfa5033debb",
+          "author": "Hang Hu",
+          "description": "In this hands-on tutorial, you'll learn how to harness the power of Netcat to build practical networking tools. We’ll start with basic message transmission. Then you'll progress to creating a file transfer system, and you’ll ultimately develop a secu...",
+          "link": "https://www.freecodecamp.org/news/build-a-simple-secure-chat-system-with-netcat/",
+          "publishedOn": "2024-10-24T13:18:08.000Z",
+          "wordCount": 2468,
+          "title": "How to Build a Simple Secure Chat System Using Netcat",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729729356682/acf8ca42-3aaa-4ca1-9ebc-10f0f658c678.png"
+        },
         {
           "id": "671955939f7c056f46dd8604",
           "author": "Timothy Olanrewaju",
@@ -10181,36 +10241,6 @@
           "wordCount": 2925,
           "title": "Learn React Hooks – Common Hooks Explained with Code Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727212733982/7c9b8ae3-e8ac-4e20-b154-7edc60a6985a.avif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
-          "author": "Obum",
-          "description": "Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...",
-          "link": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
-          "publishedOn": "2024-09-25T09:49:36.000Z",
-          "wordCount": 4545,
-          "title": "How to Use Streams and Services for Flutter State",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727130776096/a52147fe-e05a-45e7-af73-9f7a9a8510b5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
-          "author": "Alex Pliutau",
-          "description": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
-          "publishedOn": "2024-09-24T16:24:22.000Z",
-          "wordCount": 2927,
-          "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727195039014/02f3c2f4-1eb7-4fd6-9701-15fdee2f6849.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-cuda-programming/",
-          "author": "Beau Carnes",
-          "description": "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...",
-          "link": "https://www.freecodecamp.org/news/learn-cuda-programming/",
-          "publishedOn": "2024-09-24T15:08:44.000Z",
-          "wordCount": 1292,
-          "title": "Learn CUDA Programming",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727210236521/60c4ef6e-3101-4c2d-a574-7099f8377b91.jpeg"
         }
       ]
     }

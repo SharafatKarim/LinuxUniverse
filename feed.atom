@@ -2,10 +2,353 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SharafatKarim.github.io/LinuxHeadlines/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T01:47:22.513Z</updated>
+    <updated>2024-10-25T01:48:29.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://SharafatKarim.github.io/LinuxHeadlines/index.html"/>
     <link rel="self" href="https://SharafatKarim.github.io/LinuxHeadlines/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193761</id>
+        <link href="https://www.linuxtoday.com/blog/pipewire-1-2-6-released-with-focus-on-jack-and-bluetooth-stability/"/>
+        <updated>2024-10-24T23:47:00.000Z</updated>
+        <summary type="html"><![CDATA[PipeWire 1.2.6 bugfix release resolves issues with filter-chain param aggregation and JACK IO ports and improves Bluetooth stability.
+The post PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fstab Options: What Are They, and When Should You Use Them?]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193756</id>
+        <link href="https://www.linuxtoday.com/blog/fstab-options-what-are-they-and-when-should-you-use-them/"/>
+        <updated>2024-10-24T21:44:55.000Z</updated>
+        <summary type="html"><![CDATA[What is fstab in Lunix? What are fstab options, and when should you use them? Our latest tutorial covers all the fstab details and everything you need to know about this file. Let’s get straight into it.
+The post Fstab Options: What Are They, and When Should You Use Them? appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Useful X-window (GUI Based) Linux Commands]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193755</id>
+        <link href="https://www.linuxtoday.com/blog/11-useful-x-window-gui-based-linux-commands/"/>
+        <updated>2024-10-24T19:43:58.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will provide a few X-based commands that are generally available in most standard distributions today. If you find that any of the X-based commands listed below are not installed on your system, you can always use apt or yum to install the required packages.
+The post 11 Useful X-window (GUI Based) Linux Commands appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removal of Russian coders spurs debate about Linux kernel’s politics - Ars Technica]]></title>
+        <id>CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ</id>
+        <link href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ?oc=5"/>
+        <updated>2024-10-24T18:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Removal of Russian coders spurs debate about Linux kernel’s politics  Ars Technica]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’ - Tom's Hardware]]></title>
+        <id>CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ</id>
+        <link href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ?oc=5"/>
+        <updated>2024-10-24T17:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’  Tom's Hardware]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use diff3 Command for File Merging in Linux]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193754</id>
+        <link href="https://www.linuxtoday.com/blog/how-to-use-diff3-command-for-file-merging-in-linux/"/>
+        <updated>2024-10-24T17:42:24.000Z</updated>
+        <summary type="html"><![CDATA[The diff3 command in Linux is a helpful tool that compares three files and shows their differences, which is mainly useful for programmers and system administrators who work with multiple versions of the same file and need to merge them, or identify changes between different versions. In this article, we’ll go through the basics of […]
+The post How to Use diff3 Command for File Merging in Linux appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Fine-Grained Authorization in Java and SpringBoot]]></title>
+        <id>671a85db0db570158155ec00</id>
+        <link href="https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/"/>
+        <updated>2024-10-24T17:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers - SecurityWeek]]></title>
+        <id>CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM</id>
+        <link href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM?oc=5"/>
+        <updated>2024-10-24T17:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers  SecurityWeek]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to examine files on Linux - Network World]]></title>
+        <id>CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ</id>
+        <link href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ?oc=5"/>
+        <updated>2024-10-24T16:49:33.000Z</updated>
+        <summary type="html"><![CDATA[How to examine files on Linux  Network World]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Full Stack AI-Powered Email SaaS]]></title>
+        <id>671a6769ad3ef266b980f1f7</id>
+        <link href="https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/"/>
+        <updated>2024-10-24T15:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the world of full-stack web development and AI-powered applications? This comprehensive tutorial takes you through the exciting process of building and deploying an intelligent, fully-featured email client from scratch. Usi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12 - Electropages]]></title>
+        <id>CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA</id>
+        <link href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA?oc=5"/>
+        <updated>2024-10-24T15:22:11.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12  Electropages]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare For and Pass the Google Cloud Digital Leader Certification Exam]]></title>
+        <id>671a661b1687492df2d18436</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-and-pass-the-google-cloud-digital-leader-certification-exam/"/>
+        <updated>2024-10-24T15:22:03.000Z</updated>
+        <summary type="html"><![CDATA[We've just released a comprehensive course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Digital Leader certification exam – and it's completely free. This in-depth course, created by cloud expert Andrew Brown, is d...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Private Hacking Lab with VirtualBox]]></title>
+        <id>671a63a2c56e050e75cb0298</id>
+        <link href="https://www.freecodecamp.org/news/build-a-private-hacking-lab-with-virtualbox/"/>
+        <updated>2024-10-24T15:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Ethical hacking involves testing and finding vulnerabilities in systems. But doing this on live networks or public servers can lead to accidental damage. Setting up a virtual lab for hacking is a great way to sharpen your skills in a safe environment...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions - The Insider]]></title>
+        <id>CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw</id>
+        <link href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw?oc=5"/>
+        <updated>2024-10-24T15:09:09.000Z</updated>
+        <summary type="html"><![CDATA[“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions  The Insider]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the SOLID Principles in C#? Explained With Code Examples]]></title>
+        <id>671a62b68210490d9d68e83f</id>
+        <link href="https://www.freecodecamp.org/news/what-are-the-solid-principles-in-csharp/"/>
+        <updated>2024-10-24T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[The SOLID Principles are five software design principles that help you to write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand these five...]]></summary>
+        <author>
+            <name>Danny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core Ultra 9 285K "Arrow Lake" Delivers Strong Linux Performance Review - Phoronix]]></title>
+        <id>CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3</id>
+        <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3?oc=5"/>
+        <updated>2024-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel Core Ultra 9 285K "Arrow Lake" Delivers Strong Linux Performance Review  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a CRUD Application using React and Convex]]></title>
+        <id>671a5f1685689d5790d302c5</id>
+        <link href="https://www.freecodecamp.org/news/build-crud-app-react-and-convex/"/>
+        <updated>2024-10-24T14:52:06.000Z</updated>
+        <summary type="html"><![CDATA[CRUD operations are the basis of every application, so it is essential to become proficient in them when learning new technologies. In this tutorial, you’ll learn how to build a CRUD application using React and Convex. We’ll cover these operations by...]]></summary>
+        <author>
+            <name>Sanjay R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed “traceroute: command not found” in Linux]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193753</id>
+        <link href="https://www.linuxtoday.com/blog/fixed-traceroute-command-not-found-in-linux/"/>
+        <updated>2024-10-24T14:35:33.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to solve the “traceroute: command not found” error on Linux by applying a simple solution.
+The post Fixed “traceroute: command not found” in Linux appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure JavaScript Applications: Common Vulnerabilities and Best Practices]]></title>
+        <id>671a57eebe723181116c2f10</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-javascript-applications/"/>
+        <updated>2024-10-24T14:21:34.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a widely used programming language for creating client-side and server-side applications. Its use cases go beyond web development, as JavaScript is also used in mobile app development and artificial intelligence. This makes JavaScript a...]]></summary>
+        <author>
+            <name>Bello Joseph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Floating-Point Arithmetic Problem?]]></title>
+        <id>671a576a1d53cf0b6813a51c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-floating-point-arithmetic-problem/"/>
+        <updated>2024-10-24T14:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever worked with numbers like 1/3, where the result is 0.33333… and continues forever? As humans, we naturally round off such numbers, but have you ever wondered how computers handle them? In this article, you’ll explore how computers manage...]]></summary>
+        <author>
+            <name>Syeda Maham Fahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can use text-wrap: balance; on icons]]></title>
+        <id>https://css-tricks.com/?p=382065</id>
+        <link href="https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/"/>
+        <updated>2024-10-24T14:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Terence Eden on using text-wrap: balance for more than headings:
+But the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at 
+…
+You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian linux kernel maintainers removed due to sanctions - Boing Boing]]></title>
+        <id>CBMinAFBVV95cUxNYWZBTVVTaUFrMEo3dnZrd3Y5V1dwVUVqSTFjd1VlMndHanpZM2l3UWhKeFpVSGFlNDI3M3pKTVZKVW9OaGhBQ0p1NW1ZNlo2T21EMUJIbUpzNldYQTBDczdQWTFacmdKUm5HWkVsYzU3TXMwXy1qVE1zby12NUNzaVZuN0hHRXVWWjdWTGJPVDQtdEFHbXMwTDJGekPSAaIBQVVfeXFMT1J2eU5LSVRYRUt4SGZOclZaZkhhbHZUNFRVMGNaaXUzOWhMZEtRclNsZ3JRS3B4Z3QtdVpBc3hMcVpjakF3RVg3aHdvUzdqUzhkWEdQMmJBM294eDZfTzhYajdLNTFySVo5OGhLdjdSVjBWQndQdjFwRlk0ZnlMTDhNNFQ3UlVkRG15THNmME1GRHlwLV9iZE9GWE1vSTJVbjlB</id>
+        <link href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWZBTVVTaUFrMEo3dnZrd3Y5V1dwVUVqSTFjd1VlMndHanpZM2l3UWhKeFpVSGFlNDI3M3pKTVZKVW9OaGhBQ0p1NW1ZNlo2T21EMUJIbUpzNldYQTBDczdQWTFacmdKUm5HWkVsYzU3TXMwXy1qVE1zby12NUNzaVZuN0hHRXVWWjdWTGJPVDQtdEFHbXMwTDJGekPSAaIBQVVfeXFMT1J2eU5LSVRYRUt4SGZOclZaZkhhbHZUNFRVMGNaaXUzOWhMZEtRclNsZ3JRS3B4Z3QtdVpBc3hMcVpjakF3RVg3aHdvUzdqUzhkWEdQMmJBM294eDZfTzhYajdLNTFySVo5OGhLdjdSVjBWQndQdjFwRlk0ZnlMTDhNNFQ3UlVkRG15THNmME1GRHlwLV9iZE9GWE1vSTJVbjlB?oc=5"/>
+        <updated>2024-10-24T13:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Russian linux kernel maintainers removed due to sanctions  Boing Boing]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple Secure Chat System Using Netcat]]></title>
+        <id>671a491036e11cfa5033debb</id>
+        <link href="https://www.freecodecamp.org/news/build-a-simple-secure-chat-system-with-netcat/"/>
+        <updated>2024-10-24T13:18:08.000Z</updated>
+        <summary type="html"><![CDATA[In this hands-on tutorial, you'll learn how to harness the power of Netcat to build practical networking tools. We’ll start with basic message transmission. Then you'll progress to creating a file transfer system, and you’ll ultimately develop a secu...]]></summary>
+        <author>
+            <name>Hang Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD EPYC 9755 Performance On The Linux 6.11 & Linux 6.12 Kernels - Phoronix]]></title>
+        <id>CBMia0FVX3lxTE9KU0k4TEE5RFlObWpnZ1phd3ZIUTFCR1l0NW9VQnJma0psbmR0Wk5PTnZZdndwQXRfZE5ia29sWDNxOTdwOEh4bkZOdkFlRG1HWDBfYkNiTi1mM1pQQjdJdnFteDNYXzVmTWNR</id>
+        <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9KU0k4TEE5RFlObWpnZ1phd3ZIUTFCR1l0NW9VQnJma0psbmR0Wk5PTnZZdndwQXRfZE5ia29sWDNxOTdwOEh4bkZOdkFlRG1HWDBfYkNiTi1mM1pQQjdJdnFteDNYXzVmTWNR?oc=5"/>
+        <updated>2024-10-24T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD EPYC 9755 Performance On The Linux 6.11 & Linux 6.12 Kernels  Phoronix]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install GCC on Ubuntu 24.04: A Step-By-Step Guide]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193752</id>
+        <link href="https://www.linuxtoday.com/blog/how-to-install-gcc-on-ubuntu-24-04-a-step-by-step-guide/"/>
+        <updated>2024-10-24T12:34:33.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn how to install GCC on Ubuntu, followed by writing and compiling basic C/C++ programs.
+The post How to Install GCC on Ubuntu 24.04: A Step-By-Step Guide appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux partnering with Task 53 of the IEA on bidirectional EV charging - Renewable Energy Magazine]]></title>
+        <id>CBMivgFBVV95cUxPamozYjkycXBKMnlpaXA0a05pREUtcnFxbzY4bHh3UXJQbWZiYWx5NGRodE5nNl8xQVBkckhJeXJWUFpGNFp1NEU3TXVDM09fOWY0NF9TT2pybTVzWTRaZTFHNmdPLWRScWs0aEZLTDZrbTdmZFhSSUNFemxRYnpyRWowU044Qkt2czB4TEExaHhjWGhNdjZXVjg2blFxSVZISDk5M0JmckZxcUdEMzUzdUVkbk9XU05kUGs3VHF3</id>
+        <link href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPamozYjkycXBKMnlpaXA0a05pREUtcnFxbzY4bHh3UXJQbWZiYWx5NGRodE5nNl8xQVBkckhJeXJWUFpGNFp1NEU3TXVDM09fOWY0NF9TT2pybTVzWTRaZTFHNmdPLWRScWs0aEZLTDZrbTdmZFhSSUNFemxRYnpyRWowU044Qkt2czB4TEExaHhjWGhNdjZXVjg2blFxSVZISDk5M0JmckZxcUdEMzUzdUVkbk9XU05kUGs3VHF3?oc=5"/>
+        <updated>2024-10-24T12:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Linux partnering with Task 53 of the IEA on bidirectional EV charging  Renewable Energy Magazine]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux starts banning Russian leading kernel developers - Mezha.Media]]></title>
+        <id>CBMikwFBVV95cUxQVGRWbndjSHdkVHFJa2VROXNER1VWQk84T2VSWjlPejhhOEk1S2lkVTBnR2prQzJqMml1SlhQaGNyYUxycDgtTUl3akpZa2t6ejFuRk15eWxIQldnZHgzQkZHMm5TYVg0QVJ3bW44dVVsRGtCUEtSMjh2T3R0Q2g5Z0pTTW90N2xyNEwyVnhnOUM0elXSAZgBQVVfeXFMUE9SWUpLT2pjNHE2MDh3elZiZ0FBS2pidDFaRkhDSW9zMnFfai00V0dJN05pTENVZFJCbm5EbTRaU1dyR3VvemxmUUFWRk9pbjRZN0taRUNxZ3B6Yk1OYW5STDVCZmthbGN1YjhScmUwQ0psTnVxcWk3SlV1UnNXSE5oV2hsZ0xTcEdjZm9HT0Z3WWpKUEhiZWc</id>
+        <link href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGRWbndjSHdkVHFJa2VROXNER1VWQk84T2VSWjlPejhhOEk1S2lkVTBnR2prQzJqMml1SlhQaGNyYUxycDgtTUl3akpZa2t6ejFuRk15eWxIQldnZHgzQkZHMm5TYVg0QVJ3bW44dVVsRGtCUEtSMjh2T3R0Q2g5Z0pTTW90N2xyNEwyVnhnOUM0elXSAZgBQVVfeXFMUE9SWUpLT2pjNHE2MDh3elZiZ0FBS2pidDFaRkhDSW9zMnFfai00V0dJN05pTENVZFJCbm5EbTRaU1dyR3VvemxmUUFWRk9pbjRZN0taRUNxZ3B6Yk1OYW5STDVCZmthbGN1YjhScmUwQ0psTnVxcWk3SlV1UnNXSE5oV2hsZ0xTcEdjZm9HT0Z3WWpKUEhiZWc?oc=5"/>
+        <updated>2024-10-24T11:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Linux starts banning Russian leading kernel developers  Mezha.Media]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Approach to Improve the Privacy and Security of Your Linux PC]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193751</id>
+        <link href="https://www.linuxtoday.com/blog/a-thorough-approach-to-improve-the-privacy-and-security-of-your-linux-pc/"/>
+        <updated>2024-10-24T10:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Are you concerned about your online privacy? Let’s explore some useful strategies to enhance the privacy and security of your Linux PC.
+The post A Thorough Approach to Improve the Privacy and Security of Your Linux PC appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux Kitten Distro: Based on CentOS Stream 10 for Downstream Devs]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193748</id>
+        <link href="https://www.linuxtoday.com/blog/almalinux-kitten-distro-based-on-centos-stream-10-for-downstream-devs/"/>
+        <updated>2024-10-24T09:28:04.000Z</updated>
+        <summary type="html"><![CDATA[The AlmaLinux Foundation warns that this new distribution, which was made available today, is not intended for production use but for developers working downstream of AlmaLinux OS.
+The post AlmaLinux Kitten Distro: Based on CentOS Stream 10 for Downstream Devs appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calamares Installer 3.3.10 Released, Here’s What’s New]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193742</id>
+        <link href="https://www.linuxtoday.com/blog/calamares-installer-3-3-10-released-heres-whats-new/"/>
+        <updated>2024-10-24T07:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Calamares 3.3.10 released with updates to permissions handling, keyboard, and locale modules.
+The post Calamares Installer 3.3.10 Released, Here’s What’s New appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman Announces Move to Timed Releases]]></title>
+        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=193741</id>
+        <link href="https://www.linuxtoday.com/blog/podman-announces-move-to-timed-releases/"/>
+        <updated>2024-10-24T06:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Podman shifts to a quarterly release cycle, starting with Podman 5.3 in November 2024, offering predictable updates.
+The post Podman Announces Move to Timed Releases appeared first on Linux Today.]]></summary>
+        <author>
+            <name>Web Webster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More - It's FOSS]]></title>
+        <id>CBMiXkFVX3lxTE5SSGhvdEJZQVBKMW50U1dKRGV1bWZNcDVkTkU3OXZpWXZIVE5LSWhrMDNMT09ieXhCSU1nLVZ0bWRhdXEwVlp6SHMwTllreEl5bnJ6d2tCNXNVSHdKd1E</id>
+        <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSGhvdEJZQVBKMW50U1dKRGV1bWZNcDVkTkU3OXZpWXZIVE5LSWhrMDNMT09ieXhCSU1nLVZ0bWRhdXEwVlp6SHMwTllreEl5bnJ6d2tCNXNVSHdKd1E?oc=5"/>
+        <updated>2024-10-24T04:33:17.000Z</updated>
+        <summary type="html"><![CDATA[FOSS Weekly #24.43: Coreboot Fiasco, Joplin Tips, Android-Linux Connect, Fedora Offline Update and More  It's FOSS]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux creator names and shames Intel, NVIDIA, and AMD for having 'buggy hardware' - TweakTown]]></title>
+        <id>CBMivwFBVV95cUxQWjdEMEZ3MThyQ0FZanB0VlNCUE9ua0dJSWRVc2s2NElhekVab2pjMkMyV0l1am9TeWpmWS1uSTNPU1lZVlJySHY1aThJMlAwSklTOTFzblZrRUdIdThKZTZCS0k5anU2RHlWZWg3RW1nLVJzS0lkdlFOMGd2eFA0YVlnVzJuQWV3bzhUOUpRYTI5cmxvU1J2RGMxb1NHamhDTHctbkFiVTdSbFUwclVQZW5IMkxEdWVKMkNmWkRzUQ</id>
+        <link href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjdEMEZ3MThyQ0FZanB0VlNCUE9ua0dJSWRVc2s2NElhekVab2pjMkMyV0l1am9TeWpmWS1uSTNPU1lZVlJySHY1aThJMlAwSklTOTFzblZrRUdIdThKZTZCS0k5anU2RHlWZWg3RW1nLVJzS0lkdlFOMGd2eFA0YVlnVzJuQWV3bzhUOUpRYTI5cmxvU1J2RGMxb1NHamhDTHctbkFiVTdSbFUwclVQZW5IMkxEdWVKMkNmWkRzUQ?oc=5"/>
+        <updated>2024-10-24T03:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux creator names and shames Intel, NVIDIA, and AMD for having 'buggy hardware'  TweakTown]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenBoxLab Launches New RaiDrive for Linux - PR Newswire]]></title>
         <id>CBMinwFBVV95cUxQV19ZUS1wdXNjWEtzTmZaakRwSXd1dkhkYy1ZMzdPNWtOX0ZjZFB3QTdaM3FWZDN3UTdsYU1CV0lzWUxlTE9WeS1WQ0hROUtham14LXRYeDlMb2lwWllvSmRMUFlSN0xpdnlJdkJOVDFtbndsbDFnV2hJeXRpV29JQXJETFJsbWdfeGd1ZkE2TGtTdFB5b2p0VWNYYXBLUG8</id>
@@ -98,6 +441,16 @@ The post Fedora 41: Best New Features (Workstation Edition) appeared first on Li
         <summary type="html"><![CDATA[When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...]]></summary>
         <author>
             <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Russians removed from Linux kernel software development project over alleged “compliance requirements” - The Insider]]></title>
+        <id>CBMiR0FVX3lxTE55a2hLcUJoNmVNZTdfMWlhckw1b1J4UGl2NVBtMl9EajY1Q2xmbU1TM2FTcVlMQXV2bXJDTGdaSENWdkNNREVF</id>
+        <link href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE55a2hLcUJoNmVNZTdfMWlhckw1b1J4UGl2NVBtMl9EajY1Q2xmbU1TM2FTcVlMQXV2bXJDTGdaSENWdkNNREVF?oc=5"/>
+        <updated>2024-10-23T19:52:44.000Z</updated>
+        <summary type="html"><![CDATA[11 Russians removed from Linux kernel software development project over alleged “compliance requirements”  The Insider]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -506,6 +859,26 @@ Clamp it! VS Code extension originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[In this article, I’ll walk you through the steps of connecting to your EC2 instance using MobaXterm with a .pem keypair file. Whether you're a beginner dipping your toes into the cloud or an experienced user looking for a quicker method, I’ve got you...]]></summary>
         <author>
             <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get over 60 games free with Prime Gaming right now - many work on Steam Deck / Linux - GamingOnLinux]]></title>
+        <id>CBMiuwFBVV95cUxPNHBhTXZtSzVYMW9nS0N1Mnc1RVc5Q0V5djlTaXVEaGw4UjZ2R3JsYndIUWVIWUhLOVZSQ2IxRTM1cjNwRTVrMjQyV0p2TDhNc3lycEMtcl8zaUVzTERPclM3NWJ2NHRQeTJxNXUxUUJvbUduelBzaHExZ3hKVlJWdEhlSHF1VE5oNjkwM2hsUy1ETlp6MHAxSWxGczJKcE9XZ0Rud09RWGExT2xQU2tQVFRXQzBKaHppRE1z</id>
+        <link href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHBhTXZtSzVYMW9nS0N1Mnc1RVc5Q0V5djlTaXVEaGw4UjZ2R3JsYndIUWVIWUhLOVZSQ2IxRTM1cjNwRTVrMjQyV0p2TDhNc3lycEMtcl8zaUVzTERPclM3NWJ2NHRQeTJxNXUxUUJvbUduelBzaHExZ3hKVlJWdEhlSHF1VE5oNjkwM2hsUy1ETlp6MHAxSWxGczJKcE9XZ0Rud09RWGExT2xQU2tQVFRXQzBKaHppRE1z?oc=5"/>
+        <updated>2024-10-22T09:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Get over 60 games free with Prime Gaming right now - many work on Steam Deck / Linux  GamingOnLinux]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an Ethical Hacker in 2025? - Simplilearn]]></title>
+        <id>CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA</id>
+        <link href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWI5WWF3NzFzaGZNRW1QQ3FSdDA4bTFvYk9oMUFrVFU4VmRqdnRXWVE5V2xtWGwxV3pMRDRzaWY1d2FCM0VNd2JrbmNlbi12ODhRQ09kcWhhN29yX0hjTjhsQ0xLNUNwaUM2MmctXzBMb3JLRGdhdTB3TkhaTE1IMTVUS2FyeVJXZ0RHUVdSNGNOS2pmVEVfSA?oc=5"/>
+        <updated>2024-10-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Become an Ethical Hacker in 2025?  Simplilearn]]></summary>
+        <author>
+            <name>"linux" - Google News</name>
         </author>
     </entry>
     <entry>
@@ -7875,347 +8248,6 @@ How to Make a “Scroll to Select” Form Control originally published on CSS-
 The post OpenSSH 9.9 Features Enhanced Quantum-Resistant Algorithms appeared first on Linux Today.]]></summary>
         <author>
             <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check Hardware Info on Linux Graphically With Hardinfo - It's FOSS]]></title>
-        <id>CBMiQ0FVX3lxTE5kREx1UDA1R1FndjhWQWVYb2NvS0N2aWlzU0ZUdEFaNnNXQUd0bVdPV2NBdU85bmxTZzFRaWoxc2FNQ0U</id>
-        <link href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5kREx1UDA1R1FndjhWQWVYb2NvS0N2aWlzU0ZUdEFaNnNXQUd0bVdPV2NBdU85bmxTZzFRaWoxc2FNQ0U?oc=5"/>
-        <updated>2024-09-25T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Check Hardware Info on Linux Graphically With Hardinfo  It's FOSS]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisited: MusicPod – music, podcast and internet radio player]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192932</id>
-        <link href="https://www.linuxtoday.com/blog/revisited-musicpod-music-podcast-and-internet-radio-player/"/>
-        <updated>2024-09-25T12:21:30.000Z</updated>
-        <summary type="html"><![CDATA[We take a fresh look at MusicPod and note that the program has seen significant improvements.
-The post Revisited: MusicPod – music, podcast and internet radio player appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s Your Favorite Linux File Manager? - How-To Geek]]></title>
-        <id>CBMifEFVX3lxTE1LWFdTeXljRnR3MndURnpSSnVzVjlOXzN4aXF5QWIxdHI5NkRUSUhqQ3NWenh5Vm9iSVJTS3lRcl9ULWQ0aDRQdERJQVVXOU12UVBwRTV2WlN6eXRiYndmSnlRR1NRMkxxVlUxTWJFNWxnODZvQktlVGN1b2M</id>
-        <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWFdTeXljRnR3MndURnpSSnVzVjlOXzN4aXF5QWIxdHI5NkRUSUhqQ3NWenh5Vm9iSVJTS3lRcl9ULWQ0aDRQdERJQVVXOU12UVBwRTV2WlN6eXRiYndmSnlRR1NRMkxxVlUxTWJFNWxnODZvQktlVGN1b2M?oc=5"/>
-        <updated>2024-09-25T11:24:38.000Z</updated>
-        <summary type="html"><![CDATA[What’s Your Favorite Linux File Manager?  How-To Geek]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential Linux Security Practices | by Karthikeyan Nagaraj | Sep, 2024 - Medium]]></title>
-        <id>CBMigwFBVV95cUxOcHRtSVJCb3dIM1NvTFNLb2Z5dWFXWmlUOFRENGxDNWh2RDNVSXF5VHA0dm04SFRaTnRsaE9oWkhsYTRJUFhRQUxMaEtaelRtZGpVV2NZMC1JcTgzQ1V0U1d4VHMycnduWlZfZ1J3RWJ3YkVvaG1yYVAtZHgxdF9XX3RFOA</id>
-        <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHRtSVJCb3dIM1NvTFNLb2Z5dWFXWmlUOFRENGxDNWh2RDNVSXF5VHA0dm04SFRaTnRsaE9oWkhsYTRJUFhRQUxMaEtaelRtZGpVV2NZMC1JcTgzQ1V0U1d4VHMycnduWlZfZ1J3RWJ3YkVvaG1yYVAtZHgxdF9XX3RFOA?oc=5"/>
-        <updated>2024-09-25T10:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Essential Linux Security Practices | by Karthikeyan Nagaraj | Sep, 2024  Medium]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.12 NFS Adds LOCALIO Protocol For "Extreme" Performance Boost - Phoronix]]></title>
-        <id>CBMiV0FVX3lxTFBVRWp1TGxzaWM4RGFlczBUcVRuRldCYm1KLVZSbHNKS3ZEWlRIa045UFRFTkRXUmlFQ1NtOTg5d2NWeXBBbWlrUFF6dEMyaEllVDhtZ0VyYw</id>
-        <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVRWp1TGxzaWM4RGFlczBUcVRuRldCYm1KLVZSbHNKS3ZEWlRIa045UFRFTkRXUmlFQ1NtOTg5d2NWeXBBbWlrUFF6dEMyaEllVDhtZ0VyYw?oc=5"/>
-        <updated>2024-09-25T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.12 NFS Adds LOCALIO Protocol For "Extreme" Performance Boost  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Efficiently Search Linux Manual Pages with the man -k Command]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192931</id>
-        <link href="https://www.linuxtoday.com/developer/how-to-efficiently-search-linux-manual-pages-with-the-man-k-command/"/>
-        <updated>2024-09-25T10:20:40.000Z</updated>
-        <summary type="html"><![CDATA[In this brief tutorial, we will learn how to efficiently search Linux Manual Pages with the ‘man -k’ command in Linux with an example.
-The post How To Efficiently Search Linux Manual Pages with the man -k Command appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fwupd 1.9.25 Supports Firmware Updates For A Few More Devices Under Linux - Phoronix]]></title>
-        <id>CBMiVEFVX3lxTFByZE9UdEkzQlJOWk5TTHVUM2o3djNmUE15ZTJ5MEE4N2NjUmUyR2hISFBHTVFsXzJVTDBYNjM2bXk3XzhjZHNieE9YaFpPUkhPbUtpVQ</id>
-        <link href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFByZE9UdEkzQlJOWk5TTHVUM2o3djNmUE15ZTJ5MEE4N2NjUmUyR2hISFBHTVFsXzJVTDBYNjM2bXk3XzhjZHNieE9YaFpPUkhPbUtpVQ?oc=5"/>
-        <updated>2024-09-25T10:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Fwupd 1.9.25 Supports Firmware Updates For A Few More Devices Under Linux  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Linux-based Liya 2.1 rolls out with the 6.11.0-1 kernel - Notebookcheck.net]]></title>
-        <id>CBMipwFBVV95cUxOdmhVczJRQXFIeXYwdGxvZW1jMUhjYkNpUlhZRWtxclZBS1ZpWE9FQ0J2R05VM0VwVDlUV0g0RzhabjNaU3hfdlJtWS15YjgyYlJqQ2lRRFJZWmJJdjFnQmFZaVBDc04zbnJGVGdwaVlUWDE1Qmx2ZmhwTWJ5MUJWNDdISDIweVFmenJ2dTdTMVp2Si1nVENhTEtpb3RnaUxOT0gxXzVlcw</id>
-        <link href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmhVczJRQXFIeXYwdGxvZW1jMUhjYkNpUlhZRWtxclZBS1ZpWE9FQ0J2R05VM0VwVDlUV0g0RzhabjNaU3hfdlJtWS15YjgyYlJqQ2lRRFJZWmJJdjFnQmFZaVBDc04zbnJGVGdwaVlUWDE1Qmx2ZmhwTWJ5MUJWNDdISDIweVFmenJ2dTdTMVp2Si1nVENhTEtpb3RnaUxOT0gxXzVlcw?oc=5"/>
-        <updated>2024-09-25T09:56:15.000Z</updated>
-        <summary type="html"><![CDATA[Arch Linux-based Liya 2.1 rolls out with the 6.11.0-1 kernel  Notebookcheck.net]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-platform Nexus Mods app adds support for Mod Collections, fixes REDmod on Linux - GamingOnLinux]]></title>
-        <id>CBMiwAFBVV95cUxOdENiSFVxQy1CU2t1c2tQYW9HdnA2VjB0T2VjSDVPVDdUeXJLcW9xWFJ5YmlBaldya0hQZ2swMnhqQk51YzFJSHl0VVNVcGFRMDVIR2NJanJ0MGthSmpULUg1RDNxTTNxcmZYZkhROXE2YURvNkMwdkstal9jRlY1WFRLUk50aW5mcVl2cDNxNzVzVkVqNkRyWFhyTUczZEtkNDdoYWZObW5NaHR4Sm41SV9FeEhDTFZmU3B2YzB4eDQ</id>
-        <link href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdENiSFVxQy1CU2t1c2tQYW9HdnA2VjB0T2VjSDVPVDdUeXJLcW9xWFJ5YmlBaldya0hQZ2swMnhqQk51YzFJSHl0VVNVcGFRMDVIR2NJanJ0MGthSmpULUg1RDNxTTNxcmZYZkhROXE2YURvNkMwdkstal9jRlY1WFRLUk50aW5mcVl2cDNxNzVzVkVqNkRyWFhyTUczZEtkNDdoYWZObW5NaHR4Sm41SV9FeEhDTFZmU3B2YzB4eDQ?oc=5"/>
-        <updated>2024-09-25T09:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Cross-platform Nexus Mods app adds support for Mod Collections, fixes REDmod on Linux  GamingOnLinux]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Streams and Services for Flutter State]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-streams-and-services/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-streams-and-services/"/>
-        <updated>2024-09-25T09:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...]]></summary>
-        <author>
-            <name>Obum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloke gets Linux to run on a 1971 processor - Fudzilla]]></title>
-        <id>CBMilgFBVV95cUxNOXpBWGl5aDhoYUN0dHFTZXd1TUtDeXJta0NwTHlIMmJ3bmFvWTFGdjI3OVFBQTZNSDk3bHItc0RpR3UtU3EzNUFWODk2MTRmZWNPbUxtRnRpbWZFUU9WbXFJZFc4aGJuc1NlbURTbjB4amw5UU00NkFJZ0FZRkw1a1FSZUtQM0E1VnFJWmp2ZGswUFJwdWc</id>
-        <link href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXpBWGl5aDhoYUN0dHFTZXd1TUtDeXJta0NwTHlIMmJ3bmFvWTFGdjI3OVFBQTZNSDk3bHItc0RpR3UtU3EzNUFWODk2MTRmZWNPbUxtRnRpbWZFUU9WbXFJZFc4aGJuc1NlbURTbjB4amw5UU00NkFJZ0FZRkw1a1FSZUtQM0E1VnFJWmp2ZGswUFJwdWc?oc=5"/>
-        <updated>2024-09-25T09:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Bloke gets Linux to run on a 1971 processor  Fudzilla]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 9.18 Launches with Enhanced Features]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192929</id>
-        <link href="https://www.linuxtoday.com/blog/wine-9-18-launches-with-enhanced-features/"/>
-        <updated>2024-09-25T08:19:41.000Z</updated>
-        <summary type="html"><![CDATA[The latest Wine release, 9.18, brings essential updates and a new Desktop Control applet. Here’s more on that!
-The post Wine 9.18 Launches with Enhanced Features appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows malware expands its reach, now targeting Linux systems - Tech Edition]]></title>
-        <id>CBMijgFBVV95cUxOUDFwalZnakRUaXFGdzhUZEtKdjk0b1QyQk1XY0FmaXVaellHeXNwUENkcG13eFBnR1VBRzdHOWtoZHhoQzc1VUdzLUpCX1VKMTFZa29jdGN6U1pFaTQyR3hyRGpRb2ZyemZIUmhyaEdhY2tvQmJ6bm5qSVZzYkhTQ0MyRGh4THlLLW9sYUxR</id>
-        <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFwalZnakRUaXFGdzhUZEtKdjk0b1QyQk1XY0FmaXVaellHeXNwUENkcG13eFBnR1VBRzdHOWtoZHhoQzc1VUdzLUpCX1VKMTFZa29jdGN6U1pFaTQyR3hyRGpRb2ZyemZIUmhyaEdhY2tvQmJ6bm5qSVZzYkhTQ0MyRGh4THlLLW9sYUxR?oc=5"/>
-        <updated>2024-09-25T07:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Windows malware expands its reach, now targeting Linux systems  Tech Edition]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 24.8: Best New Features]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192928</id>
-        <link href="https://www.linuxtoday.com/blog/libreoffice-24-8-best-new-features/"/>
-        <updated>2024-09-25T06:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the new features of LibreOffice 24.8 which brings considerable update across its base modules.
-The post LibreOffice 24.8: Best New Features appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Lunar Lake Linux Benchmarks Are Still Forthcoming - Phoronix]]></title>
-        <id>CBMiakFVX3lxTE1KVU5FZ3hZMWkwY19UcHhkMG5CZTZ3U2pzMTR0Ykk2cl8teTAzTVAzaUJRNFRTMm9zUk1QWkpYWGVHZjQyRFZJY042ZUdOOFY3eWFPTnhYSWRaM2dWWkMwQnlKR2dVcGZwcEE</id>
-        <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1KVU5FZ3hZMWkwY19UcHhkMG5CZTZ3U2pzMTR0Ykk2cl8teTAzTVAzaUJRNFRTMm9zUk1QWkpYWGVHZjQyRFZJY042ZUdOOFY3eWFPTnhYSWRaM2dWWkMwQnlKR2dVcGZwcEE?oc=5"/>
-        <updated>2024-09-25T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel Lunar Lake Linux Benchmarks Are Still Forthcoming  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Best Free and Open Source JavaScript Object-Relational Mapping Software]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192691</id>
-        <link href="https://www.linuxtoday.com/developer/5-best-free-and-open-source-javascript-object-relational-mapping-software/"/>
-        <updated>2024-09-24T22:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Object–relational mapping (ORM) is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a “virtual object database” that can be used from within the programming language.
-The post 5 Best Free and Open Source JavaScript Object-Relational Mapping Software appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Your Data: How to Encrypt a Partition or Disk on Linux]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192921</id>
-        <link href="https://www.linuxtoday.com/blog/secure-your-data-how-to-encrypt-a-partition-or-disk-on-linux/"/>
-        <updated>2024-09-24T21:34:27.000Z</updated>
-        <summary type="html"><![CDATA[While no method can guarantee 100% security for your data, encryption provides a highly reliable layer of protection, making it significantly more difficult for hackers and unauthorized users to access your private information. In this tutorial, we’ll explore the best encryption solutions available for Linux users and walk you through the process of creating an […]
-The post Secure Your Data: How to Encrypt a Partition or Disk on Linux appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker miraculously gets an Intel 4004 to run Linux, takes about five days to boot - TechSpot]]></title>
-        <id>CBMimgFBVV95cUxNS2VxX01LTDNBSXB5N3RmYlU2RUR4bFphNjdVR3RXRXZLYk5xdEZ5ekNUX0dpcnNzNm5iZDE4aG85VmlSb3dJODNBYjgtbEQ2ZXM0X1FsRXJQNUoxRVpGSno5YU0wbXpDNzhCN1RQaWgwaVVVOHFld1dBdUlUOHdaMUdWZnkzTm9KSFU0RlpDZVgwSXhMUVJCTlZR</id>
-        <link href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2VxX01LTDNBSXB5N3RmYlU2RUR4bFphNjdVR3RXRXZLYk5xdEZ5ekNUX0dpcnNzNm5iZDE4aG85VmlSb3dJODNBYjgtbEQ2ZXM0X1FsRXJQNUoxRVpGSno5YU0wbXpDNzhCN1RQaWgwaVVVOHFld1dBdUlUOHdaMUdWZnkzTm9KSFU0RlpDZVgwSXhMUVJCTlZR?oc=5"/>
-        <updated>2024-09-24T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Hacker miraculously gets an Intel 4004 to run Linux, takes about five days to boot  TechSpot]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Mellanox Linux Driver Spearheads Multi-Path PCI As "A Sign Of Things To Come" - Phoronix]]></title>
-        <id>CBMiZ0FVX3lxTE9kT0hCRm9GMmRzSUVTV2JJMXBGSUJXWm1RLW1BT21KRF91SG9VNlpaUUk0ZnVNcnBtS2U0cWt5YUlCbGVjRmlHc25RSlJfRmp5UFNieWUtX2RMLXpVZEhwcjVYYllMQms</id>
-        <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kT0hCRm9GMmRzSUVTV2JJMXBGSUJXWm1RLW1BT21KRF91SG9VNlpaUUk0ZnVNcnBtS2U0cWt5YUlCbGVjRmlHc25RSlJfRmp5UFNieWUtX2RMLXpVZEhwcjVYYllMQms?oc=5"/>
-        <updated>2024-09-24T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA Mellanox Linux Driver Spearheads Multi-Path PCI As "A Sign Of Things To Come"  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install and Use Screen on Linux (15 Practical Examples)]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192690</id>
-        <link href="https://www.linuxtoday.com/developer/how-to-install-and-use-screen-on-linux-15-practical-examples/"/>
-        <updated>2024-09-24T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to install and use the screen command in Linux to manage multiple shell sessions during an SSH connection, with practical examples.
-The post How to Install and Use Screen on Linux (15 Practical Examples) appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Windows malware is now evolving to target Linux systems - TechRadar]]></title>
-        <id>CBMioAFBVV95cUxNUjZ0eV9NODk2TW5QZGFlSDJGQVk0aFdDU2ZQZF8weEc3VUl3eHJTZ2FIV2RnY21hb0tzZXk2cmpqLVVNRGVWUmtTSmZsSVJ1dVJ3eWdORnIxeGphRlJINnQyS2d2Q3o2UlExMWRHYkJHa0F2V21XN2lCSlpqYzZ2QlVkVDJHeVNpNnhVbkxxNXJTeXB1c0xNYWRoUHlKcmJE</id>
-        <link href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjZ0eV9NODk2TW5QZGFlSDJGQVk0aFdDU2ZQZF8weEc3VUl3eHJTZ2FIV2RnY21hb0tzZXk2cmpqLVVNRGVWUmtTSmZsSVJ1dVJ3eWdORnIxeGphRlJINnQyS2d2Q3o2UlExMWRHYkJHa0F2V21XN2lCSlpqYzZ2QlVkVDJHeVNpNnhVbkxxNXJTeXB1c0xNYWRoUHlKcmJE?oc=5"/>
-        <updated>2024-09-24T18:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This Windows malware is now evolving to target Linux systems  TechRadar]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Mixing With Animation Composition]]></title>
-        <id>https://css-tricks.com/?p=381068</id>
-        <link href="https://css-tricks.com/color-mixing-with-animation-composition/"/>
-        <updated>2024-09-24T18:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.
-background-color: 
-…
-Color Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux takes 4.76 days to boot on an ancient Intel 4004 CPU — CPU precedes the OS by 20 years - Tom's Hardware]]></title>
-        <id>CBMi0wFBVV95cUxNanZfZFdUVDJ4R0F2M3UwRDRYRXpzZkN6a0VDMU9hcUx4YzJMNHdGSk1YLUxkdFoyNkVWSjZickVQQ3hSM2t5NEYzam5feVlYWERjVUJLa1JCdlk2YUszWi0yZ0FlU0NnNHUyUHJIcVp3czlnLVZHQjQ1ajNxUnpONXM0a0E4bWRzT1l0b3pIaW51ajQ0VnhUdWJDS3ZhRzhTZTBfeUM4V2JyQXN6cG5XUVNtenZJSERVdEU1cUVZcGZGN3A1VjU0TW5hcjd4NjVjMmVj</id>
-        <link href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNanZfZFdUVDJ4R0F2M3UwRDRYRXpzZkN6a0VDMU9hcUx4YzJMNHdGSk1YLUxkdFoyNkVWSjZickVQQ3hSM2t5NEYzam5feVlYWERjVUJLa1JCdlk2YUszWi0yZ0FlU0NnNHUyUHJIcVp3czlnLVZHQjQ1ajNxUnpONXM0a0E4bWRzT1l0b3pIaW51ajQ0VnhUdWJDS3ZhRzhTZTBfeUM4V2JyQXN6cG5XUVNtenZJSERVdEU1cUVZcGZGN3A1VjU0TW5hcjd4NjVjMmVj?oc=5"/>
-        <updated>2024-09-24T18:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Linux takes 4.76 days to boot on an ancient Intel 4004 CPU — CPU precedes the OS by 20 years  Tom's Hardware]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Open Sources OpenHCL, a Linux-Based ‘Paravisor’ - The New Stack]]></title>
-        <id>CBMihAFBVV95cUxQczlfSVN6dzBhZW9KNHRJLWd0WTl3Ykcwc3VXTXdaRW1HbG51SU5hZkpJeFUyYVljcXhwNzJtVU9OcEk3M2R6dHdzUndQb1JheF9EbTRqWXFqbWQzOVBEeS1HY3FYcFM2MEpKN1dIMDBfUmp3bTdCVXdLUkhwUWY5V0E3Y3I</id>
-        <link href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQczlfSVN6dzBhZW9KNHRJLWd0WTl3Ykcwc3VXTXdaRW1HbG51SU5hZkpJeFUyYVljcXhwNzJtVU9OcEk3M2R6dHdzUndQb1JheF9EbTRqWXFqbWQzOVBEeS1HY3FYcFM2MEpKN1dIMDBfUmp3bTdCVXdLUkhwUWY5V0E3Y3I?oc=5"/>
-        <updated>2024-09-24T18:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Open Sources OpenHCL, a Linux-Based ‘Paravisor’  The New Stack]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Publishes Open-Source Linux Driver Code For GPU Virtualization "vGPU" Support - Phoronix]]></title>
-        <id>CBMibEFVX3lxTE9aaGJXWHBYMWdRalVvT1NTZzkxSHhWZjM4NTZEaVpsVUI1Z19faEdueUE4NXNmU0J6YjZyYjZ6ZVVsWU4ySENXYWhQdlZZUVZPbUpDVGxOTjJKVGNBZW9aREgzSVREOHBoMks5SA</id>
-        <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaGJXWHBYMWdRalVvT1NTZzkxSHhWZjM4NTZEaVpsVUI1Z19faEdueUE4NXNmU0J6YjZyYjZ6ZVVsWU4ySENXYWhQdlZZUVZPbUpDVGxOTjJKVGNBZW9aREgzSVREOHBoMks5SA?oc=5"/>
-        <updated>2024-09-24T17:32:00.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA Publishes Open-Source Linux Driver Code For GPU Virtualization "vGPU" Support  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with SQL Databases in Go – Different Approaches and Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/"/>
-        <updated>2024-09-24T16:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47]]></title>
-        <id>https://www.linuxtoday.com/?post_type=user_post&amp;p=192923</id>
-        <link href="https://www.linuxtoday.com/blog/ubuntu-24-10-oracular-oriole-enters-public-beta-testing-with-linux-6-11-gnome-47/"/>
-        <updated>2024-09-24T16:08:57.000Z</updated>
-        <summary type="html"><![CDATA[With only three weeks left before Ubuntu 24.10 hits the streets in a stable form, the beta is here to give us a glimpse of what to expect from the final version. Ubuntu 24.10 has the just-released GNOME 47 desktop environment by default and is powered by the latest and greatest Linux 6.11 kernel series.
-The post Ubuntu 24.10 “Oracular Oriole” Enters Public Beta Testing with Linux 6.11, GNOME 47 appeared first on Linux Today.]]></summary>
-        <author>
-            <name>Web Webster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking wizard gets Linux to run on a 1971 processor, though it takes almost 5 days to boot the kernel - PC Gamer]]></title>
-        <id>CBMi3wFBVV95cUxPWW9ONUpKQkdXVEI4R2pkSVJkSmlBMWNtU2tGYlFiaHNtMDVfT2FESlBpX1RxU2J4azlQdGNVUlA0OWNGc3Y3Uk1UcVlYNUhxdU92em91WGdLNU1IaTFFLUdoZGJMbHlreWstUVlxN2pIVGJ3MzBRQzZBaXF0dWt3WXNxazlOQkVLTEpaU2V6cG9pbkFXbkxIS2NOTUh5OW1hZUZwUC0yTGszOFVhVHRmM05hMThSOFhaUVVxYUxTa043SFA2OWRMdmxOTFEzdEVBZ19YWDZRcnA0OUFLNFFj</id>
-        <link href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW9ONUpKQkdXVEI4R2pkSVJkSmlBMWNtU2tGYlFiaHNtMDVfT2FESlBpX1RxU2J4azlQdGNVUlA0OWNGc3Y3Uk1UcVlYNUhxdU92em91WGdLNU1IaTFFLUdoZGJMbHlreWstUVlxN2pIVGJ3MzBRQzZBaXF0dWt3WXNxazlOQkVLTEpaU2V6cG9pbkFXbkxIS2NOTUh5OW1hZUZwUC0yTGszOFVhVHRmM05hMThSOFhaUVVxYUxTa043SFA2OWRMdmxOTFEzdEVBZ19YWDZRcnA0OUFLNFFj?oc=5"/>
-        <updated>2024-09-24T15:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Hacking wizard gets Linux to run on a 1971 processor, though it takes almost 5 days to boot the kernel  PC Gamer]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CUDA Programming]]></title>
-        <id>https://www.freecodecamp.org/news/learn-cuda-programming/</id>
-        <link href="https://www.freecodecamp.org/news/learn-cuda-programming/"/>
-        <updated>2024-09-24T15:08:44.000Z</updated>
-        <summary type="html"><![CDATA[CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Xeon 6980P "Granite Rapids" Linux Benchmarks Review - Phoronix]]></title>
-        <id>CBMibEFVX3lxTE9WTTNFX0JERnFENmtSUTR3VVBjWDZDaUpBdkpwZXpXVzFQYzdWRndLNXljVDdEeFJxdWptZU1nTktXYkNpd3BXUkdGNHJEOGJhdVNPNjBCVEVGNFhzYl9iOGVPMWtHRTJrMzFGdw</id>
-        <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTTNFX0JERnFENmtSUTR3VVBjWDZDaUpBdkpwZXpXVzFQYzdWRndLNXljVDdEeFJxdWptZU1nTktXYkNpd3BXUkdGNHJEOGJhdVNPNjBCVEVGNFhzYl9iOGVPMWtHRTJrMzFGdw?oc=5"/>
-        <updated>2024-09-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel Xeon 6980P "Granite Rapids" Linux Benchmarks Review  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Gaudi 3 Linux Driver Support Expected Next Month - Phoronix]]></title>
-        <id>CBMibEFVX3lxTE4xTzZTaVNqQkMtYnM0Rnk2OFdXUkxxNndhWXpGeEFZZDNqN3JCU0NhQlFqa0M2bFFkMmdvZU9Wd1dDYms2ck9Kbl9xakJNUk91LXpGcUxoODdodnVmQ0g1aklTRE11a28xcE9VMA</id>
-        <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTzZTaVNqQkMtYnM0Rnk2OFdXUkxxNndhWXpGeEFZZDNqN3JCU0NhQlFqa0M2bFFkMmdvZU9Wd1dDYms2ck9Kbl9xakJNUk91LXpGcUxoODdodnVmQ0g1aklTRE11a28xcE9VMA?oc=5"/>
-        <updated>2024-09-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel Gaudi 3 Linux Driver Support Expected Next Month  Phoronix]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it - Ars Technica]]></title>
-        <id>CBMisAFBVV95cUxOYUlibHZ3ajlhZlJHSU9oWHN3SzFRcThwck1jakRwb3pHeUtkOFYwZGVNdmRpdjVRc19hWmMyaEVFbmQ2TURNR1RrYUY2YlI4ZDRYSnpjSHN2S1BfOGx1TXoySWowd1oxczJjZkRzLXdmaU5CQm9ZZ1p3cWllSHJZWU15cUEtNGxDMXhOX1lhbjdJQXk1VUU2Rmh1RXk1M1hPM0xUUC00RnYxaEtuTy14bw</id>
-        <link href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlibHZ3ajlhZlJHSU9oWHN3SzFRcThwck1jakRwb3pHeUtkOFYwZGVNdmRpdjVRc19hWmMyaEVFbmQ2TURNR1RrYUY2YlI4ZDRYSnpjSHN2S1BfOGx1TXoySWowd1oxczJjZkRzLXdmaU5CQm9ZZ1p3cWllSHJZWU15cUEtNGxDMXhOX1lhbjdJQXk1VUU2Rmh1RXk1M1hPM0xUUC00RnYxaEtuTy14bw?oc=5"/>
-        <updated>2024-09-24T14:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it  Ars Technica]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK hynix Brings CXL Optimization Software HMSDK to Linux for Enhanced AI Memory Performance - HPCwire]]></title>
-        <id>CBMiyAFBVV95cUxQVXFRenNTVDUxS29NZlJuaEY5d3NKY1VWQ0M3U1NQaHVJUXEyN2dWbENkSFQtSjZyTVBsNkRXOGpVOFF5dk81c1oxN1RGSENoOTU1c3RuUFBhMjZ5TE96RWNKdFZCZzhOYy12V1VWbFFITmptSUlNYkdsNFdPbHV3N0NVX0JJbU1EQjlIODgzUWRYZnNDeDh3SkRvMEtac2owSjQ2eHQ4U0FNY1JmVDVEbWxwalFCZDFaY25xdlVjaHI3d01HQ2JaSA</id>
-        <link href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXFRenNTVDUxS29NZlJuaEY5d3NKY1VWQ0M3U1NQaHVJUXEyN2dWbENkSFQtSjZyTVBsNkRXOGpVOFF5dk81c1oxN1RGSENoOTU1c3RuUFBhMjZ5TE96RWNKdFZCZzhOYy12V1VWbFFITmptSUlNYkdsNFdPbHV3N0NVX0JJbU1EQjlIODgzUWRYZnNDeDh3SkRvMEtac2owSjQ2eHQ4U0FNY1JmVDVEbWxwalFCZDFaY25xdlVjaHI3d01HQ2JaSA?oc=5"/>
-        <updated>2024-09-24T14:28:36.000Z</updated>
-        <summary type="html"><![CDATA[SK hynix Brings CXL Optimization Software HMSDK to Linux for Enhanced AI Memory Performance  HPCwire]]></summary>
-        <author>
-            <name>"linux" - Google News</name>
         </author>
     </entry>
     <entry>
