@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194285",
+          "author": "Content Operations",
+          "description": "Good news this week for KDE Plasma users as they got not one, not two, but three great releases. On top of that, this week brought us new Debian Bookworm, Steam Client, CachyOS, and Ubuntu Touch releases to enjoy.\nThe post 9to5Linux Weekly Roundup: November 10th, 2024 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/9to5linux-weekly-roundup-november-10th-2024/",
+          "publishedOn": "2024-11-11T23:06:40.000Z",
+          "wordCount": 9074,
+          "title": "9to5Linux Weekly Roundup: November 10th, 2024",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194282",
+          "author": "Content Operations",
+          "description": "This release uses the latest KDE Plasma 6.2.3 desktop environment and it's powered by Linux kernel 6.11.7.\nThe post CachyOS ISO Release for November Improves Support for AMD and NVIDIA Users appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/cachyos-iso-release-for-november-improves-support-for-amd-and-nvidia-users/",
+          "publishedOn": "2024-11-11T22:20:59.000Z",
+          "wordCount": 9000,
+          "title": "CachyOS ISO Release for November Improves Support for AMD and NVIDIA Users",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194280",
+          "author": "Content Operations",
+          "description": "The latest Niri release, v0.1.10, brings window moving, pointer options, input enhancements, and fixes to Wayland's scrollable-tiling compositor.\nThe post Niri 0.1.10: Interactive Window Moving, Tablet Mode Switch, and More appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/niri-0-1-10-interactive-window-moving-tablet-mode-switch-and-more/",
+          "publishedOn": "2024-11-11T21:13:48.000Z",
+          "wordCount": 8969,
+          "title": "Niri 0.1.10: Interactive Window Moving, Tablet Mode Switch, and More",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194265",
+          "author": "Content Operations",
+          "description": "Less than a month after its previous 7.20 version, Calibre, a popular open-source ebook management tool, has just released version 7.21, which includes improvements and new features. Here they are.\nThe post Calibre 7.21 Adds Read Aloud with Sentence Tracking for EPUBs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/calibre-7-21-adds-read-aloud-with-sentence-tracking-for-epubs/",
+          "publishedOn": "2024-11-11T21:05:30.000Z",
+          "wordCount": 8979,
+          "title": "Calibre 7.21 Adds Read Aloud with Sentence Tracking for EPUBs",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194279",
+          "author": "Content Operations",
+          "description": "Hyprland 0.45, a tiling Wayland compositor, has been released with smoother edges, bug fixes, and breaking changes to optimize your experience.\nThe post Hyprland 0.45: Smoother Rounding, New Configs, and Key Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/hyprland-0-45-smoother-rounding-new-configs-and-key-fixes/",
+          "publishedOn": "2024-11-11T20:08:07.000Z",
+          "wordCount": 8979,
+          "title": "Hyprland 0.45: Smoother Rounding, New Configs, and Key Fixes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194262",
+          "author": "Content Operations",
+          "description": "Kdenlive 24.08.3 open-source video editor addresses codec crashes, timeline bugs, and clip removal issues.\nThe post Kdenlive 24.08.3 Arrives with Subtitle and Timeline Stability Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/kdenlive-24-08-3-arrives-with-subtitle-and-timeline-stability-fixes/",
+          "publishedOn": "2024-11-11T19:11:56.000Z",
+          "wordCount": 8971,
+          "title": "Kdenlive 24.08.3 Arrives with Subtitle and Timeline Stability Fixes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194277",
+          "author": "Content Operations",
+          "description": "Sparky 2024.11 brings the latest Debian testing packages, Linux kernel 6.11, Midori 11.4, Thunderbird 128.4.0esr, and more.\nThe post Debian-Based Sparky Linux Releases Latest Semi-Rolling ISO Update appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/debian-based-sparky-linux-releases-latest-semi-rolling-iso-update/",
+          "publishedOn": "2024-11-11T18:06:11.000Z",
+          "wordCount": 8946,
+          "title": "Debian-Based Sparky Linux Releases Latest Semi-Rolling ISO Update",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194272",
+          "author": "Content Operations",
+          "description": "Wine 9.21 debuts with advanced network support in DirectPlay, D3DX9 format boost, C++ compilation fixes, and I/O improvements.\nThe post Wine 9.21 Brings Enhanced DirectPlay Network Session Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/wine-9-21-brings-enhanced-directplay-network-session-support/",
+          "publishedOn": "2024-11-11T17:01:02.000Z",
+          "wordCount": 8964,
+          "title": "Wine 9.21 Brings Enhanced DirectPlay Network Session Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194278",
+          "author": "Content Operations",
+          "description": "In this article we discuss the recent release of of Debian 12.8 as the seventh ISO update to the latest Debian GNU/Linux 12 “Bookworm” operating system series.\nThe post Debian 12.8 “Bookworm” Released with 68 Bug Fixes and 50 Security Updates appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/debian-12-8-bookworm-released-with-68-bug-fixes-and-50-security-updates/",
+          "publishedOn": "2024-11-11T16:00:49.000Z",
+          "wordCount": 9021,
+          "title": "Debian 12.8 “Bookworm” Released with 68 Bug Fixes and 50 Security Updates",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194270",
+          "author": "Content Operations",
+          "description": "The KDE Project released today KDE Frameworks 6.8 as a new monthly update to this collection of more than 70 add-on libraries to Qt providing commonly needed functionality for KDE applications and the KDE Plasma desktop.\nThe post KDE Frameworks 6.8 Adds Breeze Icons for Typst Files And Fixes Many Bugs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/kde-frameworks-6-8-adds-breeze-icons-for-typst-files-and-fixes-many-bugs/",
+          "publishedOn": "2024-11-11T14:50:51.000Z",
+          "wordCount": 9017,
+          "title": "KDE Frameworks 6.8 Adds Breeze Icons for Typst Files And Fixes Many Bugs",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194256",
           "author": "Content Operations",
           "description": "There’s a whole slew of great and sometimes huge open source conferences around the globe that are mostly unknown to us English speakers because they’re in another language. One example would be Nerdearla, which has taken place annually in Buenos Aires since 2014.\nThe post Nerdearla: Homegrown Open Source Conferencing Latin American Style appeared first on Linux Today.",
@@ -1556,36 +1656,6 @@
           "wordCount": 9054,
           "title": "Asahi Linux Brings Gaming to M1/M2 Macs",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193449",
-          "author": "Web Webster",
-          "description": "SVG (Scalable Vector Graphics) files are commonly used for logos, icons, and illustrations because they can be resized without losing quality. However, sometimes you need to convert SVG files to a PNG (Portable Network Graphics) format for better compatibility with websites or applications. In Linux, there are several ways to do this conversion easily, using […]\nThe post How to Convert SVG to PNG in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-convert-svg-to-png-in-linux/",
-          "publishedOn": "2024-10-13T13:00:45.000Z",
-          "wordCount": 9098,
-          "title": "How to Convert SVG to PNG in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193448",
-          "author": "Web Webster",
-          "description": "Setting a static IP address on a Linux system temporarily is useful in situations where you need to troubleshoot network issues or configure networking for a specific session. This temporary change won’t persist after a reboot, but it can be easily applied for immediate network setup needs. In this guide, we’ll walk through the steps […]\nThe post How to Temporarily Set a Static IP Address on a Linux System appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-temporarily-set-a-static-ip-address-on-a-linux-system/",
-          "publishedOn": "2024-10-12T19:32:25.000Z",
-          "wordCount": 9126,
-          "title": "How to Temporarily Set a Static IP Address on a Linux System",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193447",
-          "author": "Web Webster",
-          "description": "For the next five years, Microsoft will be under the watchful eye of Germany’s Federal Cartel Office, which will be seeking to thwart any monopolistic activity coming from Redmond proactively.\nThe post Germany Puts Microsoft on Five Years Probation for Antitrust Bullying appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/germany-puts-microsoft-on-five-years-probation-for-antitrust-bullying/",
-          "publishedOn": "2024-10-12T16:30:41.000Z",
-          "wordCount": 9081,
-          "title": "Germany Puts Microsoft on Five Years Probation for Antitrust Bullying",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1594,6 +1664,176 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiakFVX3lxTE14ODl3ZHM5Q0VQY21JczNJRTdmMXoxMUJJV2IzZExUcW5CNlVucWJxSnhvVFRMbGlHZ1pnLVBfUXhPa0ZvZWJDLXlkZTdPV0xQakN5MUQzSUtjZkgySnM3REprLUswbUh1Z3c",
+          "author": null,
+          "description": "Fedora Linux Is Getting a New Installer  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14ODl3ZHM5Q0VQY21JczNJRTdmMXoxMUJJV2IzZExUcW5CNlVucWJxSnhvVFRMbGlHZ1pnLVBfUXhPa0ZvZWJDLXlkZTdPV0xQakN5MUQzSUtjZkgySnM3REprLUswbUh1Z3c?oc=5",
+          "publishedOn": "2024-11-11T17:56:00.000Z",
+          "wordCount": 12596,
+          "title": "Fedora Linux Is Getting a New Installer - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTE1WN0hRaDE0VXdCSGRZUVBxd2NvWmpDR3VaeHJlajBTcmVOZEstcE9LV3FjcUFoUXRvQVkwLUlrZnJxVWNNbXdZS0FZTDBaQUQzbW94MGRoaTVpWkR4",
+          "author": null,
+          "description": "Debian 12.8 Released  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WN0hRaDE0VXdCSGRZUVBxd2NvWmpDR3VaeHJlajBTcmVOZEstcE9LV3FjcUFoUXRvQVkwLUlrZnJxVWNNbXdZS0FZTDBaQUQzbW94MGRoaTVpWkR4?oc=5",
+          "publishedOn": "2024-11-11T16:50:01.000Z",
+          "wordCount": 12596,
+          "title": "Debian 12.8 Released - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxPSEVjdHNMNUNDU1d6SGtnVUIwVThnRi1pQ2w4ZjUwRGZRVnNtdXRkRk9FWkh5R3RuT29fVXVDbjAwbl9aVnY0U1B0LTBtM3V3d1h6bEU4aUl0aHBKcnotNDJ5NW1ZSEZUTEhsMGVZRzdNZVhYdHNxbE4zdXFIdXV4WEFFWEhqb0h3dUd1TjBaUm90eFc3cEdiaE93",
+          "author": null,
+          "description": "How to install Nvidia drivers on Linux Debian, explained  Cantech Letter",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEVjdHNMNUNDU1d6SGtnVUIwVThnRi1pQ2w4ZjUwRGZRVnNtdXRkRk9FWkh5R3RuT29fVXVDbjAwbl9aVnY0U1B0LTBtM3V3d1h6bEU4aUl0aHBKcnotNDJ5NW1ZSEZUTEhsMGVZRzdNZVhYdHNxbE4zdXFIdXV4WEFFWEhqb0h3dUd1TjBaUm90eFc3cEdiaE93?oc=5",
+          "publishedOn": "2024-11-11T15:56:21.000Z",
+          "wordCount": 12596,
+          "title": "How to install Nvidia drivers on Linux Debian, explained - Cantech Letter",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirwFBVV95cUxPcGxvOVhkdEdJNDlkMXFQZlhFVGlyM1JWaThsYldxelVicTFUVDBtb05OZWduWmNidGdvV1IxckRORHBOZGl1Sld1NWFlQUtaTGRTaVlHUzlwaFZsZXNlcVBhMzdjWDktUWtMcGFKaXNfajhQYjJKeFZyYmJsM2dKdUN1MjFTWTAzWTcycTR3OE9rb25KbXJoc1ZGZXpBVmotX0tPLTN4MG0zWVJYRTFF",
+          "author": null,
+          "description": "How to easily update Windows Subsystem for Linux 2’s kernel  PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGxvOVhkdEdJNDlkMXFQZlhFVGlyM1JWaThsYldxelVicTFUVDBtb05OZWduWmNidGdvV1IxckRORHBOZGl1Sld1NWFlQUtaTGRTaVlHUzlwaFZsZXNlcVBhMzdjWDktUWtMcGFKaXNfajhQYjJKeFZyYmJsM2dKdUN1MjFTWTAzWTcycTR3OE9rb25KbXJoc1ZGZXpBVmotX0tPLTN4MG0zWVJYRTFF?oc=5",
+          "publishedOn": "2024-11-11T15:30:00.000Z",
+          "wordCount": 12596,
+          "title": "How to easily update Windows Subsystem for Linux 2’s kernel - PCWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE4yUEdzS2E0N3lpcEt0VHA1WU92TWdJVkY2anAxdlVQMGhvWVBXcGd3RUx6ZzA1cml3aFAwRjZoVnI1WW9DejRXYlhDYlNyNnkzY0Q5eHhRcEs5OHotcmdwMGQ5dk9HNWFOQWxB",
+          "author": null,
+          "description": "Microsoft Announces Open-Source Hyperlight For Embedded VMM Within Linux/Windows Apps  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yUEdzS2E0N3lpcEt0VHA1WU92TWdJVkY2anAxdlVQMGhvWVBXcGd3RUx6ZzA1cml3aFAwRjZoVnI1WW9DejRXYlhDYlNyNnkzY0Q5eHhRcEs5OHotcmdwMGQ5dk9HNWFOQWxB?oc=5",
+          "publishedOn": "2024-11-11T15:10:00.000Z",
+          "wordCount": 12596,
+          "title": "Microsoft Announces Open-Source Hyperlight For Embedded VMM Within Linux/Windows Apps - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFBZZlJEYXlSYlBJYW84aGt5QnpGN1lfUy1JNG9qVkM0ME13RTdUMzRZTG1XS21VN2Z0TEFFZW1jMVBSVmVGeHp0VHllQTE0d1BZclJPakJ0T1dCV2tPLWR4Z1BuSUlET1AzQ3NfNw",
+          "author": null,
+          "description": "Basic Support For Many Pre-M1 Apple Devices Coming To Linux 6.13  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZlJEYXlSYlBJYW84aGt5QnpGN1lfUy1JNG9qVkM0ME13RTdUMzRZTG1XS21VN2Z0TEFFZW1jMVBSVmVGeHp0VHllQTE0d1BZclJPakJ0T1dCV2tPLWR4Z1BuSUlET1AzQ3NfNw?oc=5",
+          "publishedOn": "2024-11-11T14:52:00.000Z",
+          "wordCount": 12596,
+          "title": "Basic Support For Many Pre-M1 Apple Devices Coming To Linux 6.13 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE9jSzlFLUJ0ZEtha2ZpUnRlcVlENXl6b2F3anJjTkpJN2NubVVaMTFkeVRDbV8wdVF1cTVfVmhCU3VQdzBLN09KVEFPTVNhYVNnZEFJcjJhVjJIUmFUaVk5ZEZwblJZU3lEVHBGc0VZOUJ3NkU",
+          "author": null,
+          "description": "New CRON#TRAP malware uses hidden Linux VM  DM News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jSzlFLUJ0ZEtha2ZpUnRlcVlENXl6b2F3anJjTkpJN2NubVVaMTFkeVRDbV8wdVF1cTVfVmhCU3VQdzBLN09KVEFPTVNhYVNnZEFJcjJhVjJIUmFUaVk5ZEZwblJZU3lEVHBGc0VZOUJ3NkU?oc=5",
+          "publishedOn": "2024-11-11T14:05:17.000Z",
+          "wordCount": 12596,
+          "title": "New CRON#TRAP malware uses hidden Linux VM - DM News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqwFBVV95cUxPX09DWmgwaVNJcFJjSUlycEgyUFZkc3pjc05QTXRoUDA2TXpYSGlrUjd6VTlsal9UYldSMmM4eEY1R3J2ZjllT3V4UzFZUUFpMUpYdlZDcnU3d3ZoZHdZbDZWRGZDRTBoVzF3bWMxRkxaMWhMdV9RNUVaWFRaeGFVb24waDB0M3R6anctd21uSVlnR0hxSUd3YWxqZnJPOS1LRXd1UURXUWFtOTDSAbABQVVfeXFMUDEyX2xHRFdKR0FDU0Rzand0czFjNXZ1SkVjT2o2N0RKZ0FKZDFWcnlSVV9kZHc5d0czWUE0ZUR1YkNXUDBjcUJ6aTQ1Ty1mc0E2ekJiVU54Sy1RaVVSbm1BUnFBYW5faGYxRUIwb0JxM3N3NV90UHFBcmtJN3Q4dm5jWTFrSG5UVnRNT20zcTR5YmNlREVabFZSTFpCTVM3UmwzUFhLdnNFbUtOSWVPNmo",
+          "author": null,
+          "description": "Qila Joins Forces with LF Decentralized Trust to Propel Web3 Adoption  CoinTrust",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX09DWmgwaVNJcFJjSUlycEgyUFZkc3pjc05QTXRoUDA2TXpYSGlrUjd6VTlsal9UYldSMmM4eEY1R3J2ZjllT3V4UzFZUUFpMUpYdlZDcnU3d3ZoZHdZbDZWRGZDRTBoVzF3bWMxRkxaMWhMdV9RNUVaWFRaeGFVb24waDB0M3R6anctd21uSVlnR0hxSUd3YWxqZnJPOS1LRXd1UURXUWFtOTDSAbABQVVfeXFMUDEyX2xHRFdKR0FDU0Rzand0czFjNXZ1SkVjT2o2N0RKZ0FKZDFWcnlSVV9kZHc5d0czWUE0ZUR1YkNXUDBjcUJ6aTQ1Ty1mc0E2ekJiVU54Sy1RaVVSbm1BUnFBYW5faGYxRUIwb0JxM3N3NV90UHFBcmtJN3Q4dm5jWTFrSG5UVnRNT20zcTR5YmNlREVabFZSTFpCTVM3UmwzUFhLdnNFbUtOSWVPNmo?oc=5",
+          "publishedOn": "2024-11-11T13:48:42.000Z",
+          "wordCount": 12596,
+          "title": "Qila Joins Forces with LF Decentralized Trust to Propel Web3 Adoption - CoinTrust",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE9tak1uS0Nidmo4MkdUUDAtVkxTSmpZa3ZUa0diZkNBV0J0LUdWREJuUTNjQ0YxVGxKd3l2OVVWVER2QVlQajZrQ1JtbkROZVIybkdsM0RnbUJQZER6TFB2UEg3bEJISVpTSl9v",
+          "author": null,
+          "description": "Linux 6.13 Rust Support Allowing For In-Place Modules  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tak1uS0Nidmo4MkdUUDAtVkxTSmpZa3ZUa0diZkNBV0J0LUdWREJuUTNjQ0YxVGxKd3l2OVVWVER2QVlQajZrQ1JtbkROZVIybkdsM0RnbUJQZER6TFB2UEg3bEJISVpTSl9v?oc=5",
+          "publishedOn": "2024-11-11T11:52:00.000Z",
+          "wordCount": 12596,
+          "title": "Linux 6.13 Rust Support Allowing For In-Place Modules - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMif0FVX3lxTE1PSDVwXzhWdU9qamd0QzB4SkFnQ2hLSlNCYk5GOHBWWks4S1lld3RGNURNWWw1c1lTOVRTT0NRdTFBLXFHY3ZwM2NnYUVxcVpUS0treXd0bEdxRVRFR3pUM3FpWENzQXVqcktxV19pOFVqeExxWThYX21teUhIVjjSAYQBQVVfeXFMTll4Vk1OOHBzQ1ktMk1hQjhnd2c3ZGRVaWpCVG1LUnJqZHJZQTlNSUM0UllHVVJUS1djQUw4bDVSUjJCNmNvN0FhbkdGYXZPM1NMN3hseHlqaThlUDQ3OUpkeGFwWTRKcEtyMVltZ0F5cU5xN2hyTVY3N2dmdHVzTDI4T19Z",
+          "author": null,
+          "description": "A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth  The Register",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSDVwXzhWdU9qamd0QzB4SkFnQ2hLSlNCYk5GOHBWWks4S1lld3RGNURNWWw1c1lTOVRTT0NRdTFBLXFHY3ZwM2NnYUVxcVpUS0treXd0bEdxRVRFR3pUM3FpWENzQXVqcktxV19pOFVqeExxWThYX21teUhIVjjSAYQBQVVfeXFMTll4Vk1OOHBzQ1ktMk1hQjhnd2c3ZGRVaWpCVG1LUnJqZHJZQTlNSUM0UllHVVJUS1djQUw4bDVSUjJCNmNvN0FhbkdGYXZPM1NMN3hseHlqaThlUDQ3OUpkeGFwWTRKcEtyMVltZ0F5cU5xN2hyTVY3N2dmdHVzTDI4T19Z?oc=5",
+          "publishedOn": "2024-11-11T11:31:00.000Z",
+          "wordCount": 12596,
+          "title": "A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwAFBVV95cUxOeFFlZHI1ejBSdk9maE5pdU42ajhLVlFLampLZzlMdW03SGRMaWhnbWxjbHRtTE1aX3lIVW96VXMyeTFKX0hSWVhYMDlFZ2djNFViUUR1Tmp2UzFNdXJyNl9yendBUXhwaGl4OVJMUk1GMlBISVlwdVRoRW43eWlVbXV4ejBUM3BoUklGQXlNWHpyNkJoc1lrUThYOXdGRm14dWZNMFNDbzk1VXJQMndqdHhURXJGdC1GVzdHN1R5UjI",
+          "author": null,
+          "description": "NVIDIA detail upcoming Linux driver features for Wayland and explain current support  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFFlZHI1ejBSdk9maE5pdU42ajhLVlFLampLZzlMdW03SGRMaWhnbWxjbHRtTE1aX3lIVW96VXMyeTFKX0hSWVhYMDlFZ2djNFViUUR1Tmp2UzFNdXJyNl9yendBUXhwaGl4OVJMUk1GMlBISVlwdVRoRW43eWlVbXV4ejBUM3BoUklGQXlNWHpyNkJoc1lrUThYOXdGRm14dWZNMFNDbzk1VXJQMndqdHhURXJGdC1GVzdHN1R5UjI?oc=5",
+          "publishedOn": "2024-11-11T11:10:18.000Z",
+          "wordCount": 12596,
+          "title": "NVIDIA detail upcoming Linux driver features for Wayland and explain current support - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE1mMDZaZkZ0aGFPRGFvVzlPVXJVTTl0MERaQXRDT1VOTlhoOFZTTmU2TVNMU0Vya1dET05GRnpCZmdVbFM3NGdoSGpWNFNBTHo2VXhVbVBZeFQ",
+          "author": null,
+          "description": "The Fedora KDE Spin Confirmed as an Alternative Official Edition for Workstation Users  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mMDZaZkZ0aGFPRGFvVzlPVXJVTTl0MERaQXRDT1VOTlhoOFZTTmU2TVNMU0Vya1dET05GRnpCZmdVbFM3NGdoSGpWNFNBTHo2VXhVbVBZeFQ?oc=5",
+          "publishedOn": "2024-11-11T10:30:16.000Z",
+          "wordCount": 12596,
+          "title": "The Fedora KDE Spin Confirmed as an Alternative Official Edition for Workstation Users - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirgFBVV95cUxQQnZKSk4zVHV0R2d0ZFgwNWZGdndkUEVjcm5fWXQ1ZnpqWEZDSDcxd0hBTjRWNDNNX3ZNWmhFcy1LUzJDM1FFcnBxcVRlMUdPQVRjZDN1bng4RGdVLTVaUDN1aG83T09ZMnlLcloxanQ0NV80cG5qQ0k2WTRfbkk0dk9Qd3RHR2E5X3lqR19lbEoxY0VzU2J1QVozYktZWDFENnFwME5zcFBUektxeGc",
+          "author": null,
+          "description": "Intel's Linux kernel test robot reports 3888.9 per cent performance boost  Fudzilla",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnZKSk4zVHV0R2d0ZFgwNWZGdndkUEVjcm5fWXQ1ZnpqWEZDSDcxd0hBTjRWNDNNX3ZNWmhFcy1LUzJDM1FFcnBxcVRlMUdPQVRjZDN1bng4RGdVLTVaUDN1aG83T09ZMnlLcloxanQ0NV80cG5qQ0k2WTRfbkk0dk9Qd3RHR2E5X3lqR19lbEoxY0VzU2J1QVozYktZWDFENnFwME5zcFBUektxeGc?oc=5",
+          "publishedOn": "2024-11-11T10:07:08.000Z",
+          "wordCount": 12596,
+          "title": "Intel's Linux kernel test robot reports 3888.9 per cent performance boost - Fudzilla",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisgFBVV95cUxOSUNMdnZiaTFjOUFHMEVvaHhPSjlpZEQzRTR6SzBtNFEwMnBZc05mXzBLUWVVWFY0N0JRWkYwRUxwV18xWHQwOHBsWEI0dTk4Skl3N082cEFEQlEzbnN0R2tJbU0yTzRVcWJSaXZoWnh2cl9sQVJjT1pNZ1BpQThsQkN3ZWpBZnNxYzlhZEpoWmZLTElKdDNDc1RvS0lvYUU3c3lMRXJGeFpMb3duR1ZDN1ZB",
+          "author": null,
+          "description": "RazerGenie for configuring Razer devices on Linux v1.2 brings new features  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUNMdnZiaTFjOUFHMEVvaHhPSjlpZEQzRTR6SzBtNFEwMnBZc05mXzBLUWVVWFY0N0JRWkYwRUxwV18xWHQwOHBsWEI0dTk4Skl3N082cEFEQlEzbnN0R2tJbU0yTzRVcWJSaXZoWnh2cl9sQVJjT1pNZ1BpQThsQkN3ZWpBZnNxYzlhZEpoWmZLTElKdDNDc1RvS0lvYUU3c3lMRXJGeFpMb3duR1ZDN1ZB?oc=5",
+          "publishedOn": "2024-11-11T10:01:20.000Z",
+          "wordCount": 12596,
+          "title": "RazerGenie for configuring Razer devices on Linux v1.2 brings new features - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE96QWQ4dE9tazJFQjFqaVZaRjd1TTRmeGhFSnNYeGtxRWxPQXlhdUw1RjZzbTEtUjhwN2pxeVJIaWxlMjd1a2FTcXBRSDJaZkZlNFNhbkRqNzdhX2xHMkxkZk5CRGtLWmZNb1FWUjJ6YnYybG_SAXhBVV95cUxNNjVKTGJhMUpSOUJHODFIRFdqQW05aUJvdzVjaE5Zc0M3QkhVR2g5REZhVjY5LUk3bWxVUzNDbWU0MUdlaDB2Qm93WHRKSDNHV24xSGdYWTRvNEJSd19MOVVrWEdDTjIxc3NTSTUtTTczWk4tLWpCb2w",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: November 10th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QWQ4dE9tazJFQjFqaVZaRjd1TTRmeGhFSnNYeGtxRWxPQXlhdUw1RjZzbTEtUjhwN2pxeVJIaWxlMjd1a2FTcXBRSDJaZkZlNFNhbkRqNzdhX2xHMkxkZk5CRGtLWmZNb1FWUjJ6YnYybG_SAXhBVV95cUxNNjVKTGJhMUpSOUJHODFIRFdqQW05aUJvdzVjaE5Zc0M3QkhVR2g5REZhVjY5LUk3bWxVUzNDbWU0MUdlaDB2Qm93WHRKSDNHV24xSGdYWTRvNEJSd19MOVVrWEdDTjIxc3NTSTUtTTczWk4tLWpCb2w?oc=5",
+          "publishedOn": "2024-11-11T08:59:02.000Z",
+          "wordCount": 12596,
+          "title": "9to5Linux Weekly Roundup: November 10th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib0FVX3lxTE54aG1kRVltYTBHVU1pTUVXbm9iNG5oUHVCM2xoYUlIT1pzenJzU0dZWng3a1NiemtPOW1mcFNfZDRWeUx1NWVvNndpb2k2aV9XTXFicWRqcWhibmt5N0o3QkUzNURvb1RWOGJpb291QQ",
+          "author": null,
+          "description": "Senior Linux Systems Engineer  EU-Startups",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aG1kRVltYTBHVU1pTUVXbm9iNG5oUHVCM2xoYUlIT1pzenJzU0dZWng3a1NiemtPOW1mcFNfZDRWeUx1NWVvNndpb2k2aV9XTXFicWRqcWhibmt5N0o3QkUzNURvb1RWOGJpb291QQ?oc=5",
+          "publishedOn": "2024-11-11T05:35:25.000Z",
+          "wordCount": 12596,
+          "title": "Senior Linux Systems Engineer - EU-Startups",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxORFoyWjE3R0d4bFlGS0Z2SkJwMVVYQktFXzd0OVpTYjB3UnI4alV3OEdPbkhVY2xhNHRkbUROOTRaVGdTeE1SRXZFNmJNMTd3MHJwdDQ1VlZ4RHJoTVJJMVI5eG5ZUjR4WkV4UkJkcGpxUFctanRqbDl5ZUlpLXRYUEtZT1VLaVI3YVdDMWlWcS1aWlFkanAtV9IBlwFBVV95cUxNMXgtZVcyVExsRzFTVXZTR3FHZFBJb2daVHVTQ2ZFSmNNWUZfdzJ0aHdrREszcFVsTFhWb25HdWlFaEI3Y1I2MzN3RlRlZXBGLVd3MjYzNDdGc1E5bWtWcUhlbG01UUZZMFJtU3p6M05DakZjLVRwQVJKRHBCV0FUWXZ5U3FlVWV0NEVEbDFkZFJIMUk0UGtj",
+          "author": null,
+          "description": "New patch adds support for Apple's latest Magic Trackpad to Linux  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFoyWjE3R0d4bFlGS0Z2SkJwMVVYQktFXzd0OVpTYjB3UnI4alV3OEdPbkhVY2xhNHRkbUROOTRaVGdTeE1SRXZFNmJNMTd3MHJwdDQ1VlZ4RHJoTVJJMVI5eG5ZUjR4WkV4UkJkcGpxUFctanRqbDl5ZUlpLXRYUEtZT1VLaVI3YVdDMWlWcS1aWlFkanAtV9IBlwFBVV95cUxNMXgtZVcyVExsRzFTVXZTR3FHZFBJb2daVHVTQ2ZFSmNNWUZfdzJ0aHdrREszcFVsTFhWb25HdWlFaEI3Y1I2MzN3RlRlZXBGLVd3MjYzNDdGc1E5bWtWcUhlbG01UUZZMFJtU3p6M05DakZjLVRwQVJKRHBCV0FUWXZ5U3FlVWV0NEVEbDFkZFJIMUk0UGtj?oc=5",
+          "publishedOn": "2024-11-11T05:12:00.000Z",
+          "wordCount": 12596,
+          "title": "New patch adds support for Apple's latest Magic Trackpad to Linux - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiY0FVX3lxTE5HZm05azM3Mm4zQXlEQkF3eEI5Ny1NejNSUnh1TnVtVXhCVlBuOURwMzIxazE1RmhGclU3NXdIYXNfV1EwOFlhOHR6MjdxMDJVMUJ2SWZTTXNuc1VpU3BFU0Qwdw",
           "author": null,
@@ -1622,6 +1862,16 @@
           "publishedOn": "2024-11-10T21:30:00.000Z",
           "wordCount": 12496,
           "title": "Habits to Keep Linux Resource Usage Low - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxOMkdROGlLa1ZPU1VkbTdFS2FrQkxrVkp5TVJYWUF3YVNFTTJ2RkhXbmEyNFI3VDlrY2s4WDhSc01HTmdqREl1cU9PR1ZzcDZuVkdaRFlPTmpUUlZ3TFBBTEFibm40SGJmSVcyem5yM0FqTkxyNnIxWVdvbW1TUHRNTHpYYlNjOE13aFZBRWtJLVN3TVZx",
+          "author": null,
+          "description": "5 Linux Features That Make It More Productive Than Windows or Mac  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkdROGlLa1ZPU1VkbTdFS2FrQkxrVkp5TVJYWUF3YVNFTTJ2RkhXbmEyNFI3VDlrY2s4WDhSc01HTmdqREl1cU9PR1ZzcDZuVkdaRFlPTmpUUlZ3TFBBTEFibm40SGJmSVcyem5yM0FqTkxyNnIxWVdvbW1TUHRNTHpYYlNjOE13aFZBRWtJLVN3TVZx?oc=5",
+          "publishedOn": "2024-11-10T20:15:00.000Z",
+          "wordCount": 12596,
+          "title": "5 Linux Features That Make It More Productive Than Windows or Mac - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5802,76 +6052,6 @@
           "publishedOn": "2024-10-13T14:03:59.000Z",
           "wordCount": 12549,
           "title": "Switching from Microsoft Windows 11 to Linux is like Columbus discovering America - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE56eXFoenpuWkEybVlPZFltTWZzVUtQQUhlMUlmR1ZTQzFSMkN3bGxPOVNQb3JNcG90TDM3Njg5dFBpb1JMTkdwMFJqcVAwMUYtNUR6N2xYbWZNcVByYXlWN2hJRW5xU29SQ0E",
-          "author": null,
-          "description": "Windows 11, macOS 15: What Version of Linux Are We On?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56eXFoenpuWkEybVlPZFltTWZzVUtQQUhlMUlmR1ZTQzFSMkN3bGxPOVNQb3JNcG90TDM3Njg5dFBpb1JMTkdwMFJqcVAwMUYtNUR6N2xYbWZNcVByYXlWN2hJRW5xU29SQ0E?oc=5",
-          "publishedOn": "2024-10-13T12:00:00.000Z",
-          "wordCount": 12549,
-          "title": "Windows 11, macOS 15: What Version of Linux Are We On? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUkFVX3lxTE5SVHlCZlFmdWtEY3ZrSlMyODJsdnVTY3hMcWtvRklNdm1MTHNUNFBOX1JPZE04Q0ZTU2JfSVJvZlh2d0U2c3MyUzJMWnRabmdJYkE",
-          "author": null,
-          "description": "10 Things You Can do on Linux but not on Windows  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVHlCZlFmdWtEY3ZrSlMyODJsdnVTY3hMcWtvRklNdm1MTHNUNFBOX1JPZE04Q0ZTU2JfSVJvZlh2d0U2c3MyUzJMWnRabmdJYkE?oc=5",
-          "publishedOn": "2024-10-13T10:38:11.000Z",
-          "wordCount": 12549,
-          "title": "10 Things You Can do on Linux but not on Windows - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTE9xZXVLazBucFRvTEVUdk01TG9GRVpwTXRtQUlPYlYtOVNkRGNSTEFGbTh3dF91dVptN1U4eE9UYU9lX3VOdFJySl9ORmdsUGtfZ191blJzWEcxcVRIRGFVWkxyMFE",
-          "author": null,
-          "description": "Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZXVLazBucFRvTEVUdk01TG9GRVpwTXRtQUlPYlYtOVNkRGNSTEFGbTh3dF91dVptN1U4eE9UYU9lX3VOdFJySl9ORmdsUGtfZ191blJzWEcxcVRIRGFVWkxyMFE?oc=5",
-          "publishedOn": "2024-10-13T10:05:00.000Z",
-          "wordCount": 12549,
-          "title": "Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiogJBVV95cUxPTnFUR3BBejRlMEVJNjBidTdEMjhzbGdEdEpRa1RzTGM2aU9OQXJLYl84V1BGcTliNHpteGdCVVJnNWlhdm5fV21kMmNNbWxDLTdxYTdvOXB1ZlI2TDhkS3VLaHFCRktWb2RKdk8wRFJzdXotRGhaaGZCcUNiUUZ5cG5Eb045RHhlWmVDQnB2MnZBOS1hWTRzT3phS3ljeWtEbHg4eXE5MGlrYVdvNHkyUXpJa2c4SHcyQ0tUU0pib3ljZVVRNGpPNDN3dkVBMnpxTmUwSC04clZUWnhvdW9HcExrN2dMNHVFa2I3Mk5mSkk0cG1sdGJiTEZkMVBSSURYT3lOMDUwaElfVXNRX0dzUEd2LUFzOTk1MnRZR3JCVDFLZw",
-          "author": null,
-          "description": "AAA gaming comes to Apple M1 thanks to the latest Asahi Linux build — Control, Cyberpunk 2077, and The Witcher 3 are playable with respectable frame rates  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTnFUR3BBejRlMEVJNjBidTdEMjhzbGdEdEpRa1RzTGM2aU9OQXJLYl84V1BGcTliNHpteGdCVVJnNWlhdm5fV21kMmNNbWxDLTdxYTdvOXB1ZlI2TDhkS3VLaHFCRktWb2RKdk8wRFJzdXotRGhaaGZCcUNiUUZ5cG5Eb045RHhlWmVDQnB2MnZBOS1hWTRzT3phS3ljeWtEbHg4eXE5MGlrYVdvNHkyUXpJa2c4SHcyQ0tUU0pib3ljZVVRNGpPNDN3dkVBMnpxTmUwSC04clZUWnhvdW9HcExrN2dMNHVFa2I3Mk5mSkk0cG1sdGJiTEZkMVBSSURYT3lOMDUwaElfVXNRX0dzUEd2LUFzOTk1MnRZR3JCVDFLZw?oc=5",
-          "publishedOn": "2024-10-12T17:19:39.000Z",
-          "wordCount": 12549,
-          "title": "AAA gaming comes to Apple M1 thanks to the latest Asahi Linux build — Control, Cyberpunk 2077, and The Witcher 3 are playable with respectable frame rates - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFBVV95cUxPY002NkNHb2t1NVk5bi1mVHNTeFR4Q0NaYkY0REdZM2RjZTZiRktTempvbzZhR0piNU16UjRpTW4wcTZDbHRsV1U1YnFFQzhQN2gwR3MtS0dDd25kMTk3bFE1S1pBcm50RzBqXzZ4cGE1dUxmR2JaQXlJRGd3Sk9LejZhY3dMakN3QkExVQ",
-          "author": null,
-          "description": "Ubuntu Linux: Install the Suricata Intrusion Detection System  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY002NkNHb2t1NVk5bi1mVHNTeFR4Q0NaYkY0REdZM2RjZTZiRktTempvbzZhR0piNU16UjRpTW4wcTZDbHRsV1U1YnFFQzhQN2gwR3MtS0dDd25kMTk3bFE1S1pBcm50RzBqXzZ4cGE1dUxmR2JaQXlJRGd3Sk9LejZhY3dMakN3QkExVQ?oc=5",
-          "publishedOn": "2024-10-12T16:07:53.000Z",
-          "wordCount": 12549,
-          "title": "Ubuntu Linux: Install the Suricata Intrusion Detection System - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTFA4R3dWVXBhVEV2ekdhSm5zaW50eGs4Mm00bEl6cHd1NE5OUjRPM1VSLTJaTk1UY2VLaTlQVE45UjZNQjJ1ancwOW1memdvamxaOHlyN1QzZEltRk9GQ2pFY3R1aDhZeUM4dmtoR0plUFdkd2Q3LUE",
-          "author": null,
-          "description": "5 reasons Arch Linux and Valve teaming up just makes sense  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4R3dWVXBhVEV2ekdhSm5zaW50eGs4Mm00bEl6cHd1NE5OUjRPM1VSLTJaTk1UY2VLaTlQVE45UjZNQjJ1ancwOW1memdvamxaOHlyN1QzZEltRk9GQ2pFY3R1aDhZeUM4dmtoR0plUFdkd2Q3LUE?oc=5",
-          "publishedOn": "2024-10-12T15:00:00.000Z",
-          "wordCount": 12549,
-          "title": "5 reasons Arch Linux and Valve teaming up just makes sense - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidEFVX3lxTE15ZFB6N2tONzZlRkJKM1AtYXBnUGNzRzhHUUlMaTk1NEdWMnFiWURVUWgwMk4zbVh2dThUUV82RUZvdDl3ODUxZW5yQWNoNm9FN1VEbThyZVFlTGtmWTFPMHpEWWktRzFwZ01mWDdwa2dTT0NP",
-          "author": null,
-          "description": "Linux: Create System Backups With rsnapshot  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15ZFB6N2tONzZlRkJKM1AtYXBnUGNzRzhHUUlMaTk1NEdWMnFiWURVUWgwMk4zbVh2dThUUV82RUZvdDl3ODUxZW5yQWNoNm9FN1VEbThyZVFlTGtmWTFPMHpEWWktRzFwZ01mWDdwa2dTT0NP?oc=5",
-          "publishedOn": "2024-10-12T14:06:53.000Z",
-          "wordCount": 12549,
-          "title": "Linux: Create System Backups With rsnapshot - The New Stack",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
