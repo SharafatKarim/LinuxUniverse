@@ -18,6 +18,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194260",
+          "author": "Content Operations",
+          "description": "This guide teaches you how to install Mattermost on the Rocky Linux 9 server. Mattermost is an open-source and self-hosted messaging system for your organization. It is an alternative to services like Slack and Microsoft Teams. \nThe post How to Install Mattermost on Rocky Linux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-mattermost-on-rocky-linux-9/",
+          "publishedOn": "2024-11-16T15:00:03.000Z",
+          "wordCount": 8987,
+          "title": "How to Install Mattermost on Rocky Linux 9",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194259",
+          "author": "Content Operations",
+          "description": "In this guide, you'll learn how to monitor MySQL/MariaDB servers with Prometheus and Grafana.\nThe post How to Monitor MySQL or MariaDB with Prometheus and Grafana appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-monitor-mysql-or-mariadb-with-prometheus-and-grafana/",
+          "publishedOn": "2024-11-16T14:00:27.000Z",
+          "wordCount": 8985,
+          "title": "How to Monitor MySQL or MariaDB with Prometheus and Grafana",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194451",
           "author": "Content Operations",
           "description": "If you’re a Linux user, you have several tools at your fingertips to create QR codes efficiently. Let’s look at some popular QR code generators you can use directly on your Linux system.\nThe post 4 Best QR Code Generator Tools for Linux appeared first on Linux Today.",
@@ -1706,36 +1726,6 @@
           "wordCount": 9119,
           "title": "Calibre 7.20 Adds New PDF Input Engine, Supports New Tolino Shine 5 Firmware",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193603",
-          "author": "Web Webster",
-          "description": "Coming a week after Ardour 8.9, the Ardour 8.10 release is here to fix some performance issues caused by the scheduling of disk input/output threads, importing of SMF (MIDI) via drag and drop to use the file name, and content-slipping of regions to update the playback buffers correctly.\nThe post Ardour 8.10 Open-Source DAW Released with Fixes for New Major Issues appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/ardour-8-10-open-source-daw-released-with-fixes-for-new-major-issues/",
-          "publishedOn": "2024-10-18T13:35:19.000Z",
-          "wordCount": 9095,
-          "title": "Ardour 8.10 Open-Source DAW Released with Fixes for New Major Issues",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193558",
-          "author": "Web Webster",
-          "description": "It’s fascinating how Windows 10 took off shortly after its release on July 29, 2015, quickly becoming one of the most popular versions of Windows. Many considered it to be the best Windows ever, which is exactly what a sequel operating system should be — unlike its predecessors (looking at you, Windows 8/8.1). As of […]\nThe post 7 Linux Distributions That Feel Just Like Windows appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/7-linux-distributions-that-feel-just-like-windows/",
-          "publishedOn": "2024-10-18T13:19:53.000Z",
-          "wordCount": 9167,
-          "title": "7 Linux Distributions That Feel Just Like Windows",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193536",
-          "author": "Web Webster",
-          "description": "Coming only three weeks after VirtualBox 7.1.2, the VirtualBox 7.1.4 release is here to introduce automatic upgrading of the Linux Guest Additions via the Devices menu on ARM systems, improved flickering, black screen, and other screen update issues with recent Linux kernels, and adds initial support for the upcoming Linux 6.12 kernel series in Linux […]\nThe post VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/virtualbox-7-1-4-adds-initial-support-for-linux-kernel-6-12-and-other-linux-changes/",
-          "publishedOn": "2024-10-17T20:53:22.000Z",
-          "wordCount": 9121,
-          "title": "VirtualBox 7.1.4 Adds Initial Support for Linux Kernel 6.12 and Other Linux Changes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1744,6 +1734,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiZEFVX3lxTE5XMmZpcjU2b0RyVXIzY1ZINWFxRXM5aFEtWlpWSUdPbjRpMElJS0RGUGRGNlNiSDJXQTFGU1ZCWTA5X0doRGNfb0hEd0drT1FXenQ1ZTlnVmtmdXdBaXBaeHdobXk",
+          "author": null,
+          "description": "Google Engineer Proposes \"Page Detective\" As New Kernel Debugging Tool  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMmZpcjU2b0RyVXIzY1ZINWFxRXM5aFEtWlpWSUdPbjRpMElJS0RGUGRGNlNiSDJXQTFGU1ZCWTA5X0doRGNfb0hEd0drT1FXenQ1ZTlnVmtmdXdBaXBaeHdobXk?oc=5",
+          "publishedOn": "2024-11-16T18:21:00.000Z",
+          "wordCount": 12600,
+          "title": "Google Engineer Proposes \"Page Detective\" As New Kernel Debugging Tool - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifkFVX3lxTFBUeHJGRXlaMDZhWENDTkVVNWtNTmtQOERUVXhMUW1DSTNLWHNZdGJfVVFWT29YdFpqRlR6UF9xUVc0Wm5LX0d4SXo3OFNqMkpvNGNCNVl1a1l6SXkzTldEYkpzbmsteFJua0dmN2FoS2lMUXY3M0VIZkkwaC1mQQ",
+          "author": null,
+          "description": "How to Batch Edit Photos in the Linux Terminal  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUeHJGRXlaMDZhWENDTkVVNWtNTmtQOERUVXhMUW1DSTNLWHNZdGJfVVFWT29YdFpqRlR6UF9xUVc0Wm5LX0d4SXo3OFNqMkpvNGNCNVl1a1l6SXkzTldEYkpzbmsteFJua0dmN2FoS2lMUXY3M0VIZkkwaC1mQQ?oc=5",
+          "publishedOn": "2024-11-16T17:00:00.000Z",
+          "wordCount": 12600,
+          "title": "How to Batch Edit Photos in the Linux Terminal - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE8tNklUWFlPaENGY1hwUWUyUEg5WE8xWkhEbVAzN2IwcWVEbDNITGxEam03T1pYc3BwejBqVUZHS3RWeDFQTThmTTJMTnljQVR3VE56Z1NwTTlIM1dRR2JvT1J6SDdodw",
+          "author": null,
+          "description": "TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tNklUWFlPaENGY1hwUWUyUEg5WE8xWkhEbVAzN2IwcWVEbDNITGxEam03T1pYc3BwejBqVUZHS3RWeDFQTThmTTJMTnljQVR3VE56Z1NwTTlIM1dRR2JvT1J6SDdodw?oc=5",
+          "publishedOn": "2024-11-16T14:51:00.000Z",
+          "wordCount": 12600,
+          "title": "TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiwFBVV95cUxQOVR0QWtQVzBGMjRQOGhPMGwteHlXbUpPaXRMMnUwMEpRSXhCOC1rRXQ4VzV4STl6bHFmR3NHMHptcVZ4eWQtQWpSdkZhWWs5eHljNEpHbFozOGMyS3ZKdTI0bURjTWc3eWlxNDBDaENFWW1HdG12UGZjNEdaM2ZKaENXWHViNFIxclkw",
+          "author": null,
+          "description": "First Look at GenBook RK3588, a Modular ARM-Powered Linux Laptop That Can Easily be Upgraded  TechEBlog",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVR0QWtQVzBGMjRQOGhPMGwteHlXbUpPaXRMMnUwMEpRSXhCOC1rRXQ4VzV4STl6bHFmR3NHMHptcVZ4eWQtQWpSdkZhWWs5eHljNEpHbFozOGMyS3ZKdTI0bURjTWc3eWlxNDBDaENFWW1HdG12UGZjNEdaM2ZKaENXWHViNFIxclkw?oc=5",
+          "publishedOn": "2024-11-16T14:42:35.000Z",
+          "wordCount": 12600,
+          "title": "First Look at GenBook RK3588, a Modular ARM-Powered Linux Laptop That Can Easily be Upgraded - TechEBlog",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxONmM2TmdDcWdCN3haY0UySkZnOWY0bDBvWm50NjNKTTBqc3c0bUlrQUNKUENuUjBiS0o3MlEzMmFMN2oxTTdCVW8xbEpQQ3ZIRlpSY0VOVm51OTdYUUw1Q1g2cVRFVEtLRGJ3ZGFMRHNmYVBEQ0FRaVJCLXNCYm9JcGNtNlF3LV9RckQ0RGtZaF9xT0NiSUZjQkhsMGdSMTNW",
+          "author": null,
+          "description": "People in the '80s Thought Unix Would Take Over. Here's Why They Were Right  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmM2TmdDcWdCN3haY0UySkZnOWY0bDBvWm50NjNKTTBqc3c0bUlrQUNKUENuUjBiS0o3MlEzMmFMN2oxTTdCVW8xbEpQQ3ZIRlpSY0VOVm51OTdYUUw1Q1g2cVRFVEtLRGJ3ZGFMRHNmYVBEQ0FRaVJCLXNCYm9JcGNtNlF3LV9RckQ0RGtZaF9xT0NiSUZjQkhsMGdSMTNW?oc=5",
+          "publishedOn": "2024-11-16T12:30:00.000Z",
+          "wordCount": 12600,
+          "title": "People in the '80s Thought Unix Would Take Over. Here's Why They Were Right - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMilwFBVV95cUxNY3BqaXZNRDBvMlRmSk5fSVk3dlAyTFJHak9BakZTbnpIZU1ZNGUxVU4ycWI4MmtlamlPUWdGMEloN01wOTJ1dkkwZjhtamFLbmgydnNqdl9OWUF1YTZTN1p4cThyRjhyVnRuX2VxanFXY01nWFlCTXFILVlPdkRSTWtCRmtIdGMxLVQ3anV6WWVHZ18tSXo0",
           "author": null,
@@ -1762,6 +1802,16 @@
           "publishedOn": "2024-11-15T16:36:26.000Z",
           "wordCount": 12605,
           "title": "Hacking the Linux Kernel in Ada - Part 2 - Embedded Computing Design",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqgFBVV95cUxOeTFOSTVEYk5TOHVMQ1BXSkRSblBjY25EOEY0amVkZlRSWml5Z2NuanBUWVhEQkRwY0k4eHA1b29Kc2pYdVBwRTVTUEwtT0tER0pUel9qMWl3YjhMbFF2c1Q4Ni02U1JRdWY1M2RMaDlDZGNYUEd0Z0JkTk1PUkxXNHVabEZHY1FzZm9jSkdQaVA2WmFjR1ZEOUl2U2U1R1F3cEJBTXV0akJWUQ",
+          "author": null,
+          "description": "SUSE unveils major rebranding, and a new AI platform that protects your data  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTFOSTVEYk5TOHVMQ1BXSkRSblBjY25EOEY0amVkZlRSWml5Z2NuanBUWVhEQkRwY0k4eHA1b29Kc2pYdVBwRTVTUEwtT0tER0pUel9qMWl3YjhMbFF2c1Q4Ni02U1JRdWY1M2RMaDlDZGNYUEd0Z0JkTk1PUkxXNHVabEZHY1FzZm9jSkdQaVA2WmFjR1ZEOUl2U2U1R1F3cEJBTXV0akJWUQ?oc=5",
+          "publishedOn": "2024-11-15T16:31:00.000Z",
+          "wordCount": 12600,
+          "title": "SUSE unveils major rebranding, and a new AI platform that protects your data - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5993,96 +6043,6 @@
           "wordCount": 12557,
           "title": "Linux Fixes Indirect Branch Predictor Barrier \"IBPB\" Handling For Older AMD CPUs - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE9DczdfUlYza1ctNG5GUzdEeWF1U1ZKQVRKaVhfT3pYa0VhX01KNk5fbE9kMnRLRmlidlB1MFplUzZQMUJkS2RBdDFWLWdqZTFJN3JIcnVHZTQ3cG8wVWJXQlFNbVVaNnhfc0RF",
-          "author": null,
-          "description": "Ubuntu Snaps Up Intel's NPU User-Space Software So It's Easier To Accelerate AI  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DczdfUlYza1ctNG5GUzdEeWF1U1ZKQVRKaVhfT3pYa0VhX01KNk5fbE9kMnRLRmlidlB1MFplUzZQMUJkS2RBdDFWLWdqZTFJN3JIcnVHZTQ3cG8wVWJXQlFNbVVaNnhfc0RF?oc=5",
-          "publishedOn": "2024-10-18T10:27:00.000Z",
-          "wordCount": 12557,
-          "title": "Ubuntu Snaps Up Intel's NPU User-Space Software So It's Easier To Accelerate AI - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxQdEwyQVp1c1FVYUxsLUp1OEFQRXk2RndQcEV6QVNtMzlUcUU3Q2w3bEhpSmJHY0FRZERTNGUwa09PblZIb2NSS2Q0NEt3alpKR2dXRVRKOUd1VlRRc3lkTEZERkFuSGVQa0liTDd3dFFSMzhtSUx4Q3FUNmlWTVl6VkN0aVZldkNVbFdNMWY0ZVZXTXV3Z0VFdHVZc1NqbGpTYzFiVTBCenpudUg5cVZGQjVpbG0",
-          "author": null,
-          "description": "Valve makes a big improvement for Native Linux games in a Steam Beta update  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwyQVp1c1FVYUxsLUp1OEFQRXk2RndQcEV6QVNtMzlUcUU3Q2w3bEhpSmJHY0FRZERTNGUwa09PblZIb2NSS2Q0NEt3alpKR2dXRVRKOUd1VlRRc3lkTEZERkFuSGVQa0liTDd3dFFSMzhtSUx4Q3FUNmlWTVl6VkN0aVZldkNVbFdNMWY0ZVZXTXV3Z0VFdHVZc1NqbGpTYzFiVTBCenpudUg5cVZGQjVpbG0?oc=5",
-          "publishedOn": "2024-10-18T09:06:22.000Z",
-          "wordCount": 12557,
-          "title": "Valve makes a big improvement for Native Linux games in a Steam Beta update - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxNNjR1S1hlUDFSS2NWckI1WUI0aS1fdzNMdWZsMlF6eXB6LUt1dlYyeWEyVE8tQzUyd0xMWHpHRFJnNDJZejNoY3hOYjlwNHQxaXY0SDJvWXI5Z3k1T0w5WVh3Q1JQLUlDT3JUSVNQcUQ3Yk9FQ0pPWVlLdzQyU0phc3cwaDQwMWs",
-          "author": null,
-          "description": "How to add a menu item in Linux Mint | by DevOps Lite | Oct, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjR1S1hlUDFSS2NWckI1WUI0aS1fdzNMdWZsMlF6eXB6LUt1dlYyeWEyVE8tQzUyd0xMWHpHRFJnNDJZejNoY3hOYjlwNHQxaXY0SDJvWXI5Z3k1T0w5WVh3Q1JQLUlDT3JUSVNQcUQ3Yk9FQ0pPWVlLdzQyU0phc3cwaDQwMWs?oc=5",
-          "publishedOn": "2024-10-18T01:02:26.000Z",
-          "wordCount": 12557,
-          "title": "How to add a menu item in Linux Mint | by DevOps Lite | Oct, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTFBHTmNqTk14eXJNU0xsUmRpbjUwNTNnT0tLaEZQVVhCVkZ0YThmVmllTlpMd1J2S0J3RDdBbHNjNWF6R1V1eEhCNk8tdFZQa00yZjB6UEhSSXE4azg",
-          "author": null,
-          "description": "Microsoft Open-Sources Rust-Written OpenHCL For Running Confidential Intel/AMD VMs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHTmNqTk14eXJNU0xsUmRpbjUwNTNnT0tLaEZQVVhCVkZ0YThmVmllTlpMd1J2S0J3RDdBbHNjNWF6R1V1eEhCNk8tdFZQa00yZjB6UEhSSXE4azg?oc=5",
-          "publishedOn": "2024-10-18T00:28:00.000Z",
-          "wordCount": 12557,
-          "title": "Microsoft Open-Sources Rust-Written OpenHCL For Running Confidential Intel/AMD VMs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi2wFBVV95cUxOSG5LaG4za2hrb01BUEEwdFk4d2xNMzJRZ3d1MHhUdzZDbUtrOWpLY2RwdzliRVd1b1lpOHptcXRHZVFMUXlmM1h1dUFzUGE5NXJNd0pOb1lOQlNoOG5tTksxbHp5TW5nY1hjVENkVU1PcGc1bFNOSzI1OXV3ang0b0Y1emlXQ1FHTWkxNGNfX0RscXdjTndRT1hZM3NoWXVrZjNVdWxoVVk2SjVaZDNlaUN4Zm5mVzE3Wk5YaXJkVE5KbWFlMndvVGI4RFdKTmpCdHh2TEZ1VGR0Nlk",
-          "author": null,
-          "description": "Red Hat Accelerates Generative AI Innovation with Red Hat Enterprise Linux AI on Lenovo ThinkSystem Servers  CXOToday.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSG5LaG4za2hrb01BUEEwdFk4d2xNMzJRZ3d1MHhUdzZDbUtrOWpLY2RwdzliRVd1b1lpOHptcXRHZVFMUXlmM1h1dUFzUGE5NXJNd0pOb1lOQlNoOG5tTksxbHp5TW5nY1hjVENkVU1PcGc1bFNOSzI1OXV3ang0b0Y1emlXQ1FHTWkxNGNfX0RscXdjTndRT1hZM3NoWXVrZjNVdWxoVVk2SjVaZDNlaUN4Zm5mVzE3Wk5YaXJkVE5KbWFlMndvVGI4RFdKTmpCdHh2TEZ1VGR0Nlk?oc=5",
-          "publishedOn": "2024-10-17T21:24:35.000Z",
-          "wordCount": 12557,
-          "title": "Red Hat Accelerates Generative AI Innovation with Red Hat Enterprise Linux AI on Lenovo ThinkSystem Servers - CXOToday.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFBVV95cUxQR05pNXRGbVhfUTJ6UDAteUhWeFpmSnlHYjRjdjNYU3VhWWRBWTlKT1R2Vzc1OV9RMGQ1aVhQMng4aXp0eHR1LWQ0bFo4MV9Bem5BUXh5eG5JTjk4NWRBMndBWWlRTXFpUTRNLUJOQk0wNENvc3hYTThYYnN2NFhIakxJYVVDNE9pNUZvWA",
-          "author": null,
-          "description": "Learn These 6 Linux Commands to Go From Beginner to Badass  Review Geek",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR05pNXRGbVhfUTJ6UDAteUhWeFpmSnlHYjRjdjNYU3VhWWRBWTlKT1R2Vzc1OV9RMGQ1aVhQMng4aXp0eHR1LWQ0bFo4MV9Bem5BUXh5eG5JTjk4NWRBMndBWWlRTXFpUTRNLUJOQk0wNENvc3hYTThYYnN2NFhIakxJYVVDNE9pNUZvWA?oc=5",
-          "publishedOn": "2024-10-17T20:30:00.000Z",
-          "wordCount": 12557,
-          "title": "Learn These 6 Linux Commands to Go From Beginner to Badass - Review Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFBVV95cUxQbnkxaXNPNlJwYjhvUXd0NFZoMENfN213WFZqYmVxa1FrZVVxOHpET2VnbjdEZ1FESm1rQlRQdTdhWTFKWnBBNHBRT3JyZFpsczFic1N1V29CTmd5amF4TjBIc1hqVEUzREY0U0k3RDFqYkJ4QWRnRGJ0TkZWV1JoUzdJdlFGbm1wcjl3",
-          "author": null,
-          "description": "Learn These 6 Linux Commands to Go From Beginner to Badass  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnkxaXNPNlJwYjhvUXd0NFZoMENfN213WFZqYmVxa1FrZVVxOHpET2VnbjdEZ1FESm1rQlRQdTdhWTFKWnBBNHBRT3JyZFpsczFic1N1V29CTmd5amF4TjBIc1hqVEUzREY0U0k3RDFqYkJ4QWRnRGJ0TkZWV1JoUzdJdlFGbm1wcjl3?oc=5",
-          "publishedOn": "2024-10-17T20:30:00.000Z",
-          "wordCount": 12557,
-          "title": "Learn These 6 Linux Commands to Go From Beginner to Badass - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFBVV95cUxNLTlyNTJMX1RaWnZVX2pzcVE0MkhVVGR2RjhvY016cU5RaDZQUDNJVVhnVjdGdlpxUHNDcTQzaWZOYjdVU2VTMVU4NEtVRkQyMEhvQzlGc3FBNE1peGQ5VjRqVkhIUEhmdFlnVThpZzFEellDN1BMaUtHOGVzRkF1N2w5Zks2VWdSanc1NDVRUGJ1Zw",
-          "author": null,
-          "description": "Linux Persistence Mechanisms and How to Find Them  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTlyNTJMX1RaWnZVX2pzcVE0MkhVVGR2RjhvY016cU5RaDZQUDNJVVhnVjdGdlpxUHNDcTQzaWZOYjdVU2VTMVU4NEtVRkQyMEhvQzlGc3FBNE1peGQ5VjRqVkhIUEhmdFlnVThpZzFEellDN1BMaUtHOGVzRkF1N2w5Zks2VWdSanc1NDVRUGJ1Zw?oc=5",
-          "publishedOn": "2024-10-17T17:08:37.000Z",
-          "wordCount": 12557,
-          "title": "Linux Persistence Mechanisms and How to Find Them - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxPdG5rQ2dtdm5hakRjVmUxdlJNZktGWnlyU19ObURjTDAxaXhWTmprVTNaZ1EzVkVwYTJyd1BxZld1dXp4LUNzTDZRenEwa25FWldlR2pVRGNJX2tueFdtVGNSRkRSUFFUbW5HZ2ZqTGM4Z1Qwd0ViU3VIUkJSTHMzOWItUlRWUTIzXzBZMHFuNHZ0U1c2NEHSAZsBQVVfeXFMUFVRUUF1MXVjUG5GNlI5QVZKZlZ5ZVFpWU1XRVpxX3VOblJFYkk0U2RXWW0yczhQM1dKU0dxZGFFVDJoRFZMNUlmbVhCQVM3Nk5RdDQyTnJ4UWxVbTJxNE9KRDRydzBzcDdVV0hZcXJVM3N5SENZTWd4SExtdTBMU3RqVzFUNWRySGFhSVJsbTY1dTAzVmhmT1RUS0k",
-          "author": null,
-          "description": "VirtualBox 7.1.4 Readies Linux Kernel 6.12 Support + More  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG5rQ2dtdm5hakRjVmUxdlJNZktGWnlyU19ObURjTDAxaXhWTmprVTNaZ1EzVkVwYTJyd1BxZld1dXp4LUNzTDZRenEwa25FWldlR2pVRGNJX2tueFdtVGNSRkRSUFFUbW5HZ2ZqTGM4Z1Qwd0ViU3VIUkJSTHMzOWItUlRWUTIzXzBZMHFuNHZ0U1c2NEHSAZsBQVVfeXFMUFVRUUF1MXVjUG5GNlI5QVZKZlZ5ZVFpWU1XRVpxX3VOblJFYkk0U2RXWW0yczhQM1dKU0dxZGFFVDJoRFZMNUlmbVhCQVM3Nk5RdDQyTnJ4UWxVbTJxNE9KRDRydzBzcDdVV0hZcXJVM3N5SENZTWd4SExtdTBMU3RqVzFUNWRySGFhSVJsbTY1dTAzVmhmT1RUS0k?oc=5",
-          "publishedOn": "2024-10-17T14:48:01.000Z",
-          "wordCount": 12557,
-          "title": "VirtualBox 7.1.4 Readies Linux Kernel 6.12 Support + More - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8372,36 +8332,6 @@
           "wordCount": 5808,
           "title": "Unleash the Power of Scroll-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381832",
-          "author": "Ryan Trimble",
-          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
-          "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1596,
-          "title": "Combining forces, GSAP & Webflow!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381882",
-          "author": "Geoff Graham",
-          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
-          "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1632,
-          "title": "Mastering theme.json: You might not need CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381763",
-          "author": "Zell Liew",
-          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
-          "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1737,
-          "title": "Solving Background Overflow With Inherited Border Radii",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         }
       ]
     },
@@ -9226,26 +9156,6 @@
           "wordCount": 1183,
           "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729261845654/2491f9ad-4c33-446b-bbae-3fa0117b2b47.png"
-        },
-        {
-          "id": "6712601db2117f64c9ba5c68",
-          "author": "Kedar Makode",
-          "description": "Ever wondered what people mean when they say, “It’s stored in the cloud”? If you’re imagining fluffy white clouds up in the sky storing your pictures, documents, or your Netflix favorites, then you’re in for a surprise! Spoiler alert: the cloud is mu...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-computing-with-aws/",
-          "publishedOn": "2024-10-18T13:18:21.000Z",
-          "wordCount": 6052,
-          "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
-        },
-        {
-          "id": "671140909e01688d7732fd36",
-          "author": "Beau Carnes",
-          "description": "Infinite runner games have been a favorite for gamers and developers alike due to their fast-paced action and replayability. These games often feature engaging mechanics like endless levels, smooth character movement, and dynamic environments that ke...",
-          "link": "https://www.freecodecamp.org/news/code-a-sonic-infinite-runner-game-in-javascript/",
-          "publishedOn": "2024-10-17T16:51:28.000Z",
-          "wordCount": 1268,
-          "title": "Code a Sonic Infinite Runner Game in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729182842440/b8ec758a-735c-4e23-84c5-aaf15ec7bf75.png"
         }
       ]
     }
