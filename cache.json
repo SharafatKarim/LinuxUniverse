@@ -29,6 +29,16 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194500",
+          "author": "Content Operations",
+          "description": "Patent trolls are shaking down Kubernetes developers and users, so the CNCF and friends are going after them. \nThe post CNCF Sics Developers on Kubernetes Patent Trolls appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/cncf-sics-developers-on-kubernetes-patent-trolls/",
+          "publishedOn": "2024-11-23T16:23:37.000Z",
+          "wordCount": 8960,
+          "title": "CNCF Sics Developers on Kubernetes Patent Trolls",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194710",
           "author": "Content Operations",
           "description": "Discover a step-by-step guide to setting up Rygel Home Media Server on Ubuntu and other Linux distributions running on GNOME DE.\nThe post How to Setup Rygel Media Server on Ubuntu appeared first on Linux Today.",
@@ -1817,76 +1827,6 @@
           "wordCount": 9060,
           "title": "How to Install Mattermost on Debian 12",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193760",
-          "author": "Web Webster",
-          "description": "AlmaLinux OS, an open-source and free enterprise Linux operating system, is developing a preview version of AlmaLinux OS 10, codenamed “Kitten”.\nThe post AlmaLinux OS Kitten 10: A Sneak Peek into the Future of AlmaLinux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/almalinux-os-kitten-10-a-sneak-peek-into-the-future-of-almalinux/",
-          "publishedOn": "2024-10-25T06:51:25.000Z",
-          "wordCount": 9077,
-          "title": "AlmaLinux OS Kitten 10: A Sneak Peek into the Future of AlmaLinux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193758",
-          "author": "Web Webster",
-          "description": "To provide an insight into the quality of software that is available, we have compiled a list of the best Nix static site generators. All of these tools are released under a freely distributable license.\nThe post 3 Best Free and Open Source Nix Static Site Generators appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/3-best-free-and-open-source-nix-static-site-generators/",
-          "publishedOn": "2024-10-25T03:47:58.000Z",
-          "wordCount": 9084,
-          "title": "3 Best Free and Open Source Nix Static Site Generators",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193761",
-          "author": "Web Webster",
-          "description": "PipeWire 1.2.6 bugfix release resolves issues with filter-chain param aggregation and JACK IO ports and improves Bluetooth stability.\nThe post PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/pipewire-1-2-6-released-with-focus-on-jack-and-bluetooth-stability/",
-          "publishedOn": "2024-10-24T23:47:00.000Z",
-          "wordCount": 9058,
-          "title": "PipeWire 1.2.6 Released with Focus on JACK and Bluetooth Stability",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193756",
-          "author": "Web Webster",
-          "description": "What is fstab in Lunix? What are fstab options, and when should you use them? Our latest tutorial covers all the fstab details and everything you need to know about this file. Let’s get straight into it.\nThe post Fstab Options: What Are They, and When Should You Use Them? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/fstab-options-what-are-they-and-when-should-you-use-them/",
-          "publishedOn": "2024-10-24T21:44:55.000Z",
-          "wordCount": 9084,
-          "title": "Fstab Options: What Are They, and When Should You Use Them?",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193755",
-          "author": "Web Webster",
-          "description": "In this article, we will provide a few X-based commands that are generally available in most standard distributions today. If you find that any of the X-based commands listed below are not installed on your system, you can always use apt or yum to install the required packages.\nThe post 11 Useful X-window (GUI Based) Linux Commands appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/11-useful-x-window-gui-based-linux-commands/",
-          "publishedOn": "2024-10-24T19:43:58.000Z",
-          "wordCount": 9076,
-          "title": "11 Useful X-window (GUI Based) Linux Commands",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193754",
-          "author": "Web Webster",
-          "description": "The diff3 command in Linux is a helpful tool that compares three files and shows their differences, which is mainly useful for programmers and system administrators who work with multiple versions of the same file and need to merge them, or identify changes between different versions. In this article, we’ll go through the basics of […]\nThe post How to Use diff3 Command for File Merging in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-use-diff3-command-for-file-merging-in-linux/",
-          "publishedOn": "2024-10-24T17:42:24.000Z",
-          "wordCount": 9121,
-          "title": "How to Use diff3 Command for File Merging in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193753",
-          "author": "Web Webster",
-          "description": "In this article, you will learn how to solve the “traceroute: command not found” error on Linux by applying a simple solution.\nThe post Fixed “traceroute: command not found” in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/fixed-traceroute-command-not-found-in-linux/",
-          "publishedOn": "2024-10-24T14:35:33.000Z",
-          "wordCount": 9054,
-          "title": "Fixed “traceroute: command not found” in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1895,6 +1835,36 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiekFVX3lxTE1La2x6UnkxYV85WFByMzJMSnJEZ3UteEZ4MGQ1QmduSTZXVWhGbEtkTUtTalJ2LWlOcEZiSDl1YUg4TmRjX3oxbjhPb3VQa2s2cmVnOWhzczZMRzY2T1Q1REhkdFBQOVdQUVBXZTN6bTd6MzhLeXFzOUNB",
+          "author": null,
+          "description": "Warp Is a Power User’s Dream Terminal for Linux  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1La2x6UnkxYV85WFByMzJMSnJEZ3UteEZ4MGQ1QmduSTZXVWhGbEtkTUtTalJ2LWlOcEZiSDl1YUg4TmRjX3oxbjhPb3VQa2s2cmVnOWhzczZMRzY2T1Q1REhkdFBQOVdQUVBXZTN6bTd6MzhLeXFzOUNB?oc=5",
+          "publishedOn": "2024-11-23T15:07:59.000Z",
+          "wordCount": 12612,
+          "title": "Warp Is a Power User’s Dream Terminal for Linux - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTFBUTUFzMWVIN184NmJrR09qQ2FzR1pvMlBuUS1yMjZ1VS1qN1JiODREUHZuZWk4emQzam16a3dTQ0R3MWpBYVpsQnJ5SFVXRDZuWDA1cEJXSFRxNkpFM1pvZHhjTHA1QQ",
+          "author": null,
+          "description": "Microsoft Continues \"Demikernel\" Development LibOS For Kernel-Bypass I/O  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUTUFzMWVIN184NmJrR09qQ2FzR1pvMlBuUS1yMjZ1VS1qN1JiODREUHZuZWk4emQzam16a3dTQ0R3MWpBYVpsQnJ5SFVXRDZuWDA1cEJXSFRxNkpFM1pvZHhjTHA1QQ?oc=5",
+          "publishedOn": "2024-11-23T14:35:00.000Z",
+          "wordCount": 12612,
+          "title": "Microsoft Continues \"Demikernel\" Development LibOS For Kernel-Bypass I/O - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgFBVV95cUxNM3U0V0xwRndrc0xHbFN1VF9uekFrcTlMOElGZDNZN2d0U0RmNU9xbUJZc01GbkpEMVN4SThhS2FQSWV0dWNIZFBFTlB5Ml9DS2ZRYXU1LXZ1b2Q4a2RHbXZNRDZHcVpMdzY3Q1pYSUQ1MVYyZjlkX2lrMXNUN0owTzgzT3pNUEk1RWtQc09n0gGTAUFVX3lxTE5fTTREb0htclNxUXZYdjNkUEhTUkRKejZXUUVfbDdsa3JsUFB1Rlh6RldKY0tsRFJlaUpfaU5zRWdVOGw4NzFBdEE1NVlvUFdmcU9oS3ZSRkhGczY3cWs2MVk3YlM0eFNiZVl5bUxoUXhJOGE5ZmkxSGN3cGtfWERGLVFieGUySG5NWEZYVlFxSkRwOA",
+          "author": null,
+          "description": "China-linked APT Gelsemium uses a new Linux backdoor dubbed WolfsBane  Security Affairs",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3U0V0xwRndrc0xHbFN1VF9uekFrcTlMOElGZDNZN2d0U0RmNU9xbUJZc01GbkpEMVN4SThhS2FQSWV0dWNIZFBFTlB5Ml9DS2ZRYXU1LXZ1b2Q4a2RHbXZNRDZHcVpMdzY3Q1pYSUQ1MVYyZjlkX2lrMXNUN0owTzgzT3pNUEk1RWtQc09n0gGTAUFVX3lxTE5fTTREb0htclNxUXZYdjNkUEhTUkRKejZXUUVfbDdsa3JsUFB1Rlh6RldKY0tsRFJlaUpfaU5zRWdVOGw4NzFBdEE1NVlvUFdmcU9oS3ZSRkhGczY3cWs2MVk3YlM0eFNiZVl5bUxoUXhJOGE5ZmkxSGN3cGtfWERGLVFieGUySG5NWEZYVlFxSkRwOA?oc=5",
+          "publishedOn": "2024-11-23T12:22:30.000Z",
+          "wordCount": 12612,
+          "title": "China-linked APT Gelsemium uses a new Linux backdoor dubbed WolfsBane - Security Affairs",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMibkFVX3lxTFBnLTBWeXp5cXlyN0NBMkVFbDNTcWZpYm9tMmlXSG50RFQtVzljNUhEOVRTa2F5WHUtdW5jTGR6X2RZcEJwSGtROTVyc1RNSXRjcjh0c25ESXI5cjRQMkEtZjEtZUlPZkIxWG5kOTFn",
           "author": null,
@@ -6674,166 +6644,6 @@
           "wordCount": 12499,
           "title": "These 6 Tweaks Will Make Your Linux Mint Cinnamon Desktop Pop - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTFA4MTVhc19TYjFhT3lzZ3NiQWtGb0lacmlEbm1EaXpaczRoUW9xNlhYSldhVVhjZ2p6OWZZWTdvanhfMzNTWXQ2QjhGTXd5d0NhWWY1cTRYa3FlcVViM2hzQUFJR08",
-          "author": null,
-          "description": "AMDGPU Changes Readied For Linux 6.13: Runtime Repartitioning, Many Fixes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4MTVhc19TYjFhT3lzZ3NiQWtGb0lacmlEbm1EaXpaczRoUW9xNlhYSldhVVhjZ2p6OWZZWTdvanhfMzNTWXQ2QjhGTXd5d0NhWWY1cTRYa3FlcVViM2hzQUFJR08?oc=5",
-          "publishedOn": "2024-10-25T13:55:00.000Z",
-          "wordCount": 12548,
-          "title": "AMDGPU Changes Readied For Linux 6.13: Runtime Repartitioning, Many Fixes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFBVV95cUxQY2VONnVFSHFZZXI2clRpMmdkLVk0LU9NSklKNC15NzRwSFdnek8waWl0UWtMN2NrYmR4ZFpGbTdEbFNQTlBHOWZoX3BjR01IWkxvNHRfYUVUQTlsZy13cGVRVEk4Z29uTnBOVkhBM1ozUHpvdEl4ZVhlbF84VWctbEN1R0lTUQ",
-          "author": null,
-          "description": "Linux creator approves de-listing of several kernel maintainers associated with Russia  The Record from Recorded Future News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2VONnVFSHFZZXI2clRpMmdkLVk0LU9NSklKNC15NzRwSFdnek8waWl0UWtMN2NrYmR4ZFpGbTdEbFNQTlBHOWZoX3BjR01IWkxvNHRfYUVUQTlsZy13cGVRVEk4Z29uTnBOVkhBM1ozUHpvdEl4ZVhlbF84VWctbEN1R0lTUQ?oc=5",
-          "publishedOn": "2024-10-25T13:09:01.000Z",
-          "wordCount": 12548,
-          "title": "Linux creator approves de-listing of several kernel maintainers associated with Russia - The Record from Recorded Future News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE83STF2RHZPOUp1T2RMN1lDZEZXaGxiOHdqdEdDdDJVWUFfblRyRjlqdWdaWFVkRGVodTh3d25pWHkyLXo3Z0JocndpZjhaU09nclpfMFl0WHNmcmVLQ2FyZS13eU5zSHZ4UUVCVlJR",
-          "author": null,
-          "description": "Linux Support Continues For The Now-Canceled Snapdragon X Elite Dev Kit For Windows  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83STF2RHZPOUp1T2RMN1lDZEZXaGxiOHdqdEdDdDJVWUFfblRyRjlqdWdaWFVkRGVodTh3d25pWHkyLXo3Z0JocndpZjhaU09nclpfMFl0WHNmcmVLQ2FyZS13eU5zSHZ4UUVCVlJR?oc=5",
-          "publishedOn": "2024-10-25T13:00:00.000Z",
-          "wordCount": 12548,
-          "title": "Linux Support Continues For The Now-Canceled Snapdragon X Elite Dev Kit For Windows - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE4xeVVuREsyTUhrbXp2WF9DbGJoZ0xLWmFWQjRBS0x3RHZieXhNaHB6MkdKMlhINncwcUJwcUdLblRaSS1nNUdtWTQ0aFZBQWdiOEd3aEhjT1RJbDItTTB4NnNPZGdiSy1IVWxr",
-          "author": null,
-          "description": "DRM Client Library Code Ready Ahead Of Linux 6.13  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xeVVuREsyTUhrbXp2WF9DbGJoZ0xLWmFWQjRBS0x3RHZieXhNaHB6MkdKMlhINncwcUJwcUdLblRaSS1nNUdtWTQ0aFZBQWdiOEd3aEhjT1RJbDItTTB4NnNPZGdiSy1IVWxr?oc=5",
-          "publishedOn": "2024-10-25T11:05:00.000Z",
-          "wordCount": 12548,
-          "title": "DRM Client Library Code Ready Ahead Of Linux 6.13 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVkFVX3lxTE5ESVpiZk1yc0pjdlhpSmE4TEROV0lYQXpnbmxlZmF3QnNlRFVsWGtfTXdWeXdKaWc5dnhqSEdsQU9VSlBiWTE1T1hDc00wdG90aDN1c21n",
-          "author": null,
-          "description": "Vivaldi 7.0's New Release is Here With a Futuristic Redesign  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESVpiZk1yc0pjdlhpSmE4TEROV0lYQXpnbmxlZmF3QnNlRFVsWGtfTXdWeXdKaWc5dnhqSEdsQU9VSlBiWTE1T1hDc00wdG90aDN1c21n?oc=5",
-          "publishedOn": "2024-10-25T10:33:22.000Z",
-          "wordCount": 12548,
-          "title": "Vivaldi 7.0's New Release is Here With a Futuristic Redesign - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMixwFBVV95cUxPemFKTXRzTFNJYVNSUjhMcUdTdTlEQjFzaU13NEFmdUlOQWdnRU9PazViLWtxeXp1dVZ2eTF2QmlsRlo0cERJV3N6eUVuSmNOWlo0VVFCV3hhU3B6STRFaGpSQmV5OGlOLXpKOHZjNWRVaHFYYWJvclhLQ3NKSWVMRUNDdXVKSzVrdUxlYk91WGhLeG9SZmxPa2c5bWJ3ajJzdWkwVkZQQ181UDFPbE94YUFrdWh1TmtOVVpGdWhXLTNGSDEzMXdn",
-          "author": null,
-          "description": "Urgent New Nvidia Security Warning For 200 Million Linux And Windows Gamers  Forbes",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemFKTXRzTFNJYVNSUjhMcUdTdTlEQjFzaU13NEFmdUlOQWdnRU9PazViLWtxeXp1dVZ2eTF2QmlsRlo0cERJV3N6eUVuSmNOWlo0VVFCV3hhU3B6STRFaGpSQmV5OGlOLXpKOHZjNWRVaHFYYWJvclhLQ3NKSWVMRUNDdXVKSzVrdUxlYk91WGhLeG9SZmxPa2c5bWJ3ajJzdWkwVkZQQ181UDFPbE94YUFrdWh1TmtOVVpGdWhXLTNGSDEzMXdn?oc=5",
-          "publishedOn": "2024-10-25T10:01:36.000Z",
-          "wordCount": 12548,
-          "title": "Urgent New Nvidia Security Warning For 200 Million Linux And Windows Gamers - Forbes",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxNd0lzRXZ4VUNmRVNad3QzeVpna2FndjJlZk1zWV85d0NOVDdsNFpkbGZEanlEUFVyRFhmZGM1Ni10TlpEUkp2blRiQjY2d0c5M0tibllzWG5fVEY4V3Q4dUxSdXJfZFdYNWtRUGJybGJQMUptX0NCZUtMTFBjWXRPRUZSdDZYR1lxRDNfQnNSZkxQUVZjVUd3QTgtODNkblJxeEFnX3JqSU11dXkwYm5DWW4zZkrSAbgBQVVfeXFMTU5jMmxWY0tyTEJMUkNTYU9haUpEV0M4b1A2elhFS1ppanU5aFlxNkJkZEZWWHQ2SWVheVozODBGSjROOXR1cHlUYlh6czZyUl9jWG4tS0hJODJOMi1VSnVUSTVRczN0TjdNZm0wVGxRazUtTlRGQUV1UXAxdENlQXc4bjA5aWRIeEM4c1dFQTZ2bDVHM1BzWkJZSWlPV2ZpOWtmTUg3bFJLM1FRMGVQQldMMWlLS3E4VQ",
-          "author": null,
-          "description": "IMF recognition, Nazism in Linux, democracy binge: morning coffee with EADaily  Eurasia Daily",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0lzRXZ4VUNmRVNad3QzeVpna2FndjJlZk1zWV85d0NOVDdsNFpkbGZEanlEUFVyRFhmZGM1Ni10TlpEUkp2blRiQjY2d0c5M0tibllzWG5fVEY4V3Q4dUxSdXJfZFdYNWtRUGJybGJQMUptX0NCZUtMTFBjWXRPRUZSdDZYR1lxRDNfQnNSZkxQUVZjVUd3QTgtODNkblJxeEFnX3JqSU11dXkwYm5DWW4zZkrSAbgBQVVfeXFMTU5jMmxWY0tyTEJMUkNTYU9haUpEV0M4b1A2elhFS1ppanU5aFlxNkJkZEZWWHQ2SWVheVozODBGSjROOXR1cHlUYlh6czZyUl9jWG4tS0hJODJOMi1VSnVUSTVRczN0TjdNZm0wVGxRazUtTlRGQUV1UXAxdENlQXc4bjA5aWRIeEM4c1dFQTZ2bDVHM1BzWkJZSWlPV2ZpOWtmTUg3bFJLM1FRMGVQQldMMWlLS3E4VQ?oc=5",
-          "publishedOn": "2024-10-25T06:15:00.000Z",
-          "wordCount": 12548,
-          "title": "IMF recognition, Nazism in Linux, democracy binge: morning coffee with EADaily - Eurasia Daily",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTFBGeDBueXV5VHJNWlpKUjhSUHlManBaOC1VeFdaTER6VDdfZUJpVktKUU1xeDVOVUMzR3lGTlY3M2Z1blMwT19rakE3N3NVa3JxOUZnZEdsYw",
-          "author": null,
-          "description": "Best Linux Task Managers You Can Run Comfortably in a GUI  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGeDBueXV5VHJNWlpKUjhSUHlManBaOC1VeFdaTER6VDdfZUJpVktKUU1xeDVOVUMzR3lGTlY3M2Z1blMwT19rakE3N3NVa3JxOUZnZEdsYw?oc=5",
-          "publishedOn": "2024-10-25T04:41:52.000Z",
-          "wordCount": 12548,
-          "title": "Best Linux Task Managers You Can Run Comfortably in a GUI - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ",
-          "author": null,
-          "description": "Removal of Russian coders spurs debate about Linux kernel’s politics  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGpmblhGRmloR1p1X3ZHaUdPRWswd0I3eS02bl83TWZFYUI3bFZTak5rekZnZXhSdmVjcUplM0JyXzRDQlBIM25lSXNkVUNkN1NmVF8zbm9DQUotaDlsNHVCcnZGUHV0X0c2LWlUZUhNZGhIM1B4Y2ZhLUNUeXlnMkZweS1KVkE4Q2g4UmVDZGRvOFN3XzVybXowM2hPMm9NWHJKRU53YThmajY0NmZHeWMteThmQTJPT2xpaF91VWdDcFZDZTltREFaTQ?oc=5",
-          "publishedOn": "2024-10-24T18:21:50.000Z",
-          "wordCount": 12548,
-          "title": "Removal of Russian coders spurs debate about Linux kernel’s politics - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipAFBVV95cUxPUGFYRWhRNDR1RTJVQTJmR3ptU1BSR09IdTVycnU4czBEQWVJaHN2ZmF6WEdIamJNNm03MWVVa2tZVF9WaXBUU3Q2dEJEV1hfTEdEaXhyRjJON01WejA1UkhQTjI3bkxNcjd6SVVwa3l0bk40cm83SGdXVm9KRFJTcXVSdFhJSjVCUUNZNF9DV3QzWndIMHNkb0prUy0wU3gteXBSNg",
-          "author": null,
-          "description": "Why remove Russian maintainers of Linux kernel? Here's what Torvalds says  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGFYRWhRNDR1RTJVQTJmR3ptU1BSR09IdTVycnU4czBEQWVJaHN2ZmF6WEdIamJNNm03MWVVa2tZVF9WaXBUU3Q2dEJEV1hfTEdEaXhyRjJON01WejA1UkhQTjI3bkxNcjd6SVVwa3l0bk40cm83SGdXVm9KRFJTcXVSdFhJSjVCUUNZNF9DV3QzWndIMHNkb0prUy0wU3gteXBSNg?oc=5",
-          "publishedOn": "2024-10-24T17:53:00.000Z",
-          "wordCount": 12548,
-          "title": "Why remove Russian maintainers of Linux kernel? Here's what Torvalds says - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ",
-          "author": null,
-          "description": "Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0c0R0VhM2d1ZmdONUd3eEI5ODJZZVZrYkdEWVFkejFZak1HLUIzVmpPUmlWLVBNdXg2QXdoUEZVTlQ4LWd3X25KQnpLUlBvZXRCb3d5TGY4V3hBYXBVVEJFRDZMWWhVRVVCY041cnNPVXp4SlhFWDRVZGZGYzJ2QlF3OFk5Z3dSWGJkempCUHVlR2pFNXBQNE5lbDZuXzlsUUhqMmF5VWJIaTdtdERTUG9BbXNDN2JTdUFXSGk2M2tGUQ?oc=5",
-          "publishedOn": "2024-10-24T17:51:51.000Z",
-          "wordCount": 12548,
-          "title": "Linus Torvalds slams supporters of delisted Russian driver maintainers as ‘trolls’ - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM",
-          "author": null,
-          "description": "Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers  SecurityWeek",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1lLSVlCX25vNFNYd1AwRlYzNlN1WTZLbWRvaFhMMk1mbGR3SWJ3SlJLVDhkbnhlMzU1V18zODlMQlh3TWs5M3RGZGJ2N3BmaXA0YmhYaDA5dFdreGVzTll4aFFIcVd4WkFhU3ZTaW9tZEx5Mm5KdXRSMzM4X0xKVUFnaFVPOFhXRGUzT2VqOWl0TXZ1bXJhM3ZVRUpnakXSAaQBQVVfeXFMTWEzQjdOZkpycjZuN3QzN0YwZDhvS3diTjl1S1JxR3pCRUtrTDFaTUNXWVZIRnJhay1nRUJ5UUY2d2NMb0dEVW1fTjJZZExFLU9FazJwUmg3N3o1bmVSaGlZZGNYNVJYanVxQm9wd21CYWphcFRlTklKYlhxVTdOSlVZOXA0dFQ3UU0yaEZMWkNQUHp5VjlqdGZYY3NrYjZIbHBKMVM?oc=5",
-          "publishedOn": "2024-10-24T17:05:50.000Z",
-          "wordCount": 12548,
-          "title": "Nvidia Patches High-Severity Flaws in Windows, Linux Graphics Drivers - SecurityWeek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ",
-          "author": null,
-          "description": "How to examine files on Linux  Network World",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3hXQXo5NEVabmFXYkpVSFBaR2hUR25oZ0pKMXZETjQtX1FlUUFoejlsR294MHBvWGdybk93b1NSRTMtb0RMSk1yaVRER0FzZEYxckxZcnh1MXkzZTFRUlNJNkpadi1DejI3QlNNbTdhZ2RjODdwTmItNlJiZ0RyM3RzcWllQdIBjAFBVV95cUxNeEVKbDJoZnF2Qm9MdUd1VnllWXVkMFJBdm1MQlFjNkFSRHduNjJFZFNVMTc3VnpGMWlOMXhkOFZiY0RWMXhwbkwtQTZEa1NQUzBJNEM1a0xUelF1RTljMkdTNl9HTUxxdzdoVjdETllLd3REY2lkcW9sdXZBYXlxckNMMVNCMVhIXzRILQ?oc=5",
-          "publishedOn": "2024-10-24T16:49:33.000Z",
-          "wordCount": 12548,
-          "title": "How to examine files on Linux - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA",
-          "author": null,
-          "description": "RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12  Electropages",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC1lV2pQbW1XVVBHTE9pRktucXpxNDV0T3IxQnBnai1VZ2piRE5tY1pncjhRa0dzb3VfLWo1cnZaUG5wZmVuNkF4N1B1S1ZiOW4yZlBOYzFVRERHNG5hdUN2eXFoTk9ocUQ2NmdhRi0wT0dzbjFQUks4ZzZOS21ycW9XRmFnYk9fc1pNV3pTTlp0ZzNDQWdwSTlwNA?oc=5",
-          "publishedOn": "2024-10-24T15:22:11.000Z",
-          "wordCount": 12548,
-          "title": "RISC-V Generic CPU Vulnerabilities Reporting in Linux 6.12 - Electropages",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw",
-          "author": null,
-          "description": "“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions  The Insider",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02RzlnOUozV1NvR0N1dUctZ0FQUlczZS15Ql9odEViR0o0LVJRNEhFX1d4ZjJPTTRKV09McWMxUDVMVkJSQ0kw?oc=5",
-          "publishedOn": "2024-10-24T15:09:09.000Z",
-          "wordCount": 12548,
-          "title": "“I’m Finnish. Did you think I'd be supporting Russian aggression?”: Linux creator confirms Russian developers expelled due to sanctions - The Insider",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3",
-          "author": null,
-          "description": "Intel Core Ultra 9 285K \"Arrow Lake\" Delivers Strong Linux Performance Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tVHJpY3BCUnl3NjhmazN4TkZ4SWRkb3R0Zl9oQ1l3YmV5QjZSS3YxXy1EYVRheHF1OVo4N2w1alMxUno2VXZ2MU5QbUxPWXU4UllJWUVNZmE1ZFU4cVRYM3k1LXBRMklSbWFhZHB3?oc=5",
-          "publishedOn": "2024-10-24T15:00:00.000Z",
-          "wordCount": 12548,
-          "title": "Intel Core Ultra 9 285K \"Arrow Lake\" Delivers Strong Linux Performance Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9098,26 +8908,6 @@
           "wordCount": 5418,
           "title": "Come to the light-dark() Side",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
-        },
-        {
-          "id": "http://css-tricks.com/?p=198099",
-          "author": "Geoff Graham",
-          "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.\nImagine a scenario where you need to split a layout in half. Content …\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/left-and-right/",
-          "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3318,
-          "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382065",
-          "author": "Geoff Graham",
-          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
-          "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1480,
-          "title": "You can use text-wrap: balance; on icons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
         }
       ]
     },
@@ -9892,96 +9682,6 @@
           "wordCount": 1341,
           "title": "From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729869313891/851e21fd-2e0a-4936-b088-f8895fd07240.jpeg"
-        },
-        {
-          "id": "671aeea7c5f85f75b4b243e8",
-          "author": "Casmir Onyekani",
-          "description": "OOP is a crucial concept that every developer should grasp, especially when getting ready for job interviews. It helps you organize code into modular and reusable sections, which simplifies the development, maintenance, and scaling of software applic...",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python-interview-questions/",
-          "publishedOn": "2024-10-25T01:04:39.000Z",
-          "wordCount": 3265,
-          "title": "How to Use Object-Oriented Programming in Python – Key OOP Concepts and Interview Questions for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729679277832/18ab2f5b-0636-44e7-b063-0773e5039fb0.png"
-        },
-        {
-          "id": "671a85db0db570158155ec00",
-          "author": "Ankur Tyagi",
-          "description": "Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...",
-          "link": "https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/",
-          "publishedOn": "2024-10-24T17:37:31.000Z",
-          "wordCount": 5197,
-          "title": "How to Implement Fine-Grained Authorization in Java and SpringBoot",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783227124/9725e8cf-553d-42c3-a823-5215e8d4d0e9.png"
-        },
-        {
-          "id": "671a6769ad3ef266b980f1f7",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into the world of full-stack web development and AI-powered applications? This comprehensive tutorial takes you through the exciting process of building and deploying an intelligent, fully-featured email client from scratch. Usi...",
-          "link": "https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/",
-          "publishedOn": "2024-10-24T15:27:37.000Z",
-          "wordCount": 1329,
-          "title": "Code a Full Stack AI-Powered Email SaaS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783635668/eaaebc91-0673-4e10-818a-46091872d887.png"
-        },
-        {
-          "id": "671a661b1687492df2d18436",
-          "author": "Beau Carnes",
-          "description": "We've just released a comprehensive course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Digital Leader certification exam – and it's completely free. This in-depth course, created by cloud expert Andrew Brown, is d...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-and-pass-the-google-cloud-digital-leader-certification-exam/",
-          "publishedOn": "2024-10-24T15:22:03.000Z",
-          "wordCount": 1300,
-          "title": "Prepare For and Pass the Google Cloud Digital Leader Certification Exam",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783303497/1b442dbf-9474-4a71-adab-fc8b6aa8ebb9.png"
-        },
-        {
-          "id": "671a63a2c56e050e75cb0298",
-          "author": "Manish Shivanandhan",
-          "description": "Ethical hacking involves testing and finding vulnerabilities in systems. But doing this on live networks or public servers can lead to accidental damage. Setting up a virtual lab for hacking is a great way to sharpen your skills in a safe environment...",
-          "link": "https://www.freecodecamp.org/news/build-a-private-hacking-lab-with-virtualbox/",
-          "publishedOn": "2024-10-24T15:11:30.000Z",
-          "wordCount": 1967,
-          "title": "How to Build Your Own Private Hacking Lab with VirtualBox",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729751281544/6500642d-4c1e-4dba-b5d0-ab97f9f10003.jpeg"
-        },
-        {
-          "id": "671a62b68210490d9d68e83f",
-          "author": "Danny",
-          "description": "The SOLID Principles are five software design principles that help you to write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand these five...",
-          "link": "https://www.freecodecamp.org/news/what-are-the-solid-principles-in-csharp/",
-          "publishedOn": "2024-10-24T15:07:34.000Z",
-          "wordCount": 4131,
-          "title": "What are the SOLID Principles in C#? Explained With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729777076695/7d956373-1835-4823-9a6a-d2d232cd64d5.png"
-        },
-        {
-          "id": "671a5f1685689d5790d302c5",
-          "author": "Sanjay R",
-          "description": "CRUD operations are the basis of every application, so it is essential to become proficient in them when learning new technologies. In this tutorial, you’ll learn how to build a CRUD application using React and Convex. We’ll cover these operations by...",
-          "link": "https://www.freecodecamp.org/news/build-crud-app-react-and-convex/",
-          "publishedOn": "2024-10-24T14:52:06.000Z",
-          "wordCount": 3638,
-          "title": "How to Build a CRUD Application using React and Convex",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729397399755/9c747607-fa82-4caf-9c20-8e64ec82c3f2.jpeg"
-        },
-        {
-          "id": "671a57eebe723181116c2f10",
-          "author": "Bello Joseph",
-          "description": "JavaScript is a widely used programming language for creating client-side and server-side applications. Its use cases go beyond web development, as JavaScript is also used in mobile app development and artificial intelligence. This makes JavaScript a...",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-javascript-applications/",
-          "publishedOn": "2024-10-24T14:21:34.000Z",
-          "wordCount": 3879,
-          "title": "How to Secure JavaScript Applications: Common Vulnerabilities and Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729618116705/41f6dfda-4563-4333-88ad-733238d86ec1.png"
-        },
-        {
-          "id": "671a576a1d53cf0b6813a51c",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever worked with numbers like 1/3, where the result is 0.33333… and continues forever? As humans, we naturally round off such numbers, but have you ever wondered how computers handle them? In this article, you’ll explore how computers manage...",
-          "link": "https://www.freecodecamp.org/news/what-is-a-floating-point-arithmetic-problem/",
-          "publishedOn": "2024-10-24T14:19:22.000Z",
-          "wordCount": 2033,
-          "title": "What is a Floating-Point Arithmetic Problem?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729588035734/9824633d-727a-49ce-9080-0fa3a7b18ed6.jpeg"
         }
       ]
     }
