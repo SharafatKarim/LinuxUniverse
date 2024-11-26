@@ -29,6 +29,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194763",
+          "author": "Content Operations",
+          "description": "Highlights of Mozilla Firefox 133 include the ability to show tabs from other devices in the Tab overview menu, GPU-accelerated Canvas2D enabled by default for Windows users, and Bounce Tracking Protection, a new anti-tracking feature enabled in ETP (Enhanced Tracking Protection)’s Strict mode.\nThe post Mozilla Firefox 133 Is Now Available for Download, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/mozilla-firefox-133-is-now-available-for-download-heres-whats-new/",
+          "publishedOn": "2024-11-25T20:27:12.000Z",
+          "wordCount": 9025,
+          "title": "Mozilla Firefox 133 Is Now Available for Download, Here’s What’s New",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194738",
+          "author": "Content Operations",
+          "description": "Mattermost is an open-source alternative to Slack and Microsoft Teams. It allows you to self-host online chat with multiple features such as file sharing, search, automation, and multiple third-party integrations. In this tutorial, you'll learn how to install Mattermost on Ubuntu 24.04 server.\nThe post How to Install Mattermost with Nginx proxy and free Let’s Encrypt SSL on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-mattermost-with-nginx-proxy-and-free-lets-encrypt-ssl-on-ubuntu-24-04/",
+          "publishedOn": "2024-11-25T19:04:01.000Z",
+          "wordCount": 9029,
+          "title": "How to Install Mattermost with Nginx proxy and free Let’s Encrypt SSL on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194753",
+          "author": "Web Webster",
+          "description": "This week we got some cool and highly-anticipated software releases, starting with FreeCAD 1.0 and Blender 4.3, and continuing with Mesa 24.3, GNU Linux-libre 6.12, and Shotcut 4.11. The free RHEL 9.5 alternatives are also here, including AlmaLinux 9.5 and Rocky Linux 9.5.\nOn top of that, Canonical patched a new security flaw in Ubuntu and pushed the first daily builds of the upcoming Plucky Puffin release. Below you can check out this week’s hottest news and access all the distro and package downloads released this past week in the 9to5Linux weekly roundup for November 24th, 2024.\nThe post 9to5Linux Weekly Roundup: November 24th, 2024 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/9to5linux-weekly-roundup-november-24th-2024/",
+          "publishedOn": "2024-11-25T17:59:43.000Z",
+          "wordCount": 9065,
+          "title": "9to5Linux Weekly Roundup: November 24th, 2024",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194746",
+          "author": "Content Operations",
+          "description": "The Wine Project, a compatibility layer renowned for enabling Linux and macOS users to run Windows applications, has officially released version 9.22 with a range of new features and improvements.\nThe post Wine 9.22 Released with Display Mode Virtualization Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/wine-9-22-released-with-display-mode-virtualization-support/",
+          "publishedOn": "2024-11-25T17:16:21.000Z",
+          "wordCount": 8994,
+          "title": "Wine 9.22 Released with Display Mode Virtualization Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194736",
+          "author": "Content Operations",
+          "description": "Many of the tools in this roundup are good replacements for AirDrop, letting you wirelessly send documents, photos, videos, websites, map locations, and more to a nearby device.\nThe post 11 Best Free and Open Source File Sharing Tools appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/11-best-free-and-open-source-file-sharing-tools/",
+          "publishedOn": "2024-11-25T15:36:07.000Z",
+          "wordCount": 8996,
+          "title": "11 Best Free and Open Source File Sharing Tools",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194761",
+          "author": "Content Operations",
+          "description": "Coming five weeks after fwupd 2.0.1, the fwupd 2.0.2 release adds support for checking AMD hardware configuration MSR (Machine Status Register), support for enumerate-only device emulation to increase test coverage, support for passing a JSON file for emulation instead of ZIP, and new get-version-formats and vercmp commands for fwupdtool.\nThe post Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-2-firmware-updater-adds-support-for-asus-rog-ally-raspberry-pi-pico/",
+          "publishedOn": "2024-11-25T15:32:05.000Z",
+          "wordCount": 9040,
+          "title": "Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194750",
+          "author": "Content Operations",
+          "description": "Docker Desktop 4.36 boosts enterprise efficiency with new settings management, enhanced container isolation, and improved WSL 2 performance.\nThe post Docker Desktop 4.36: WSL 2 Gets Faster, More Reliable, and Secure appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/docker-desktop-4-36-wsl-2-gets-faster-more-reliable-and-secure/",
+          "publishedOn": "2024-11-25T15:26:37.000Z",
+          "wordCount": 8991,
+          "title": "Docker Desktop 4.36: WSL 2 Gets Faster, More Reliable, and Secure",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194744",
+          "author": "Content Operations",
+          "description": "Archinstall 3.0.1, a guided installer for Arch Linux, is a patch update that fixes partition issues, improves code quality, and enhances user experience.\nThe post Archinstall 3.0.1: Improved Partition Management and System Stability appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/archinstall-3-0-1-improved-partition-management-and-system-stability/",
+          "publishedOn": "2024-11-25T15:20:45.000Z",
+          "wordCount": 8968,
+          "title": "Archinstall 3.0.1: Improved Partition Management and System Stability",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194713",
+          "author": "Content Operations",
+          "description": "Kent Overstreet, the lead developer of the Bcachefs file system, has publicly announced that the future of Bcachefs in the Linux kernel is uncertain due to an ongoing dispute with the Linux Kernel Code of Conduct (CoC) committee.\nThe post Bcachefs Future in Linux Kernel Uncertain After Code of Conduct Dispute appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/bcachefs-future-in-linux-kernel-uncertain-after-code-of-conduct-dispute/",
+          "publishedOn": "2024-11-25T14:29:55.000Z",
+          "wordCount": 9015,
+          "title": "Bcachefs Future in Linux Kernel Uncertain After Code of Conduct Dispute",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194714",
+          "author": "Content Operations",
+          "description": "Linux kernel 6.13 says goodbye to ReiserFS. The filesystem is now history, with support removed. Here's more on that!\nThe post ReiserFS Reaches Its Final Chapter appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/reiserfs-reaches-its-final-chapter/",
+          "publishedOn": "2024-11-25T14:24:30.000Z",
+          "wordCount": 8953,
+          "title": "ReiserFS Reaches Its Final Chapter",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194629",
           "author": "Content Operations",
           "description": "To provide an insight into the quality of software that is available, we have compiled a list of 13 impressive remote desktop clients.\nThe post 13 Best Free and Open Source Remote Desktop Clients appeared first on Linux Today.",
@@ -1865,6 +1965,126 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiV0FVX3lxTE5hb1hYWUU4NWZyNGNYQzRpZDJKQU9mSUUxYlNiY0V5b0QyTWRPYndaVjBVX0NXbTlhYkNRWlZteVRsb3FRVkRyanN6SDVodGgyQTZWNTA2NA",
+          "author": null,
+          "description": "Linux 6.13 PCI: AMD Enables PCIe TPH For Zen 5 Servers, Intel Adds PCIe Cooling Driver  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hb1hYWUU4NWZyNGNYQzRpZDJKQU9mSUUxYlNiY0V5b0QyTWRPYndaVjBVX0NXbTlhYkNRWlZteVRsb3FRVkRyanN6SDVodGgyQTZWNTA2NA?oc=5",
+          "publishedOn": "2024-11-25T21:17:00.000Z",
+          "wordCount": 12612,
+          "title": "Linux 6.13 PCI: AMD Enables PCIe TPH For Zen 5 Servers, Intel Adds PCIe Cooling Driver - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxPa1VvUFJnWUNJd1BIMWNGVERoNUhoMFkzTDRxVWJNWVlKZGxWUG5xSG1vZkRqYmU0V2diTTZpX3N4NHItYTJldUo4VjA0WGdnSXVtOFFBLWJsVmM0MlE3ak9RejRSUjJ4alZMb1RDaHgwZ1B2cWlEYlRSZ3Y1aFZQcGk4OVBWZzd5VUhGdi1kYzN1YWYtVHBla2dn",
+          "author": null,
+          "description": "5 ways to get the best Linux support, no matter your skill level  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1VvUFJnWUNJd1BIMWNGVERoNUhoMFkzTDRxVWJNWVlKZGxWUG5xSG1vZkRqYmU0V2diTTZpX3N4NHItYTJldUo4VjA0WGdnSXVtOFFBLWJsVmM0MlE3ak9RejRSUjJ4alZMb1RDaHgwZ1B2cWlEYlRSZ3Y1aFZQcGk4OVBWZzd5VUhGdi1kYzN1YWYtVHBla2dn?oc=5",
+          "publishedOn": "2024-11-25T20:36:00.000Z",
+          "wordCount": 12612,
+          "title": "5 ways to get the best Linux support, no matter your skill level - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE9iMVlLdjZaRElkUmdtYjZyeVVKdmdXTnVYUkJpSFhEV0U1R016MVFYc21JbThpc1RrZlpacVFkU2wtblZiTjRUN2tsOGctZjh3YWZ2NFptSERlR3Z3cmF6dDJERG94SzdXdVHSAW9BVV95cUxPRzhjR3R5ZUhVNndsY1hWYlJoYW93dEVqTmpoR2lMOElYT1VZaTJ3UzZwTUthZ2FmRXpFODJHVVR2aExWZFdfZk1BcUJWbXNiWnlZZGRMY2NTUDR5c3BSaldxVHEydHNoamJfMDRoXzA",
+          "author": null,
+          "description": "RHEL 9.5 debuts alongside AlmaLinux, Rocky, and Oracle updates  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMVlLdjZaRElkUmdtYjZyeVVKdmdXTnVYUkJpSFhEV0U1R016MVFYc21JbThpc1RrZlpacVFkU2wtblZiTjRUN2tsOGctZjh3YWZ2NFptSERlR3Z3cmF6dDJERG94SzdXdVHSAW9BVV95cUxPRzhjR3R5ZUhVNndsY1hWYlJoYW93dEVqTmpoR2lMOElYT1VZaTJ3UzZwTUthZ2FmRXpFODJHVVR2aExWZFdfZk1BcUJWbXNiWnlZZGRMY2NTUDR5c3BSaldxVHEydHNoamJfMDRoXzA?oc=5",
+          "publishedOn": "2024-11-25T17:45:00.000Z",
+          "wordCount": 12612,
+          "title": "RHEL 9.5 debuts alongside AlmaLinux, Rocky, and Oracle updates - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi3wFBVV95cUxOMXRFTHVfNlVNZDgtRnVsZEVtY2lNWTdFLVotbGhSOF9WMnFtOTZONldEZlBKNmFaSnlUS1l3bldMSl9wdjFRYzRKWHJJUzJhbTNWbHpKeTJRZV9vb01OVUZvbWQyVVhkQXhuTndmV2JnX2I4TkduajdPaEt2RlhXRGwxMGxTTTZRZ0ZiTUZpdFpkdUYzMm0yUVRNa3g3SURxaHZhQWdfeFZ2NzFwSkdxZW9FUE0yWDVNUHBreHN6SEMtY1lqUUVFZEVWTXFydWdKM1FJbHhJNHZXT3p0ZkdV",
+          "author": null,
+          "description": "Proton Experimental for Steam Deck / Linux fixes Disgaea 4 Complete+, Final Fantasy XIV and various other games  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMXRFTHVfNlVNZDgtRnVsZEVtY2lNWTdFLVotbGhSOF9WMnFtOTZONldEZlBKNmFaSnlUS1l3bldMSl9wdjFRYzRKWHJJUzJhbTNWbHpKeTJRZV9vb01OVUZvbWQyVVhkQXhuTndmV2JnX2I4TkduajdPaEt2RlhXRGwxMGxTTTZRZ0ZiTUZpdFpkdUYzMm0yUVRNa3g3SURxaHZhQWdfeFZ2NzFwSkdxZW9FUE0yWDVNUHBreHN6SEMtY1lqUUVFZEVWTXFydWdKM1FJbHhJNHZXT3p0ZkdV?oc=5",
+          "publishedOn": "2024-11-25T16:22:59.000Z",
+          "wordCount": 12612,
+          "title": "Proton Experimental for Steam Deck / Linux fixes Disgaea 4 Complete+, Final Fantasy XIV and various other games - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwwFBVV95cUxOcUhTck04MnNWQzVwRzlJTFdaRXhSeUFORXgyMjZBY3NqbGQwaWZkS0JSM0NsV2h1YmotdnQ2XzBQZXBlVWtoSG1ucnBiNTZvTXhoaElCXzFqQ2YydTlremRrODJzaHlid3ZKNEo2TldUM2RtWWdrQXBFaEdXclFQNGRtckkwd2J1dm44dFJGdVhxbjZwNmIwaDBzTVprWGY3eXFFSWlyVWJ5dGFTeUVaRVV5eXpGdUQ5UHEwdVVhSzBEc0k",
+          "author": null,
+          "description": "Linux Firmware Updater adds initial community support for ASUS ROG Ally and ROG Ally X  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUhTck04MnNWQzVwRzlJTFdaRXhSeUFORXgyMjZBY3NqbGQwaWZkS0JSM0NsV2h1YmotdnQ2XzBQZXBlVWtoSG1ucnBiNTZvTXhoaElCXzFqQ2YydTlremRrODJzaHlid3ZKNEo2TldUM2RtWWdrQXBFaEdXclFQNGRtckkwd2J1dm44dFJGdVhxbjZwNmIwaDBzTVprWGY3eXFFSWlyVWJ5dGFTeUVaRVV5eXpGdUQ5UHEwdVVhSzBEc0k?oc=5",
+          "publishedOn": "2024-11-25T13:52:33.000Z",
+          "wordCount": 12612,
+          "title": "Linux Firmware Updater adds initial community support for ASUS ROG Ally and ROG Ally X - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE5zcFJWeUV5U3h6Slp5eS1lYmNMZlRxckY1MEVXVE9ERVZ4WUpYRUxBbVF3OGQwa1lhaG92eHBCUUQzZTZKX1Iwa1VMdEdzckRjdEVudmlZQ3NZeFRZUEtHbVlqdy1mV2FUaEZ3",
+          "author": null,
+          "description": "Large Folio Patches For EXT4 Show Some Nice Performance Gains  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zcFJWeUV5U3h6Slp5eS1lYmNMZlRxckY1MEVXVE9ERVZ4WUpYRUxBbVF3OGQwa1lhaG92eHBCUUQzZTZKX1Iwa1VMdEdzckRjdEVudmlZQ3NZeFRZUEtHbVlqdy1mV2FUaEZ3?oc=5",
+          "publishedOn": "2024-11-25T13:50:00.000Z",
+          "wordCount": 12612,
+          "title": "Large Folio Patches For EXT4 Show Some Nice Performance Gains - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqwFBVV95cUxPSjRGcktPdlJJaUpCVi1hT1p0cEtrODNrcmV1WFBEdmQxZEd1RUlPbUNXRUwxWFFtYUpuM1ZrbzRBMDZpaHlUeVhRT0JNV2tIdGtHR0lNWkNTbzNKU2o3Wk5rb1g5OTlJclVfN1J1UDI2WmMyOWlHUjR6eW82ZHVNNFBoN3dHNGdDOW4tLTA1VENQdTZHeGVvTXJ5U1FsOVp6T216SkNsRWx0UFE",
+          "author": null,
+          "description": "Perfctl Campaign Exploits Millions of Linux Servers for Crypto Mining and Proxyjacking  SOCRadar",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjRGcktPdlJJaUpCVi1hT1p0cEtrODNrcmV1WFBEdmQxZEd1RUlPbUNXRUwxWFFtYUpuM1ZrbzRBMDZpaHlUeVhRT0JNV2tIdGtHR0lNWkNTbzNKU2o3Wk5rb1g5OTlJclVfN1J1UDI2WmMyOWlHUjR6eW82ZHVNNFBoN3dHNGdDOW4tLTA1VENQdTZHeGVvTXJ5U1FsOVp6T216SkNsRWx0UFE?oc=5",
+          "publishedOn": "2024-11-25T13:06:25.000Z",
+          "wordCount": 12612,
+          "title": "Perfctl Campaign Exploits Millions of Linux Servers for Crypto Mining and Proxyjacking - SOCRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxOTFowQktBVlEyV3NOZmNGbWQ1enRpcUNWejB0ZjA2aGlvOGVvUUlJYjlzX1BlWlRrWHN1Tjhxam9IeTdXUlF1WmJSaTh0YnR4eTJ4TGszcGJEdVZVczlLak00dHBuQnlZdVpXdWYwODBPaHZFQ2M0MDI0X2E5VVotSndJaFRFX3M",
+          "author": null,
+          "description": "7 Tricks to Make Learning the Linux Command Line Easier  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFowQktBVlEyV3NOZmNGbWQ1enRpcUNWejB0ZjA2aGlvOGVvUUlJYjlzX1BlWlRrWHN1Tjhxam9IeTdXUlF1WmJSaTh0YnR4eTJ4TGszcGJEdVZVczlLak00dHBuQnlZdVpXdWYwODBPaHZFQ2M0MDI0X2E5VVotSndJaFRFX3M?oc=5",
+          "publishedOn": "2024-11-25T13:00:00.000Z",
+          "wordCount": 12612,
+          "title": "7 Tricks to Make Learning the Linux Command Line Easier - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE9UWE5sRDVrRzBxUW81QzNEaUhqVFNPQy1uaThQOUFZVkZWbXFYVlJVWDU3SVFxbG96SUVxQjRGZmhhMlZTSjBzUktHUHNnUGtURW9TTTlSZm9XQXVuZTlsN0d0ckZJX2RWS05IcW5B",
+          "author": null,
+          "description": "New AMD Zen 5 Perf Events Going Into Linux 6.13  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UWE5sRDVrRzBxUW81QzNEaUhqVFNPQy1uaThQOUFZVkZWbXFYVlJVWDU3SVFxbG96SUVxQjRGZmhhMlZTSjBzUktHUHNnUGtURW9TTTlSZm9XQXVuZTlsN0d0ckZJX2RWS05IcW5B?oc=5",
+          "publishedOn": "2024-11-25T12:01:00.000Z",
+          "wordCount": 12612,
+          "title": "New AMD Zen 5 Perf Events Going Into Linux 6.13 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX0FVX3lxTE95dDZPWXVmdGItYk12WnZ5UmdwTDVwb0hZSmN5QzVqYTk1UTQ2eHhZTjNkWnJRR1Rickl5LWZwQWpNcGJaTFVxQjNZSzVyRV9RTWlGR2E0dE5MSFdOTVZJ",
+          "author": null,
+          "description": "Fwupd 2.0.2 Allows Updating Firmware On Many More Devices  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dDZPWXVmdGItYk12WnZ5UmdwTDVwb0hZSmN5QzVqYTk1UTQ2eHhZTjNkWnJRR1Rickl5LWZwQWpNcGJaTFVxQjNZSzVyRV9RTWlGR2E0dE5MSFdOTVZJ?oc=5",
+          "publishedOn": "2024-11-25T11:15:00.000Z",
+          "wordCount": 12612,
+          "title": "Fwupd 2.0.2 Allows Updating Firmware On Many More Devices - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxNcHFDNERpOFFhbXZwaFlBUXhzX2ZrQkZSazdUM0pkLWdRNFlvZk95SjVlaUMtTW5rN3N1SkhGOXNzUjV0TUxiTXVvWEtaVDJQU21xa0dGaUdvUmFUczVFN3Y2UzJXZjNBWTJGaXk2X0pRbGtNQktMaWVrSmxfWmpqNDlBRmU5UUNmY1ZERHk1ZEppREl0Uk9jTE1kc2ZDUEx20gGmAUFVX3lxTFBQczRDdkxCM19iMktUNlBuTmlPR1FOQ0ZXdzhULUtLVm04NTE0eVhZOHFPWThQRjNnU05YVDYtcmdETks2YVVvUW1WeG9ta3JITWdSdzhVeWl0SVlHczZULUUtVzNBdG9jbGNYbHRoMEdwbnNfRzk3ODlORXVhT1RlcWV6ZGFYaVYtWXp3RE5Sd0dSRDhlbkRpdTlxbzhUVGg3QXZNMEE",
+          "author": null,
+          "description": "Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHFDNERpOFFhbXZwaFlBUXhzX2ZrQkZSazdUM0pkLWdRNFlvZk95SjVlaUMtTW5rN3N1SkhGOXNzUjV0TUxiTXVvWEtaVDJQU21xa0dGaUdvUmFUczVFN3Y2UzJXZjNBWTJGaXk2X0pRbGtNQktMaWVrSmxfWmpqNDlBRmU5UUNmY1ZERHk1ZEppREl0Uk9jTE1kc2ZDUEx20gGmAUFVX3lxTFBQczRDdkxCM19iMktUNlBuTmlPR1FOQ0ZXdzhULUtLVm04NTE0eVhZOHFPWThQRjNnU05YVDYtcmdETks2YVVvUW1WeG9ta3JITWdSdzhVeWl0SVlHczZULUUtVzNBdG9jbGNYbHRoMEdwbnNfRzk3ODlORXVhT1RlcWV6ZGFYaVYtWXp3RE5Sd0dSRDhlbkRpdTlxbzhUVGg3QXZNMEE?oc=5",
+          "publishedOn": "2024-11-25T10:51:33.000Z",
+          "wordCount": 12612,
+          "title": "Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE5maHJIa29aSl9YNXlMcm1tTzhteEk5OTRZN0xORUZONzItdHgyd3BwMG9xVzBwenptZWJ2cjRWSS1DV1U3bjVXRHFmNzd6LXFWZmZlZ1RwTzMwcjJsZlJwSExIV3lmU0E",
+          "author": null,
+          "description": "Deploy a SOC using Kali Linux in AWS  Help Net Security",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maHJIa29aSl9YNXlMcm1tTzhteEk5OTRZN0xORUZONzItdHgyd3BwMG9xVzBwenptZWJ2cjRWSS1DV1U3bjVXRHFmNzd6LXFWZmZlZ1RwTzMwcjJsZlJwSExIV3lmU0E?oc=5",
+          "publishedOn": "2024-11-25T05:00:17.000Z",
+          "wordCount": 12612,
+          "title": "Deploy a SOC using Kali Linux in AWS - Help Net Security",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiekFVX3lxTE52aWlRUHNkbFVfVUo3WXdGdjVNb0hIRXNNVzU5T0x5cUVmNXg2SmRUQXJqbGhUQ0FWXzdNU3dzRkNMMVdVTGZSRWcyd21ONXBXbks5aXl6akc2aEFfZldxR1NicUkyYk0xa1VQb3dBd2NNdXBMbVVWOFRn0gF_QVVfeXFMTTd1blVZUmMzWlV1UUVYajNQTzBzbEdWa3VGSkNyUkw1V1dLU25RdGJxR1FTbEdWamRLYWg5elhWSkQzLVoxWXRfSW9KNEFsZ3kzdmdfaVA2LTYwMi00a3VZQzBhTFhxdU5Ib0NtY080VThscWhjb1JFVml2MTd3Zw",
           "author": null,
@@ -6634,76 +6854,6 @@
           "wordCount": 12499,
           "title": "Linux 6.12-rc5 Released With Intel LAM Disabled, ASUS Lunar Lake Laptop Performance Fix - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid0FVX3lxTE1BdWh2ZDdOVVJBVTg4RGlqazg3Wjdldm5nUVdHbGRWajNtb3M4ZkoyVEllT1BEang2eTZBT2stM1NFTXFzVnUwRFlCMThqaHlyQ0dFdGJycVUxVnZQYjVMa3pTRnNhY2tyUTRyVEF4djRobjl0el9R",
-          "author": null,
-          "description": "Using Linux Made Me a Better Windows User, Here’s How  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdWh2ZDdOVVJBVTg4RGlqazg3Wjdldm5nUVdHbGRWajNtb3M4ZkoyVEllT1BEang2eTZBT2stM1NFTXFzVnUwRFlCMThqaHlyQ0dFdGJycVUxVnZQYjVMa3pTRnNhY2tyUTRyVEF4djRobjl0el9R?oc=5",
-          "publishedOn": "2024-10-27T12:15:00.000Z",
-          "wordCount": 12499,
-          "title": "Using Linux Made Me a Better Windows User, Here’s How - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTE05YUxrYWxCTGZGWUROVUdiV01GSXVtT2tXR1FSbktXTmdBTDhyTU83UFVCaWtfV2duVVA4LXF3TGR0VU4zcnFUSnE0R0dZd1V3RmNjbVhndw",
-          "author": null,
-          "description": "Install Alpine Linux in Virtual Box [Screenshot Tutorial]  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05YUxrYWxCTGZGWUROVUdiV01GSXVtT2tXR1FSbktXTmdBTDhyTU83UFVCaWtfV2duVVA4LXF3TGR0VU4zcnFUSnE0R0dZd1V3RmNjbVhndw?oc=5",
-          "publishedOn": "2024-10-27T12:13:56.000Z",
-          "wordCount": 12499,
-          "title": "Install Alpine Linux in Virtual Box [Screenshot Tutorial] - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE90dkxuNktMMHFiTHM2bi1nSWZ2QVBNSF96a0lDTV9CWmZQcWdPaXptMmdTMlhRNjNOaHhHaHFTMlBzTi1tbWZlOG50SmtaNndLS0t5WEFVSjk0WHowemJNNEtNNElDdw",
-          "author": null,
-          "description": "Linux 6.12-rc5 Disabling Intel's Linear Address Masking \"LAM\" Due To Security Concerns  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90dkxuNktMMHFiTHM2bi1nSWZ2QVBNSF96a0lDTV9CWmZQcWdPaXptMmdTMlhRNjNOaHhHaHFTMlBzTi1tbWZlOG50SmtaNndLS0t5WEFVSjk0WHowemJNNEtNNElDdw?oc=5",
-          "publishedOn": "2024-10-27T11:30:00.000Z",
-          "wordCount": 12499,
-          "title": "Linux 6.12-rc5 Disabling Intel's Linear Address Masking \"LAM\" Due To Security Concerns - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMisAFBVV95cUxQUmxyMDJoLWhCYmd5OHAzVkNNSzNuZG50ZDh2TThZQnppUW1kU1hTRTlKcWxDNDEzbUFLSWdQOHQzeGpGbXRfaXgxNnhJTnBGSEZyVG13U3dBRDdfNWQydndOblZmSFV4bnREY0dOczhqTnl5Tm9QdWdzVmZ4VkFUNkNjOVIyU3pGbVg0NFdBWTV2NnU0Nnhxc0hJUDJUOUtZZHUyYnRfUkRZc1A4bU5FSdIBtgFBVV95cUxORlNpUU5rdWs0WHY5U29GczIwLUFCSkphdmpLMy1CYkpYSXdwcG5pOC1RcllMRmVjMVdtRktCX2JRdWdhTlJZS3JrQnVMSGZDTTBXWXQ3dDB2UlRjMXl5eXpPV3Uzd3JfY1FndHZNOGNwdWRkVWdEODlmeW93NllvTFNBNzBaNWpPOGNzU19Tc1ZPaVQ5blRya3hTRnJVeEltMWpFa2NxYnNCVV96a0VOMFpCMlNJUQ",
-          "author": null,
-          "description": "Snapdragon 8 Elite Has Full Linux Support, Making It Easier To Run PC Games Through Emulation, GPU Side To Require Patches To Ensure Optimum Performance  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmxyMDJoLWhCYmd5OHAzVkNNSzNuZG50ZDh2TThZQnppUW1kU1hTRTlKcWxDNDEzbUFLSWdQOHQzeGpGbXRfaXgxNnhJTnBGSEZyVG13U3dBRDdfNWQydndOblZmSFV4bnREY0dOczhqTnl5Tm9QdWdzVmZ4VkFUNkNjOVIyU3pGbVg0NFdBWTV2NnU0Nnhxc0hJUDJUOUtZZHUyYnRfUkRZc1A4bU5FSdIBtgFBVV95cUxORlNpUU5rdWs0WHY5U29GczIwLUFCSkphdmpLMy1CYkpYSXdwcG5pOC1RcllMRmVjMVdtRktCX2JRdWdhTlJZS3JrQnVMSGZDTTBXWXQ3dDB2UlRjMXl5eXpPV3Uzd3JfY1FndHZNOGNwdWRkVWdEODlmeW93NllvTFNBNzBaNWpPOGNzU19Tc1ZPaVQ5blRya3hTRnJVeEltMWpFa2NxYnNCVV96a0VOMFpCMlNJUQ?oc=5",
-          "publishedOn": "2024-10-27T10:18:00.000Z",
-          "wordCount": 12499,
-          "title": "Snapdragon 8 Elite Has Full Linux Support, Making It Easier To Run PC Games Through Emulation, GPU Side To Require Patches To Ensure Optimum Performance - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE5iQ2IwbndVSHRrYWVHbzBpN29Wd2RiZ01WYURBbWdDQ0laMEI5bWZzZHJsVEVZZnNqNl84eFJYbEZyYnVZTk9BR1YtQTJCbHVhdkpKQmdZZDBsd2lGakZUNDlsRS0waWRpRkVSc21sQWlZNTNuVXQzRkc0cEQ",
-          "author": null,
-          "description": "5 Reasons to Start Using the Linux Command Line  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iQ2IwbndVSHRrYWVHbzBpN29Wd2RiZ01WYURBbWdDQ0laMEI5bWZzZHJsVEVZZnNqNl84eFJYbEZyYnVZTk9BR1YtQTJCbHVhdkpKQmdZZDBsd2lGakZUNDlsRS0waWRpRkVSc21sQWlZNTNuVXQzRkc0cEQ?oc=5",
-          "publishedOn": "2024-10-26T20:00:00.000Z",
-          "wordCount": 12548,
-          "title": "5 Reasons to Start Using the Linux Command Line - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxPUDlmN2E0cWpOanZTU1o0eHRjQXIyUHpXM3RESzdocjBvU3dsRTVCY05YSEVoNDFCb1dSZzIwVWN6N2RpVDh5cWZySTJaVnVLUHM4SGt1Mm1TYVg3RVppSUlEdnl4RDB1bmdHRnhzMFhmaXZlYXRUaG94eXhIbldLUlA0MHpWNDItb0hJRlJB",
-          "author": null,
-          "description": "Mastering the Linux File System: My Go-To Commands and Tips  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDlmN2E0cWpOanZTU1o0eHRjQXIyUHpXM3RESzdocjBvU3dsRTVCY05YSEVoNDFCb1dSZzIwVWN6N2RpVDh5cWZySTJaVnVLUHM4SGt1Mm1TYVg3RVppSUlEdnl4RDB1bmdHRnhzMFhmaXZlYXRUaG94eXhIbldLUlA0MHpWNDItb0hJRlJB?oc=5",
-          "publishedOn": "2024-10-26T16:15:00.000Z",
-          "wordCount": 12548,
-          "title": "Mastering the Linux File System: My Go-To Commands and Tips - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFBVV95cUxPVFk5c2w3aWpVcmdueEdKWWdxY0p2dkJ3dW43SmlTLXNIUU9lQV85MnZIWFIyU2dabTJWWmlwM2xJbG1wVFVFYUJiWnhlYkY0amVJUFF6RnNkSjVvZkwxU1BHNnVxWm5sbGcxUzRFbmcxNkxBS3FxeVpGcW1ISUl2UUFtN1B4bkRsQ1lkdA",
-          "author": null,
-          "description": "TrueNAS, a Linux Distro for Low Cost Network-Attached Storage  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFk5c2w3aWpVcmdueEdKWWdxY0p2dkJ3dW43SmlTLXNIUU9lQV85MnZIWFIyU2dabTJWWmlwM2xJbG1wVFVFYUJiWnhlYkY0amVJUFF6RnNkSjVvZkwxU1BHNnVxWm5sbGcxUzRFbmcxNkxBS3FxeVpGcW1ISUl2UUFtN1B4bkRsQ1lkdA?oc=5",
-          "publishedOn": "2024-10-26T15:07:15.000Z",
-          "wordCount": 12548,
-          "title": "TrueNAS, a Linux Distro for Low Cost Network-Attached Storage - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8849,6 +8999,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=382593",
+          "author": "Geoff Graham",
+          "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/alt-text-not-always-needed/",
+          "publishedOn": "2024-11-25T15:23:39.000Z",
+          "wordCount": 2876,
+          "title": "Alt Text: Not Always Needed",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/02/image-alt-attribute.png"
+        },
         {
           "id": "https://css-tricks.com/?p=382613",
           "author": "Juan Diego Rodríguez",
