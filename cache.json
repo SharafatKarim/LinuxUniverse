@@ -29,6 +29,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194755",
+          "author": "Content Operations",
+          "description": "Zellij is a modern CLI terminal multiplexer and a great drop-in replacement for Tmux that anyone can use without worrying about keybindings. In this article you'll learn how you can install it on Linux with a few kickstart guides.\nThe post Zellij: Modern Drop-in Replacement for Tmux Command on Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/zellij-modern-drop-in-replacement-for-tmux-command-on-linux/",
+          "publishedOn": "2024-11-30T18:40:14.000Z",
+          "wordCount": 10893,
+          "title": "Zellij: Modern Drop-in Replacement for Tmux Command on Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194754",
+          "author": "Content Operations",
+          "description": "In this article, you'll learn how to install Google Earth Pro and the CE variant on Ubuntu and other Linux distros with practical examples.\nThe post How to Install Google Earth on Ubuntu and Other Distros appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-google-earth-on-ubuntu-and-other-distros/",
+          "publishedOn": "2024-11-30T15:40:12.000Z",
+          "wordCount": 10866,
+          "title": "How to Install Google Earth on Ubuntu and Other Distros",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194757",
           "author": "Content Operations",
           "description": "The official announcement, a bit delayed but certainly welcome, tells us that Pidgin 3.0 Experimental 1 will be released on December 31st, 2024. Let’s dive into what this means for anyone who remembers, or still uses, Pidgin and what new users can expect from this classic reborn.\nThe post After 16 Years, Pidgin 3 Takes Its First Steps appeared first on Linux Today.",
@@ -2037,136 +2057,6 @@
           "wordCount": 9088,
           "title": "LibreOffice 24.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 24.8",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193974",
-          "author": "Content Operations",
-          "description": "Discover a step-by-step tutorial for downloading YouTube audio and video on Linux from the command line using yt-dlp.\nThe post Download YouTube Videos on Linux from CLI Using yt-dlp appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/download-youtube-videos-on-linux-from-cli-using-yt-dlp/",
-          "publishedOn": "2024-11-01T14:00:17.000Z",
-          "wordCount": 9058,
-          "title": "Download YouTube Videos on Linux from CLI Using yt-dlp",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193975",
-          "author": "Content Operations",
-          "description": "In this beginner’s guide, I’ll assist in installing the latest version of NeoVim on your preferred Linux distribution and provide some tips for navigating its usage.\nThe post How to Install Latest NeoVim on Linux (Ultimate Guide) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-latest-neovim-on-linux-ultimate-guide/",
-          "publishedOn": "2024-11-01T13:00:17.000Z",
-          "wordCount": 9073,
-          "title": "How to Install Latest NeoVim on Linux (Ultimate Guide)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193979",
-          "author": "Content Operations",
-          "description": "Recordbox is a music player and library browser designed primarily to be as simple as possible, and tailored specifically to browsing and playing albums, rather than tracks or playlists. It’s written in Rust and published under an open source license.\nThe post Recordbox – simple but sweet music player appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/recordbox-simple-but-sweet-music-player/",
-          "publishedOn": "2024-11-01T02:00:05.000Z",
-          "wordCount": 9081,
-          "title": "Recordbox – simple but sweet music player",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194006",
-          "author": "Content Operations",
-          "description": "The AlmaLinux OS Foundation announced that effective immediately its namesake Linux distribution is an Endorsed Distribution on Azure, Microsoft’s public cloud. Azure has rewarded only six other distributions with that distinction.\nThe post Azure Grants AlmaLinux Rarefied ‘Endorsed Distribution’ Status appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/azure-grants-almalinux-rarefied-endorsed-distribution-status/",
-          "publishedOn": "2024-11-01T00:00:20.000Z",
-          "wordCount": 9051,
-          "title": "Azure Grants AlmaLinux Rarefied ‘Endorsed Distribution’ Status",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193976",
-          "author": "Content Operations",
-          "description": "Linux is now the top operating system on Azure, with over 60% of customer workloads running on Linux.\nThe post Linux Takes Over Azure: AlmaLinux Gains Azure Endorsement appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/linux-takes-over-azure-almalinux-gains-azure-endorsement/",
-          "publishedOn": "2024-10-31T22:00:54.000Z",
-          "wordCount": 9051,
-          "title": "Linux Takes Over Azure: AlmaLinux Gains Azure Endorsement",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193983",
-          "author": "Content Operations",
-          "description": "Miguel Guevara, Product Manager, Privacy Safety and Security at Google, discusses the complexities involved in scaling differential privacy technology across large systems.\nThe post Google On Scaling Differential Privacy Across Nearly Three Billion Devices appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/google-on-scaling-differential-privacy-across-nearly-three-billion-devices/",
-          "publishedOn": "2024-10-31T20:00:23.000Z",
-          "wordCount": 9077,
-          "title": "Google On Scaling Differential Privacy Across Nearly Three Billion Devices",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193956",
-          "author": "Web Webster",
-          "description": "TrueNAS SCALE 24.10 (Electric Eel) debuts Docker-based apps, RAIDZ expansion, TrueCloud backup, and revamped UI with global search.\nThe post TrueNAS SCALE 24.10 Shifts from Kubernetes to Docker appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/truenas-scale-24-10-shifts-from-kubernetes-to-docker/",
-          "publishedOn": "2024-10-31T18:02:53.000Z",
-          "wordCount": 9046,
-          "title": "TrueNAS SCALE 24.10 Shifts from Kubernetes to Docker",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194000",
-          "author": "Content Operations",
-          "description": "The latest updates to our compilation of recommended open source software.\nThe post Best Free and Open Source Software: October 2024 Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-software-october-2024-updates/",
-          "publishedOn": "2024-10-31T16:43:27.000Z",
-          "wordCount": 9045,
-          "title": "Best Free and Open Source Software: October 2024 Updates",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193953",
-          "author": "Web Webster",
-          "description": "Pixel art is a form of digital art drawn with graphical software where images are built using pixels as the only building block. We recommend the best free and open source pixel art editors.\nThe post 11 Best Free and Open Source Pixel Art Editors appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/11-best-free-and-open-source-pixel-art-editors/",
-          "publishedOn": "2024-10-31T16:29:41.000Z",
-          "wordCount": 9059,
-          "title": "11 Best Free and Open Source Pixel Art Editors",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193977",
-          "author": "Content Operations",
-          "description": "The GStreamer team announced the release of GStreamer 1.24.9, a new bug fix update in the stable 1.24 series of the popular cross-platform multimedia framework, focusing exclusively on stability, security, and bug fixes.\nThe post GStreamer 1.24.9 Rolls Out with Bug Fixes and Security Enhancements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/gstreamer-1-24-9-rolls-out-with-bug-fixes-and-security-enhancements/",
-          "publishedOn": "2024-10-31T16:08:25.000Z",
-          "wordCount": 9055,
-          "title": "GStreamer 1.24.9 Rolls Out with Bug Fixes and Security Enhancements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193980",
-          "author": "Content Operations",
-          "description": "Linux Lite creator Jerry Bezencon announced today the release and general availability of Linux Lite 7.2 as the latest stable version of this Ubuntu-based distribution using the lightweight Xfce desktop environment.\nThe post Linux Lite 7.2 Released with Lite Theme Manager, Based on Ubuntu 24.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/linux-lite-7-2-released-with-lite-theme-manager-based-on-ubuntu-24-04-lts/",
-          "publishedOn": "2024-10-31T15:53:30.000Z",
-          "wordCount": 9086,
-          "title": "Linux Lite 7.2 Released with Lite Theme Manager, Based on Ubuntu 24.04 LTS",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193978",
-          "author": "Content Operations",
-          "description": "Tails 6.9 privacy-focused Linux distro released with the latest Tor Browser 14.0.1, Tor client 0.4.8.13, and Thunderbird 115.16.\nThe post Tails 6.9 Now Available with Tor and Thunderbird Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/tails-6-9-now-available-with-tor-and-thunderbird-updates/",
-          "publishedOn": "2024-10-31T15:34:46.000Z",
-          "wordCount": 9050,
-          "title": "Tails 6.9 Now Available with Tor and Thunderbird Updates",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=193938",
-          "author": "Web Webster",
-          "description": "Kentik launched The Cloud Latency Map, a free public tool allowing anyone to explore the latencies measured between over 100 cloud regions worldwide. Users can identify recent changes in latencies globally between various public clouds and data center regions for the first time.\nThe post The Cloud Latency Map: Free Tool Measures Latency Across 100+ Cloud Regions appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/the-cloud-latency-map-free-tool-measures-latency-across-100-cloud-regions/",
-          "publishedOn": "2024-10-31T15:12:22.000Z",
-          "wordCount": 9092,
-          "title": "The Cloud Latency Map: Free Tool Measures Latency Across 100+ Cloud Regions",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2175,6 +2065,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMimwFBVV95cUxPSUxDTmdWUUtIQjd6cVV1WVgtWW5NRFZHazlXZnBNdTFnVExmSjNKeHkzXzZLMkJIV1ZKWG9FSk83VE82U0lSRUk3emlwUlh4QzZqTWJJeC1BaEZlUThRT3VlaHZseEpPSDBvaWpQQnV2S1hMdjRSLXR3TmRHeU5udkRGRVNOV0FNb1FjZlE1MFRkWnlfMmFzQi1SZ9IBoAFBVV95cUxQaXAzV2U4YTdWcjUtaDBmS2RJcXIyTUNNc0ZWSmlYWWF4QWh1MW9DbVBIRkxISjBVcHhsdXBMZG5pV3dTeTV0aThjMDVuLXVUOHNwTUMxWGxTZGVRRHlnNTRVZUxRWVVIYXRRd0NaU3c0MmZNbkpKdUxLMzVqSGtLcGxTRXpiQXpXM1o0SHZPYTkxMDJqTFBDZkJVNGRSbTlV",
+          "author": null,
+          "description": "NixOS 24.11 Released with GNOME 47 and KDE Plasma 6.2, PipeWire by Default  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUxDTmdWUUtIQjd6cVV1WVgtWW5NRFZHazlXZnBNdTFnVExmSjNKeHkzXzZLMkJIV1ZKWG9FSk83VE82U0lSRUk3emlwUlh4QzZqTWJJeC1BaEZlUThRT3VlaHZseEpPSDBvaWpQQnV2S1hMdjRSLXR3TmRHeU5udkRGRVNOV0FNb1FjZlE1MFRkWnlfMmFzQi1SZ9IBoAFBVV95cUxQaXAzV2U4YTdWcjUtaDBmS2RJcXIyTUNNc0ZWSmlYWWF4QWh1MW9DbVBIRkxISjBVcHhsdXBMZG5pV3dTeTV0aThjMDVuLXVUOHNwTUMxWGxTZGVRRHlnNTRVZUxRWVVIYXRRd0NaU3c0MmZNbkpKdUxLMzVqSGtLcGxTRXpiQXpXM1o0SHZPYTkxMDJqTFBDZkJVNGRSbTlV?oc=5",
+          "publishedOn": "2024-11-30T22:06:03.000Z",
+          "wordCount": 12612,
+          "title": "NixOS 24.11 Released with GNOME 47 and KDE Plasma 6.2, PipeWire by Default - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMif0FVX3lxTFAyUnk0RlgwRE05alhzYTBSV3ZfX3lCMzBNY2dUOExpRkZReGo0T2tvQUxmQTZUSXRUNG9nMUdCUF9jYVgtbFdBaDcyb2lmTXUwRUNEenlUenFPZ19QZXk0ZzdoQlNWX2xqdzRRV3dMT0twUlh2LXV5QWl6cmRMYlE",
+          "author": null,
+          "description": "Chill With Tux: 16 Relaxing Games That Run on Linux  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyUnk0RlgwRE05alhzYTBSV3ZfX3lCMzBNY2dUOExpRkZReGo0T2tvQUxmQTZUSXRUNG9nMUdCUF9jYVgtbFdBaDcyb2lmTXUwRUNEenlUenFPZ19QZXk0ZzdoQlNWX2xqdzRRV3dMT0twUlh2LXV5QWl6cmRMYlE?oc=5",
+          "publishedOn": "2024-11-30T17:00:00.000Z",
+          "wordCount": 12612,
+          "title": "Chill With Tux: 16 Relaxing Games That Run on Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxNdHFqaFcwSzVxRG4yNWNUQjQ3OGItamdvcGVyQjNFaEtHdXZ0SFJDWEk2VjJOakdXZDE1OV9zNTJfcV9JVEpwZTQwcFJzbkRIT2FsWm9YTlNkdjhrRDF2SVV5WW1HNHNOcm9Bc1RZSWxGenBYNF9vNi03NFcteG14TVNIX29OU3hNQm5aMkhtUDJ2SEI1RGFXdnl3",
+          "author": null,
+          "description": "I Installed Ubuntu on My Old MacBook Air and I Wish I'd Done it Sooner  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHFqaFcwSzVxRG4yNWNUQjQ3OGItamdvcGVyQjNFaEtHdXZ0SFJDWEk2VjJOakdXZDE1OV9zNTJfcV9JVEpwZTQwcFJzbkRIT2FsWm9YTlNkdjhrRDF2SVV5WW1HNHNOcm9Bc1RZSWxGenBYNF9vNi03NFcteG14TVNIX29OU3hNQm5aMkhtUDJ2SEI1RGFXdnl3?oc=5",
+          "publishedOn": "2024-11-30T14:01:00.000Z",
+          "wordCount": 12612,
+          "title": "I Installed Ubuntu on My Old MacBook Air and I Wish I'd Done it Sooner - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFBhWlVoSW5iOGU0d1VBd1VaXy1hSzNacXBUZjlMTG5BZzBmZ1gzSmdSM0F1QVEyQVd6WFpIODBfWC1vbndRbkJwZUM0dTNFUnNkVk00anpSSVF0UjJwRlpMNXdEYkJlcGkzVFh6NQ",
+          "author": null,
+          "description": "Linux 6.13 Hits A \"Tipping Point\" With More Rust Drivers Expected Soon  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhWlVoSW5iOGU0d1VBd1VaXy1hSzNacXBUZjlMTG5BZzBmZ1gzSmdSM0F1QVEyQVd6WFpIODBfWC1vbndRbkJwZUM0dTNFUnNkVk00anpSSVF0UjJwRlpMNXdEYkJlcGkzVFh6NQ?oc=5",
+          "publishedOn": "2024-11-30T11:00:00.000Z",
+          "wordCount": 12612,
+          "title": "Linux 6.13 Hits A \"Tipping Point\" With More Rust Drivers Expected Soon - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibkFVX3lxTE9tQkJuU3ZSY2pDT0lRSFRCX3YzRjdkaWg0Q1pNTS1MX0hucU90ZmNPamZtVWM4ck1jbjdVODlSQ3JUOGZwdFVRZ1ZlaksxLUd4dUpJOTNpU2N4Mkg0bVViMkpwVXNyWElHZmdPZUln",
+          "author": null,
+          "description": "Clang AutoFDO & Propeller Optimization Support Sent In For Linux 6.13: 5~10% More Performance  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkJuU3ZSY2pDT0lRSFRCX3YzRjdkaWg0Q1pNTS1MX0hucU90ZmNPamZtVWM4ck1jbjdVODlSQ3JUOGZwdFVRZ1ZlaksxLUd4dUpJOTNpU2N4Mkg0bVViMkpwVXNyWElHZmdPZUln?oc=5",
+          "publishedOn": "2024-11-30T05:00:00.000Z",
+          "wordCount": 12612,
+          "title": "Clang AutoFDO & Propeller Optimization Support Sent In For Linux 6.13: 5~10% More Performance - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZEFVX3lxTFBMdTNSa3ctcFpONHA5MlFNVmlJdmRNWHUySnh4ZDVWMU1JbzQtdlBGYWlzR2tQdW1xUmEwWlpsR2o4RWZHbDRZMDNLcjJRcWZzcEZGZVFTNFEyeFhoRWM5TUN4UXg",
+          "author": null,
+          "description": "Elementary OS 8: Interesting Ideas, Tough Ecosystem  Tedium: The Dull Side of the Internet",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMdTNSa3ctcFpONHA5MlFNVmlJdmRNWHUySnh4ZDVWMU1JbzQtdlBGYWlzR2tQdW1xUmEwWlpsR2o4RWZHbDRZMDNLcjJRcWZzcEZGZVFTNFEyeFhoRWM5TUN4UXg?oc=5",
+          "publishedOn": "2024-11-30T02:58:07.000Z",
+          "wordCount": 12612,
+          "title": "Elementary OS 8: Interesting Ideas, Tough Ecosystem - Tedium: The Dull Side of the Internet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiswFBVV95cUxOVEZqSHMxY1JXeTlhR1dfQXV1VVZGVU5xZ0NBMjQzZlYzQXFZV1dSNmlWTHJVMUpZM0VDTTBhLWpQakhHYUd5X3dFcXhNcVZBTWFLSWcwRkVaSVFnZlJTVi1obE5Lc0EtZXFRLTFPMmJhQTI4bXBPN3JuQWh4ajlQOFota1JkLWZ5QlZaVG9QYnViaUlNU0VmcWlKSTNhNTA2bUo0cU9JMnhBYnJnQ1Q5anM1UQ",
           "author": null,
@@ -2243,6 +2193,16 @@
           "publishedOn": "2024-11-29T13:45:44.000Z",
           "wordCount": 12612,
           "title": "Best cheap Steam Deck / Linux games in the Steam Autumn Sale 2024 - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiswFBVV95cUxPaDA2ZEhDczVZcmR6cEdaaTNZZ1FzMWxpdk5ucWc0MEFoRmU0N2xNVlFHajlCY19GZjV2MjVzZ2pfcXR4Y25fUWNtQnZqWUJKWEtYd2hQRndqTHpzZF80STJLR2RvNmozQ1lpaVNsZkxWT0FGR19LLVBJbGFHMUVETWF3RzFWQUMyMEpqUXV0UUg3allNaXNlcWwzWGxBX3N4ZmFwaVNITDFzcm5TWXlHRzRWaw",
+          "author": null,
+          "description": "The latest from Prime Gaming - November 29 edition - more for Steam Deck / Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDA2ZEhDczVZcmR6cEdaaTNZZ1FzMWxpdk5ucWc0MEFoRmU0N2xNVlFHajlCY19GZjV2MjVzZ2pfcXR4Y25fUWNtQnZqWUJKWEtYd2hQRndqTHpzZF80STJLR2RvNmozQ1lpaVNsZkxWT0FGR19LLVBJbGFHMUVETWF3RzFWQUMyMEpqUXV0UUg3allNaXNlcWwzWGxBX3N4ZmFwaVNITDFzcm5TWXlHRzRWaw?oc=5",
+          "publishedOn": "2024-11-29T13:13:19.000Z",
+          "wordCount": 12612,
+          "title": "The latest from Prime Gaming - November 29 edition - more for Steam Deck / Linux - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2633,6 +2593,16 @@
           "publishedOn": "2024-11-27T12:01:16.000Z",
           "wordCount": 12617,
           "title": "Researchers Discover \"Bootkitty\" – First UEFI Bootkit Targeting Linux Kernels - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE9WcmY2b1J3TlZ3bDN2Zy0tZXRpVm5DUE84YUR6N09ZdFdIalhSSTN3bVVUTi1ha0d3bGx2Z2lMV3Y5M1JUWVo5eWR4VUFoZ3VkY2dydGM1aHB1czRNazJzcVUzdjg1VHJZOG5ucm9BU1M",
+          "author": null,
+          "description": "Best Linux distro for developers of 2024  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WcmY2b1J3TlZ3bDN2Zy0tZXRpVm5DUE84YUR6N09ZdFdIalhSSTN3bVVUTi1ha0d3bGx2Z2lMV3Y5M1JUWVo5eWR4VUFoZ3VkY2dydGM1aHB1czRNazJzcVUzdjg1VHJZOG5ucm9BU1M?oc=5",
+          "publishedOn": "2024-11-27T11:43:19.000Z",
+          "wordCount": 12612,
+          "title": "Best Linux distro for developers of 2024 - TechRadar",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6914,296 +6884,6 @@
           "wordCount": 12496,
           "title": "Asahi Linux gaming toolkit offers native dual boot and opens the door for more games on Apple silicon - Tested - Notebookcheck.net",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi1wFBVV95cUxOWmFxN011LUxOWVVfTWNRbS16S1hjOUlWTk9tRDI4TFJ3amQzU1hSVVhYeEhHSkJCV2dRNkFsRHlaQUh3bk91YVE2eDM5eFN1akFjZjV2LWdhMnhMXzc0RTdlNVZQSVRWUjU0Z0haVURoWFNJdmpsOUdURU8zU1pEc3VHZllYZzJFRExycTM1Tm5iNjZzSmI1eWI3cHFvdEtpNFptWGRmUVVmdFVkT1B4TXFoQ3NpQ1QzeVk5ai1TQ05WLVYtWU9KQ2xNOXdvaTZLaW53di1zaw",
-          "author": null,
-          "description": "EA bans Linux gamers from Apex Legends to 'meaningfully reduce' cheating in the battle royale  TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWmFxN011LUxOWVVfTWNRbS16S1hjOUlWTk9tRDI4TFJ3amQzU1hSVVhYeEhHSkJCV2dRNkFsRHlaQUh3bk91YVE2eDM5eFN1akFjZjV2LWdhMnhMXzc0RTdlNVZQSVRWUjU0Z0haVURoWFNJdmpsOUdURU8zU1pEc3VHZllYZzJFRExycTM1Tm5iNjZzSmI1eWI3cHFvdEtpNFptWGRmUVVmdFVkT1B4TXFoQ3NpQ1QzeVk5ai1TQ05WLVYtWU9KQ2xNOXdvaTZLaW53di1zaw?oc=5",
-          "publishedOn": "2024-11-01T13:35:03.000Z",
-          "wordCount": 12496,
-          "title": "EA bans Linux gamers from Apex Legends to 'meaningfully reduce' cheating in the battle royale - TweakTown",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE1xZFdpZ1B5UUdUaEhfaUQwTElqRjhGUzhvM1FOaVFuN294dUN3UUhyRzlKQndPODBQc3lRekd0ZWZ4TGJlV2NZRWdJTkhXakhXejBBQkl2WEpLbzhrelhueUd4Y3I2UWhIRlo2QWhn",
-          "author": null,
-          "description": "Google Chrome/Chromium Lands linux_drm_syncobj_v1 For Wayland Explicit Sync  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xZFdpZ1B5UUdUaEhfaUQwTElqRjhGUzhvM1FOaVFuN294dUN3UUhyRzlKQndPODBQc3lRekd0ZWZ4TGJlV2NZRWdJTkhXakhXejBBQkl2WEpLbzhrelhueUd4Y3I2UWhIRlo2QWhn?oc=5",
-          "publishedOn": "2024-11-01T13:31:00.000Z",
-          "wordCount": 12496,
-          "title": "Google Chrome/Chromium Lands linux_drm_syncobj_v1 For Wayland Explicit Sync - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirwFBVV95cUxOd0h0MmRtWmRLbEJ2X3o0WlpTY3pkNHJncVVfOElNWmYtcDQ3TWNpZTQ3cnJNUVB3VXE3cVVvT0pkRzhjcklTekJTQ2tLNVlLdnhkWVcxM3RLUUxZVmxOTFp2eldveTlhb1gyYlQtRzR2OGgtV2NrOUxTSVdnUEZJTUpTMXphcVlkcmJkM0dqZTRZVG04d0VST0ZHRTYwWWoyVU1FTC1YelhFR2Q5X2JF",
-          "author": null,
-          "description": "Optimize Text Search: Master the grep Command in Linux  Data Center Knowledge",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0h0MmRtWmRLbEJ2X3o0WlpTY3pkNHJncVVfOElNWmYtcDQ3TWNpZTQ3cnJNUVB3VXE3cVVvT0pkRzhjcklTekJTQ2tLNVlLdnhkWVcxM3RLUUxZVmxOTFp2eldveTlhb1gyYlQtRzR2OGgtV2NrOUxTSVdnUEZJTUpTMXphcVlkcmJkM0dqZTRZVG04d0VST0ZHRTYwWWoyVU1FTC1YelhFR2Q5X2JF?oc=5",
-          "publishedOn": "2024-11-01T13:04:48.000Z",
-          "wordCount": 12496,
-          "title": "Optimize Text Search: Master the grep Command in Linux - Data Center Knowledge",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizAFBVV95cUxOdFdpMGJsemdHbDFqdFREa3VhNGUydXJWWGJRdVpha2pnVzBTaS1wemxoOVhCM1VISElrcGNjRk1BWGxCeERFekNGVmxLZUFydzVfdVRDNlBDU1BRZkxvd1N2SUZ4U2F4aDgzbmR1TEM4V2pXZ1A4ZEtRQklTd2lXcFlKQ0JxNE5sLVFXbi1qVXhVMllRV3BlSi1yZk5zVHFCRFR0X0NfZGstZlFrb3dSZ0ZROVhNbVM5T255a2R6QmE5Q2ZwT0dIZkI4TTQ",
-          "author": null,
-          "description": "Cyber Security Headlines Week in Review: Deepfake targets Wiz, Black Basta leverages Teams, Russia’s Linux plans  CISO Series",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFdpMGJsemdHbDFqdFREa3VhNGUydXJWWGJRdVpha2pnVzBTaS1wemxoOVhCM1VISElrcGNjRk1BWGxCeERFekNGVmxLZUFydzVfdVRDNlBDU1BRZkxvd1N2SUZ4U2F4aDgzbmR1TEM4V2pXZ1A4ZEtRQklTd2lXcFlKQ0JxNE5sLVFXbi1qVXhVMllRV3BlSi1yZk5zVHFCRFR0X0NfZGstZlFrb3dSZ0ZROVhNbVM5T255a2R6QmE5Q2ZwT0dIZkI4TTQ?oc=5",
-          "publishedOn": "2024-11-01T10:30:00.000Z",
-          "wordCount": 12496,
-          "title": "Cyber Security Headlines Week in Review: Deepfake targets Wiz, Black Basta leverages Teams, Russia’s Linux plans - CISO Series",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTE5YSmNwNHRockRGc1g2SnVYX2NJNUhKUGNlQ0ZDMFZLYWVWODVLcF90eVdHN3JiRE9CMVZBTXRISHY2MTcyTlh0Yk5zUjlKbWdYa3dLNGRSR3ktSEtaaFZTWUVha1N3b2NHeV9TYW13N0lESGZidG5jNA",
-          "author": null,
-          "description": "Steam Deck game support for Apex Legends is no more, thanks to EA Linux ban  PCGamesN",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YSmNwNHRockRGc1g2SnVYX2NJNUhKUGNlQ0ZDMFZLYWVWODVLcF90eVdHN3JiRE9CMVZBTXRISHY2MTcyTlh0Yk5zUjlKbWdYa3dLNGRSR3ktSEtaaFZTWUVha1N3b2NHeV9TYW13N0lESGZidG5jNA?oc=5",
-          "publishedOn": "2024-11-01T10:19:20.000Z",
-          "wordCount": 12496,
-          "title": "Steam Deck game support for Apex Legends is no more, thanks to EA Linux ban - PCGamesN",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE5XZ044WWp4MDBrNjV2MlZabU1VOFZxdVJlSi0wVzFzUU5uZ0hCandwRHdrU2laY2ZGZFhfUUQ1anBBeXdGTnBSeFg1ZnNmYm1QNmQtazdtQzREc1h1Z1hqNFVpYWw1Vk3SAWxBVV95cUxNdURKZ1NUSHc1X0JYMGwxVG8yQzU2eDlFenFIUmlsYjdTME9WcUduUE9xNHJ1WDJ0OFVQNWZPc3RMaTl0b1JONHJsUkxOeDBRSXhKWWQ0UmVjSkp6cTdPYnNvaUVFdzBUdEI2aTY",
-          "author": null,
-          "description": "An awful lot of FOSS should thank the Academy  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XZ044WWp4MDBrNjV2MlZabU1VOFZxdVJlSi0wVzFzUU5uZ0hCandwRHdrU2laY2ZGZFhfUUQ1anBBeXdGTnBSeFg1ZnNmYm1QNmQtazdtQzREc1h1Z1hqNFVpYWw1Vk3SAWxBVV95cUxNdURKZ1NUSHc1X0JYMGwxVG8yQzU2eDlFenFIUmlsYjdTME9WcUduUE9xNHJ1WDJ0OFVQNWZPc3RMaTl0b1JONHJsUkxOeDBRSXhKWWQ0UmVjSkp6cTdPYnNvaUVFdzBUdEI2aTY?oc=5",
-          "publishedOn": "2024-11-01T09:30:00.000Z",
-          "wordCount": 12496,
-          "title": "An awful lot of FOSS should thank the Academy - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFBVV95cUxPNEQ1aGJ4UkREU2wtRGtMZVdLVGZNWVc1aHB5dG9sUVo3VHV3V20tLUY2UWNtRXBPS0RLaXFsMkdFRldkYUtMSEV6OThpeTJuWFZvQ2hEak55U1Zhb1NtVjdXcXlpUGpLMV9OODV3UU1PVWlXaHZfQl9mSGR0ZDk1MzUzaUR0dw",
-          "author": null,
-          "description": "EA Says Linux Is Path for \"Impactful Exploits and Cheats\"  80.lv",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEQ1aGJ4UkREU2wtRGtMZVdLVGZNWVc1aHB5dG9sUVo3VHV3V20tLUY2UWNtRXBPS0RLaXFsMkdFRldkYUtMSEV6OThpeTJuWFZvQ2hEak55U1Zhb1NtVjdXcXlpUGpLMV9OODV3UU1PVWlXaHZfQl9mSGR0ZDk1MzUzaUR0dw?oc=5",
-          "publishedOn": "2024-11-01T07:59:32.000Z",
-          "wordCount": 12496,
-          "title": "EA Says Linux Is Path for \"Impactful Exploits and Cheats\" - 80.lv",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE85ajBvSWZyU2xvMl8tTk5ObGtta3RGd05kc3JocmQ0LXZUekJkV1A3SjlwMVE3dU5CM3FEalpfNjNFRDB5OURvT3NxMGZfZ0VmdDRxV1J0Z0ZZckFmU3AzWnFXZTJNQQ",
-          "author": null,
-          "description": "For Real? EA Drops Linux (and Steam Deck) Support for Apex Legends to Curb Cheating  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ajBvSWZyU2xvMl8tTk5ObGtta3RGd05kc3JocmQ0LXZUekJkV1A3SjlwMVE3dU5CM3FEalpfNjNFRDB5OURvT3NxMGZfZ0VmdDRxV1J0Z0ZZckFmU3AzWnFXZTJNQQ?oc=5",
-          "publishedOn": "2024-11-01T07:47:56.000Z",
-          "wordCount": 12496,
-          "title": "For Real? EA Drops Linux (and Steam Deck) Support for Apex Legends to Curb Cheating - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWkFVX3lxTE1DOTJEZ2gxOHRCMUs0V1ZPMWdPd2hRSm4xbGJlVFZiZ0VNbkt1MzhjR25mX2prcllFN0VrVUpjZ0FCVTU0dERRQWZwVXJtVm1pSThsYXgtdlg3Zw",
-          "author": null,
-          "description": "9 Desktop Effects to Add Eye Candy to Linux Mint  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DOTJEZ2gxOHRCMUs0V1ZPMWdPd2hRSm4xbGJlVFZiZ0VNbkt1MzhjR25mX2prcllFN0VrVUpjZ0FCVTU0dERRQWZwVXJtVm1pSThsYXgtdlg3Zw?oc=5",
-          "publishedOn": "2024-11-01T07:46:39.000Z",
-          "wordCount": 12496,
-          "title": "9 Desktop Effects to Add Eye Candy to Linux Mint - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFBVV95cUxNOHdoWDRLU0tUb1JKMklna0JYVFEtTE5zb201OHZKSXFHUjk4YlNVNU1RbzdRREItTXZ6Sm8xMzB4dDItOXU4TE51U1VxNXMwVVlXbU5hZlliNy01czBMc0ptNzhVYmkwV3Y4eVk3QUdnTlVtVlQ2aDhYZWRPel8tUGp3",
-          "author": null,
-          "description": "OpenPaX: Open-source kernel patch that mitigates memory safety errors  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHdoWDRLU0tUb1JKMklna0JYVFEtTE5zb201OHZKSXFHUjk4YlNVNU1RbzdRREItTXZ6Sm8xMzB4dDItOXU4TE51U1VxNXMwVVlXbU5hZlliNy01czBMc0ptNzhVYmkwV3Y4eVk3QUdnTlVtVlQ2aDhYZWRPel8tUGp3?oc=5",
-          "publishedOn": "2024-11-01T05:00:53.000Z",
-          "wordCount": 12496,
-          "title": "OpenPaX: Open-source kernel patch that mitigates memory safety errors - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTFA4ZU12eVdmQWU3WjBBN3BhV2U5MENONmV0eDlnYmVkb2Z4MDNCTGZPZ2stY2dtRnFNM3Ywb1pXRi1BSjBXYXdXckNIbnVhb2EzOWdDUHdETTNxMEFxaUdyV1dMUE9yUFJtaG14UEhPbm5mVTVSMDlnVUZqTEM",
-          "author": null,
-          "description": "Say goodbye to Microsoft Windows 11: Nitrux Linux 3.7.1 is the operating system you need!  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4ZU12eVdmQWU3WjBBN3BhV2U5MENONmV0eDlnYmVkb2Z4MDNCTGZPZ2stY2dtRnFNM3Ywb1pXRi1BSjBXYXdXckNIbnVhb2EzOWdDUHdETTNxMEFxaUdyV1dMUE9yUFJtaG14UEhPbm5mVTVSMDlnVUZqTEM?oc=5",
-          "publishedOn": "2024-11-01T03:58:33.000Z",
-          "wordCount": 12496,
-          "title": "Say goodbye to Microsoft Windows 11: Nitrux Linux 3.7.1 is the operating system you need! - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxONkNhSkwxNHhwWHRvaXUxZ1kzUXBjc1I5UF9nVmV2eFpjY0drakhjM1BCUk5ETm1rZG82RzNncUE3YmtVSS1xTFZJV1Y0Vmx1VzQ1MFRucHljeTM2X3NobHVseXFfQ3NFUzRFRkNEanF6VWhFRTZaMTBUdVI2dUR3VkpsRU1GY2x3eFR0VU5zYnlLNEk",
-          "author": null,
-          "description": "Apex Legends Makes Controversial Change to Help Address Cheating Problem  GameRant",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkNhSkwxNHhwWHRvaXUxZ1kzUXBjc1I5UF9nVmV2eFpjY0drakhjM1BCUk5ETm1rZG82RzNncUE3YmtVSS1xTFZJV1Y0Vmx1VzQ1MFRucHljeTM2X3NobHVseXFfQ3NFUzRFRkNEanF6VWhFRTZaMTBUdVI2dUR3VkpsRU1GY2x3eFR0VU5zYnlLNEk?oc=5",
-          "publishedOn": "2024-11-01T01:31:00.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends Makes Controversial Change to Help Address Cheating Problem - GameRant",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipgFBVV95cUxQdVdGREVTYTVrd05ua1d5Q3BUQjBFRGJQNkUxcWQzOVR4UGFpWHlCV096d0s4NlhGWjBFLWxETVhzZ2Zka1FoMnJ5bEhVZ0lxTjJHUU5Jb2IwM19fMHE3b0pzZ0s2Ty1hTl9VVjdwb0Znc29teFFsZG01SktIbVRnNWR3MzFBMXczOEwxcmZOTHUwbXVZbEFmQjZUTXhGNlFIT0NpUTdR0gGrAUFVX3lxTE5qQi1KR2hoZm0tRDRaSFpGcWVhMlBJYXg0MVRqS2hGc1NWUWoydGt2YmVKUVlJcHBaUkphOFd6dlB3UGZCOVItLUNSX1NNRi0ydUZVdHlPTkgzOTdaQjlULXZNY2ZYaEdScGZMSzF0ZFpxOHdmcVowRm16T2VXaktNN1Fac0V1Vkc2RFFZUTE2N1dkbjQtOGJ2eFNZaVdhWndJRUoyYmJrVmxBcw",
-          "author": null,
-          "description": "Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVdGREVTYTVrd05ua1d5Q3BUQjBFRGJQNkUxcWQzOVR4UGFpWHlCV096d0s4NlhGWjBFLWxETVhzZ2Zka1FoMnJ5bEhVZ0lxTjJHUU5Jb2IwM19fMHE3b0pzZ0s2Ty1hTl9VVjdwb0Znc29teFFsZG01SktIbVRnNWR3MzFBMXczOEwxcmZOTHUwbXVZbEFmQjZUTXhGNlFIT0NpUTdR0gGrAUFVX3lxTE5qQi1KR2hoZm0tRDRaSFpGcWVhMlBJYXg0MVRqS2hGc1NWUWoydGt2YmVKUVlJcHBaUkphOFd6dlB3UGZCOVItLUNSX1NNRi0ydUZVdHlPTkgzOTdaQjlULXZNY2ZYaEdScGZMSzF0ZFpxOHdmcVowRm16T2VXaktNN1Fac0V1Vkc2RFFZUTE2N1dkbjQtOGJ2eFNZaVdhWndJRUoyYmJrVmxBcw?oc=5",
-          "publishedOn": "2024-11-01T01:23:14.000Z",
-          "wordCount": 12496,
-          "title": "Immutable Distro Nitrux 3.7.1 Released with Linux Kernel 6.11, NVIDIA 565, and More - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYkFVX3lxTE1Kd3lJX1NBWlR4cElJNjR2M0VwOXpJNTJlal9tazAtQzJNa3dMc2dkckNPY01CbUhXTU0zbmFuLXhTOE9kVW90X3lFODhLQ2hFanpSMXZuQ0RPRHVrUkEzazNn",
-          "author": null,
-          "description": "COSMIC Desktop Alpha 3 Released With More Enhancements  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Kd3lJX1NBWlR4cElJNjR2M0VwOXpJNTJlal9tazAtQzJNa3dMc2dkckNPY01CbUhXTU0zbmFuLXhTOE9kVW90X3lFODhLQ2hFanpSMXZuQ0RPRHVrUkEzazNn?oc=5",
-          "publishedOn": "2024-11-01T00:48:00.000Z",
-          "wordCount": 12496,
-          "title": "COSMIC Desktop Alpha 3 Released With More Enhancements - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYkFVX3lxTE9RZVY1MmxnYVBmaVptNFdLbS1TdUlnaDBOcHI5RFNWLWgxTmoyczg1d1JJcVYwZFl4bktFamM1X052TVhDQl9GNTVIN1E5T1ZTQzNrNkNuaVpEcVpxNk1fRl9R",
-          "author": null,
-          "description": "VMware Workstation Shifting From Proprietary Code To Using Upstream KVM  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RZVY1MmxnYVBmaVptNFdLbS1TdUlnaDBOcHI5RFNWLWgxTmoyczg1d1JJcVYwZFl4bktFamM1X052TVhDQl9GNTVIN1E5T1ZTQzNrNkNuaVpEcVpxNk1fRl9R?oc=5",
-          "publishedOn": "2024-11-01T00:29:00.000Z",
-          "wordCount": 12496,
-          "title": "VMware Workstation Shifting From Proprietary Code To Using Upstream KVM - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxNemJSNFdMVFMyallsVUNudVpBY3NQVnhROU9DczlHUnBXT280aE5lVkNrZjFrTWwtV0VjM1lseTJwSHZ0VGozVElTRm1mV1ljTWtaRzF0VF8tdUJEZ01NUG14Z193TW5qR2plSk9NOEs2b2hVZm1WUi12aWVfemEteXlVa9IBiAFBVV95cUxQbG5KS0NVaXh4cnJxV3dOekpaOGVqWFNmQmhKY2d3VlFRelpWSUF0ZVM2bVBqM1ZJbXU0Qm5PaWVNWHk3YVYzWGMyNUxLUTdpMlJnRm9VcnlCVWdVbHNLOEJmd2ZyNG9fa1pPS1lCaTRaLVRmbnNEUWhlNjZSMW9FOGtBWlBuVXJo",
-          "author": null,
-          "description": "Apex Legends Removes Steam Deck Support Due To Cheating  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemJSNFdMVFMyallsVUNudVpBY3NQVnhROU9DczlHUnBXT280aE5lVkNrZjFrTWwtV0VjM1lseTJwSHZ0VGozVElTRm1mV1ljTWtaRzF0VF8tdUJEZ01NUG14Z193TW5qR2plSk9NOEs2b2hVZm1WUi12aWVfemEteXlVa9IBiAFBVV95cUxQbG5KS0NVaXh4cnJxV3dOekpaOGVqWFNmQmhKY2d3VlFRelpWSUF0ZVM2bVBqM1ZJbXU0Qm5PaWVNWHk3YVYzWGMyNUxLUTdpMlJnRm9VcnlCVWdVbHNLOEJmd2ZyNG9fa1pPS1lCaTRaLVRmbnNEUWhlNjZSMW9FOGtBWlBuVXJo?oc=5",
-          "publishedOn": "2024-11-01T00:11:00.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends Removes Steam Deck Support Due To Cheating - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFBVV95cUxONHN3ZGN5OXlGVVFOZy1XYlVxM0ZMbjd2Q1QwbWpPMVk1VC1jalZVd3dmcVVwNFF2OUhFcS1yb0VUOFBMVlQzRFpISWJWQXB4TDlabncwcUx2MXB1U3BkN0p5VWtCbnBvTXhWSFFtMjZEY0Zna0pZNXpUbHc1RU54QU1n0gGHAUFVX3lxTE9zX0VzYVZVam5razhQQkpkR0xQUThMT05Xd216ajl4Um9ud2dCdEtPd2piNVVQak1FMWczWFZIQWtrMUp2MzhaRzBsZ2RUemFCNnNpVkVYN1ptLUc2OG5nd1haUW9TNGFTamV1LXM1NFpEN09zRzZsckN1cEhmQ2U1V2lhQkVXMA",
-          "author": null,
-          "description": "Apex Legends is Dropping Linux and Steam Deck Support  GamingBolt",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHN3ZGN5OXlGVVFOZy1XYlVxM0ZMbjd2Q1QwbWpPMVk1VC1jalZVd3dmcVVwNFF2OUhFcS1yb0VUOFBMVlQzRFpISWJWQXB4TDlabncwcUx2MXB1U3BkN0p5VWtCbnBvTXhWSFFtMjZEY0Zna0pZNXpUbHc1RU54QU1n0gGHAUFVX3lxTE9zX0VzYVZVam5razhQQkpkR0xQUThMT05Xd216ajl4Um9ud2dCdEtPd2piNVVQak1FMWczWFZIQWtrMUp2MzhaRzBsZ2RUemFCNnNpVkVYN1ptLUc2OG5nd1haUW9TNGFTamV1LXM1NFpEN09zRzZsckN1cEhmQ2U1V2lhQkVXMA?oc=5",
-          "publishedOn": "2024-10-31T22:40:48.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends is Dropping Linux and Steam Deck Support - GamingBolt",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFBVV95cUxNX1lmUDF0UndCQTBOU2JwYW9SelB1aDVsZ3NJMm9rYkJIMXVzRjNfM3c2emFIN1hETjhFVUhsUXJpNE1LWk52SmJadldiN1A4N3h2V2hRSVNmMERlWG4tVmlDaDFTQ2FaUllEd1I1TVRJNlM4NnZDWElZenROTWxSVDlB",
-          "author": null,
-          "description": "Flatcar Container Linux Hitches onto the CNCF  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1lmUDF0UndCQTBOU2JwYW9SelB1aDVsZ3NJMm9rYkJIMXVzRjNfM3c2emFIN1hETjhFVUhsUXJpNE1LWk52SmJadldiN1A4N3h2V2hRSVNmMERlWG4tVmlDaDFTQ2FaUllEd1I1TVRJNlM4NnZDWElZenROTWxSVDlB?oc=5",
-          "publishedOn": "2024-10-31T21:09:22.000Z",
-          "wordCount": 12496,
-          "title": "Flatcar Container Linux Hitches onto the CNCF - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxPdVhyZWVIWXBfNWJOY1BrWWVhUFR6RzdJcXM2NWs4bXZCNlkwajNhcWhnSmljSzVyUml3T3dGY0tvRlhIc0Q1MFN0SG1tRjdiM0RLMHhiTUpid2RFbTlCLTFUZWs1YWJNWWhGVHVldWxxUFlpQzQxSEEwZUFraEwzRQ",
-          "author": null,
-          "description": "EA removes Apex Legends from Steam Deck due to Linux cheating  Digital Trends",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVhyZWVIWXBfNWJOY1BrWWVhUFR6RzdJcXM2NWs4bXZCNlkwajNhcWhnSmljSzVyUml3T3dGY0tvRlhIc0Q1MFN0SG1tRjdiM0RLMHhiTUpid2RFbTlCLTFUZWs1YWJNWWhGVHVldWxxUFlpQzQxSEEwZUFraEwzRQ?oc=5",
-          "publishedOn": "2024-10-31T19:53:29.000Z",
-          "wordCount": 12496,
-          "title": "EA removes Apex Legends from Steam Deck due to Linux cheating - Digital Trends",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqgFBVV95cUxNY0hMcDd1b3VLc0J3djRNNXFkTGo2TS1aMlZXV3hib0k4M2VoUnBqSWQtblRkUDktcEVId0NHSndRVFl3OERhNnpGVExuY0h0NVRzXzkybTI1bm9wRFJpckRzVEZqTlJzX0hlUGR6MlRrY19RdTRZTWNzN3Y0cE0tbVZINjNWMkhWcVpNTXFIRXVFT2FXX25heUkwMnZaQ1dyNUFtdmdxWXhNQQ",
-          "author": null,
-          "description": "Horizon Zero Dawn Remastered may need a workaround on desktop Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0hMcDd1b3VLc0J3djRNNXFkTGo2TS1aMlZXV3hib0k4M2VoUnBqSWQtblRkUDktcEVId0NHSndRVFl3OERhNnpGVExuY0h0NVRzXzkybTI1bm9wRFJpckRzVEZqTlJzX0hlUGR6MlRrY19RdTRZTWNzN3Y0cE0tbVZINjNWMkhWcVpNTXFIRXVFT2FXX25heUkwMnZaQ1dyNUFtdmdxWXhNQQ?oc=5",
-          "publishedOn": "2024-10-31T19:40:49.000Z",
-          "wordCount": 12496,
-          "title": "Horizon Zero Dawn Remastered may need a workaround on desktop Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi6wFBVV95cUxPLUpiRW1tMFg2YzI4UkRPejBBaUJCb0FDV0o3UG4zNU90UzVhVk5va2VwYWNoNXY0WlRrM2EtX0twd2hHNnZxNS1tcUY1MTdyLWMxYW00cVNuQnZMbTg1SEpSWDVZc1psaWtLeVUxRjRIODdCWmhKQk5DM1JneGZucnNqQlg4dlRQQjhUazd4MnotVHhiSi1PRkFaWjVJT2pTZnhDSWtHeTgxbVgzX3lZeUlSb0s1NVgwdmVxSzAyTVlTcXZuSFhGZ2Q4UlUxaTh2RUNGUEp6X1VUS3o2OEtzckZPZTBJbTFJeG9Z",
-          "author": null,
-          "description": "Apex Legends ditches Steam Deck support: EA says Linux is 'a path for a variety of impactful exploits and cheats'  PC Gamer",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLUpiRW1tMFg2YzI4UkRPejBBaUJCb0FDV0o3UG4zNU90UzVhVk5va2VwYWNoNXY0WlRrM2EtX0twd2hHNnZxNS1tcUY1MTdyLWMxYW00cVNuQnZMbTg1SEpSWDVZc1psaWtLeVUxRjRIODdCWmhKQk5DM1JneGZucnNqQlg4dlRQQjhUazd4MnotVHhiSi1PRkFaWjVJT2pTZnhDSWtHeTgxbVgzX3lZeUlSb0s1NVgwdmVxSzAyTVlTcXZuSFhGZ2Q4UlUxaTh2RUNGUEp6X1VUS3o2OEtzckZPZTBJbTFJeG9Z?oc=5",
-          "publishedOn": "2024-10-31T19:32:12.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends ditches Steam Deck support: EA says Linux is 'a path for a variety of impactful exploits and cheats' - PC Gamer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxQUlFJUGg5Q0VZemtjVHB5Qm9SenQtWVZlbTN2ek0xMzhacVEwb0I0Q0RENjY4RlFrRFV4UzNwZDdCamUxOWhWaE9kNHdMTEtYX3ZZTU5oeEoyVnU1blFQdWZzZzBzdUt1N2l1S0VWb2ZFSmo4MHVaMlBqTDhLR1IweGJrWF9KYmJXUUxsWGVlbkpZOW5EMHVrOWVNVUZBSUVVRV9idmVLSzRkNGdVVi1MY3Q1S3c",
-          "author": null,
-          "description": "EA pulls plug on Apex Legends Linux version due to anti-cheat concerns  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlFJUGg5Q0VZemtjVHB5Qm9SenQtWVZlbTN2ek0xMzhacVEwb0I0Q0RENjY4RlFrRFV4UzNwZDdCamUxOWhWaE9kNHdMTEtYX3ZZTU5oeEoyVnU1blFQdWZzZzBzdUt1N2l1S0VWb2ZFSmo4MHVaMlBqTDhLR1IweGJrWF9KYmJXUUxsWGVlbkpZOW5EMHVrOWVNVUZBSUVVRV9idmVLSzRkNGdVVi1MY3Q1S3c?oc=5",
-          "publishedOn": "2024-10-31T19:15:00.000Z",
-          "wordCount": 12496,
-          "title": "EA pulls plug on Apex Legends Linux version due to anti-cheat concerns - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirgFBVV95cUxOUEEtb0xJWkdXVXFEZ01ZSUoxblg2dUJkb1A0Y0hzSWUyNGVseEJwejNFM0lmYU05YXlwZEtSdi1Uc3lFY1V4RmZDY3lzWVpLcWVDOUJPY0lqZ0tPSXR2dE1nRjlBV1FydDFWRkM5dmlvNE5La21FMl9KQmEwTjMwdl9pN29sSnZYZWIxVUM5ZlAyTjhTX1NFQnR1N196QjM0NmpXdzlxQ3lER0pjUkE",
-          "author": null,
-          "description": "Black Mesa has a new Beta with 'WAY better' support for Linux / Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEEtb0xJWkdXVXFEZ01ZSUoxblg2dUJkb1A0Y0hzSWUyNGVseEJwejNFM0lmYU05YXlwZEtSdi1Uc3lFY1V4RmZDY3lzWVpLcWVDOUJPY0lqZ0tPSXR2dE1nRjlBV1FydDFWRkM5dmlvNE5La21FMl9KQmEwTjMwdl9pN29sSnZYZWIxVUM5ZlAyTjhTX1NFQnR1N196QjM0NmpXdzlxQ3lER0pjUkE?oc=5",
-          "publishedOn": "2024-10-31T18:41:47.000Z",
-          "wordCount": 12496,
-          "title": "Black Mesa has a new Beta with 'WAY better' support for Linux / Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFBVV95cUxQamhndGR3VzFjVEJBOXJieGpzZWd1UVJmRjYyc29sVkhwYzJoQU0tUnYwbWpIWC16VWs5cjdDRE5WM3RrZzcyNTBJY1JkM1l2eEF2WF85OExsRmxRTHJmN3BVUEZqbGt1bDJnVEdOa2VXYTlHc3ZaLTBYQ2REaVlzeG15V0tSMW9oaERHa2Q0cEhwMHJpamdEOdIBlwFBVV95cUxOWTVpRXBPdnpKbWI3ZDcxbjdxSV84TXlOSmk3aFN6ZjdRaGJLcVZ1VmZqSllOcGFITEV3a3A4UlZ4SzNDQThQaHJ4elV0VkNMdjNlZTlBX2hqQ295TWlwWmJIVy1oQ1p0eWhDUDVLeXZVZzNiMUhWYTFJSGw0SVFuS05tb05LbzIwa0pRVm8yQ3ktOHFWeC1Z",
-          "author": null,
-          "description": "Apex Legends pulls Linux and Steam Deck support to stop cheaters  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamhndGR3VzFjVEJBOXJieGpzZWd1UVJmRjYyc29sVkhwYzJoQU0tUnYwbWpIWC16VWs5cjdDRE5WM3RrZzcyNTBJY1JkM1l2eEF2WF85OExsRmxRTHJmN3BVUEZqbGt1bDJnVEdOa2VXYTlHc3ZaLTBYQ2REaVlzeG15V0tSMW9oaERHa2Q0cEhwMHJpamdEOdIBlwFBVV95cUxOWTVpRXBPdnpKbWI3ZDcxbjdxSV84TXlOSmk3aFN6ZjdRaGJLcVZ1VmZqSllOcGFITEV3a3A4UlZ4SzNDQThQaHJ4elV0VkNMdjNlZTlBX2hqQ295TWlwWmJIVy1oQ1p0eWhDUDVLeXZVZzNiMUhWYTFJSGw0SVFuS05tb05LbzIwa0pRVm8yQ3ktOHFWeC1Z?oc=5",
-          "publishedOn": "2024-10-31T18:00:00.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends pulls Linux and Steam Deck support to stop cheaters - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxPU1Rjc3dodlFsZFZ6VkJuYVNYUDlWb0JoT2NMRkd4NHBKZ0ZnUHJ1Y3I3dWM5LWQwMmJjNkNNYTROejVxbHR2Y0RVakxmRnNTSEFhQ2Q2eGhGU1ZOUzEwZENFd1R1V2VGdm5ucEh0bGFNb0hVMGhUbFFGN01JT1ZOU3Y0b2g0STdBLV8tZWJmbDhtSWZNQlg3cy13YWxHWmMycG9rTDVEMGlxQmZh0gGyAUFVX3lxTFA0OTRhb1NQNHdYUHc5R0MyZi1xZXZLQ0hnNXczLVltNTBRdFFUM2Rza1hoT3h5VVVza2hVRWRkcEtpTWJCMjRrdWZGLVEzR1FZU0prbE1sSHhhOGEtYm9adzdJT3M3RlZFcEx3QzJkU1llRjJjd1BUM0pTX2YtV1p2VG9aRWhaWTlEM0ZoU3I3eTdLbVdFaUlZN2U0X3oyX3Vwb01faTR0RWJhREVISGtjRXc",
-          "author": null,
-          "description": "LibreOffice 24.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 24.8  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1Rjc3dodlFsZFZ6VkJuYVNYUDlWb0JoT2NMRkd4NHBKZ0ZnUHJ1Y3I3dWM5LWQwMmJjNkNNYTROejVxbHR2Y0RVakxmRnNTSEFhQ2Q2eGhGU1ZOUzEwZENFd1R1V2VGdm5ucEh0bGFNb0hVMGhUbFFGN01JT1ZOU3Y0b2g0STdBLV8tZWJmbDhtSWZNQlg3cy13YWxHWmMycG9rTDVEMGlxQmZh0gGyAUFVX3lxTFA0OTRhb1NQNHdYUHc5R0MyZi1xZXZLQ0hnNXczLVltNTBRdFFUM2Rza1hoT3h5VVVza2hVRWRkcEtpTWJCMjRrdWZGLVEzR1FZU0prbE1sSHhhOGEtYm9adzdJT3M3RlZFcEx3QzJkU1llRjJjd1BUM0pTX2YtV1p2VG9aRWhaWTlEM0ZoU3I3eTdLbVdFaUlZN2U0X3oyX3Vwb01faTR0RWJhREVISGtjRXc?oc=5",
-          "publishedOn": "2024-10-31T17:40:24.000Z",
-          "wordCount": 12496,
-          "title": "LibreOffice 24.2.7 Is Out as the Last Update in the Series, Upgrade to LibreOffice 24.8 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxQUU9jeUxrNFhLeHFIN3pKdjQxY0ZKZksxYTdOdXcyWC1LQ19YaEt5Y3VEVGVMaE15akNGbW1jTGZCZ1JaNlZaV1M3QzVrMUVVcDJsTXFINVpOZlVSeUNyYjBGeVhjTUtic0hFS1hVT3BCTlAxSC15bE5Oa1FQLWpXX01QWFRjcnJ0a0lIT05qaEdfSTk5QkpTMlBRRkNNd1pQ",
-          "author": null,
-          "description": "Apex Legends is taking away its support for the Steam Deck and Linux  The Verge",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUU9jeUxrNFhLeHFIN3pKdjQxY0ZKZksxYTdOdXcyWC1LQ19YaEt5Y3VEVGVMaE15akNGbW1jTGZCZ1JaNlZaV1M3QzVrMUVVcDJsTXFINVpOZlVSeUNyYjBGeVhjTUtic0hFS1hVT3BCTlAxSC15bE5Oa1FQLWpXX01QWFRjcnJ0a0lIT05qaEdfSTk5QkpTMlBRRkNNd1pQ?oc=5",
-          "publishedOn": "2024-10-31T16:52:31.000Z",
-          "wordCount": 12496,
-          "title": "Apex Legends is taking away its support for the Steam Deck and Linux - The Verge",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirgFBVV95cUxPbHR5V0tLdDhPdWF6WWxZZVJ0bW9xV29TZWtacGh5OVhuOGtlVXZDVDZLQUJfcy0ycUZscjhRVUdqQnBvUTlpOG56ZXFJWGZMUHBUYzhrR1RYanNaOEd3cHg3eV9FbmNJV3dyaWJJTWFZODNFb0xfZ3FQVUQ0R2xsaXN3aklUZXFXSXlBazJycm4tMDdFS0hBMFBXeXVGUG9TakpCZ2tzV1AxVHZNTGc",
-          "author": null,
-          "description": "EA / Respawn now block Apex Legends from running on Linux and Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHR5V0tLdDhPdWF6WWxZZVJ0bW9xV29TZWtacGh5OVhuOGtlVXZDVDZLQUJfcy0ycUZscjhRVUdqQnBvUTlpOG56ZXFJWGZMUHBUYzhrR1RYanNaOEd3cHg3eV9FbmNJV3dyaWJJTWFZODNFb0xfZ3FQVUQ0R2xsaXN3aklUZXFXSXlBazJycm4tMDdFS0hBMFBXeXVGUG9TakpCZ2tzV1AxVHZNTGc?oc=5",
-          "publishedOn": "2024-10-31T16:46:10.000Z",
-          "wordCount": 12496,
-          "title": "EA / Respawn now block Apex Legends from running on Linux and Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitwFBVV95cUxNTmJJbElpdERsZGhKby1CdExwOHVWV25UVlBqUjZ2RWZvaERjV3NNbmJ6NW5ZQmFPcGhjb2NSYTN0d3dpOVJxdVI3dU5yWk9Iamo1MHFBclpQX3JpNFp1cXFtRTZfbDgzX0tMeHNQbzVvOW8yY24yaFZVUDdTNk1qckE1bTZ0V0c1RWxGTmpNY19IZVBVcm85bnFvblpVRWxFaGx3SS1FRkw2T0tVZndGaUNqZUpYRkE",
-          "author": null,
-          "description": "If you're ready to leave Windows 11 behind, I recommend this distro for new Linux users  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmJJbElpdERsZGhKby1CdExwOHVWV25UVlBqUjZ2RWZvaERjV3NNbmJ6NW5ZQmFPcGhjb2NSYTN0d3dpOVJxdVI3dU5yWk9Iamo1MHFBclpQX3JpNFp1cXFtRTZfbDgzX0tMeHNQbzVvOW8yY24yaFZVUDdTNk1qckE1bTZ0V0c1RWxGTmpNY19IZVBVcm85bnFvblpVRWxFaGx3SS1FRkw2T0tVZndGaUNqZUpYRkE?oc=5",
-          "publishedOn": "2024-10-31T16:28:00.000Z",
-          "wordCount": 12496,
-          "title": "If you're ready to leave Windows 11 behind, I recommend this distro for new Linux users - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxPaDlMdHhYV3YyenJJOGg4dVFhdzNIV1ZCekpNNm0ydlF3OGNkdlhoSkp3UW5FWkF4N2dseHhhZGRId2VoRDgwMHJ6SWg4REpOYl9UaEJfTHNwZXJYRGk4Ym1WeU9XNXgyRUtnV09GS180aXJWN1M2d2JzLVRyb09ZMQ",
-          "author": null,
-          "description": "Ditch Microsoft Windows 11 and switch to the Ubuntu-based Linux Lite 7.2 — you won’t regret it  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDlMdHhYV3YyenJJOGg4dVFhdzNIV1ZCekpNNm0ydlF3OGNkdlhoSkp3UW5FWkF4N2dseHhhZGRId2VoRDgwMHJ6SWg4REpOYl9UaEJfTHNwZXJYRGk4Ym1WeU9XNXgyRUtnV09GS180aXJWN1M2d2JzLVRyb09ZMQ?oc=5",
-          "publishedOn": "2024-10-31T15:29:41.000Z",
-          "wordCount": 12496,
-          "title": "Ditch Microsoft Windows 11 and switch to the Ubuntu-based Linux Lite 7.2 — you won’t regret it - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9463,16 +9143,6 @@
           "wordCount": 3585,
           "title": "Fluid Everything Else",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382156",
-          "author": "Lee Meyer",
-          "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/",
-          "publishedOn": "2024-11-01T14:00:36.000Z",
-          "wordCount": 2683,
-          "title": "Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382156"
         }
       ]
     },
@@ -9481,6 +9151,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "publishedOn": "2024-11-30T09:00:00.000Z",
+          "wordCount": 4633,
+          "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -9585,21 +9270,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
-          "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5099,
-          "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png"
         }
       ]
     },
@@ -10187,26 +9857,6 @@
           "wordCount": 1214,
           "title": "Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730482941201/5f5f727f-5676-42ba-a17a-dc973e8b818a.png"
-        },
-        {
-          "id": "6723aaab6ac0ce6c240da454",
-          "author": "Manish Shivanandhan",
-          "description": "Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...",
-          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/",
-          "publishedOn": "2024-10-31T16:04:59.000Z",
-          "wordCount": 2202,
-          "title": "Top Cybersecurity Certifications You Should Know About as a Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730345266064/3beca7ae-38c1-41f5-a5f6-c3ebd16827b0.png"
-        },
-        {
-          "id": "6723a4a233e12497593c1eae",
-          "author": "Beau Carnes",
-          "description": "Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-for-developers/",
-          "publishedOn": "2024-10-31T15:39:14.000Z",
-          "wordCount": 1509,
-          "title": "Learn Generative AI for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730389134951/ded0d27f-ffba-4f33-aa77-cce2eb4a28e0.png"
         }
       ]
     }
