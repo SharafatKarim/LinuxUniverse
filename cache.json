@@ -29,6 +29,96 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195117",
+          "author": "Content Operations",
+          "description": "RustDesk 1.3.3 open-source remote desktop adds mobile clipboard, Mac arm sound, \"untagged\" address filtering, and GPU improvements.\nThe post RustDesk 1.3.3 Introduces Mobile Clipboard Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/rustdesk-1-3-3-introduces-mobile-clipboard-support/",
+          "publishedOn": "2024-12-03T21:09:15.000Z",
+          "wordCount": 10836,
+          "title": "RustDesk 1.3.3 Introduces Mobile Clipboard Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195049",
+          "author": "Content Operations",
+          "description": "Khronos Group unveils Vulkan 1.4, bringing 8K rendering, dynamic features, and streamlined cross-platform development.\nThe post Vulkan 1.4 Expands Cross-Platform GPU Capabilities appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/vulkan-1-4-expands-cross-platform-gpu-capabilities/",
+          "publishedOn": "2024-12-03T21:08:04.000Z",
+          "wordCount": 10832,
+          "title": "Vulkan 1.4 Expands Cross-Platform GPU Capabilities",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194925",
+          "author": "Content Operations",
+          "description": "A Runtime provides the necessary libraries and environment for Flatpak applications to run. This tutorial explains which flatpak applications use a specific runtime in Linux.\nThe post How To Find Flatpak Applications Using A Specific Runtime In Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-find-flatpak-applications-using-a-specific-runtime-in-linux/",
+          "publishedOn": "2024-12-03T19:58:13.000Z",
+          "wordCount": 10870,
+          "title": "How To Find Flatpak Applications Using A Specific Runtime In Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194952",
+          "author": "Content Operations",
+          "description": "The open-source community, especially fans of lightweight desktop environments, has something exciting to look forward to: the Xfce 4.20 pre-release 2 is finally here, gearing up for the stable release on December 15.\nThe post Xfce 4.20 Pre2 Unveiled: Stable Release Just Around the Corner appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/xfce-4-20-pre2-unveiled-stable-release-just-around-the-corner/",
+          "publishedOn": "2024-12-03T18:10:10.000Z",
+          "wordCount": 10886,
+          "title": "Xfce 4.20 Pre2 Unveiled: Stable Release Just Around the Corner",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194953",
+          "author": "Content Operations",
+          "description": "Some of the highlights of the Linux 6.13 kernel series include support to run Linux in a protected virtual machine (a.k.a. realm) under the Arm CCA and the user Guarded Control Stack (GCS), support for 6-node sub-NUMA clustering on Intel, a new ACPI backlight quirk for Apple MacbookPro11,2 and Air7,2, and a new feature in the character device uAPI to notify the user-space about changes triggered by in-kernel users.\nThe post Linus Torvalds Announces First Linux Kernel 6.13 Release Candidate appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/linus-torvalds-announces-first-linux-kernel-6-13-release-candidate/",
+          "publishedOn": "2024-12-03T18:08:20.000Z",
+          "wordCount": 10940,
+          "title": "Linus Torvalds Announces First Linux Kernel 6.13 Release Candidate",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195019",
+          "author": "Content Operations",
+          "description": "Coming more than four months after Qt Creator 14, the Qt Creator 15 release is here as a hefty update that introduces a visual refresh for enhanced usability with new light and dark themes that feature higher contrast and optimized spacing. Users can switch between the new themes from Preferences > Environment > Interface > Theme.\nThe post Qt Creator 15 Open-Source IDE Released with Axivion Support, New Themes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/qt-creator-15-open-source-ide-released-with-axivion-support-new-themes/",
+          "publishedOn": "2024-12-03T15:46:12.000Z",
+          "wordCount": 10918,
+          "title": "Qt Creator 15 Open-Source IDE Released with Axivion Support, New Themes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195082",
+          "author": "Content Operations",
+          "description": "The monthly Nitrux release cycle continues and Nitrux 3.8 is here with the latest and greatest Linux 6.12 kernel by default and better support for NVIDIA users by enabling NVIDIA Dynamic Boost and the creation of NVIDIA device nodes, along with new udev rules for NVIDIA hardware.\nThe post Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/nitrux-3-8-released-with-linux-kernel-6-12-better-support-for-nvidia-users/",
+          "publishedOn": "2024-12-03T15:36:02.000Z",
+          "wordCount": 10851,
+          "title": "Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194942",
+          "author": "Content Operations",
+          "description": "7-Zip 24.09 open-source file archiver enhances compression with larger default dictionaries, new hash checksums, improved APM/HFS support, and bug fixes.\nThe post 7-Zip 24.09 File Archiver Enhances LZMA Compression appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/7-zip-24-09-file-archiver-enhances-lzma-compression/",
+          "publishedOn": "2024-12-03T14:45:43.000Z",
+          "wordCount": 10840,
+          "title": "7-Zip 24.09 File Archiver Enhances LZMA Compression",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194958",
+          "author": "Content Operations",
+          "description": "Lutris 0.5.18 open-source game manager for Linux brings default dark theme, advanced search tags, new game sources, DXVK v2.4 support, and more.\nThe post Lutris 0.5.18 Brings Default Dark Theme and Cover-Art Display appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/lutris-0-5-18-brings-default-dark-theme-and-cover-art-display/",
+          "publishedOn": "2024-12-03T13:46:08.000Z",
+          "wordCount": 10854,
+          "title": "Lutris 0.5.18 Brings Default Dark Theme and Cover-Art Display",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194940",
           "author": "Content Operations",
           "description": "Proxmox Backup Server 3.3 brings faster backups, \"push\" sync jobs, removable data stores, webhook notifications, and more.\nThe post Proxmox Backup Server 3.3: Push Sync, Webhooks, and Optimized Backups appeared first on Linux Today.",
@@ -2077,26 +2167,6 @@
           "wordCount": 9031,
           "title": "Polychromatic 0.9.3 OpenRazer Front-End Released",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194028",
-          "author": "Web Webster",
-          "description": "Details are scarce, but All Things Open is planning to hold a special All Things Open AI conference in March. The two-day event will be held in Durham, North Carolina, about 30 miles from ATO’s home venue.\nThe post It Looks As If There’s Gonna Be an ‘All Things Open AI’ in March! appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/it-looks-as-if-theres-gonna-be-an-all-things-open-ai-in-march/",
-          "publishedOn": "2024-11-03T19:34:23.000Z",
-          "wordCount": 9091,
-          "title": "It Looks As If There’s Gonna Be an ‘All Things Open AI’ in March!",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194025",
-          "author": "Web Webster",
-          "description": "StackLok Donates Minder Project to OpenSSF, Boosting Open Source Security Efforts.\nThe post Stacklok Donates Minder Security Project to OpenSSF appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/stacklok-donates-minder-security-project-to-openssf/",
-          "publishedOn": "2024-11-03T16:33:00.000Z",
-          "wordCount": 9037,
-          "title": "Stacklok Donates Minder Security Project to OpenSSF",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2105,6 +2175,236 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMirgFBVV95cUxOMnFkSVBmNWVYWjkweENQTmNUVUdVOUhuSENhamNMVG9VTnBKZm1ydS1BVWRHaU1MSW1iZkN4a1ZFQWdTd1NNZFVVck14bkFzN2ptZy1hNzNnbDZIN0NsM1lIWWRjeDFnYnZnUnRwMHNWa2VDcEpaSUQ5T05Jbm9PUTRmYXF5NzY4OHA3RTMwMGl0ejgzWTBPanZtR0tyLWR0dUVRVEM1OGNyM1FxSVHSAbQBQVVfeXFMTkdRSE5oMl9BTG5KSmdqTnpZXzctdDd2R0xlVkhtcEtrNG55eFFTaHBWaTNieENFa2RUVjc4MVNKZWtLQjI4T1ZGTkpTZ0s5dm40NXpGcVEzWElwY05sNEE4N3Yyc0xLbWVlSzNkSDdvOEJFRkR0elNXWWZfOS1wdHpIU2NfNm1yVlc0aTl5dWRoNk5iM2piSk9oeEI3NGN2YURPa1FkUVp4d1FjMmxicEpGMnRJ",
+          "author": null,
+          "description": "First-ever Linux UEFI bootkit turns out to be research project  CSO Online",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnFkSVBmNWVYWjkweENQTmNUVUdVOUhuSENhamNMVG9VTnBKZm1ydS1BVWRHaU1MSW1iZkN4a1ZFQWdTd1NNZFVVck14bkFzN2ptZy1hNzNnbDZIN0NsM1lIWWRjeDFnYnZnUnRwMHNWa2VDcEpaSUQ5T05Jbm9PUTRmYXF5NzY4OHA3RTMwMGl0ejgzWTBPanZtR0tyLWR0dUVRVEM1OGNyM1FxSVHSAbQBQVVfeXFMTkdRSE5oMl9BTG5KSmdqTnpZXzctdDd2R0xlVkhtcEtrNG55eFFTaHBWaTNieENFa2RUVjc4MVNKZWtLQjI4T1ZGTkpTZ0s5dm40NXpGcVEzWElwY05sNEE4N3Yyc0xLbWVlSzNkSDdvOEJFRkR0elNXWWZfOS1wdHpIU2NfNm1yVlc0aTl5dWRoNk5iM2piSk9oeEI3NGN2YURPa1FkUVp4d1FjMmxicEpGMnRJ?oc=5",
+          "publishedOn": "2024-12-03T21:50:33.000Z",
+          "wordCount": 12559,
+          "title": "First-ever Linux UEFI bootkit turns out to be research project - CSO Online",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivAFBVV95cUxQbDNkRXBERlBHaXlFQ3FGQmpWRkxmOXoxZ0tzMDQ4QWlrZ1hpSVdId3ktWW5wX2dneXIzT2V6ZlBjWTlXcXNnN3oyeFhIMmMwTHBTZFdOYTNtbnNBZGhiQ2FyZEloMjNzSFVQNy0xcmIwMnB1LUhpaHRjVnRjUEhyMVJacENHMlJmZWlyWkpBdEFEc2txQklrTlQwSm9DQ2VoR1ZrbUdxX2JWdUp6Unc5Zm5Tb1B2RnptMXZqSw",
+          "author": null,
+          "description": "‘An easy button to get off Windows’: Amazon’s new AI moves Microsoft apps to Linux  GeekWire",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDNkRXBERlBHaXlFQ3FGQmpWRkxmOXoxZ0tzMDQ4QWlrZ1hpSVdId3ktWW5wX2dneXIzT2V6ZlBjWTlXcXNnN3oyeFhIMmMwTHBTZFdOYTNtbnNBZGhiQ2FyZEloMjNzSFVQNy0xcmIwMnB1LUhpaHRjVnRjUEhyMVJacENHMlJmZWlyWkpBdEFEc2txQklrTlQwSm9DQ2VoR1ZrbUdxX2JWdUp6Unc5Zm5Tb1B2RnptMXZqSw?oc=5",
+          "publishedOn": "2024-12-03T20:19:14.000Z",
+          "wordCount": 12559,
+          "title": "‘An easy button to get off Windows’: Amazon’s new AI moves Microsoft apps to Linux - GeekWire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTFBoRGlsM2tVM1JBZTNIdWNMbnJQeXpfM0FaVG1mN1ZLeEt4VXZBNWR1eDdMckRwNEdaX2tsemo3TXRjQWdUZVNfU1RVY3R3QW12ZkRrS19zLXdhT3RUVTVnMmNxVUgxRlVTNnc",
+          "author": null,
+          "description": "Fedora 42 Aims To Enhance The Windows Subsystem For Linux Experience  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRGlsM2tVM1JBZTNIdWNMbnJQeXpfM0FaVG1mN1ZLeEt4VXZBNWR1eDdMckRwNEdaX2tsemo3TXRjQWdUZVNfU1RVY3R3QW12ZkRrS19zLXdhT3RUVTVnMmNxVUgxRlVTNnc?oc=5",
+          "publishedOn": "2024-12-03T19:37:00.000Z",
+          "wordCount": 12559,
+          "title": "Fedora 42 Aims To Enhance The Windows Subsystem For Linux Experience - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitgFBVV95cUxNSFEyX2pfdGtoRmhrWkxDcHF1am1Vd3NIVDd3YTVyVmNpeTh2UmVXYVhnVXIwNTJfalUxc0tzakk3XzI2eUZnbzBEdVhEaU1CZURpVldkRi1mTWkzSHYxTmVZOW1NTmJWblkwYXhsRWFXMEp5V3p6N2NoQ2RDYll2dXVqQ2NFM194V01BWHRMOHgtbVZZMjVPVlA0SVdnQzQ1S1o0bDhoNVZMSXNnWVdoYlJWOFZ6UQ",
+          "author": null,
+          "description": "Is EasyOS Scarthgap 6.5 the perfect alternative to Windows 11 and mainstream Linux?  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFEyX2pfdGtoRmhrWkxDcHF1am1Vd3NIVDd3YTVyVmNpeTh2UmVXYVhnVXIwNTJfalUxc0tzakk3XzI2eUZnbzBEdVhEaU1CZURpVldkRi1mTWkzSHYxTmVZOW1NTmJWblkwYXhsRWFXMEp5V3p6N2NoQ2RDYll2dXVqQ2NFM194V01BWHRMOHgtbVZZMjVPVlA0SVdnQzQ1S1o0bDhoNVZMSXNnWVdoYlJWOFZ6UQ?oc=5",
+          "publishedOn": "2024-12-03T18:38:50.000Z",
+          "wordCount": 12559,
+          "title": "Is EasyOS Scarthgap 6.5 the perfect alternative to Windows 11 and mainstream Linux? - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivwFBVV95cUxOZXZnYW5DbWhYRkcwWEUzVEF0a0FKcVBZTGRsNjFOdmJRMDQ3UXgySEcxYlJ4dlNUSUhVX25CV2tRQW9qcHctZFVENE9iRWxtNXdmZnhpNzljOXMwMThtUExCWENCTGlsSUg0S21KeFhUaHozRF83NmhObkVSbE1CMTV1ZUFUbnRCVDVIdGNsOXYxMk1QNERrRmFYeWhtRGwtQ0toYV9hMWZYemVWaDl5M1pzT21RZFpBME93X0R5b9IBxAFBVV95cUxPUFVTVS1NWjBRSHJ6QjFwaUFJWVpqaDhFa3ZyU2d4bm53eEhQMlJtb3lWWmtaWVNzMEhfOXFtNTllbmVXcllFTzIwVkRFanJnSkVsakpwMGxvbnByX2dsV3BLYTRuVzRfbHJIa2xZRHJIV2p1MG41TzZsN1F5NkQyWmV6Q3RZbjBBNzIwbnN2dUFPdFB2czVwNnFBcy1zUWFSLUZWOTAzcXZDam81cGZ1TXBMUno0aUh3M0hCWWlMcWtnbFAx",
+          "author": null,
+          "description": "Qt for MCUs 2.9 Brings a Zephyr Backend, Linux Support, Functional Safety Features  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXZnYW5DbWhYRkcwWEUzVEF0a0FKcVBZTGRsNjFOdmJRMDQ3UXgySEcxYlJ4dlNUSUhVX25CV2tRQW9qcHctZFVENE9iRWxtNXdmZnhpNzljOXMwMThtUExCWENCTGlsSUg0S21KeFhUaHozRF83NmhObkVSbE1CMTV1ZUFUbnRCVDVIdGNsOXYxMk1QNERrRmFYeWhtRGwtQ0toYV9hMWZYemVWaDl5M1pzT21RZFpBME93X0R5b9IBxAFBVV95cUxPUFVTVS1NWjBRSHJ6QjFwaUFJWVpqaDhFa3ZyU2d4bm53eEhQMlJtb3lWWmtaWVNzMEhfOXFtNTllbmVXcllFTzIwVkRFanJnSkVsakpwMGxvbnByX2dsV3BLYTRuVzRfbHJIa2xZRHJIV2p1MG41TzZsN1F5NkQyWmV6Q3RZbjBBNzIwbnN2dUFPdFB2czVwNnFBcy1zUWFSLUZWOTAzcXZDam81cGZ1TXBMUno0aUh3M0hCWWlMcWtnbFAx?oc=5",
+          "publishedOn": "2024-12-03T18:32:30.000Z",
+          "wordCount": 12559,
+          "title": "Qt for MCUs 2.9 Brings a Zephyr Backend, Linux Support, Functional Safety Features - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE9Qam5mMGZYZ1p6WDhkSUpsVVFqb3NIOWs2VVZGcDZWcFJadnFZTWJYUkFHbkY5ZFJDUTFpMloyejV5bUo1SHZUUmx0UFRKZW90S0JLUjNxUnVwXzdfQVJOeUxtNDRGTHNmTkl4NFl5MTM",
+          "author": null,
+          "description": "Dolphin Emulator Will Get Faster Updates on Linux With Flatpak  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qam5mMGZYZ1p6WDhkSUpsVVFqb3NIOWs2VVZGcDZWcFJadnFZTWJYUkFHbkY5ZFJDUTFpMloyejV5bUo1SHZUUmx0UFRKZW90S0JLUjNxUnVwXzdfQVJOeUxtNDRGTHNmTkl4NFl5MTM?oc=5",
+          "publishedOn": "2024-12-03T17:54:00.000Z",
+          "wordCount": 12559,
+          "title": "Dolphin Emulator Will Get Faster Updates on Linux With Flatpak - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwAFBVV95cUxNdWliRlJZQUR5U1BYNU9INUF5YTRTMjEyV1dfcXJ4c0hablhOYklxLTZWTUVUWFNfYnVwYThLZkk4RE96MkdmcGU2a1psY181WUliTWE5b1NtakZUdjNnOHBnekNkSzM3OFZ6TDV4YWxYbFNBM1kzWk1kRWFRVmh3SERzTzhmOXFvNDRRcGVoNE1pV041WXBkMkdJeFJQWndNeW1ES3Bxd1lpUmpVM3BYcVc2NGhQWWRpQ28zUHZnN1k",
+          "author": null,
+          "description": "Join us tomorrow for Ars Live: How Asahi Linux ports open software to Apple’s hardware  Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWliRlJZQUR5U1BYNU9INUF5YTRTMjEyV1dfcXJ4c0hablhOYklxLTZWTUVUWFNfYnVwYThLZkk4RE96MkdmcGU2a1psY181WUliTWE5b1NtakZUdjNnOHBnekNkSzM3OFZ6TDV4YWxYbFNBM1kzWk1kRWFRVmh3SERzTzhmOXFvNDRRcGVoNE1pV041WXBkMkdJeFJQWndNeW1ES3Bxd1lpUmpVM3BYcVc2NGhQWWRpQ28zUHZnN1k?oc=5",
+          "publishedOn": "2024-12-03T17:38:01.000Z",
+          "wordCount": 12559,
+          "title": "Join us tomorrow for Ars Live: How Asahi Linux ports open software to Apple’s hardware - Ars Technica",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi1AFBVV95cUxNZTFtQlk5UkRiQmRvb2JydVNoTFpXanlzLXlVRzZJYUJ5bkZjZ05iTTRya290WUIwVS1LeEQ5UkVsdlFEOVFrTTdZbi0xSEtncnp2SEd6TjFwelYxQ0FCcUtCY2dkYk1hMWpHY2hJelVGcW1VNmRUTnEtcm1nVC10NW03R0hNX0FNVnZxTGJCcWZBSTgyZndLSHh3QVN2eFJIenJUejJJRmVEdDVfNnFnQWd4WkhMQUoxWHdSdjV2Q1lpUVdJTDkwUUdDam9JT2tFNDV1UNIB2gFBVV95cUxPS1NQOV81SlV5V1h1VTJxQ1N5T3BXQmlRQXpsenhZZE5zaHhuSWJSaDlJRjYzTXZ3QkllQVkzb3ZWMHhmSkFVeFpYNEpvdXFxemw1UVdpdE11OF81NmJER1RfYkVvWjBEem1RSzhCWDl4M1ZiR2FuS3p1QUlqRFpiSkpQUjh4eHItQzJfN0F3UTZ1VThiR3lvUDQ1RmRsazBUdlNfSXR5T3NyVXhKY1Ezc2FpdDktZGdKMXB4OHBlbm1tbTR6QWttTWVxc0dlVzVsMG1pNVdOTUZVQQ",
+          "author": null,
+          "description": "Canonical Partners with Qualcomm to Deliver an Ubuntu Image for the Edge AI RB3 Gen 2 Vision Kit  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTFtQlk5UkRiQmRvb2JydVNoTFpXanlzLXlVRzZJYUJ5bkZjZ05iTTRya290WUIwVS1LeEQ5UkVsdlFEOVFrTTdZbi0xSEtncnp2SEd6TjFwelYxQ0FCcUtCY2dkYk1hMWpHY2hJelVGcW1VNmRUTnEtcm1nVC10NW03R0hNX0FNVnZxTGJCcWZBSTgyZndLSHh3QVN2eFJIenJUejJJRmVEdDVfNnFnQWd4WkhMQUoxWHdSdjV2Q1lpUVdJTDkwUUdDam9JT2tFNDV1UNIB2gFBVV95cUxPS1NQOV81SlV5V1h1VTJxQ1N5T3BXQmlRQXpsenhZZE5zaHhuSWJSaDlJRjYzTXZ3QkllQVkzb3ZWMHhmSkFVeFpYNEpvdXFxemw1UVdpdE11OF81NmJER1RfYkVvWjBEem1RSzhCWDl4M1ZiR2FuS3p1QUlqRFpiSkpQUjh4eHItQzJfN0F3UTZ1VThiR3lvUDQ1RmRsazBUdlNfSXR5T3NyVXhKY1Ezc2FpdDktZGdKMXB4OHBlbm1tbTR6QWttTWVxc0dlVzVsMG1pNVdOTUZVQQ?oc=5",
+          "publishedOn": "2024-12-03T17:32:28.000Z",
+          "wordCount": 12559,
+          "title": "Canonical Partners with Qualcomm to Deliver an Ubuntu Image for the Edge AI RB3 Gen 2 Vision Kit - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisAFBVV95cUxQMmVla2s4Z3c0Vk13OEZKRGhwNkJXYlFnRm4wUTlzZ2s5dmY4djdMVTltaEVWRXBNUzl6Zlh3M0l0SXk5bDJIUXptZlNMTDRHZGVfSXMwQnAxQ2pCNFVBSi1uYkFZcExrSXJUV05DWXc4TmpqVEVNaTlXZnhZU25OZHBJTkQxUE5RM0hxS3lqeUNWUkhHU2F1dlJMY1RNUGRMOHlhUG9vT0o1aWxEeUlyTw",
+          "author": null,
+          "description": "5 Reasons You Should Run Bazzite Linux On Your ROG Ally  Forbes",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmVla2s4Z3c0Vk13OEZKRGhwNkJXYlFnRm4wUTlzZ2s5dmY4djdMVTltaEVWRXBNUzl6Zlh3M0l0SXk5bDJIUXptZlNMTDRHZGVfSXMwQnAxQ2pCNFVBSi1uYkFZcExrSXJUV05DWXc4TmpqVEVNaTlXZnhZU25OZHBJTkQxUE5RM0hxS3lqeUNWUkhHU2F1dlJMY1RNUGRMOHlhUG9vT0o1aWxEeUlyTw?oc=5",
+          "publishedOn": "2024-12-03T17:19:37.000Z",
+          "wordCount": 12559,
+          "title": "5 Reasons You Should Run Bazzite Linux On Your ROG Ally - Forbes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi0wFBVV95cUxOTDBZTWNxQ2JfbGQ1YlhpMVlFakFEUHdjTnV5a05Vc1VuVXZldDA0cU14WUdIeXg5M09mU2xuX0pod1hvZ2RmUlVmajFMREZoQ1VPazNGU2NlX1NwajZKMXdaaUtlU1lzQXc3RTc0TjJIRW9WdHlXQ2daRGphczZZT2oyLUlMNEtTc05PVVpYRDJOdTJhWWpEeFUtUEdnQUJZckszVnIzVVJGNUJlQWV1cUV3YTB2MzZqZDJUMFNvZE5xeWY3bnFIbzF4QjdMS095OTVV",
+          "author": null,
+          "description": "Today is the day! Say goodbye to Microsoft Windows 11 — Nitrux Linux 3.8.0 is the OS you’ve been waiting for  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDBZTWNxQ2JfbGQ1YlhpMVlFakFEUHdjTnV5a05Vc1VuVXZldDA0cU14WUdIeXg5M09mU2xuX0pod1hvZ2RmUlVmajFMREZoQ1VPazNGU2NlX1NwajZKMXdaaUtlU1lzQXc3RTc0TjJIRW9WdHlXQ2daRGphczZZT2oyLUlMNEtTc05PVVpYRDJOdTJhWWpEeFUtUEdnQUJZckszVnIzVVJGNUJlQWV1cUV3YTB2MzZqZDJUMFNvZE5xeWY3bnFIbzF4QjdMS095OTVV?oc=5",
+          "publishedOn": "2024-12-03T16:32:16.000Z",
+          "wordCount": 12559,
+          "title": "Today is the day! Say goodbye to Microsoft Windows 11 — Nitrux Linux 3.8.0 is the OS you’ve been waiting for - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxOandCenRKZV9PbzBPLUZlWUVUTE4tUXc5U0VNVFVLb0RFLTdCdHV0aDRYUjk1YzBFNFdaT1BERFVaR1Z2eHB6UE9URXZKTm8tbU9EX1pEb2NkOEo5SDY3RTlzODEtWnhxNWtlT2swTkluMlRPQmhnN0gtTlFPWUt2QW01eE5YUjk2X3pFSUJ2ZzJJeElUNEtRaUdxdw",
+          "author": null,
+          "description": "Minecraft Java 1.21.4 'The Garden Awakens' update is out now  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOandCenRKZV9PbzBPLUZlWUVUTE4tUXc5U0VNVFVLb0RFLTdCdHV0aDRYUjk1YzBFNFdaT1BERFVaR1Z2eHB6UE9URXZKTm8tbU9EX1pEb2NkOEo5SDY3RTlzODEtWnhxNWtlT2swTkluMlRPQmhnN0gtTlFPWUt2QW01eE5YUjk2X3pFSUJ2ZzJJeElUNEtRaUdxdw?oc=5",
+          "publishedOn": "2024-12-03T16:26:03.000Z",
+          "wordCount": 12559,
+          "title": "Minecraft Java 1.21.4 'The Garden Awakens' update is out now - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFBVV95cUxPUXZyOFFmU01VbjNzWTloMWhoeElQM2ktZEJnQnQzQi1fZGtLMG9xMUx3OHFFMFFhWFhEM3NTblRXMUp5dFI5QUx1SjJZemVScnczbzlWSXlycGlyUjhMZHA1YUdtd3Bpc0dJMEF4SkE0M19JRGtJdHVSMWMyUmoyVHNMaEVsU1Q3bDc5TUJ3NkVZZGdLZGhjdUlpS0HSAaIBQVVfeXFMTl9IaXoyRUFlUXhVTFFsMm9wclhqYU9FclRBSVMzR3o1NVVSUkZ6YlFnOGVIVmxtaGdDSWx0TE92M2FNM0gtcERLLUhDNk1iaU5zbXRUdVlLMnY1NkR6QkdBR040LXQ4ejJObWJLSmNXbUw3ZUJNOGVQcFpkWEpfN3J2V3VnNkFVczZXaWZrcU1WdEw4NEtRY2NVS3VYMGZNWVB3",
+          "author": null,
+          "description": "Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXZyOFFmU01VbjNzWTloMWhoeElQM2ktZEJnQnQzQi1fZGtLMG9xMUx3OHFFMFFhWFhEM3NTblRXMUp5dFI5QUx1SjJZemVScnczbzlWSXlycGlyUjhMZHA1YUdtd3Bpc0dJMEF4SkE0M19JRGtJdHVSMWMyUmoyVHNMaEVsU1Q3bDc5TUJ3NkVZZGdLZGhjdUlpS0HSAaIBQVVfeXFMTl9IaXoyRUFlUXhVTFFsMm9wclhqYU9FclRBSVMzR3o1NVVSUkZ6YlFnOGVIVmxtaGdDSWx0TE92M2FNM0gtcERLLUhDNk1iaU5zbXRUdVlLMnY1NkR6QkdBR040LXQ4ejJObWJLSmNXbUw3ZUJNOGVQcFpkWEpfN3J2V3VnNkFVczZXaWZrcU1WdEw4NEtRY2NVS3VYMGZNWVB3?oc=5",
+          "publishedOn": "2024-12-03T14:32:38.000Z",
+          "wordCount": 12559,
+          "title": "Nitrux 3.8 Released with Linux Kernel 6.12, Better Support for NVIDIA Users - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisgFBVV95cUxOT09vWlRfTEVSdlhoNk5iUHVIYlBLelVkaHJOVms4bFhXaDFlUmU5RVFOSzc2LU03cWc1ckNaZS1zLUxjNE1sSHdLek1IdGhKUl9wSWY4aC01MnF3VDNLbmlRRU9ZNlhMQnMyeXBmSWFyTHFkNXFMTmo5eDUxTExQSTRMZXdKbnV0UHo0emh5dHN3QjdfSzUxeVZhRkZzWVF2T3RiNktkelQ4SjZ3VzdfZnZR",
+          "author": null,
+          "description": "Linux devices are being hit by LogoFAIL vulnerability, Bootkitty installed  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09vWlRfTEVSdlhoNk5iUHVIYlBLelVkaHJOVms4bFhXaDFlUmU5RVFOSzc2LU03cWc1ckNaZS1zLUxjNE1sSHdLek1IdGhKUl9wSWY4aC01MnF3VDNLbmlRRU9ZNlhMQnMyeXBmSWFyTHFkNXFMTmo5eDUxTExQSTRMZXdKbnV0UHo0emh5dHN3QjdfSzUxeVZhRkZzWVF2T3RiNktkelQ4SjZ3VzdfZnZR?oc=5",
+          "publishedOn": "2024-12-03T14:27:00.000Z",
+          "wordCount": 12559,
+          "title": "Linux devices are being hit by LogoFAIL vulnerability, Bootkitty installed - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisAFBVV95cUxQMXJwdTAzTWh6Z29McWhTYVVyQWNmNl9sMjY2WXZwMHR4Q3h3eXkzRzRMQkQ0Q1VubG9oU3dFTmJ6UXVYOVdNS2l1SnNaMXdZbVNKV29KaGd4alBBM2J1Z2ttZnVVUE5zVnhON29pZ3RRa2hmZ1RuR0JJOFM1REpXNXdEczJxWExPVy1ocU1FakRXT1hRajdqT0lSdzFPZjhRaFd2UXZIcGE1UkViZVRQdg",
+          "author": null,
+          "description": "You can test all the best Linux distros right in your web browser with this site  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXJwdTAzTWh6Z29McWhTYVVyQWNmNl9sMjY2WXZwMHR4Q3h3eXkzRzRMQkQ0Q1VubG9oU3dFTmJ6UXVYOVdNS2l1SnNaMXdZbVNKV29KaGd4alBBM2J1Z2ttZnVVUE5zVnhON29pZ3RRa2hmZ1RuR0JJOFM1REpXNXdEczJxWExPVy1ocU1FakRXT1hRajdqT0lSdzFPZjhRaFd2UXZIcGE1UkViZVRQdg?oc=5",
+          "publishedOn": "2024-12-03T14:21:00.000Z",
+          "wordCount": 12559,
+          "title": "You can test all the best Linux distros right in your web browser with this site - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE9GRHFpdG5hS3REODBxVDh0RzN3cWpDUDRhUHpRUGkzWFNPeWptMGJ5bVZKSElKVkJrRjlMQzFCNHB4VnBCR0dkazVQQl9sMzBtVHJRNkNYQW5ZMWljUC1mYVkxbWluNkg2",
+          "author": null,
+          "description": "Intel Announces Arc B-Series \"Battlemage\" Discrete Graphics With Linux Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRHFpdG5hS3REODBxVDh0RzN3cWpDUDRhUHpRUGkzWFNPeWptMGJ5bVZKSElKVkJrRjlMQzFCNHB4VnBCR0dkazVQQl9sMzBtVHJRNkNYQW5ZMWljUC1mYVkxbWluNkg2?oc=5",
+          "publishedOn": "2024-12-03T14:00:00.000Z",
+          "wordCount": 12559,
+          "title": "Intel Announces Arc B-Series \"Battlemage\" Discrete Graphics With Linux Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE93Tzg4YVQzSzY1WnNoZU9jdzhKYUFocFUySHBMdDlsQ0xka1V4YU1WOHNESDV0c1BIVzQxTjVpNDVydjlQWXAyWGdLSVdWdXZyd1VMQmZ3VG9KRklxZVV1NmNLZXluQlFW",
+          "author": null,
+          "description": "AMD User Queue Mesa Support Merged For Linux - Submitting Work Directly To The GPU  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Tzg4YVQzSzY1WnNoZU9jdzhKYUFocFUySHBMdDlsQ0xka1V4YU1WOHNESDV0c1BIVzQxTjVpNDVydjlQWXAyWGdLSVdWdXZyd1VMQmZ3VG9KRklxZVV1NmNLZXluQlFW?oc=5",
+          "publishedOn": "2024-12-03T13:24:00.000Z",
+          "wordCount": 12559,
+          "title": "AMD User Queue Mesa Support Merged For Linux - Submitting Work Directly To The GPU - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi3AFBVV95cUxPRXBuWHpSZklOSV96MVZCdzB4SDZ3eHI0bnVWYjVvX3JhRlZpMVNQVmpyZVhJLTdzWjlyYUV5XzNmazdFdHNGeEJHblA0WV9UUVU4cXRhbGJBbUVzNXBlTlhJbEljY0pDU2sybUNHM0ZPWWJnOUhWMzRwTDlwOHoya0pmenlVdVB6NEpuY3IzYlppR3NwVmZWaEVlSmRlLXFXZGl6TWhzM0h1b05EelZyLVFoVHRYTE9TYWJuOW94U2NTRlRrRElNeW5zWW83eGRNNHVldEF1aTZPem9K",
+          "author": null,
+          "description": "Hammerspace Advances the Linux Kernel With Innovations for Enterprise and HPC/AI Storage  Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRXBuWHpSZklOSV96MVZCdzB4SDZ3eHI0bnVWYjVvX3JhRlZpMVNQVmpyZVhJLTdzWjlyYUV5XzNmazdFdHNGeEJHblA0WV9UUVU4cXRhbGJBbUVzNXBlTlhJbEljY0pDU2sybUNHM0ZPWWJnOUhWMzRwTDlwOHoya0pmenlVdVB6NEpuY3IzYlppR3NwVmZWaEVlSmRlLXFXZGl6TWhzM0h1b05EelZyLVFoVHRYTE9TYWJuOW94U2NTRlRrRElNeW5zWW83eGRNNHVldEF1aTZPem9K?oc=5",
+          "publishedOn": "2024-12-03T13:00:00.000Z",
+          "wordCount": 12559,
+          "title": "Hammerspace Advances the Linux Kernel With Innovations for Enterprise and HPC/AI Storage - Business Wire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE1TUGZwV2NkdjI1ZDBBZ3JWS2xVVHNwMkpkdGtFNnNqUDljX0Nmcjh4a2ZRbF9wMHNDeV9YeXJraGE4aU9JWnpCS0x4dzVncGpVWERQMHhGNzh2SmVHbmRpX1ExT3JXQQ",
+          "author": null,
+          "description": "AMD NPU Firmware Upstreamed For The Ryzen AI AMDXDNA Driver Coming In Linux 6.14  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TUGZwV2NkdjI1ZDBBZ3JWS2xVVHNwMkpkdGtFNnNqUDljX0Nmcjh4a2ZRbF9wMHNDeV9YeXJraGE4aU9JWnpCS0x4dzVncGpVWERQMHhGNzh2SmVHbmRpX1ExT3JXQQ?oc=5",
+          "publishedOn": "2024-12-03T11:33:00.000Z",
+          "wordCount": 12559,
+          "title": "AMD NPU Firmware Upstreamed For The Ryzen AI AMDXDNA Driver Coming In Linux 6.14 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxPakxLVnI0TlluNzRMRFdaZmJaVU52MlE4UTMwdW9GMU9JdDR1cEpHYUpHdDcyTHZIbldzNW1TMmdGOW9GejY1c0tSbkg3U00wOGFnblkwbTlkbHRxVVJ6d2tRdy1DY1FXOFpWTHN2QzVxMk9nRjZvYWI1Um4yd1pxRHI5V0xXQQ",
+          "author": null,
+          "description": "Advanced Micro Devices (AMD) Boosts Linux Driver Support Ahead of Launch of Versal2 Evaluation Kits for AI-Driven Embedded Systems  Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPakxLVnI0TlluNzRMRFdaZmJaVU52MlE4UTMwdW9GMU9JdDR1cEpHYUpHdDcyTHZIbldzNW1TMmdGOW9GejY1c0tSbkg3U00wOGFnblkwbTlkbHRxVVJ6d2tRdy1DY1FXOFpWTHN2QzVxMk9nRjZvYWI1Um4yd1pxRHI5V0xXQQ?oc=5",
+          "publishedOn": "2024-12-03T11:18:24.000Z",
+          "wordCount": 12559,
+          "title": "Advanced Micro Devices (AMD) Boosts Linux Driver Support Ahead of Launch of Versal2 Evaluation Kits for AI-Driven Embedded Systems - Yahoo Finance",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgFBVV95cUxPb1FCZG93dmNTOEtYWGFkUUZ0ODVKS19uVWp2MWdWcGZ1YkI1WnVrcUt4OF9ON0tWTENydkIwVEN3NVV0ak9lRGZfNGlfczBfblJhY1FlSEo3Yy1pMkwtSm1PaHlsNE1UV1VNZmxwb3k4akZtZWM3SUp1SzlRNkIxUE05MnBJZUd2NmRhWEJB",
+          "author": null,
+          "description": "The best Linux distribution for gaming in 2025  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1FCZG93dmNTOEtYWGFkUUZ0ODVKS19uVWp2MWdWcGZ1YkI1WnVrcUt4OF9ON0tWTENydkIwVEN3NVV0ak9lRGZfNGlfczBfblJhY1FlSEo3Yy1pMkwtSm1PaHlsNE1UV1VNZmxwb3k4akZtZWM3SUp1SzlRNkIxUE05MnBJZUd2NmRhWEJB?oc=5",
+          "publishedOn": "2024-12-03T10:40:00.000Z",
+          "wordCount": 12559,
+          "title": "The best Linux distribution for gaming in 2025 - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMizAFBVV95cUxOLW5CYTJCUk1WWmlLbzNRRkloWmJZLUdvbUZJNHdKYnkzZEVUcjF1Vmh5Q01ZQXRPZnozWnFKOGlZZ19VVHlycmgxSG5jajhIeGNla1gzZmtsNEtzNTk1TXZ3ekxNb0w1TktuSmtyeUt3NmlGWGl3aDd3eGRNMkswRGRWVGxMQkhVRThDTFRQcm1ScFhud2ZYWWZHQk5hWUJyNlZqWEQ2ZjVvLW82aWliaDdRX2MyU0I0RFprZkZqUU1vb2k4VFdwdkFOd0g",
+          "author": null,
+          "description": "Prime Gaming December 3rd edition, new titles coming twice this week - lots for Steam Deck / Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLW5CYTJCUk1WWmlLbzNRRkloWmJZLUdvbUZJNHdKYnkzZEVUcjF1Vmh5Q01ZQXRPZnozWnFKOGlZZ19VVHlycmgxSG5jajhIeGNla1gzZmtsNEtzNTk1TXZ3ekxNb0w1TktuSmtyeUt3NmlGWGl3aDd3eGRNMkswRGRWVGxMQkhVRThDTFRQcm1ScFhud2ZYWWZHQk5hWUJyNlZqWEQ2ZjVvLW82aWliaDdRX2MyU0I0RFprZkZqUU1vb2k4VFdwdkFOd0g?oc=5",
+          "publishedOn": "2024-12-03T10:15:32.000Z",
+          "wordCount": 12559,
+          "title": "Prime Gaming December 3rd edition, new titles coming twice this week - lots for Steam Deck / Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE5PT0xubm1PUUxBQ0JxWmRwem9ZYWkwYm5GUnRhRTNfaW1ZQzhXLTRTSWhiZllINU1XU1BTVlp0c2w3YWRZaHdwNW9KVnNoakhlRTVvTWh6cVVIbkJobHFyWTF4UXJxRHB1ampaM3BJazRyakh0LXZJUS1zSTLSAYIBQVVfeXFMTk1PQWZEcUVCWnpIVC0tcXlzcGdlY0F0ZFJEa2F2Ulh1cWhBX2Y5QU9JR1BwZmFNQTF0REQxQlUyai15ZEFBelQzbmFNUmxLY056OXhMUElHNmt5WnhsTmJES3VyYzAwZVdHakRsVUZSM256dTlDRmtyN3lQNnUwUEZfdw",
+          "author": null,
+          "description": "BootKitty Linux UEFI bootkit spotted exploiting LogoFAIL flaws  Security Affairs",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PT0xubm1PUUxBQ0JxWmRwem9ZYWkwYm5GUnRhRTNfaW1ZQzhXLTRTSWhiZllINU1XU1BTVlp0c2w3YWRZaHdwNW9KVnNoakhlRTVvTWh6cVVIbkJobHFyWTF4UXJxRHB1ampaM3BJazRyakh0LXZJUS1zSTLSAYIBQVVfeXFMTk1PQWZEcUVCWnpIVC0tcXlzcGdlY0F0ZFJEa2F2Ulh1cWhBX2Y5QU9JR1BwZmFNQTF0REQxQlUyai15ZEFBelQzbmFNUmxLY056OXhMUElHNmt5WnhsTmJES3VyYzAwZVdHakRsVUZSM256dTlDRmtyN3lQNnUwUEZfdw?oc=5",
+          "publishedOn": "2024-12-03T08:22:02.000Z",
+          "wordCount": 12559,
+          "title": "BootKitty Linux UEFI bootkit spotted exploiting LogoFAIL flaws - Security Affairs",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxQdnRHN25JV3NSMTNzUmJsTnBOeS16cEprNDlmY0FrZGhxc2dmY2Z3cmZkWlFfcDBvcHVKNWJwN3RqcmxsLTE3LUhHLXdTT0VTdVBzM1dOZXZTQzVGaXNDMVV5RFZFd04wT3dBdXo2OXVHMGR5dWkzOXFxb3dDSDFxZG1SVjQ1dG1TNGRKTlBnSU9mamdiLVV1RA",
+          "author": null,
+          "description": "Linux Unveils Real-Time Computing And Hardware Boosts  Open Source For You",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnRHN25JV3NSMTNzUmJsTnBOeS16cEprNDlmY0FrZGhxc2dmY2Z3cmZkWlFfcDBvcHVKNWJwN3RqcmxsLTE3LUhHLXdTT0VTdVBzM1dOZXZTQzVGaXNDMVV5RFZFd04wT3dBdXo2OXVHMGR5dWkzOXFxb3dDSDFxZG1SVjQ1dG1TNGRKTlBnSU9mamdiLVV1RA?oc=5",
+          "publishedOn": "2024-12-03T04:29:53.000Z",
+          "wordCount": 12559,
+          "title": "Linux Unveils Real-Time Computing And Hardware Boosts - Open Source For You",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMigAFBVV95cUxNbmxJVl9FUnV0SXVONXEwU1MxcVpwMWgwVzhYLTZaaXJpMnVHUS1aWDdFMkw3SnhCOFdRQ3pIVFRaYUlDcGhoU0hDVlplQU1iV0JWUHRUcEYtdkNGaVhUUVM2MXVkU2xLZ1QyaF9TWXVUZkRLa1Bodjg2WmtPQUxLS9IBhgFBVV95cUxOWVBWQ3hpUkdhRXl5THV3QUxHT04ybUFZelZtazVUY2haY3Vqc3NKX1JaZUozYnBzVGlXNE0tOUdoVHZqYU9Nal95ZHpKUVluZVNfbU1HaFlhMXJuNWZkQVBvNXVjbF8yWWNEUThtRmo0bU51QVRST04zNE16b1R3RjdiSThGQQ",
           "author": null,
@@ -6804,226 +7104,6 @@
           "wordCount": 12496,
           "title": "Manjaro Linux Working On \"Manjaro Data Donor\" As New Data Collection Tool - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFBVV95cUxNUmNYa3p2Slh2TDkzOUhYYnRRZnBJTXNjTXVRN3dxMEpqYkdRSnQ2ZEhJdXVLOS1nR2s2NjQwRm44MG1ONjh2dHFmOHFDTldGdldDNWZtOWpDQVZpVWhIYTB6ZDZqZjBPTmUyUFltdVBlclozX3Bqcmh2U2YzQnVxczBlOUs1c1RCTFBrV3RjdktRTWpjOFE",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: November 3rd, 2024  info-mods.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmNYa3p2Slh2TDkzOUhYYnRRZnBJTXNjTXVRN3dxMEpqYkdRSnQ2ZEhJdXVLOS1nR2s2NjQwRm44MG1ONjh2dHFmOHFDTldGdldDNWZtOWpDQVZpVWhIYTB6ZDZqZjBPTmUyUFltdVBlclozX3Bqcmh2U2YzQnVxczBlOUs1c1RCTFBrV3RjdktRTWpjOFE?oc=5",
-          "publishedOn": "2024-11-04T13:00:23.000Z",
-          "wordCount": 12496,
-          "title": "9to5Linux Weekly Roundup: November 3rd, 2024 - info-mods.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxNNWRLeTV5LXZ3bXlkUnN0aGVoaUxTRjliNjI2bHljQjNZQlNXUTZyeXRUdHZrLWN4SkZQZ0x3cmxhbUc3aFFJTV9QSjdRQzBnQ2pkdTlWZjVJTE0zUTk0bVV1TTVuOHZzd3BYSi1uRzEtMmU1TC1TMjVWenlWQnFDdEY5UmJacXItNWdMbmJwMFM",
-          "author": null,
-          "description": "Respawn blocks Linux users from Apex Legends  PC Games Insider",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWRLeTV5LXZ3bXlkUnN0aGVoaUxTRjliNjI2bHljQjNZQlNXUTZyeXRUdHZrLWN4SkZQZ0x3cmxhbUc3aFFJTV9QSjdRQzBnQ2pkdTlWZjVJTE0zUTk0bVV1TTVuOHZzd3BYSi1uRzEtMmU1TC1TMjVWenlWQnFDdEY5UmJacXItNWdMbmJwMFM?oc=5",
-          "publishedOn": "2024-11-04T11:44:00.000Z",
-          "wordCount": 12496,
-          "title": "Respawn blocks Linux users from Apex Legends - PC Games Insider",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxPUVh2RzB6TXYxYXZwRkJCYnBLYVhyZlpWcTZ0YzUzdVd3RUZqeUpMLVRNeWJQT3M2VVUza0dOaVdqYTltZUZ4Y1BvSlc3UDg5aHZoRExTVjZqYlhMblBsUDZnc1p1UGhJZUZlOWRqWW83eHlIbmVGMTJMdjQ4T2NfYnVlYV9tem9pOHJJeGhfdjJXNGpmcHB4cFRKRFBieTlmRXMybWxXV2pid2kyTjVBMnNsOA",
-          "author": null,
-          "description": "Check out Proton-Sarek if you have an older GPU for Windows games on Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVh2RzB6TXYxYXZwRkJCYnBLYVhyZlpWcTZ0YzUzdVd3RUZqeUpMLVRNeWJQT3M2VVUza0dOaVdqYTltZUZ4Y1BvSlc3UDg5aHZoRExTVjZqYlhMblBsUDZnc1p1UGhJZUZlOWRqWW83eHlIbmVGMTJMdjQ4T2NfYnVlYV9tem9pOHJJeGhfdjJXNGpmcHB4cFRKRFBieTlmRXMybWxXV2pid2kyTjVBMnNsOA?oc=5",
-          "publishedOn": "2024-11-04T11:04:18.000Z",
-          "wordCount": 12496,
-          "title": "Check out Proton-Sarek if you have an older GPU for Windows games on Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYkFVX3lxTE9uWGhoR0VoaXhsaTVtQmRoNEItMmt0ZUZZSWhJLW5Ma0VjaHEwakU2dk1mQWQ4Ym5IYlBldEROM1J2TTcyQ2k1WTVKOGs5UVl2ZjFvazFOX0xJeFFQdUxFMUN3",
-          "author": null,
-          "description": "CachyOS Explores Optimizing Its Kernel With AutoFDO  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uWGhoR0VoaXhsaTVtQmRoNEItMmt0ZUZZSWhJLW5Ma0VjaHEwakU2dk1mQWQ4Ym5IYlBldEROM1J2TTcyQ2k1WTVKOGs5UVl2ZjFvazFOX0xJeFFQdUxFMUN3?oc=5",
-          "publishedOn": "2024-11-04T10:55:00.000Z",
-          "wordCount": 12496,
-          "title": "CachyOS Explores Optimizing Its Kernel With AutoFDO - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwwFBVV95cUxNa2U4T1lRUnVQbzVOXzFJNUhNZGZ6MDVucXRRRi04aHdGLTJjMkdXSTdFS1ExMDdtZlVQcVkzZEhrVU1hM1hGTjFucDhYTkFyNWJ3NDhPZVdKU2Yyc0JRT0JzUVYtZ1Y4OERWX2dhbTRzWGk2bU1kdzBMdnl3WXRYTDFOLUJGY1lNWWwyOWJtMVVydWUyT3Jma3B3Z3BYMG9lV1RxRkRoUGRBZXhhV3lSS21ObXNxRzJvSVk2d1NuTlpYcm8",
-          "author": null,
-          "description": "Linux Mint partners up with Framework, also working on Night Light for Cinnamon desktop  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2U4T1lRUnVQbzVOXzFJNUhNZGZ6MDVucXRRRi04aHdGLTJjMkdXSTdFS1ExMDdtZlVQcVkzZEhrVU1hM1hGTjFucDhYTkFyNWJ3NDhPZVdKU2Yyc0JRT0JzUVYtZ1Y4OERWX2dhbTRzWGk2bU1kdzBMdnl3WXRYTDFOLUJGY1lNWWwyOWJtMVVydWUyT3Jma3B3Z3BYMG9lV1RxRkRoUGRBZXhhV3lSS21ObXNxRzJvSVk2d1NuTlpYcm8?oc=5",
-          "publishedOn": "2024-11-04T10:48:13.000Z",
-          "wordCount": 12496,
-          "title": "Linux Mint partners up with Framework, also working on Night Light for Cinnamon desktop - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilAFBVV95cUxPckJyZXpQMGgwb2FrX2RySTFMdk9IQzV4MXpwdkN1SnFxbmNFb3MzbVBTRnoyeTI5bGM3Qm1Mb2swVVhlaG5iR0trZTRYUXJsZkRiZXdkR3RZNlhFVGI5UU81OTN2OUpCbzd4SkhkVmtTRFdZRTNqOEFiUFcwMnhvdUsxNnRKTDBaandNZW9ZNG1sVE4x0gGTAUFVX3lxTE9YOUY3eWt2b2YtSEFpMWl4Njc3MVo3TVRQa2JPUlVPZ01PaTJ4dnNiSXlzRmNVWGZ5OXdUX2Z5b0Z2VWEzNWF0VVRRdElFMlRYcGlPUzRBdkVXeUtLdlJIV0F3SFNsWmpCZGVnbTZEN0Rpek51bm5BdUVBSWZyaGJucVhhTVVzd3N3M256YnVjVnp3aw",
-          "author": null,
-          "description": "Linux Mint working to bake Night Light directly into Cinnamon  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckJyZXpQMGgwb2FrX2RySTFMdk9IQzV4MXpwdkN1SnFxbmNFb3MzbVBTRnoyeTI5bGM3Qm1Mb2swVVhlaG5iR0trZTRYUXJsZkRiZXdkR3RZNlhFVGI5UU81OTN2OUpCbzd4SkhkVmtTRFdZRTNqOEFiUFcwMnhvdUsxNnRKTDBaandNZW9ZNG1sVE4x0gGTAUFVX3lxTE9YOUY3eWt2b2YtSEFpMWl4Njc3MVo3TVRQa2JPUlVPZ01PaTJ4dnNiSXlzRmNVWGZ5OXdUX2Z5b0Z2VWEzNWF0VVRRdElFMlRYcGlPUzRBdkVXeUtLdlJIV0F3SFNsWmpCZGVnbTZEN0Rpek51bm5BdUVBSWZyaGJucVhhTVVzd3N3M256YnVjVnp3aw?oc=5",
-          "publishedOn": "2024-11-04T10:32:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux Mint working to bake Night Light directly into Cinnamon - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMickFVX3lxTE0yLXNRRUd6T1ViUV9DX1JVbUp6Y05ZV0I2UTVqcVhUTWx5ZjVKVmpXR2FxMDZlbXFzLVYzTVdxaTRmeHJuVFNudzJNa2tVQ1lDTHRRWG44QUZoT2hWMjJneW5wV2RmZVZMTmtvRG40Q0ZyQdIBd0FVX3lxTE1RSzNNTXJpOWlVbFFoX3RlalZjZlFJTmU3aVdJZTNDSWpydGF6OElhTzRMR2h1TjBDNFpidFdDZy1vU2xZNnBkT3VqRE9BUVlQSVVtbUZLMHhUMzJkYWlzazd1TUtrcUFxWUFiU2xOcVRYVm9CdUUw",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: November 3rd, 2024  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yLXNRRUd6T1ViUV9DX1JVbUp6Y05ZV0I2UTVqcVhUTWx5ZjVKVmpXR2FxMDZlbXFzLVYzTVdxaTRmeHJuVFNudzJNa2tVQ1lDTHRRWG44QUZoT2hWMjJneW5wV2RmZVZMTmtvRG40Q0ZyQdIBd0FVX3lxTE1RSzNNTXJpOWlVbFFoX3RlalZjZlFJTmU3aVdJZTNDSWpydGF6OElhTzRMR2h1TjBDNFpidFdDZy1vU2xZNnBkT3VqRE9BUVlQSVVtbUZLMHhUMzJkYWlzazd1TUtrcUFxWUFiU2xOcVRYVm9CdUUw?oc=5",
-          "publishedOn": "2024-11-04T06:57:31.000Z",
-          "wordCount": 12496,
-          "title": "9to5Linux Weekly Roundup: November 3rd, 2024 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVkFVX3lxTE56SUFadGE5cVdXenlfdnpMcVVOVGlLU1oxelpxQWZVVUQ2UFQ1YjVXZVRLeGxSN1BBZGFoOHZKWThqLXp4LXVhMjNYNjNfMVpGQzZLQlRR",
-          "author": null,
-          "description": "9 Things I Do to Improve My Linux Computer's Security  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56SUFadGE5cVdXenlfdnpMcVVOVGlLU1oxelpxQWZVVUQ2UFQ1YjVXZVRLeGxSN1BBZGFoOHZKWThqLXp4LXVhMjNYNjNfMVpGQzZLQlRR?oc=5",
-          "publishedOn": "2024-11-04T03:40:59.000Z",
-          "wordCount": 12496,
-          "title": "9 Things I Do to Improve My Linux Computer's Security - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE11enJhaUFITGFDSkp6b1AzMkFhSWZtVlo2ZmRkeXJWSkhLLTBwRHpHMmlEWXlQbmczS1ZsSmtCODl0OVlzSVd3c0tMZnhtRFdKVzE2dmZVYS1LOGFQQ2dRcG5paVRvVjZLbGFDQlVrSm94UTN3aUNaYVhlaUc",
-          "author": null,
-          "description": "VMware Workstation to Switch to KVM on Linux  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11enJhaUFITGFDSkp6b1AzMkFhSWZtVlo2ZmRkeXJWSkhLLTBwRHpHMmlEWXlQbmczS1ZsSmtCODl0OVlzSVd3c0tMZnhtRFdKVzE2dmZVYS1LOGFQQ2dRcG5paVRvVjZLbGFDQlVrSm94UTN3aUNaYVhlaUc?oc=5",
-          "publishedOn": "2024-11-04T00:32:31.000Z",
-          "wordCount": 12496,
-          "title": "VMware Workstation to Switch to KVM on Linux - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTFAzSms1ZDkwZElRbjdiUHlHMkMzOUZyTkowWEdvdUdldHB1cC1FekItNFQtQWZ6cDdqQUZOb1ZnbS12eFk0RFpHQmJxZk42LTFsWXJ0emhRQQ",
-          "author": null,
-          "description": "Linux 6.12-rc6 Released With That Latest Performance Optimization & Various Fixes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSms1ZDkwZElRbjdiUHlHMkMzOUZyTkowWEdvdUdldHB1cC1FekItNFQtQWZ6cDdqQUZOb1ZnbS12eFk0RFpHQmJxZk42LTFsWXJ0emhRQQ?oc=5",
-          "publishedOn": "2024-11-04T00:18:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux 6.12-rc6 Released With That Latest Performance Optimization & Various Fixes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTFBfN1RMN0REMy16cEtrQmpOc1otbjNBOG1QandqdjdxRkZlNVI5TzBGVXhoVTEtME1hUmd5OTFiQndaVDFSN0R3NHlRSFJYZzNicUdGdkxfQTRCaGF2VXkxVnRwQUVUczcwWlJpM0F3YkZ2bUFvUkJpbdIBfkFVX3lxTFBTaHVPR0h1TGI0VFdsMzZtMzFVV2xyU3JCdzlhdXRVTjJqSkxsUlYtRnA5SVQxMENON0ZwSld6ZmZySzNyWm9abGdyMkRlaWZfQXVPUHgydk9KS2drb2phZi1qT1VHMmVtSHVDLVVqc0VNUEdMWTBpRmZ5TTZOUQ",
-          "author": null,
-          "description": "Apple Maps on Web Now Works on Linux (But Only in Firefox)  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfN1RMN0REMy16cEtrQmpOc1otbjNBOG1QandqdjdxRkZlNVI5TzBGVXhoVTEtME1hUmd5OTFiQndaVDFSN0R3NHlRSFJYZzNicUdGdkxfQTRCaGF2VXkxVnRwQUVUczcwWlJpM0F3YkZ2bUFvUkJpbdIBfkFVX3lxTFBTaHVPR0h1TGI0VFdsMzZtMzFVV2xyU3JCdzlhdXRVTjJqSkxsUlYtRnA5SVQxMENON0ZwSld6ZmZySzNyWm9abGdyMkRlaWZfQXVPUHgydk9KS2drb2phZi1qT1VHMmVtSHVDLVVqc0VNUEdMWTBpRmZ5TTZOUQ?oc=5",
-          "publishedOn": "2024-11-03T22:24:16.000Z",
-          "wordCount": 12496,
-          "title": "Apple Maps on Web Now Works on Linux (But Only in Firefox) - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxQak5GMHh6ay05dWVCbEhnRjB3OFNlbDkxVy1CS3ZBNXJydHpBUGRzMU9GT3pwX3pXeWhPUXFyUXBTR3ZMQ3BONFgzMjZuS20wd0dhbjJLNXhsNTZmTXFGelBiNFNpWFh0VUxNU2hsZkVBQkthejRyZ0tCa0NSVkdLNkxEWEE",
-          "author": null,
-          "description": "6 Ways to Find and Replace Text in the Linux Terminal  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQak5GMHh6ay05dWVCbEhnRjB3OFNlbDkxVy1CS3ZBNXJydHpBUGRzMU9GT3pwX3pXeWhPUXFyUXBTR3ZMQ3BONFgzMjZuS20wd0dhbjJLNXhsNTZmTXFGelBiNFNpWFh0VUxNU2hsZkVBQkthejRyZ0tCa0NSVkdLNkxEWEE?oc=5",
-          "publishedOn": "2024-11-03T21:30:00.000Z",
-          "wordCount": 12496,
-          "title": "6 Ways to Find and Replace Text in the Linux Terminal - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxOUUR5al9oLTI2T3dnSXdxUkRacHFXZXFIekpGbUR5M2I2ZWx0UE9oY280ZTNnZVJObWtYSDllRUdIdHByY0tmdm04a1pRamJ3VjVWN1FTZ0paTFRpVGdYMnFJQkY1a280clh4NG03aURLZEFWcXRfa3VYV0p1Y3Q3VzZ4S0pMS3gyemJaaGNyVWFxNGpZZVgycjdR",
-          "author": null,
-          "description": "How to Find Resource-Hogging Processes Using the Linux Command Line  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUR5al9oLTI2T3dnSXdxUkRacHFXZXFIekpGbUR5M2I2ZWx0UE9oY280ZTNnZVJObWtYSDllRUdIdHByY0tmdm04a1pRamJ3VjVWN1FTZ0paTFRpVGdYMnFJQkY1a280clh4NG03aURLZEFWcXRfa3VYV0p1Y3Q3VzZ4S0pMS3gyemJaaGNyVWFxNGpZZVgycjdR?oc=5",
-          "publishedOn": "2024-11-03T21:00:00.000Z",
-          "wordCount": 12496,
-          "title": "How to Find Resource-Hogging Processes Using the Linux Command Line - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFBVV95cUxPSjk2Rnh2R0ZYTVFmV0ZYdFg5SkNuOTJPdHlUSTFkdWhmSzN2RXJsZWZncVFUWTE2dVI5MW0xQUJlbWhrR2ZXdldvUnBpOEUteTBWQ1lGN3U3aUo1OW1GZC1CWmZIZEpDcTlvYlZ2Q3hwWVNHbENQT3c1NHhyNm5iS3FNNkVTOXNNamRSTw",
-          "author": null,
-          "description": "How to Navigate Your File System Using the Linux Terminal  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjk2Rnh2R0ZYTVFmV0ZYdFg5SkNuOTJPdHlUSTFkdWhmSzN2RXJsZWZncVFUWTE2dVI5MW0xQUJlbWhrR2ZXdldvUnBpOEUteTBWQ1lGN3U3aUo1OW1GZC1CWmZIZEpDcTlvYlZ2Q3hwWVNHbENQT3c1NHhyNm5iS3FNNkVTOXNNamRSTw?oc=5",
-          "publishedOn": "2024-11-03T20:00:00.000Z",
-          "wordCount": 12496,
-          "title": "How to Navigate Your File System Using the Linux Terminal - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMickFVX3lxTE13RWNHclNpbjF2amVDT2hwanhBYS00bDN0N19ZcXNiR3ZyOTREcm1yUTlGSHFUMFdWWEpaQzFCSVZFTmlTQk5FWGwyNGNJX09PU1VYZ21yMk41blhZNThDUTNKT0R5bXgxelJmeThsdW0xdw",
-          "author": null,
-          "description": "Linux Mint Cinnamon desktop to integrate Night Light for improved eye comfort  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13RWNHclNpbjF2amVDT2hwanhBYS00bDN0N19ZcXNiR3ZyOTREcm1yUTlGSHFUMFdWWEpaQzFCSVZFTmlTQk5FWGwyNGNJX09PU1VYZ21yMk41blhZNThDUTNKT0R5bXgxelJmeThsdW0xdw?oc=5",
-          "publishedOn": "2024-11-03T16:46:55.000Z",
-          "wordCount": 12496,
-          "title": "Linux Mint Cinnamon desktop to integrate Night Light for improved eye comfort - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgJBVV95cUxQVF9ER0lxdGJiNGRPMjgyeFBpSjZqSzJabUM4T0txNzdwcVlGeWJZZ0kxb05sQkptbE1JSERpaVBCYTNVcmtkRDVBLWJzeVJTd3I2dEdhdjRKOG02b2NpcGd0cy1jMzBDYjJvMGUtNG1mTWVWUTR4ZnVncHBoOERsdl93VjN0X0stRFpSTk45YkQxVllUU2VXM0dxdTZQemRuaHF5SzY2dHFTOEtGc3lPX0hRUFBTc3I5a19mTnN0aTkyaHRtQUdNZnpsWjFsT3VucnZSWDRjTDJHbkhuUmJiWUZkMkxySEtrZFltdHgyaWUwby0zM2tLb3lxczhPVW5YUEYzUTd3eE5oVk81dnBOeVBEWGdtRk12N2c",
-          "author": null,
-          "description": "Linus Torvalds kicked the Russians out of Linux, now they're creating a sovereign Linux community in Russia — Ministry of Digital Development steps in  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVF9ER0lxdGJiNGRPMjgyeFBpSjZqSzJabUM4T0txNzdwcVlGeWJZZ0kxb05sQkptbE1JSERpaVBCYTNVcmtkRDVBLWJzeVJTd3I2dEdhdjRKOG02b2NpcGd0cy1jMzBDYjJvMGUtNG1mTWVWUTR4ZnVncHBoOERsdl93VjN0X0stRFpSTk45YkQxVllUU2VXM0dxdTZQemRuaHF5SzY2dHFTOEtGc3lPX0hRUFBTc3I5a19mTnN0aTkyaHRtQUdNZnpsWjFsT3VucnZSWDRjTDJHbkhuUmJiWUZkMkxySEtrZFltdHgyaWUwby0zM2tLb3lxczhPVW5YUEYzUTd3eE5oVk81dnBOeVBEWGdtRk12N2c?oc=5",
-          "publishedOn": "2024-11-03T16:10:00.000Z",
-          "wordCount": 12496,
-          "title": "Linus Torvalds kicked the Russians out of Linux, now they're creating a sovereign Linux community in Russia — Ministry of Digital Development steps in - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqAFBVV95cUxQdm0yYjcyZV9ubW80YmFBZ3laQTBoMEdvbTBoX2FRUnoxQ3hxeFZSTm5CdTRqQk9rZDRmSl9GOTNVZ3M0cDB1dWxiNjJhX2FfRUZfTU93aGpzX1owUjljQmhDMmd3MTlQUFpHUzRDYjU4SGZPcFZXRFdmRWJqUkRCRFVjMUJmRm9FNUFScE9fU1dhWGRRMkhuUXYweC1hWXA1Um5VU2hISlc",
-          "author": null,
-          "description": "Sorry Steam Deck Apex Legends players, those Linux cheaters means the battle royale won't be officially supported on the handheld anymore  VG247",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdm0yYjcyZV9ubW80YmFBZ3laQTBoMEdvbTBoX2FRUnoxQ3hxeFZSTm5CdTRqQk9rZDRmSl9GOTNVZ3M0cDB1dWxiNjJhX2FfRUZfTU93aGpzX1owUjljQmhDMmd3MTlQUFpHUzRDYjU4SGZPcFZXRFdmRWJqUkRCRFVjMUJmRm9FNUFScE9fU1dhWGRRMkhuUXYweC1hWXA1Um5VU2hISlc?oc=5",
-          "publishedOn": "2024-11-03T15:19:24.000Z",
-          "wordCount": 12496,
-          "title": "Sorry Steam Deck Apex Legends players, those Linux cheaters means the battle royale won't be officially supported on the handheld anymore - VG247",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi-AFBVV95cUxNRDF2ZFh3SmpIZnVsMGdndGFOZmlYRXhPUU1uWUJoTHl0Z0NsU1hNT2xrdFdJcmZwdlBxUzFtY19ZaUIxUUFSNHhIajIxQ1ZoQ1FGc3Q5N2p1ZXZkd3FUN3lzTFdTLUJzSnF4R3hsVjlsZ3dCY1NjMDVkUmNiT05pMUVjZ3lIX3V4R0VNaTlCMFZ2VWMyREpDbVVXeGZ5TWxwZEFNQmlfMjNpQmtqMmhFZGdxRlU0YWpURjdxb0lzaURDcTRLWW5DWFRHcTF0SnNGVklUaHlBWjZHY0hUZDFrZ2NLVHQxLXdQMzN1SFJzR2pNc3F3UlJONQ",
-          "author": null,
-          "description": "Valve Engineer's AMD Linux RADV Vulkan driver fix boosted an FSR2 demo sample app by 228% on RDNA 2 GPUs  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRDF2ZFh3SmpIZnVsMGdndGFOZmlYRXhPUU1uWUJoTHl0Z0NsU1hNT2xrdFdJcmZwdlBxUzFtY19ZaUIxUUFSNHhIajIxQ1ZoQ1FGc3Q5N2p1ZXZkd3FUN3lzTFdTLUJzSnF4R3hsVjlsZ3dCY1NjMDVkUmNiT05pMUVjZ3lIX3V4R0VNaTlCMFZ2VWMyREpDbVVXeGZ5TWxwZEFNQmlfMjNpQmtqMmhFZGdxRlU0YWpURjdxb0lzaURDcTRLWW5DWFRHcTF0SnNGVklUaHlBWjZHY0hUZDFrZ2NLVHQxLXdQMzN1SFJzR2pNc3F3UlJONQ?oc=5",
-          "publishedOn": "2024-11-03T15:07:33.000Z",
-          "wordCount": 12496,
-          "title": "Valve Engineer's AMD Linux RADV Vulkan driver fix boosted an FSR2 demo sample app by 228% on RDNA 2 GPUs - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE9KOFFpMkEwX2oyZGlxVkpYUkE1c3hyX25jUjliTlZ4S01QTGFtM1NpMU5wbEhGbEtGV21PRUg2UjAxa3BvTVdheTJqNzY2TFQ0b255NDhYaEMyZVlaNHdJY3lEV2ZkRDdzVW12dUFwZ0hZYzZ3eVHSAXtBVV95cUxNdkJuS0MyWDI1eDFGMUdQeUZjckVXbnZLRE9Oa2ZIdzlvcTVkc0RTZkMwQXhmRTI0NkgwYnFHWUxoNkd0dXdkRDJqUGcwMWhvSVdoNE8wY0JQYVVORHZWY0M1VTM3dE5iTUY4OTRSbG9MNGdkU0RpdTZEV1U",
-          "author": null,
-          "description": "Linux Mint is Adding a Native ‘Night Light’ Feature to Cinnamon  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KOFFpMkEwX2oyZGlxVkpYUkE1c3hyX25jUjliTlZ4S01QTGFtM1NpMU5wbEhGbEtGV21PRUg2UjAxa3BvTVdheTJqNzY2TFQ0b255NDhYaEMyZVlaNHdJY3lEV2ZkRDdzVW12dUFwZ0hZYzZ3eVHSAXtBVV95cUxNdkJuS0MyWDI1eDFGMUdQeUZjckVXbnZLRE9Oa2ZIdzlvcTVkc0RTZkMwQXhmRTI0NkgwYnFHWUxoNkd0dXdkRDJqUGcwMWhvSVdoNE8wY0JQYVVORHZWY0M1VTM3dE5iTUY4OTRSbG9MNGdkU0RpdTZEV1U?oc=5",
-          "publishedOn": "2024-11-03T15:03:33.000Z",
-          "wordCount": 12496,
-          "title": "Linux Mint is Adding a Native ‘Night Light’ Feature to Cinnamon - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxNVjBRanh2czhmY0V4X0lldG9LRmJhMXZiNkU4alFYdG5YR0lsaGNKS0VEai1lUkdFaTVLWEgxek9fRHpNRk0tWW5sMjlleVNKd21tNjRmY3U3ZHZSWEpwV3FLeHVzM08zT3N0WmItTEhSZ0tqSXNFZ1pZNy1SMHlOTUFUdlc",
-          "author": null,
-          "description": "Linux Built-In Tools Are So Powerful, You Build a Database With Them. Here's How  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjBRanh2czhmY0V4X0lldG9LRmJhMXZiNkU4alFYdG5YR0lsaGNKS0VEai1lUkdFaTVLWEgxek9fRHpNRk0tWW5sMjlleVNKd21tNjRmY3U3ZHZSWEpwV3FLeHVzM08zT3N0WmItTEhSZ0tqSXNFZ1pZNy1SMHlOTUFUdlc?oc=5",
-          "publishedOn": "2024-11-03T15:00:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux Built-In Tools Are So Powerful, You Build a Database With Them. Here's How - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE5SWjJEVlNvazBqMUdwUnVkdmpnS1k1aHAzYk45QlFFLWtoSDNvWklTNmtuTVZxOUV5eEFFT0lKaE93SXVkdUtjZENGQ09zY0pMY1h0V2s4ODRCSXgxblRnRWdpdzhadWc",
-          "author": null,
-          "description": "AMD Heterogeneous CPU Design Topology Patches Coming For Linux 6.13  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SWjJEVlNvazBqMUdwUnVkdmpnS1k1aHAzYk45QlFFLWtoSDNvWklTNmtuTVZxOUV5eEFFT0lKaE93SXVkdUtjZENGQ09zY0pMY1h0V2s4ODRCSXgxblRnRWdpdzhadWc?oc=5",
-          "publishedOn": "2024-11-03T14:30:00.000Z",
-          "wordCount": 12496,
-          "title": "AMD Heterogeneous CPU Design Topology Patches Coming For Linux 6.13 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE5nYkFSOVQ2UF8yRlFqNkV3UjJQNkpnYWp6X0lYMGFJQ0U2OUljTUx0SUNkS0llSGZGVnN5Z2JBSlBNQml2eVM5bngzT0ktVEQ3Sms2Q0pXQmNmdEJMTTNpY3BaYmo4aUdp",
-          "author": null,
-          "description": "Linux Mint Working On Night Light For Cinnamon, Collaborating With Framework Computer  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nYkFSOVQ2UF8yRlFqNkV3UjJQNkpnYWp6X0lYMGFJQ0U2OUljTUx0SUNkS0llSGZGVnN5Z2JBSlBNQml2eVM5bngzT0ktVEQ3Sms2Q0pXQmNmdEJMTTNpY3BaYmo4aUdp?oc=5",
-          "publishedOn": "2024-11-03T14:10:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux Mint Working On Night Light For Cinnamon, Collaborating With Framework Computer - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9307,6 +9387,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "author": "hello@smashingmagazine.com (The Smashing Team)",
+          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
+          "link": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "publishedOn": "2024-12-03T12:00:00.000Z",
+          "wordCount": 3704,
+          "title": "Bundle Up And Save On Smashing Books And Workshops",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
+          "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "publishedOn": "2024-12-03T10:00:00.000Z",
+          "wordCount": 5244,
+          "title": "Creating An Effective Multistep Form For Better User Experience",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
@@ -9433,6 +9543,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674f6a16678426d72d800cd5",
+          "author": "Ankur Tyagi",
+          "description": "Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/",
+          "publishedOn": "2024-12-03T20:29:10.000Z",
+          "wordCount": 3187,
+          "title": "How to Perform Code Reviews in Tech – The Painless Way",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733242289474/def1a314-fe64-448b-9236-f66a529e3f13.png"
+        },
+        {
+          "id": "674f49768f5b31d71eee8f9a",
+          "author": "Beau Carnes",
+          "description": "Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...",
+          "link": "https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/",
+          "publishedOn": "2024-12-03T18:09:58.000Z",
+          "wordCount": 1309,
+          "title": "Learn Google Sheets – Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733249376070/af3b622d-ff58-446a-ae47-b4dcac71cffe.jpeg"
+        },
+        {
+          "id": "674f227adf280a40b7047b7f",
+          "author": "Abhijeet Dave",
+          "description": "In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/",
+          "publishedOn": "2024-12-03T15:23:38.000Z",
+          "wordCount": 2542,
+          "title": "How to Set Up Google Authentication in Laravel Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
+        },
         {
           "id": "674de68794b89afe5676934e",
           "author": "Isaiah Clifford Opoku",
