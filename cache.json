@@ -29,6 +29,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195054",
+          "author": "Content Operations",
+          "description": "Arch Linux is a powerful and flexible Linux distribution, loved by many for its simplicity and control. However, new users often find package management in Arch a bit challenging. In this guide, we’ll focus solely on pacman, Arch’s default package manager, and AUR (Arch User Repository) helpers, tools that make managing AUR packages easier.\nThe post Beginner’s Guide to Pacman and AUR Helpers on Arch Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/beginners-guide-to-pacman-and-aur-helpers-on-arch-linux/",
+          "publishedOn": "2024-12-08T19:28:47.000Z",
+          "wordCount": 10917,
+          "title": "Beginner’s Guide to Pacman and AUR Helpers on Arch Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195055",
+          "author": "Content Operations",
+          "description": "Nextcloud has unveiled Nextcloud Talk, an open-source alternative to Microsoft Teams. It’s a privacy-compliant collaboration platform for hybrid teams that gives companies complete control over their data.\nThe post Nextcloud Talk: Open-source, GDPR-Compliant Alternative to Microsoft Teams appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/nextcloud-talk-open-source-gdpr-compliant-alternative-to-microsoft-teams/",
+          "publishedOn": "2024-12-08T15:03:37.000Z",
+          "wordCount": 10850,
+          "title": "Nextcloud Talk: Open-source, GDPR-Compliant Alternative to Microsoft Teams",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=194929",
           "author": "Content Operations",
           "description": "Whether you’re making a mobile application, a web application, or a desktop application, there are essential tools that can improve your workflow. This article will cover some must-have developer tools for building modern apps and explain how they can help you.\nThe post 34 Best Developer Tools for Building Modern Apps appeared first on Linux Today.",
@@ -1967,96 +1987,6 @@
           "wordCount": 9017,
           "title": "KDE Frameworks 6.8 Adds Breeze Icons for Typst Files And Fixes Many Bugs",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194256",
-          "author": "Content Operations",
-          "description": "There’s a whole slew of great and sometimes huge open source conferences around the globe that are mostly unknown to us English speakers because they’re in another language. One example would be Nerdearla, which has taken place annually in Buenos Aires since 2014.\nThe post Nerdearla: Homegrown Open Source Conferencing Latin American Style appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/nerdearla-homegrown-open-source-conferencing-latin-american-style/",
-          "publishedOn": "2024-11-08T23:38:40.000Z",
-          "wordCount": 8987,
-          "title": "Nerdearla: Homegrown Open Source Conferencing Latin American Style",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194221",
-          "author": "Content Operations",
-          "description": "When embarking on a new project, there’s a lot to be said experimenting with new software. Fortunately, WordPress is not the only option. In this article we identify lightweight open source content management systems / static site generators ready to be deployed that can transform a web site.\nThe post 6 Free and Open Source Lightweight Alternatives to WordPress appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/6-free-and-open-source-lightweight-alternatives-to-wordpress/",
-          "publishedOn": "2024-11-08T22:04:37.000Z",
-          "wordCount": 9026,
-          "title": "6 Free and Open Source Lightweight Alternatives to WordPress",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194216",
-          "author": "Content Operations",
-          "description": "In this article, learn how to stream the video output of a camera to a Linux machine running the VLC media player using an HDMI capture card and an HDMI cable. This can come in useful when you need to take screenshots of the camera's interface or record the camera activity.\nThe post Stream Camera Output To a Linux Machine appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/stream-camera-output-to-a-linux-machine/",
-          "publishedOn": "2024-11-08T21:27:04.000Z",
-          "wordCount": 9022,
-          "title": "Stream Camera Output To a Linux Machine",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194217",
-          "author": "Content Operations",
-          "description": "This tutorial will explain how to set up WordPress Multisite with an OpenLiteSpeed web server on Ubuntu 24.04 OS.\nThe post How to Set Up WordPress Multisite with OpenLiteSpeed on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-set-up-wordpress-multisite-with-openlitespeed-on-ubuntu-24-04/",
-          "publishedOn": "2024-11-08T20:00:36.000Z",
-          "wordCount": 9025,
-          "title": "How to Set Up WordPress Multisite with OpenLiteSpeed on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194215",
-          "author": "Content Operations",
-          "description": "This article introduces some popular apps you can find on Flathub, along with simple instructions for installing them. Flathub is the main place to get and share apps for all Linux systems, which uses Flatpak, which makes it possible to run these apps on almost any Linux distribution.\nThe post 6 Best Flatpak Apps for Fedora Linux Users appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/6-best-flatpak-apps-for-fedora-linux-users/",
-          "publishedOn": "2024-11-08T19:19:49.000Z",
-          "wordCount": 9021,
-          "title": "6 Best Flatpak Apps for Fedora Linux Users",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194214",
-          "author": "Content Operations",
-          "description": "Learn how to check the PHP (or PHP-FPM) version on Ubuntu and other Linux distributions from the command line.\nThe post How to Check PHP Version in Linux (via 4 Methods) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-check-php-version-in-linux-via-4-methods-2/",
-          "publishedOn": "2024-11-08T18:16:27.000Z",
-          "wordCount": 8954,
-          "title": "How to Check PHP Version in Linux (via 4 Methods)",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194213",
-          "author": "Content Operations",
-          "description": "Discover a step-by-step guide to setting up an Apache web server with Python WSGI on Ubuntu to access the Python web application on the internet.\nThe post How to Setup Apache with Python WSGI on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-setup-apache-with-python-wsgi-on-ubuntu-2/",
-          "publishedOn": "2024-11-08T17:13:33.000Z",
-          "wordCount": 8978,
-          "title": "How to Setup Apache with Python WSGI on Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194211",
-          "author": "Content Operations",
-          "description": "Immich celebrates 50K GitHub stars with v1.120, which now includes auto-database backups, faster HDR transcoding, and a timeline scroll indicator.\nThe post Immich Celebrates 50K Stars on GitHub with v1.120 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/immich-celebrates-50k-stars-on-github-with-v1-120/",
-          "publishedOn": "2024-11-08T16:09:40.000Z",
-          "wordCount": 8958,
-          "title": "Immich Celebrates 50K Stars on GitHub with v1.120",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194186",
-          "author": "Content Operations",
-          "description": "Clipchamp is non-linear editing software that allows users to import, edit, and export audiovisual material in an Internet browser window. In this article, we recommend the best free and open source alternatives to Clipchamp.\nThe post Best Free and Open Source Alternatives to Microsoft Clipchamp appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-alternatives-to-microsoft-clipchamp/",
-          "publishedOn": "2024-11-08T15:07:00.000Z",
-          "wordCount": 8997,
-          "title": "Best Free and Open Source Alternatives to Microsoft Clipchamp",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2065,6 +1995,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMickFVX3lxTE9QT2MwbDlPdDd3QWR2M1V5bUpMb2ozZElVT2M2NzBBY2o5QWlOX1NEcHVLejFBVVZKZHh3eTZjQVVHTDJFcm94M0wyOHZ4bDI1cHV0eWNUWndmN3VULVRHUXJsY0czbGFYdE1UYWxhQk9EUdIBd0FVX3lxTE9kU0ZlNVZrT1BmblZlcFhiaE52eDlTc1RDZHVCWVppN0dSR0M2YjlpRHZxVkptNkRkSWd2Yk5kWUFzSjFTeE5GZnhzdEc5aGJvM0RVYU1OdlYyaHZUemNzZlhKMUVRODhkNjZYLUhUV2lZV0RFS2Vn",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: December 8th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QT2MwbDlPdDd3QWR2M1V5bUpMb2ozZElVT2M2NzBBY2o5QWlOX1NEcHVLejFBVVZKZHh3eTZjQVVHTDJFcm94M0wyOHZ4bDI1cHV0eWNUWndmN3VULVRHUXJsY0czbGFYdE1UYWxhQk9EUdIBd0FVX3lxTE9kU0ZlNVZrT1BmblZlcFhiaE52eDlTc1RDZHVCWVppN0dSR0M2YjlpRHZxVkptNkRkSWd2Yk5kWUFzSjFTeE5GZnhzdEc5aGJvM0RVYU1OdlYyaHZUemNzZlhKMUVRODhkNjZYLUhUV2lZV0RFS2Vn?oc=5",
+          "publishedOn": "2024-12-08T23:32:22.000Z",
+          "wordCount": 12577,
+          "title": "9to5Linux Weekly Roundup: December 8th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE44Uzlsak9fdVcxUVpZVnAzaHI2WjN5LTBFTjZRWjE1Yzl0VjBDT3FQRERhVmhCQXU5SzlyaTFCeklQSXhuckZrQ05oRUswQmNOa1Jra0h3dWw5bXJlZk81NC1rMA",
+          "author": null,
+          "description": "Linux 6.13-rc2 Released With An Initial Batch Of Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44Uzlsak9fdVcxUVpZVnAzaHI2WjN5LTBFTjZRWjE1Yzl0VjBDT3FQRERhVmhCQXU5SzlyaTFCeklQSXhuckZrQ05oRUswQmNOa1Jra0h3dWw5bXJlZk81NC1rMA?oc=5",
+          "publishedOn": "2024-12-08T22:16:00.000Z",
+          "wordCount": 12577,
+          "title": "Linux 6.13-rc2 Released With An Initial Batch Of Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxQWnFRYk00NGEtMnJwckc0YkJvdkxycXkxUnZVbndyY3pHWlk5WGlYZ2N0bVItVW1aekJfSXpQYkJLNWhxaUt3dXNzYWdJa2gwMG5xQ1N6bElNN2FWb0NyMWJnTnBUOGtaNzE0a2gya3FMTGxfN3BSN0xfaTRRNGRWYVR4TUo1c1FLX3V3Sw",
+          "author": null,
+          "description": "6 Tips for Using Linux Without Touching the Command Line  Review Geek",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnFRYk00NGEtMnJwckc0YkJvdkxycXkxUnZVbndyY3pHWlk5WGlYZ2N0bVItVW1aekJfSXpQYkJLNWhxaUt3dXNzYWdJa2gwMG5xQ1N6bElNN2FWb0NyMWJnTnBUOGtaNzE0a2gya3FMTGxfN3BSN0xfaTRRNGRWYVR4TUo1c1FLX3V3Sw?oc=5",
+          "publishedOn": "2024-12-08T21:30:00.000Z",
+          "wordCount": 12577,
+          "title": "6 Tips for Using Linux Without Touching the Command Line - Review Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiwFBVV95cUxOdU1Fem9ndnNoa0t4eXRVdHY3YjlZOElLU3V5SFlBdVB1QkhfWnJ2cUd6ZTA0QlFKRjZwaW9jU2JUVkh1OTZtSGg4OTdJZWRQb2J1YWhxLTlxSktqWDQ3MmE0QS02WDQwZ01wVmItWWJTNlY2VVUtZjNYZjVqSGtrVTROTExsSDh4VWpR",
+          "author": null,
+          "description": "6 Tips for Using Linux Without Touching the Command Line  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdU1Fem9ndnNoa0t4eXRVdHY3YjlZOElLU3V5SFlBdVB1QkhfWnJ2cUd6ZTA0QlFKRjZwaW9jU2JUVkh1OTZtSGg4OTdJZWRQb2J1YWhxLTlxSktqWDQ3MmE0QS02WDQwZ01wVmItWWJTNlY2VVUtZjNYZjVqSGtrVTROTExsSDh4VWpR?oc=5",
+          "publishedOn": "2024-12-08T21:30:00.000Z",
+          "wordCount": 12577,
+          "title": "6 Tips for Using Linux Without Touching the Command Line - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieEFVX3lxTE9oanNxYXNEczJiVm16MDRlVzFacEh1alpNbGJLRjNIOGZzTzgyMjd4SURhU2o3TlNGZVI1U3dvazhNeDhEQnFkMUg4NXlLWE1vcDJIOF9BY2ZrVEFDMzJiQnZzS1VOYnFhVU5jdmJWejdOX0FTZmhMdA",
+          "author": null,
+          "description": "How to Test Your Linux 3D Graphics Hardware, '90s Style  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oanNxYXNEczJiVm16MDRlVzFacEh1alpNbGJLRjNIOGZzTzgyMjd4SURhU2o3TlNGZVI1U3dvazhNeDhEQnFkMUg4NXlLWE1vcDJIOF9BY2ZrVEFDMzJiQnZzS1VOYnFhVU5jdmJWejdOX0FTZmhMdA?oc=5",
+          "publishedOn": "2024-12-08T20:00:00.000Z",
+          "wordCount": 12577,
+          "title": "How to Test Your Linux 3D Graphics Hardware, '90s Style - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxQaXQwR1Vsc19zYjJkU0xIRVo0WklPcXhJVkcxYWd5UGlBTjFlQzBaTExBQ2NiamNoNGFFeGpZMlJvUzFuSWFRVHIzT1pYMTRPYzdpaW9qSFliWlJwRlNBMjluVGROTE5YSURjUzU3MXZNdlJiTE1oeWk4N20yZmVFbGZoOGUzNkk",
+          "author": null,
+          "description": "How To Install Windows Subsystem for Linux on Windows 11  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXQwR1Vsc19zYjJkU0xIRVo0WklPcXhJVkcxYWd5UGlBTjFlQzBaTExBQ2NiamNoNGFFeGpZMlJvUzFuSWFRVHIzT1pYMTRPYzdpaW9qSFliWlJwRlNBMjluVGROTE5YSURjUzU3MXZNdlJiTE1oeWk4N20yZmVFbGZoOGUzNkk?oc=5",
+          "publishedOn": "2024-12-08T15:07:24.000Z",
+          "wordCount": 12577,
+          "title": "How To Install Windows Subsystem for Linux on Windows 11 - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE9aZV9DYy1iZENhbjFaUFJvMlNweTVUQ0VJYjFOeVhIekY3MGh5X1dHX3RmdFVsOUxtYWUtZVM3NTBWVndCZjZQZjdaNzJ6eDVYVVNyNUhFLU1nWVVvVUhPWlYxaW9NUQ",
+          "author": null,
+          "description": "Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing On Gzip & Zstd  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZV9DYy1iZENhbjFaUFJvMlNweTVUQ0VJYjFOeVhIekY3MGh5X1dHX3RmdFVsOUxtYWUtZVM3NTBWVndCZjZQZjdaNzJ6eDVYVVNyNUhFLU1nWVVvVUhPWlYxaW9NUQ?oc=5",
+          "publishedOn": "2024-12-08T14:50:00.000Z",
+          "wordCount": 12577,
+          "title": "Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing On Gzip & Zstd - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE41WHJsZW5LRDhsaVQtd2xfOHFJSUM3aTFjT1JiX01yc0pGRlhzR2VLMjdQZGdjYnd2NWxlVWRYN1dSS1RFaGxPZ0FxUm1hQnJSR3NBOE90VkhlY2cxT3BGbW40NzVvdw",
+          "author": null,
+          "description": "Linux 6.13-rc2 To Workaround Buggy Intel Lunar Lake Leading To Responsiveness Issues  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WHJsZW5LRDhsaVQtd2xfOHFJSUM3aTFjT1JiX01yc0pGRlhzR2VLMjdQZGdjYnd2NWxlVWRYN1dSS1RFaGxPZ0FxUm1hQnJSR3NBOE90VkhlY2cxT3BGbW40NzVvdw?oc=5",
+          "publishedOn": "2024-12-08T12:00:00.000Z",
+          "wordCount": 12577,
+          "title": "Linux 6.13-rc2 To Workaround Buggy Intel Lunar Lake Leading To Responsiveness Issues - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE5rTFJNU1ZjVGNUZFRRcXk4ZGZDSWVUdHdnbjlaUkNtQUtRTUNjMFczMjZ1ang3VEp1RFlXUW9CQTV2elBKX0ozV1BLN2R2TUlLS3VhRXhUX3JJMkh1eWpSOG1hZTlmS3Yy",
+          "author": null,
+          "description": "Man Pages Too Complex? Try tldr to Learn Linux Commands  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rTFJNU1ZjVGNUZFRRcXk4ZGZDSWVUdHdnbjlaUkNtQUtRTUNjMFczMjZ1ang3VEp1RFlXUW9CQTV2elBKX0ozV1BLN2R2TUlLS3VhRXhUX3JJMkh1eWpSOG1hZTlmS3Yy?oc=5",
+          "publishedOn": "2024-12-08T12:00:00.000Z",
+          "wordCount": 12577,
+          "title": "Man Pages Too Complex? Try tldr to Learn Linux Commands - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTE5fcV96bFV0R0ZpdTZ0emxHbmdVQjI1UExpbWtNQUM2YUhvcUxxS1hrMi16bkNsMllhc0FXb3Q4R2ZSbE9NeEhPWWxIMnNaM1FVMlNybTNEZGZpSlpheVpoQQ",
+          "author": null,
+          "description": "Manjaro 24.2 Released With GNOME 47 Updates, Powered By Linux 6.12 LTS  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fcV96bFV0R0ZpdTZ0emxHbmdVQjI1UExpbWtNQUM2YUhvcUxxS1hrMi16bkNsMllhc0FXb3Q4R2ZSbE9NeEhPWWxIMnNaM1FVMlNybTNEZGZpSlpheVpoQQ?oc=5",
+          "publishedOn": "2024-12-08T11:05:00.000Z",
+          "wordCount": 12577,
+          "title": "Manjaro 24.2 Released With GNOME 47 Updates, Powered By Linux 6.12 LTS - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiqgFBVV95cUxOd3J1RmFUNTliUTNqQko5X0xjdUtWV1NtZGIxTjU0Ml92N01Jd0djM1BzNHNYbWRLSmdJcldBVVFyNlBRYmZUaFZBTEtUeGlaTFV3OHpQRUlxbTdoOV80VjJUTXNZS0YxM0d2V0l2ZWVpX0FYUVZNSUVteS1jb21ucFVSanpGWmpXemVNQlFvVEl3NFNFWVZVTV9IZUMyNlotNkNUcnVnaGhrZw",
           "author": null,
@@ -2403,6 +2433,16 @@
           "publishedOn": "2024-12-06T09:22:03.000Z",
           "wordCount": 12577,
           "title": "Valve may be working on a new kind of Steam Machine - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxPTXQ0WEV5c2ZTQ216dWdWX1V1RFpEUGVGQjA1Y081aHh3RWpfQWtZZm8zTHZUQk1nZWFfWTZKTmZPQkVfUVBzb0Fnd25fV0FmdnZDenZZSmVrdWNMNElIclowUTc5VUZxcGRXLTlxNEtqR0Ryb1dXendXTEFrUnh4U0FiX0pPNWFMN19KYk92dVNLTHZO",
+          "author": null,
+          "description": "How to Connect to Linux Samba Shares from Windows  TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXQ0WEV5c2ZTQ216dWdWX1V1RFpEUGVGQjA1Y081aHh3RWpfQWtZZm8zTHZUQk1nZWFfWTZKTmZPQkVfUVBzb0Fnd25fV0FmdnZDenZZSmVrdWNMNElIclowUTc5VUZxcGRXLTlxNEtqR0Ryb1dXendXTEFrUnh4U0FiX0pPNWFMN19KYk92dVNLTHZO?oc=5",
+          "publishedOn": "2024-12-06T08:00:00.000Z",
+          "wordCount": 12577,
+          "title": "How to Connect to Linux Samba Shares from Windows - TechRepublic",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7094,116 +7134,6 @@
           "wordCount": 12496,
           "title": "SysLinuxOS, A Linux Distro for System Administrators - The New Stack",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFA1WFhPX0oyUTJiTVl4U1VnN3M4SHZEZHZrS3RLbUpWRUpXU2JyY0JZd2QwMmxWT0k0bzl1QXM3TVctR1FLNWV2cG03SlR0dHJXTG1jZlJRSlFhdVhPTzVSZ0NmalEyN29ySUE",
-          "author": null,
-          "description": "Linux 6.13 Bringing DRM Panic Support To NVIDIA GPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WFhPX0oyUTJiTVl4U1VnN3M4SHZEZHZrS3RLbUpWRUpXU2JyY0JZd2QwMmxWT0k0bzl1QXM3TVctR1FLNWV2cG03SlR0dHJXTG1jZlJRSlFhdVhPTzVSZ0NmalEyN29ySUE?oc=5",
-          "publishedOn": "2024-11-09T13:40:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux 6.13 Bringing DRM Panic Support To NVIDIA GPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE1mOEZkT2REWnVxNXZNZ0x4T0pJeVJwQTBKQi0yVk45anRFT0ptWk5NbkRzT0U1bXVabU92ZWh1ZFExeGJnSDRxTjVTSEppUm5Ebng3N2R0bTFFdTQ0NDVXSl9qU2JjTUJobVJxZQ",
-          "author": null,
-          "description": "New Patches Aim To Optimize Context Switching With Two Improvements  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mOEZkT2REWnVxNXZNZ0x4T0pJeVJwQTBKQi0yVk45anRFT0ptWk5NbkRzT0U1bXVabU92ZWh1ZFExeGJnSDRxTjVTSEppUm5Ebng3N2R0bTFFdTQ0NDVXSl9qU2JjTUJobVJxZQ?oc=5",
-          "publishedOn": "2024-11-09T13:16:00.000Z",
-          "wordCount": 12496,
-          "title": "New Patches Aim To Optimize Context Switching With Two Improvements - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTFBCMjlIRHdyQ3BhalBzQ1lkVVd2ZnM3UktoWkZkRTlwSzlUemFxMzZmbzlRc2U2Ry15VTNuSDBBcnRLeFo3ajd3UnFqLWRKNlM2N2FLeWlVakZKWmVNNkF1aERqUEQ",
-          "author": null,
-          "description": "Running Windows Apps in Wine vs. VMs: Which Is Better?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCMjlIRHdyQ3BhalBzQ1lkVVd2ZnM3UktoWkZkRTlwSzlUemFxMzZmbzlRc2U2Ry15VTNuSDBBcnRLeFo3ajd3UnFqLWRKNlM2N2FLeWlVakZKWmVNNkF1aERqUEQ?oc=5",
-          "publishedOn": "2024-11-09T12:00:00.000Z",
-          "wordCount": 12496,
-          "title": "Running Windows Apps in Wine vs. VMs: Which Is Better? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE45VzRGVk00WnFUcWhmRWp1Tl9KXzVoU2pMS1dEdzR6MXY5OVdhLVVybTVGYWdFSndoN2w0UDdlbTA0a2ZWNE9QQTRORU5WN19jNGhpREhvLUVNSFIxXzVXSXV0TzhjaC05VVF3",
-          "author": null,
-          "description": "Microsoft Azure Linux 3.0 Update Pushes Additions For Intel, AMD & Arm  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45VzRGVk00WnFUcWhmRWp1Tl9KXzVoU2pMS1dEdzR6MXY5OVdhLVVybTVGYWdFSndoN2w0UDdlbTA0a2ZWNE9QQTRORU5WN19jNGhpREhvLUVNSFIxXzVXSXV0TzhjaC05VVF3?oc=5",
-          "publishedOn": "2024-11-09T11:10:00.000Z",
-          "wordCount": 12496,
-          "title": "Microsoft Azure Linux 3.0 Update Pushes Additions For Intel, AMD & Arm - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWkFVX3lxTE9QaG92RlRkcW1WZ1Y0c0JJU3AyYmdQcDBXWXZwS3QxR3M5eE9LbjV1bDh2Yl82SG5JSk0xOGpTcVExRE1iYXNReFdxWVlaTG5xcjdSMkhRVEtRUQ",
-          "author": null,
-          "description": "Installing Kali Linux on Raspberry Pi  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QaG92RlRkcW1WZ1Y0c0JJU3AyYmdQcDBXWXZwS3QxR3M5eE9LbjV1bDh2Yl82SG5JSk0xOGpTcVExRE1iYXNReFdxWVlaTG5xcjdSMkhRVEtRUQ?oc=5",
-          "publishedOn": "2024-11-09T03:57:28.000Z",
-          "wordCount": 12496,
-          "title": "Installing Kali Linux on Raspberry Pi - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxOTElUZHhyU3ZrOW10QWtwczdpd2Q3ZERUcHlLSHBlUGFZQVZ5RG0tYV84SENIYVlUVEpQSzY2T0RCcVY5SUpZQ01zc3oxXzFlVUxpcTQ4R3p2QzIzWWFtb0JmY1dNTDZDamZkMHlCdjJyN2x5QVNIdldZVVpNenVGNVFJWFRMeG9PMUZTdkxn",
-          "author": null,
-          "description": "How to Start, Stop, and Restart Services in Linux  TechRepublic",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTElUZHhyU3ZrOW10QWtwczdpd2Q3ZERUcHlLSHBlUGFZQVZ5RG0tYV84SENIYVlUVEpQSzY2T0RCcVY5SUpZQ01zc3oxXzFlVUxpcTQ4R3p2QzIzWWFtb0JmY1dNTDZDamZkMHlCdjJyN2x5QVNIdldZVVpNenVGNVFJWFRMeG9PMUZTdkxn?oc=5",
-          "publishedOn": "2024-11-08T22:18:45.000Z",
-          "wordCount": 12496,
-          "title": "How to Start, Stop, and Restart Services in Linux - TechRepublic",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikwFBVV95cUxPVy1kY2tmUjdVYkdVMnVxbDNGQU56eG1JLUxnRlg4TlE4VUg3N21PM21LMWx5ZWZ5TXNVUWRGdXBneWtSdGJ3SDdmXzVHQTBwOVNyQjd0a0tvTkhvZmpDUmNFa2lybFcwbUxPU0p2ZGdRYUYxRHh2Y3J1SW5hWEczQjlqbXhHbW9Uc3h5YnBxajZTeHM",
-          "author": null,
-          "description": "Fedora KDE Plasma Spin Gains Equal Footing With Gnome Edition  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVy1kY2tmUjdVYkdVMnVxbDNGQU56eG1JLUxnRlg4TlE4VUg3N21PM21LMWx5ZWZ5TXNVUWRGdXBneWtSdGJ3SDdmXzVHQTBwOVNyQjd0a0tvTkhvZmpDUmNFa2lybFcwbUxPU0p2ZGdRYUYxRHh2Y3J1SW5hWEczQjlqbXhHbW9Uc3h5YnBxajZTeHM?oc=5",
-          "publishedOn": "2024-11-08T19:32:01.000Z",
-          "wordCount": 12496,
-          "title": "Fedora KDE Plasma Spin Gains Equal Footing With Gnome Edition - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuwFBVV95cUxQeW5HTjJqbTZDRm5mdTNjdUVybHdPdHlPTlVtMTNyckwtanA5VGlaX1QzZUxKUnRhbFR1TERQaEFTUjB1MndYWnB3RUtteXNaWnVPTTBGcnlEemNnMXRoU3cxZW11Zl9fLW40dXFFZHhSM28xdTlKMUhtS0lhM0RIeGRDeTkzdGdZeFUxWnB5T1htSHlvaU5Wbl8yUkNrU2JfaW83anM3eGFhQlVWX1NKazdicDFPZU1Ra0xF",
-          "author": null,
-          "description": "Blood On The Thames is a Victorian London murder mystery now available for Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeW5HTjJqbTZDRm5mdTNjdUVybHdPdHlPTlVtMTNyckwtanA5VGlaX1QzZUxKUnRhbFR1TERQaEFTUjB1MndYWnB3RUtteXNaWnVPTTBGcnlEemNnMXRoU3cxZW11Zl9fLW40dXFFZHhSM28xdTlKMUhtS0lhM0RIeGRDeTkzdGdZeFUxWnB5T1htSHlvaU5Wbl8yUkNrU2JfaW83anM3eGFhQlVWX1NKazdicDFPZU1Ra0xF?oc=5",
-          "publishedOn": "2024-11-08T18:37:58.000Z",
-          "wordCount": 12496,
-          "title": "Blood On The Thames is a Victorian London murder mystery now available for Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWEFVX3lxTE9KVHpHZVJqdWFQSGhwaS1neG9YdGhkSUhEamhJNFpkdnQySkpxTEpUMTdLOGpKTzhTTHNULUdWS0NTejBRUm9Fc3pORk5kT0NUaGdHakRJOHE",
-          "author": null,
-          "description": "OpenZFS 2.3-rc3 Adds JSON Output For Commonly Used Commands  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVHpHZVJqdWFQSGhwaS1neG9YdGhkSUhEamhJNFpkdnQySkpxTEpUMTdLOGpKTzhTTHNULUdWS0NTejBRUm9Fc3pORk5kT0NUaGdHakRJOHE?oc=5",
-          "publishedOn": "2024-11-08T17:02:00.000Z",
-          "wordCount": 12496,
-          "title": "OpenZFS 2.3-rc3 Adds JSON Output For Commonly Used Commands - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFBqbUNWQ3pLWkp5NW5fSmo3M1NqbmJtV2Q0akhVbnJnSUVUWG1ocEZrRERRTFRvcS1RQVZHV0JkbFUxSkZSVEkxYVJTVDJuWExJbU1pYU4zZHVETW03TWpLLXBrNXdXbDFBSVE",
-          "author": null,
-          "description": "Linux Fix Pending For Annoying Intel Lunar Lake Laptop Problems  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqbUNWQ3pLWkp5NW5fSmo3M1NqbmJtV2Q0akhVbnJnSUVUWG1ocEZrRERRTFRvcS1RQVZHV0JkbFUxSkZSVEkxYVJTVDJuWExJbU1pYU4zZHVETW03TWpLLXBrNXdXbDFBSVE?oc=5",
-          "publishedOn": "2024-11-08T16:33:00.000Z",
-          "wordCount": 12496,
-          "title": "Linux Fix Pending For Annoying Intel Lunar Lake Laptop Problems - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimgFBVV95cUxPTE5LbHlGNUdFVVRaTV9aNnMtLWw1NEVTZkk2cGZnY1o3ZmltU0xMMFlTakJwY1hCVGdQN3o5aWFGNF9MY195M3VJaGt3ZGNOdjZNUmFLZl9JS1Z0dkEtNU5FdGd6ZUFDRmU2SEpPOWFBaXJjTUtKVlI0c3YzNWc5MjkwaUVIVmw5ZjVFSEFZODhtRGFlZ3VzaTZ30gGfAUFVX3lxTFA4bVdZamNRUzBNbjg1Y2tlQjgtV09LSUNMMGhFdElPRFZYWUlBSnB3cjFlS3JFQmZVanMtSUVtRnlKZ0w5TWEzOGEyMGRoSUZVeUhnY0hvaE5OdFBlalpXTlBqV1Rxdy1kM1Z1czJOYkVrdTNYa19veGhZU25WZUtfNVdocFhGSG9ZZ2o5SWtvaEpfQndDMFhBQktSTFVGSQ",
-          "author": null,
-          "description": "KDE Frameworks 6.8 Adds Breeze Icons for Typst Files and Fixes Many Bugs  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE5LbHlGNUdFVVRaTV9aNnMtLWw1NEVTZkk2cGZnY1o3ZmltU0xMMFlTakJwY1hCVGdQN3o5aWFGNF9MY195M3VJaGt3ZGNOdjZNUmFLZl9JS1Z0dkEtNU5FdGd6ZUFDRmU2SEpPOWFBaXJjTUtKVlI0c3YzNWc5MjkwaUVIVmw5ZjVFSEFZODhtRGFlZ3VzaTZ30gGfAUFVX3lxTFA4bVdZamNRUzBNbjg1Y2tlQjgtV09LSUNMMGhFdElPRFZYWUlBSnB3cjFlS3JFQmZVanMtSUVtRnlKZ0w5TWEzOGEyMGRoSUZVeUhnY0hvaE5OdFBlalpXTlBqV1Rxdy1kM1Z1czJOYkVrdTNYa19veGhZU25WZUtfNVdocFhGSG9ZZ2o5SWtvaEpfQndDMFhBQktSTFVGSQ?oc=5",
-          "publishedOn": "2024-11-08T16:07:06.000Z",
-          "wordCount": 12496,
-          "title": "KDE Frameworks 6.8 Adds Breeze Icons for Typst Files and Fixes Many Bugs - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10177,46 +10107,6 @@
           "wordCount": 2269,
           "title": "What is Cloud Computing? A Guide for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730228320580/871eed36-be9c-4ca8-a92d-b0329ad91ffe.png"
-        },
-        {
-          "id": "672e890a430ee66c1750bdbc",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
-          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
-          "publishedOn": "2024-11-08T21:56:26.000Z",
-          "wordCount": 1127,
-          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
-        },
-        {
-          "id": "672e5a06d7a5828f344ec242",
-          "author": "Kedar Makode",
-          "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
-          "link": "https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/",
-          "publishedOn": "2024-11-08T18:35:50.000Z",
-          "wordCount": 1619,
-          "title": "How to Host a Website on AWS EC2 Using a CSS Template",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
-        },
-        {
-          "id": "672e31c2d0e4fe6467edeb83",
-          "author": "David Jaja",
-          "description": "Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/",
-          "publishedOn": "2024-11-08T15:44:02.000Z",
-          "wordCount": 2263,
-          "title": "How to Use WebCurate to Discover Helpful Developer Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730908679140/f7c2ff53-9d06-4b2f-ae08-baaf219cba1f.png"
-        },
-        {
-          "id": "672e23dd41db65fcc7264dc0",
-          "author": "Manish Shivanandhan",
-          "description": "Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...",
-          "link": "https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/",
-          "publishedOn": "2024-11-08T14:44:45.000Z",
-          "wordCount": 2011,
-          "title": "Useful Nmap Scripts for Ethical Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731077044881/75a0f1c6-0aae-4ed6-bcfd-777b2ae2b1b6.jpeg"
         }
       ]
     }
