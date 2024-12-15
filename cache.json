@@ -29,6 +29,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195237",
+          "author": "Content Operations",
+          "description": "Learn how to check the status of ports 80 and 443 in UFW and how to remove the deny restrictions placed on them.\nThe post How to Open Ports 80 (HTTP) and 443 (HTTPS) in UFW appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-open-ports-80-http-and-443-https-in-ufw/",
+          "publishedOn": "2024-12-14T18:20:07.000Z",
+          "wordCount": 10884,
+          "title": "How to Open Ports 80 (HTTP) and 443 (HTTPS) in UFW",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195238",
+          "author": "Content Operations",
+          "description": "Learn how to setup the SOCKS5 proxy server on Debian, Ubuntu, Linux Mint, Red Hat, Fedora, and Rocky Linux using the MicroSocks.\nThe post How to Setup SOCKS5 Proxy Server on Linux Using MicroSocks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-setup-socks5-proxy-server-on-linux-using-microsocks/",
+          "publishedOn": "2024-12-14T13:20:09.000Z",
+          "wordCount": 10869,
+          "title": "How to Setup SOCKS5 Proxy Server on Linux Using MicroSocks",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195397",
           "author": "Content Operations",
           "description": "The last major update of the open source Kubernetes container orchestration platform for 2024 is now available, bringing with it a host of innovations for cloud-native deployments. Kubernetes 1.32 boasts 44 enhancements, including new standardization to the platform and improved dynamic resource allocation.\nThe post Kubernetes 1.32 ‘Penelope’ Introduces Key Innovations for Open Source Cloud Deployment appeared first on Linux Today.",
@@ -2006,116 +2026,6 @@
           "publishedOn": "2024-11-15T15:07:23.000Z",
           "wordCount": 9015,
           "title": "How to Count Total Frames in a Video on Linux Using FFmpeg",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194261",
-          "author": "Content Operations",
-          "description": "In this guide, we'll show you how to install Vuls Vulnerability Scanner on Ubuntu 24.04 server. You'll be installing Vuls, generating CVE databases, and scanning Ubuntu/Debian via local and remote scans\nThe post How to Install and Use Vuls Vulnerability Scanner on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-and-use-vuls-vulnerability-scanner-on-ubuntu-24-04/",
-          "publishedOn": "2024-11-15T14:00:53.000Z",
-          "wordCount": 9004,
-          "title": "How to Install and Use Vuls Vulnerability Scanner on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194408",
-          "author": "Content Operations",
-          "description": "In this article we discuss about the privacy and data security issues that arise when using cloud-based services like ChatGPT.\nThe post Jan: An Open Source ChatGPT-Alternative That Runs 100% Offline appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/jan-an-open-source-chatgpt-alternative-that-runs-100-offline/",
-          "publishedOn": "2024-11-14T21:52:54.000Z",
-          "wordCount": 9050,
-          "title": "Jan: An Open Source ChatGPT-Alternative That Runs 100% Offline",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194456",
-          "author": "Content Operations",
-          "description": "Linkwarden 2.8 bookmark manager is out now with custom preview images, Phosphor icons, link details drawer, browser sync, multilingual support, and more.\nThe post Linkwarden 2.8 Bookmark Manager: Custom Icons, Browser Sync, and More appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/linkwarden-2-8-bookmark-manager-custom-icons-browser-sync-and-more/",
-          "publishedOn": "2024-11-14T20:42:02.000Z",
-          "wordCount": 8975,
-          "title": "Linkwarden 2.8 Bookmark Manager: Custom Icons, Browser Sync, and More",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194459",
-          "author": "Content Operations",
-          "description": "This is a multi-part blog looking at a DreamQuest N100 Mini PC running Linux. \nThe post DreamQuest N100 Mini PC Running Linux: Introduction appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/dreamquest-n100-mini-pc-running-linux-introduction/",
-          "publishedOn": "2024-11-14T19:31:27.000Z",
-          "wordCount": 8970,
-          "title": "DreamQuest N100 Mini PC Running Linux: Introduction",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194414",
-          "author": "Content Operations",
-          "description": "In this article, we'll provide our top recommendations for network intrusion detection systems.\nThe post 8 Best Free and Open Source Network Intrusion Detection Systems appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/8-best-free-and-open-source-network-intrusion-detection-systems/",
-          "publishedOn": "2024-11-14T19:01:59.000Z",
-          "wordCount": 8975,
-          "title": "8 Best Free and Open Source Network Intrusion Detection Systems",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194405",
-          "author": "Content Operations",
-          "description": "This article will guide you through the steps to install and use Scikit-learn on a Linux system.\nThe post How to Install and Use Scikit-Learn in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-and-use-scikit-learn-in-linux/",
-          "publishedOn": "2024-11-14T17:12:41.000Z",
-          "wordCount": 8996,
-          "title": "How to Install and Use Scikit-Learn in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194458",
-          "author": "Content Operations",
-          "description": "This tutorial explains how to change file timestamps to a specific date and time in Linux. It also covers how to verify that the timestamps have been changed correctly.\nThe post How To Change File Timestamps To Specific Date And Time In Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-change-file-timestamps-to-specific-date-and-time-in-linux/",
-          "publishedOn": "2024-11-14T17:08:01.000Z",
-          "wordCount": 8987,
-          "title": "How To Change File Timestamps To Specific Date And Time In Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194467",
-          "author": "Content Operations",
-          "description": "With thousands of improvements, including substantial updates across the entire .NET stack, .NET 9 brings you increased productivity, unmatched performance, intelligent features, and enhanced security.\nThe post .NET 9 Developer Platform Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/net-9-developer-platform-released-heres-whats-new/",
-          "publishedOn": "2024-11-14T16:26:47.000Z",
-          "wordCount": 8974,
-          "title": ".NET 9 Developer Platform Released, Here’s What’s New",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194457",
-          "author": "Content Operations",
-          "description": "LibreOffice 24.8.3 is here one and a half months after the LibreOffice 24.8.2 release to address more of those pesky bugs, crashes, and other annoyances reported by users, thus improving its overall stability and reliability of the open-source, free, and cross-platform office suite.\nThe post LibreOffice 24.8.3 Office Suite Is Now Available for Download with 88 Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/libreoffice-24-8-3-office-suite-is-now-available-for-download-with-88-bug-fixes/",
-          "publishedOn": "2024-11-14T15:43:15.000Z",
-          "wordCount": 9027,
-          "title": "LibreOffice 24.8.3 Office Suite Is Now Available for Download with 88 Bug Fixes",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194402",
-          "author": "Content Operations",
-          "description": "Home server OSes allow you to easily install third-party apps on your home server. Here are the best home server OSes that you can install today.\nThe post The Best Home Server OS For Your Self-hosted Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/the-best-home-server-os-for-your-self-hosted-apps/",
-          "publishedOn": "2024-11-14T15:00:40.000Z",
-          "wordCount": 8985,
-          "title": "The Best Home Server OS For Your Self-hosted Apps",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194274",
-          "author": "Content Operations",
-          "description": "Searching for an uptime monitor? Follow our Uptime Kuma Docker installation and configuration guide to ensure your services stay live 24/7.\nThe post Uptime Kuma Docker Setup Guide: Installation and Configuration appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/uptime-kuma-docker-setup-guide-installation-and-configuration/",
-          "publishedOn": "2024-11-14T14:13:58.000Z",
-          "wordCount": 8971,
-          "title": "Uptime Kuma Docker Setup Guide: Installation and Configuration",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
@@ -7324,146 +7234,6 @@
           "wordCount": 12600,
           "title": "How to use the W diff command - Network World",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTFBieGZJWHdoZHRBd3NwM2Fram9paDYwWjF1dG5yT0pDTW5VVmVhNjRlQXRfSFpMR2xzZFNENExZR1R3V3VTTmlidEwyRFpaTlBQbjBlX1dpdjFwQmpYTV9HZjRGQU5INDNu",
-          "author": null,
-          "description": "Google Posts Patches Further Speeding Up Linux Async Device Suspend & Resume  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieGZJWHdoZHRBd3NwM2Fram9paDYwWjF1dG5yT0pDTW5VVmVhNjRlQXRfSFpMR2xzZFNENExZR1R3V3VTTmlidEwyRFpaTlBQbjBlX1dpdjFwQmpYTV9HZjRGQU5INDNu?oc=5",
-          "publishedOn": "2024-11-15T13:25:00.000Z",
-          "wordCount": 12600,
-          "title": "Google Posts Patches Further Speeding Up Linux Async Device Suspend & Resume - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuAFBVV95cUxOVkZWNkNUSlY1TC11SURSZDBBajJJTl90ZjJrWW5vN3Z4WXIzRTk3cnVsS0Z4NEZiSGNld3FBU1RidTBnNG5HTmlqWktPbDhGS2dfNjhEOXJpdkc4a2xtSnduc1lWS0FzLU9ycHJYZXlCYTRDU3BsSUpUdDdrWEdqUDFtV0h5ekh1ZVVPSlhTeUc4N05WaDJnT0hBZ015R1d4anNfaHJsbDc5ZFlLQWJCSDhUdDVKdlVu",
-          "author": null,
-          "description": "Red Hat Joins the Linux Foundation’s Margo Initiative to Deliver Edge Interoperability for Industrial Automation Ecosystems  ARC Advisory Group",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkZWNkNUSlY1TC11SURSZDBBajJJTl90ZjJrWW5vN3Z4WXIzRTk3cnVsS0Z4NEZiSGNld3FBU1RidTBnNG5HTmlqWktPbDhGS2dfNjhEOXJpdkc4a2xtSnduc1lWS0FzLU9ycHJYZXlCYTRDU3BsSUpUdDdrWEdqUDFtV0h5ekh1ZVVPSlhTeUc4N05WaDJnT0hBZ015R1d4anNfaHJsbDc5ZFlLQWJCSDhUdDVKdlVu?oc=5",
-          "publishedOn": "2024-11-15T12:00:00.000Z",
-          "wordCount": 12601,
-          "title": "Red Hat Joins the Linux Foundation’s Margo Initiative to Deliver Edge Interoperability for Industrial Automation Ecosystems - ARC Advisory Group",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE5nUlI0cE9Gb1g1Vl9qa2RpMWZrQWd2Vm90Y1NaWmZqT2I5M1dvQUU3VVNvT3ZYX1E0SnEtc3pYTmdMeU9ZdFh1emhCWGIwVW1ITkN2UWtHSENGeUN2TmswTXo3YnBKZDhUcnc",
-          "author": null,
-          "description": "SDL3 Improves Steam Controller Support, Now Enabled By Default  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nUlI0cE9Gb1g1Vl9qa2RpMWZrQWd2Vm90Y1NaWmZqT2I5M1dvQUU3VVNvT3ZYX1E0SnEtc3pYTmdMeU9ZdFh1emhCWGIwVW1ITkN2UWtHSENGeUN2TmswTXo3YnBKZDhUcnc?oc=5",
-          "publishedOn": "2024-11-15T11:08:00.000Z",
-          "wordCount": 12605,
-          "title": "SDL3 Improves Steam Controller Support, Now Enabled By Default - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxOV0MwQ2VzdzBFb3A4TjNDQzRlQ3p2ajd6cjhsM1V6eDB0ZlRhbmFPNXNxOGI4cVRUTi1HX3FyWkVzNDJvOFhRa2F0bUlDNjRzcE00WmxrNUE3a1pRSVdPYm1iSHNVT0t4eHRsMU9LUUJlVmwzZklDMVRtYXQ4aWpJUjh2c3JMTVJwRFJvZVdOLTgybzFuU3lvZGNGQ3BQX0NKNV8yMzF5UWFsb1p2",
-          "author": null,
-          "description": "EVERSPACE 2 fixes videos playback on Linux and Steam Deck with Proton  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0MwQ2VzdzBFb3A4TjNDQzRlQ3p2ajd6cjhsM1V6eDB0ZlRhbmFPNXNxOGI4cVRUTi1HX3FyWkVzNDJvOFhRa2F0bUlDNjRzcE00WmxrNUE3a1pRSVdPYm1iSHNVT0t4eHRsMU9LUUJlVmwzZklDMVRtYXQ4aWpJUjh2c3JMTVJwRFJvZVdOLTgybzFuU3lvZGNGQ3BQX0NKNV8yMzF5UWFsb1p2?oc=5",
-          "publishedOn": "2024-11-15T10:46:46.000Z",
-          "wordCount": 12600,
-          "title": "EVERSPACE 2 fixes videos playback on Linux and Steam Deck with Proton - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicEFVX3lxTE9JcWVJRzlPcjRlUWtmTFZ2OTNXaE92R0lYLXh6aEFDMk1JenhiR1NkY29YUzFtM2NaN3ZULWhUREVBaWktaG1vdmVXY25tQWRTMTJNazNyTVdvdUJ6SzF2VjJTcWF1S21wRGVxcmQ0Tzg",
-          "author": null,
-          "description": "Ubuntu Server: A Cheat Sheet  TechRepublic",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcWVJRzlPcjRlUWtmTFZ2OTNXaE92R0lYLXh6aEFDMk1JenhiR1NkY29YUzFtM2NaN3ZULWhUREVBaWktaG1vdmVXY25tQWRTMTJNazNyTVdvdUJ6SzF2VjJTcWF1S21wRGVxcmQ0Tzg?oc=5",
-          "publishedOn": "2024-11-15T08:00:00.000Z",
-          "wordCount": 12580,
-          "title": "Ubuntu Server: A Cheat Sheet - TechRepublic",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqAFBVV95cUxNelJkcUhkY3NFVDdibFN6dmg0aTRZUG54YWlJSEF0VlctZkJVdTU0enJobndIaDNDSHBSRXBmMnFrdGo2dFFHLUNRbGZZNWZqYzRoZnIzTF9wYTFlb0VycVZxc29IUnRlZ2VqUzI3amZoaExzRHRCb0hFQnh0d2JhQUVGNXRQSlloNDdkYWJGRGYzVnh6WlhTZVFXZjRQU0dXdHk3NlYxbVc",
-          "author": null,
-          "description": "Google Issues Chrome Security Update for Windows, Mac, Linux, Android Users  NTD",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelJkcUhkY3NFVDdibFN6dmg0aTRZUG54YWlJSEF0VlctZkJVdTU0enJobndIaDNDSHBSRXBmMnFrdGo2dFFHLUNRbGZZNWZqYzRoZnIzTF9wYTFlb0VycVZxc29IUnRlZ2VqUzI3amZoaExzRHRCb0hFQnh0d2JhQUVGNXRQSlloNDdkYWJGRGYzVnh6WlhTZVFXZjRQU0dXdHk3NlYxbVc?oc=5",
-          "publishedOn": "2024-11-15T03:50:34.000Z",
-          "wordCount": 12600,
-          "title": "Google Issues Chrome Security Update for Windows, Mac, Linux, Android Users - NTD",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi6wFBVV95cUxQY29TNmpFWnBkal82WUFHNkhsSW9yUk1ndmR2WkJqbEpGZ1Y3T0ptSmFPc3NYekd5czRpU2k4a21qbFg4aktIRFd4TkRGSHJaSVFkWG1jR3Bwbl9ta0VzSHhBT05IUm9IVHlndFExd0Rndkttd3Jjall3QlRGTUF5LXphdWFwVGF6anJieE9fb0ZKT2N3RzRqN2Nnc1ppZ2czUUFDd0RXYkJHX2xrU3N1a1RYMThrcG1kMUJpS2w3cDNZMkJ5VUJvZ0JSYTFBU3N3Z1oyWlUwWWNrQVBMSzFBUDNhQTBTWUQtSmFr",
-          "author": null,
-          "description": "Automotive Grade Linux Launches New Expert Group to Enhance Open Source Collaboration  SDxCentral",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY29TNmpFWnBkal82WUFHNkhsSW9yUk1ndmR2WkJqbEpGZ1Y3T0ptSmFPc3NYekd5czRpU2k4a21qbFg4aktIRFd4TkRGSHJaSVFkWG1jR3Bwbl9ta0VzSHhBT05IUm9IVHlndFExd0Rndkttd3Jjall3QlRGTUF5LXphdWFwVGF6anJieE9fb0ZKT2N3RzRqN2Nnc1ppZ2czUUFDd0RXYkJHX2xrU3N1a1RYMThrcG1kMUJpS2w3cDNZMkJ5VUJvZ0JSYTFBU3N3Z1oyWlUwWWNrQVBMSzFBUDNhQTBTWUQtSmFr?oc=5",
-          "publishedOn": "2024-11-14T22:39:21.000Z",
-          "wordCount": 12600,
-          "title": "Automotive Grade Linux Launches New Expert Group to Enhance Open Source Collaboration - SDxCentral",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinAFBVV95cUxNTG83MlNrbll2ME1ld245bUtQUmlONnZiNmktVFpTQTNrVVd2SU14dDBFakx4UnNteGdPdjQ4WXJoVV9aRnkxUDdSSEhiVHBkVGFkM05lVnF4Z003dEpULVAzZDNvUENaLVZVbllGNFNadk9Cel9OdTJvWkhyLTQxSS1xNW5ZcGtlRG4zZlNkQkQ4bjJwX0ktQkZJMWs",
-          "author": null,
-          "description": "2-Minute Linux Tips: How to use the sdiff command  Network World",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTG83MlNrbll2ME1ld245bUtQUmlONnZiNmktVFpTQTNrVVd2SU14dDBFakx4UnNteGdPdjQ4WXJoVV9aRnkxUDdSSEhiVHBkVGFkM05lVnF4Z003dEpULVAzZDNvUENaLVZVbllGNFNadk9Cel9OdTJvWkhyLTQxSS1xNW5ZcGtlRG4zZlNkQkQ4bjJwX0ktQkZJMWs?oc=5",
-          "publishedOn": "2024-11-14T19:29:56.000Z",
-          "wordCount": 12600,
-          "title": "2-Minute Linux Tips: How to use the sdiff command - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxNTVZpYXlyM1FIczhORkJOTXFXcEZBWnhYbm5sWEdIekE0T1BfcnNfTy1TeVkwc0g2OWVURktVcXd3dFRhTm9fNXBTMk44NVJiVkktNjFnZ3Z6SE1vODJPTC1SSUlnUmx0Y2hfcGN0dFNPSHJJalVuaWNrWk9vWTNac0Z6X3MxVHVXYk9pT1BKdHo2b3owSHBoYW44X1phNmVlN1J4VkkzOXhDUjREMlRCNDlZYw",
-          "author": null,
-          "description": "The latest from Prime Gaming - November 14 edition - lots for Steam Deck / Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZpYXlyM1FIczhORkJOTXFXcEZBWnhYbm5sWEdIekE0T1BfcnNfTy1TeVkwc0g2OWVURktVcXd3dFRhTm9fNXBTMk44NVJiVkktNjFnZ3Z6SE1vODJPTC1SSUlnUmx0Y2hfcGN0dFNPSHJJalVuaWNrWk9vWTNac0Z6X3MxVHVXYk9pT1BKdHo2b3owSHBoYW44X1phNmVlN1J4VkkzOXhDUjREMlRCNDlZYw?oc=5",
-          "publishedOn": "2024-11-14T18:21:35.000Z",
-          "wordCount": 12600,
-          "title": "The latest from Prime Gaming - November 14 edition - lots for Steam Deck / Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFBmR3FXcW5lYm1DaXpPd1pYV3BYOHE5WXp5cFpDTjJuU0lTS1o4N01vdWE0dmJtaFpXOHR6V211TC1TOENGODJWS2VlX1NxOVk2dnhFLUVFSmVFWUY2R3VrWVc4UTBxTkVRVlE",
-          "author": null,
-          "description": "Upstream Linux Developers Take Aim At TUXEDO's Out-Of-Tree GPLv3 Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmR3FXcW5lYm1DaXpPd1pYV3BYOHE5WXp5cFpDTjJuU0lTS1o4N01vdWE0dmJtaFpXOHR6V211TC1TOENGODJWS2VlX1NxOVk2dnhFLUVFSmVFWUY2R3VrWVc4UTBxTkVRVlE?oc=5",
-          "publishedOn": "2024-11-14T17:10:00.000Z",
-          "wordCount": 12600,
-          "title": "Upstream Linux Developers Take Aim At TUXEDO's Out-Of-Tree GPLv3 Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi-wFBVV95cUxPVm1ROTNCclcwWmpUZW43VXdBbTdPbFEyMHl5SzhPSjFDVmo2cFlCUFF5SDNLWmozajR1WGQtTkxUOVhOUW40TGNJLUV6V21yUG9MLXRodFFXYWUwSlJEOXZ4NE1tODgxLVRUcWZTUG1LLWNaOTZ4emlONHZna3FWbHFyZEUyYUs2UU5rel9SWV9zb0lfNGZYT185MHN5OW8wSW9KTDlJS3ZXejR6S09DaWoxc1RucTBpbllzQXRSNnVXQVI2U1dSb0FpbzZzZXBVOHJUeUhzaXRQQ2lmd25zdDgyUVB6MTZ5LXF6OTRsQWhid3ZBNGUwWWlhUQ",
-          "author": null,
-          "description": "Automotive Grade Linux Launches New Expert Group Led by Toyota to Help Automakers Manage Open Source Activities  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVm1ROTNCclcwWmpUZW43VXdBbTdPbFEyMHl5SzhPSjFDVmo2cFlCUFF5SDNLWmozajR1WGQtTkxUOVhOUW40TGNJLUV6V21yUG9MLXRodFFXYWUwSlJEOXZ4NE1tODgxLVRUcWZTUG1LLWNaOTZ4emlONHZna3FWbHFyZEUyYUs2UU5rel9SWV9zb0lfNGZYT185MHN5OW8wSW9KTDlJS3ZXejR6S09DaWoxc1RucTBpbllzQXRSNnVXQVI2U1dSb0FpbzZzZXBVOHJUeUhzaXRQQ2lmd25zdDgyUVB6MTZ5LXF6OTRsQWhid3ZBNGUwWWlhUQ?oc=5",
-          "publishedOn": "2024-11-14T16:07:00.000Z",
-          "wordCount": 12600,
-          "title": "Automotive Grade Linux Launches New Expert Group Led by Toyota to Help Automakers Manage Open Source Activities - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuAFBVV95cUxOb2t1QlFTRWdNRjJ6NExLT3dGQTQwWnBtd090a0lDdk1Ud2txMmR6VWI3bTlvU2d4a0hERkxmZDMtdmJzZ0gxQ0t2UjhsRXk4cmtFZTVIOXpPeEZFVFRwd0FDUHd0MUZ2TE5tUXhtZENiQjJPVHpsS1pyMzdzZHRGeTItQXlIZnYtQ3dINkh5YXhxbno3bmFqVHY4RXBVTERRZjdpVExhcVNZYlF4SS1MNWdwclBBWmxl",
-          "author": null,
-          "description": "System76 Meerkat Linux mini PC gets a spec bump, still ships with a 2-year-old Intel processor  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2t1QlFTRWdNRjJ6NExLT3dGQTQwWnBtd090a0lDdk1Ud2txMmR6VWI3bTlvU2d4a0hERkxmZDMtdmJzZ0gxQ0t2UjhsRXk4cmtFZTVIOXpPeEZFVFRwd0FDUHd0MUZ2TE5tUXhtZENiQjJPVHpsS1pyMzdzZHRGeTItQXlIZnYtQ3dINkh5YXhxbno3bmFqVHY4RXBVTERRZjdpVExhcVNZYlF4SS1MNWdwclBBWmxl?oc=5",
-          "publishedOn": "2024-11-14T15:57:16.000Z",
-          "wordCount": 12600,
-          "title": "System76 Meerkat Linux mini PC gets a spec bump, still ships with a 2-year-old Intel processor - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiekFVX3lxTE1yMkZCQnROR1d1T3JFc2pTR2RBempvRkxQd25wWDVTV0VXT002M1FkM0RIX1hzcG54b1RUcVZ5X0lrREdONnlNcmF4eS04QUxEeFhmaE00YUZrSFB3WnRRWTA0TVd5SVpjNU9DODNNc09DZVhXcGhKU3pB",
-          "author": null,
-          "description": "The Pros And Cons Of Open Source Software: Is It Really Safe?  SlashGear",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yMkZCQnROR1d1T3JFc2pTR2RBempvRkxQd25wWDVTV0VXT002M1FkM0RIX1hzcG54b1RUcVZ5X0lrREdONnlNcmF4eS04QUxEeFhmaE00YUZrSFB3WnRRWTA0TVd5SVpjNU9DODNNc09DZVhXcGhKU3pB?oc=5",
-          "publishedOn": "2024-11-14T15:30:41.000Z",
-          "wordCount": 12600,
-          "title": "The Pros And Cons Of Open Source Software: Is It Really Safe? - SlashGear",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWkFVX3lxTE5Ua2FqNEZmbHlnUkFvd2FCZnlld1h0cmpkV0RMZXFwM2ZtVjNZVzZVeDY5NjdPU1dNRzVIWGVWekFnRnlxdjd5Qjh5WjBRRWFETFp2c2VTSEtyQQ",
-          "author": null,
-          "description": "The Best VPNs for Linux in 2024  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ua2FqNEZmbHlnUkFvd2FCZnlld1h0cmpkV0RMZXFwM2ZtVjNZVzZVeDY5NjdPU1dNRzVIWGVWekFnRnlxdjd5Qjh5WjBRRWFETFp2c2VTSEtyQQ?oc=5",
-          "publishedOn": "2024-11-14T15:30:00.000Z",
-          "wordCount": 12600,
-          "title": "The Best VPNs for Linux in 2024 - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10417,36 +10187,6 @@
           "wordCount": 1989,
           "title": "How to Support Multiple Languages In Your Flutter Application",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YeO44yVTl20/upload/2ec70e1bfce727903fecba0c2f9b6b8b.jpeg"
-        },
-        {
-          "id": "673677f66aa5d15c65da2de2",
-          "author": "Beau Carnes",
-          "description": "Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...",
-          "link": "https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/",
-          "publishedOn": "2024-11-14T22:21:42.000Z",
-          "wordCount": 1307,
-          "title": "Create a Full Stack Spotify Clone with Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731622884338/756e3521-d287-4484-856f-9afd634c38dd.png"
-        },
-        {
-          "id": "673616b2ea38d82d84002cda",
-          "author": "Birks Sachdev",
-          "description": "As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/",
-          "publishedOn": "2024-11-14T15:26:42.000Z",
-          "wordCount": 4972,
-          "title": "How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1td5Iq5IvNc/upload/adaeb0229ea4ed1cd3c985d8eb92d23e.jpeg"
-        },
-        {
-          "id": "67360e398a8e3a6a2f6c32cd",
-          "author": "Md. Fahim Bin Amin",
-          "description": "XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...",
-          "link": "https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/",
-          "publishedOn": "2024-11-14T14:50:33.000Z",
-          "wordCount": 1296,
-          "title": "How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/ab4deba46100e61a5425d817f6406742.jpeg"
         }
       ]
     }
