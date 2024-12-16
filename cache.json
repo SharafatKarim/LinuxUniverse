@@ -29,6 +29,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195261",
+          "author": "Content Operations",
+          "description": "Note-taking app is indispensable in every computing system. Here are some of the more useful note-taking apps that you can use on Linux today.\nThe post 5 of the More Useful Note-taking Apps in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/5-of-the-more-useful-note-taking-apps-in-linux/",
+          "publishedOn": "2024-12-15T17:22:31.000Z",
+          "wordCount": 10870,
+          "title": "5 of the More Useful Note-taking Apps in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195260",
+          "author": "Content Operations",
+          "description": "Learn how to install ttyd on Linux, find out the ttyd default port, create a ttyd systemd service, and access the server via HTTPS.\nThe post How to Share Your Linux Terminal Over the Web Using Ttyd appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-share-your-linux-terminal-over-the-web-using-ttyd-2/",
+          "publishedOn": "2024-12-15T14:22:34.000Z",
+          "wordCount": 10879,
+          "title": "How to Share Your Linux Terminal Over the Web Using Ttyd",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195237",
           "author": "Content Operations",
           "description": "Learn how to check the status of ports 80 and 443 in UFW and how to remove the deny restrictions placed on them.\nThe post How to Open Ports 80 (HTTP) and 443 (HTTPS) in UFW appeared first on Linux Today.",
@@ -1927,106 +1947,6 @@
           "wordCount": 8987,
           "title": "How to Install Mattermost on Rocky Linux 9",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194259",
-          "author": "Content Operations",
-          "description": "In this guide, you'll learn how to monitor MySQL/MariaDB servers with Prometheus and Grafana.\nThe post How to Monitor MySQL or MariaDB with Prometheus and Grafana appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-monitor-mysql-or-mariadb-with-prometheus-and-grafana/",
-          "publishedOn": "2024-11-16T14:00:27.000Z",
-          "wordCount": 8985,
-          "title": "How to Monitor MySQL or MariaDB with Prometheus and Grafana",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194451",
-          "author": "Content Operations",
-          "description": "If you’re a Linux user, you have several tools at your fingertips to create QR codes efficiently. Let’s look at some popular QR code generators you can use directly on your Linux system.\nThe post 4 Best QR Code Generator Tools for Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/4-best-qr-code-generator-tools-for-linux/",
-          "publishedOn": "2024-11-15T23:42:06.000Z",
-          "wordCount": 9027,
-          "title": "4 Best QR Code Generator Tools for Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194481",
-          "author": "Content Operations",
-          "description": "Collabora is delighted to announce a growing collaboration with MediaTek which will enable Collabora to introduce, improve, and maintain MediaTek's IoT Edge AI Genio platforms upstream, with the goal of fully supporting the official Evaluation Kit (EVK) in Debian as well as other Linux distributions.\nThe post Full Upstream Support Coming for MediaTek’s IoT Edge AI Genio platforms appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/full-upstream-support-coming-for-mediateks-iot-edge-ai-genio-platforms/",
-          "publishedOn": "2024-11-15T22:21:43.000Z",
-          "wordCount": 9023,
-          "title": "Full Upstream Support Coming for MediaTek’s IoT Edge AI Genio platforms",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194453",
-          "author": "Content Operations",
-          "description": "In this article, I’ll provide a detailed understanding of what hashdeep is, how it works, and how you can use it effectively in Linux environments.\nThe post Hashdeep: A Powerful Tool for File Verification in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/hashdeep-a-powerful-tool-for-file-verification-in-linux/",
-          "publishedOn": "2024-11-15T21:11:18.000Z",
-          "wordCount": 9035,
-          "title": "Hashdeep: A Powerful Tool for File Verification in Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194494",
-          "author": "Content Operations",
-          "description": "Nginx or NGINX is a widely used web server with many features, including load balancing, reverse proxying, content caching, mail proxying, and more. In this tutorial, you will learn to configure Nginx as a reverse proxy on Ubuntu 24.04.\nThe post How To Configure Nginx as a Reverse Proxy on Ubuntu 24.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-24-04/",
-          "publishedOn": "2024-11-15T20:47:18.000Z",
-          "wordCount": 9060,
-          "title": "How To Configure Nginx as a Reverse Proxy on Ubuntu 24.04",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194450",
-          "author": "Content Operations",
-          "description": "Learn how to install and use Docker Rollout to quickly update the Docker Compose services with zero downtime by automating every task.\nThe post Docker Rollout: Zero Downtime Deployment for Docker Compose appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/docker-rollout-zero-downtime-deployment-for-docker-compose/",
-          "publishedOn": "2024-11-15T20:41:48.000Z",
-          "wordCount": 8977,
-          "title": "Docker Rollout: Zero Downtime Deployment for Docker Compose",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194502",
-          "author": "Content Operations",
-          "description": "WUD just released version 7.1, bringing a fresh set of features to streamline container management and alerts that will definitely excite Docker enthusiasts. But wait—haven’t you heard of it? Well, here’s the short version.\nThe post WUD 7.1 Brings Fresh Notification Features to Docker Monitoring appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/wud-7-1-brings-fresh-notification-features-to-docker-monitoring/",
-          "publishedOn": "2024-11-15T20:21:49.000Z",
-          "wordCount": 8981,
-          "title": "WUD 7.1 Brings Fresh Notification Features to Docker Monitoring",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194266",
-          "author": "Content Operations",
-          "description": "This article discusses Am I Isolated, an open-source container security benchmark that probes users’ runtime environments and tests for container isolation.\nThe post Am I Isolated: Open-source container security benchmark appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/am-i-isolated-open-source-container-security-benchmark/",
-          "publishedOn": "2024-11-15T16:53:25.000Z",
-          "wordCount": 8997,
-          "title": "Am I Isolated: Open-source container security benchmark",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194357",
-          "author": "Content Operations",
-          "description": "DXVK 2.5 optimizes memory with periodic defragmentation, enabling efficient resource use for better game performance without increasing VRAM costs.\nThe post DXVK 2.5 Unveils Major Memory Management Overhaul for Smoother Gaming appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/dxvk-2-5-unveils-major-memory-management-overhaul-for-smoother-gaming/",
-          "publishedOn": "2024-11-15T16:03:52.000Z",
-          "wordCount": 8974,
-          "title": "DXVK 2.5 Unveils Major Memory Management Overhaul for Smoother Gaming",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194263",
-          "author": "Content Operations",
-          "description": "This article will walk you through how to use FFmpeg on Linux to count video frames.\nThe post How to Count Total Frames in a Video on Linux Using FFmpeg appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-count-total-frames-in-a-video-on-linux-using-ffmpeg/",
-          "publishedOn": "2024-11-15T15:07:23.000Z",
-          "wordCount": 9015,
-          "title": "How to Count Total Frames in a Video on Linux Using FFmpeg",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2035,6 +1955,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiYkFVX3lxTE82SlhVNUg0d0c5ZUZfOEJDMVhHdDduZ3ZBSEphY0F5aFpHNTVoQldWNmdScUlZOTVPYmthOVlrTHZDc29sQ1dnTjdXd1EzWG5zNHlNZ01OUFktNHhoOWVpUXR3",
+          "author": null,
+          "description": "Xfce 4.20 Linux desktop environment gets lit with experimental Wayland support and new features  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82SlhVNUg0d0c5ZUZfOEJDMVhHdDduZ3ZBSEphY0F5aFpHNTVoQldWNmdScUlZOTVPYmthOVlrTHZDc29sQ1dnTjdXd1EzWG5zNHlNZ01OUFktNHhoOWVpUXR3?oc=5",
+          "publishedOn": "2024-12-15T21:20:33.000Z",
+          "wordCount": 12586,
+          "title": "Xfce 4.20 Linux desktop environment gets lit with experimental Wayland support and new features - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMif0FVX3lxTE8wNHk0d1lWZU5oaC1LWjdNQTVoUXRrN05yb2ZWQUtYeVlyRGxjN1dLdTlMN2ZuMmd0M1VwSElOdEdSd2hCU0d0c3A5dHMxZnJQb0ZySUxEajcwWlEwd2pkT0xIbVFOZExyQVZ6MXBCLThtajlvTnZkYVp5RUJmeTQ",
+          "author": null,
+          "description": "How to Mix And Match Windows and Linux With WSL  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wNHk0d1lWZU5oaC1LWjdNQTVoUXRrN05yb2ZWQUtYeVlyRGxjN1dLdTlMN2ZuMmd0M1VwSElOdEdSd2hCU0d0c3A5dHMxZnJQb0ZySUxEajcwWlEwd2pkT0xIbVFOZExyQVZ6MXBCLThtajlvTnZkYVp5RUJmeTQ?oc=5",
+          "publishedOn": "2024-12-15T18:00:00.000Z",
+          "wordCount": 12586,
+          "title": "How to Mix And Match Windows and Linux With WSL - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgFBVV95cUxOdzNZeXlJSjBZQWc0b0dDSXhDRlFqMkd0N2ZPakxKUWZKN0V1RmVGUlk3ako1cnRQVTA3UTB2WF9nTTd6SmpyeG5YMjVqMWtTUklXVFNjWXJWRlJnNzFXOFM4eVl4T2w2U01jOXVpclZMc2xRQktlWXU1blFKa002blZLMXJ0dUVyLWJweGRR",
+          "author": null,
+          "description": "Elementary OS: A Linux Distro Easy To Use and Easy on the Eyes  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzNZeXlJSjBZQWc0b0dDSXhDRlFqMkd0N2ZPakxKUWZKN0V1RmVGUlk3ako1cnRQVTA3UTB2WF9nTTd6SmpyeG5YMjVqMWtTUklXVFNjWXJWRlJnNzFXOFM4eVl4T2w2U01jOXVpclZMc2xRQktlWXU1blFKa002blZLMXJ0dUVyLWJweGRR?oc=5",
+          "publishedOn": "2024-12-15T15:05:34.000Z",
+          "wordCount": 12586,
+          "title": "Elementary OS: A Linux Distro Easy To Use and Easy on the Eyes - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE83Wm9ycU1TV1hHYnRfa29BX3pQb2ZZM1ROOW5ZNGlWSmxBYUNhR3AtQjBFYzhXbmgzTkRkVjcyN2FkeDZYX1ZXQTlGQ1pWR2NFeElEd0o1Z2hlNm9VZUdSZVYwNzkxaWZ5",
+          "author": null,
+          "description": "Linux Fixing A \"Hilarious/Revolting Performance Regression\" Around Intel KVM Virtualization  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83Wm9ycU1TV1hHYnRfa29BX3pQb2ZZM1ROOW5ZNGlWSmxBYUNhR3AtQjBFYzhXbmgzTkRkVjcyN2FkeDZYX1ZXQTlGQ1pWR2NFeElEd0o1Z2hlNm9VZUdSZVYwNzkxaWZ5?oc=5",
+          "publishedOn": "2024-12-15T13:55:00.000Z",
+          "wordCount": 12586,
+          "title": "Linux Fixing A \"Hilarious/Revolting Performance Regression\" Around Intel KVM Virtualization - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirAFBVV95cUxNNlU3Z2NyUjQ0S1hJNWlqamlzSndqS1FCSUdNQ2ZZRXdZMjJwWWtEM0FhWFVDRWlqU0FvVGtKdkZVX19UNnN1V1BMeHhwUVhqZmsyb0Q4TkxmclNQb29ad0lhMUt4MzZCSW9SS0lmNTcxcFE0bHo2SkYxdUMzZkVCY3Y0cjB4OERkeS1Fc0NSc19oY2Ewc0RYTmgxNk5ib3djTDdEcXhXd0FESVhB",
+          "author": null,
+          "description": "The upcoming Lenovo Legion Go S may come with a SteamOS Linux version  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlU3Z2NyUjQ0S1hJNWlqamlzSndqS1FCSUdNQ2ZZRXdZMjJwWWtEM0FhWFVDRWlqU0FvVGtKdkZVX19UNnN1V1BMeHhwUVhqZmsyb0Q4TkxmclNQb29ad0lhMUt4MzZCSW9SS0lmNTcxcFE0bHo2SkYxdUMzZkVCY3Y0cjB4OERkeS1Fc0NSc19oY2Ewc0RYTmgxNk5ib3djTDdEcXhXd0FESVhB?oc=5",
+          "publishedOn": "2024-12-15T13:41:58.000Z",
+          "wordCount": 12586,
+          "title": "The upcoming Lenovo Legion Go S may come with a SteamOS Linux version - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxOYjhIMmw4TlZBNGFMSE9XZlE3NlJjMHVQOVBYcjBzRHBQZVNCakJsNmM0YXlVcTNGZkNmZTNfRUJsZFhIYmdNa0FxcFZWSXcwV1hpTFh4c1dONUFyMnBBWFVPMEMzT3ZQX0o5X1BYa2x4UVhISHo5NkxmM0xjcHQyMUVBcm5FRnBGdWZsUzFyZmdfMmh0WlpwYWJB0gGfAUFVX3lxTFA1YnNsSmtnYk5oaVlnZHoycUdQdy1UY3VSckJ1STZrZWx4X3FwWmstZXFTYzBkcERxeU5zUTQ2N0VvMk90Y0VjdEdwaXJiZUdXQkZjS3UyemhyOWlrS1psbnVtVG5XUnVnbVJQZmhJTE9uMVFQazBqYjQxU1FYbDRhOVk0V0doVEpORmNndHlNSWRGTk1hZzVOdW11MEgycw",
+          "author": null,
+          "description": "Xfce 4.20 Desktop Environment Released with Experimental Wayland Support  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjhIMmw4TlZBNGFMSE9XZlE3NlJjMHVQOVBYcjBzRHBQZVNCakJsNmM0YXlVcTNGZkNmZTNfRUJsZFhIYmdNa0FxcFZWSXcwV1hpTFh4c1dONUFyMnBBWFVPMEMzT3ZQX0o5X1BYa2x4UVhISHo5NkxmM0xjcHQyMUVBcm5FRnBGdWZsUzFyZmdfMmh0WlpwYWJB0gGfAUFVX3lxTFA1YnNsSmtnYk5oaVlnZHoycUdQdy1UY3VSckJ1STZrZWx4X3FwWmstZXFTYzBkcERxeU5zUTQ2N0VvMk90Y0VjdEdwaXJiZUdXQkZjS3UyemhyOWlrS1psbnVtVG5XUnVnbVJQZmhJTE9uMVFQazBqYjQxU1FYbDRhOVk0V0doVEpORmNndHlNSWRGTk1hZzVOdW11MEgycw?oc=5",
+          "publishedOn": "2024-12-15T13:20:46.000Z",
+          "wordCount": 12586,
+          "title": "Xfce 4.20 Desktop Environment Released with Experimental Wayland Support - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxQQjFlcVdEQVdEdVNWTjh2ZEwtZHdGeTIwNEZ2TGtERGtxMTdCdW80MDlBUTNkR3dtMk9HMjBlc0FjckZZSktGZUJyb2FfdDZtRFNwYmdaLVFRRnpISGRTR3ZqZ3ZSblpBNC14bzNubWdHOF9qbTZ1MzhIaF90bTFoYUFTZnpBZw",
+          "author": null,
+          "description": "Xfce vs. LXQt: Lightweight Linux Environments Compared  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFlcVdEQVdEdVNWTjh2ZEwtZHdGeTIwNEZ2TGtERGtxMTdCdW80MDlBUTNkR3dtMk9HMjBlc0FjckZZSktGZUJyb2FfdDZtRFNwYmdaLVFRRnpISGRTR3ZqZ3ZSblpBNC14bzNubWdHOF9qbTZ1MzhIaF90bTFoYUFTZnpBZw?oc=5",
+          "publishedOn": "2024-12-15T12:00:00.000Z",
+          "wordCount": 12586,
+          "title": "Xfce vs. LXQt: Lightweight Linux Environments Compared - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFAwNVFDVFV2V19VbXJ4WFlFYl9wRVFJLVNzem91VEM2VjByeG5XaDNxaU9DN3ZsZlNrZHVtY2pvdW0xNDFBQjQxQWRXY1dyQTVfZGhWZW9NeDJ0MFJWcHdZMFlKakZMYTktY3Fieg",
+          "author": null,
+          "description": "Btrfs Working On RAID1 Round-Robin Read Balancing  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNVFDVFV2V19VbXJ4WFlFYl9wRVFJLVNzem91VEM2VjByeG5XaDNxaU9DN3ZsZlNrZHVtY2pvdW0xNDFBQjQxQWRXY1dyQTVfZGhWZW9NeDJ0MFJWcHdZMFlKakZMYTktY3Fieg?oc=5",
+          "publishedOn": "2024-12-15T11:20:00.000Z",
+          "wordCount": 12586,
+          "title": "Btrfs Working On RAID1 Round-Robin Read Balancing - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE9SZERPUHBFcFFFcFQ1Y1BoSHFiekJyMnRtZUw4ZlZiWXk1Z0VWUm5aSmxvYUdwRkYzZmZGa2Q1Sk04dXZCNFRYaFFBVDA3Smt1NVFib1VXaTdCNl9PcFRDNE16a3I3VHFtV0NfSHNNRmp0TEREaE5fTWZB",
+          "author": null,
+          "description": "Running Fusion 360 On Linux With Wine  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SZERPUHBFcFFFcFQ1Y1BoSHFiekJyMnRtZUw4ZlZiWXk1Z0VWUm5aSmxvYUdwRkYzZmZGa2Q1Sk04dXZCNFRYaFFBVDA3Smt1NVFib1VXaTdCNl9PcFRDNE16a3I3VHFtV0NfSHNNRmp0TEREaE5fTWZB?oc=5",
+          "publishedOn": "2024-12-15T09:00:00.000Z",
+          "wordCount": 12586,
+          "title": "Running Fusion 360 On Linux With Wine - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTEFVX3lxTE9XSHIwYWV2dy1tcXRXR0dOLTFZa0IxVTIzN1RCQktycXRJVjNuWlp2aEtMd0hETHc0a2RDaEswUnQ3bEZpNGpHLVE4SHY",
+          "author": null,
+          "description": "Gear Lever: An Open Source Tool To Manage AppImage Apps on Linux  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XSHIwYWV2dy1tcXRXR0dOLTFZa0IxVTIzN1RCQktycXRJVjNuWlp2aEtMd0hETHc0a2RDaEswUnQ3bEZpNGpHLVE4SHY?oc=5",
+          "publishedOn": "2024-12-15T06:36:30.000Z",
+          "wordCount": 12586,
+          "title": "Gear Lever: An Open Source Tool To Manage AppImage Apps on Linux - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiggFBVV95cUxOTzlSOVg5blN1YmhTUldqVmpManhyX21kX1VZTER0cnlCLWd5dVRYZExydFRIU25Zb196cWxFMmJvNkJLSERCYVQwRGs0M1FqV29rSm9wRmtmZ3JQWEttSlRTWC1CekR5azNiOUVLM1JjbGpJQTdsWk96cEdTVFVGVnJ3",
           "author": null,
@@ -2233,6 +2253,16 @@
           "publishedOn": "2024-12-13T09:11:00.000Z",
           "wordCount": 12586,
           "title": "New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE5WY0o5ejFfVF9FUHhScktpTVZzbWl6dDRyUEd3TDVxUFNtc3lwTTZkd3V6TWt5dnNndjYwMzItWndUVF9yR0pFRnR3V0x2dGwxVnAzb01YZmdXdzBDalM0dGhXNGpFRkFzdl85c2xLNnFXWDg",
+          "author": null,
+          "description": "Bazzite: A Linux Distro Worth Gushing Over  Tedium: The Dull Side of the Internet",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WY0o5ejFfVF9FUHhScktpTVZzbWl6dDRyUEd3TDVxUFNtc3lwTTZkd3V6TWt5dnNndjYwMzItWndUVF9yR0pFRnR3V0x2dGwxVnAzb01YZmdXdzBDalM0dGhXNGpFRkFzdl85c2xLNnFXWDg?oc=5",
+          "publishedOn": "2024-12-13T03:05:18.000Z",
+          "wordCount": 12586,
+          "title": "Bazzite: A Linux Distro Worth Gushing Over - Tedium: The Dull Side of the Internet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2473,6 +2503,16 @@
           "publishedOn": "2024-12-11T19:20:34.000Z",
           "wordCount": 12586,
           "title": "The Linux Concept Journey — Xen Hypervisor | by Shlomi Boutnaru, Ph.D. | Dec, 2024 - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxOS0ZSR0FXNzJFRXBWWmI4RXNEN253RjZScHpEVjFROXQwQUZsWGNYQmRzb1lfcHYwUjg3ZzBWU09MZFJSaDJ3bER3QTM5VXlTNmhpc25JazZUZXVVN0owMVJXcWp4REpWRmxUdzdOdTE0T2FlY091elhjRXJOS0NyVy12YkNZWEk",
+          "author": null,
+          "description": "Linux Foundation sets up India entity to boost open source collaboration  Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0ZSR0FXNzJFRXBWWmI4RXNEN253RjZScHpEVjFROXQwQUZsWGNYQmRzb1lfcHYwUjg3ZzBWU09MZFJSaDJ3bER3QTM5VXlTNmhpc25JazZUZXVVN0owMVJXcWp4REpWRmxUdzdOdTE0T2FlY091elhjRXJOS0NyVy12YkNZWEk?oc=5",
+          "publishedOn": "2024-12-11T18:45:51.000Z",
+          "wordCount": 12586,
+          "title": "Linux Foundation sets up India entity to boost open source collaboration - Yahoo Finance",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7124,116 +7164,6 @@
           "wordCount": 12600,
           "title": "First Look at GenBook RK3588, a Modular ARM-Powered Linux Laptop That Can Easily be Upgraded - TechEBlog",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxONmM2TmdDcWdCN3haY0UySkZnOWY0bDBvWm50NjNKTTBqc3c0bUlrQUNKUENuUjBiS0o3MlEzMmFMN2oxTTdCVW8xbEpQQ3ZIRlpSY0VOVm51OTdYUUw1Q1g2cVRFVEtLRGJ3ZGFMRHNmYVBEQ0FRaVJCLXNCYm9JcGNtNlF3LV9RckQ0RGtZaF9xT0NiSUZjQkhsMGdSMTNW",
-          "author": null,
-          "description": "People in the '80s Thought Unix Would Take Over. Here's Why They Were Right  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmM2TmdDcWdCN3haY0UySkZnOWY0bDBvWm50NjNKTTBqc3c0bUlrQUNKUENuUjBiS0o3MlEzMmFMN2oxTTdCVW8xbEpQQ3ZIRlpSY0VOVm51OTdYUUw1Q1g2cVRFVEtLRGJ3ZGFMRHNmYVBEQ0FRaVJCLXNCYm9JcGNtNlF3LV9RckQ0RGtZaF9xT0NiSUZjQkhsMGdSMTNW?oc=5",
-          "publishedOn": "2024-11-16T12:30:00.000Z",
-          "wordCount": 12600,
-          "title": "People in the '80s Thought Unix Would Take Over. Here's Why They Were Right - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxNY3BqaXZNRDBvMlRmSk5fSVk3dlAyTFJHak9BakZTbnpIZU1ZNGUxVU4ycWI4MmtlamlPUWdGMEloN01wOTJ1dkkwZjhtamFLbmgydnNqdl9OWUF1YTZTN1p4cThyRjhyVnRuX2VxanFXY01nWFlCTXFILVlPdkRSTWtCRmtIdGMxLVQ3anV6WWVHZ18tSXo0",
-          "author": null,
-          "description": "Linux GPU Configuration Tool 'LACT' adds NVIDIA support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3BqaXZNRDBvMlRmSk5fSVk3dlAyTFJHak9BakZTbnpIZU1ZNGUxVU4ycWI4MmtlamlPUWdGMEloN01wOTJ1dkkwZjhtamFLbmgydnNqdl9OWUF1YTZTN1p4cThyRjhyVnRuX2VxanFXY01nWFlCTXFILVlPdkRSTWtCRmtIdGMxLVQ3anV6WWVHZ18tSXo0?oc=5",
-          "publishedOn": "2024-11-15T20:21:25.000Z",
-          "wordCount": 12600,
-          "title": "Linux GPU Configuration Tool 'LACT' adds NVIDIA support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxNZ3gxaTFUME8wVUo1cTlMRUc1V0Uzb1ljd3VoQlk1TDNzNVU0dFNFcDFLNUVsRDh0T1NtSHE1YTJkYlR2b1VBekhNTXE3THB6aElxZjRUa0tnd0NjZEJVbnluTVNhcnczNmRNQW9zdEtPd3BKajhtQTlCX1p0NTdDcHljRV9ZWWNlVXVnZzY2X1FCN0NiT0FFTkcxalloYmZ2M3h4TThTM3AwMTE5NGNqMWNrR0o",
-          "author": null,
-          "description": "Hacking the Linux Kernel in Ada - Part 2  Embedded Computing Design",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3gxaTFUME8wVUo1cTlMRUc1V0Uzb1ljd3VoQlk1TDNzNVU0dFNFcDFLNUVsRDh0T1NtSHE1YTJkYlR2b1VBekhNTXE3THB6aElxZjRUa0tnd0NjZEJVbnluTVNhcnczNmRNQW9zdEtPd3BKajhtQTlCX1p0NTdDcHljRV9ZWWNlVXVnZzY2X1FCN0NiT0FFTkcxalloYmZ2M3h4TThTM3AwMTE5NGNqMWNrR0o?oc=5",
-          "publishedOn": "2024-11-15T16:36:26.000Z",
-          "wordCount": 12605,
-          "title": "Hacking the Linux Kernel in Ada - Part 2 - Embedded Computing Design",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqgFBVV95cUxOeTFOSTVEYk5TOHVMQ1BXSkRSblBjY25EOEY0amVkZlRSWml5Z2NuanBUWVhEQkRwY0k4eHA1b29Kc2pYdVBwRTVTUEwtT0tER0pUel9qMWl3YjhMbFF2c1Q4Ni02U1JRdWY1M2RMaDlDZGNYUEd0Z0JkTk1PUkxXNHVabEZHY1FzZm9jSkdQaVA2WmFjR1ZEOUl2U2U1R1F3cEJBTXV0akJWUQ",
-          "author": null,
-          "description": "SUSE unveils major rebranding, and a new AI platform that protects your data  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTFOSTVEYk5TOHVMQ1BXSkRSblBjY25EOEY0amVkZlRSWml5Z2NuanBUWVhEQkRwY0k4eHA1b29Kc2pYdVBwRTVTUEwtT0tER0pUel9qMWl3YjhMbFF2c1Q4Ni02U1JRdWY1M2RMaDlDZGNYUEd0Z0JkTk1PUkxXNHVabEZHY1FzZm9jSkdQaVA2WmFjR1ZEOUl2U2U1R1F3cEJBTXV0akJWUQ?oc=5",
-          "publishedOn": "2024-11-15T16:31:00.000Z",
-          "wordCount": 12600,
-          "title": "SUSE unveils major rebranding, and a new AI platform that protects your data - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxPYkxza2ZsMFVnbnN5TURBdXJCUkpsNkhSeTlSV210SmQxYlkteUlVSDNYVlZ5S3kzMm51aFJvR254dk5vUEZKUVJhcDh2czFIbVBUZFUwbFBPUzREc2lCbnh0YjB0TVowQS1JbzJKZDFYZzNIV01mYXhPYnNSZ0txMl9Oc2JVbndyTWtDRms1aXBEdUYwTVVNZXp6Yl9lUXplLWRGVEZmc0NicEtzaVZJcE5od9IBugFBVV95cUxNTkFIYVRtQV93UFJmOXJ0ZkZpRlI5N0d6NHltX2ZBTW03Sm1BcWhvRm5RaUc3NW0teUxjZG5XYmJMakl3ek5MT29zT251S3BmOEdaNUY5b0dqZTRqY0pSSXBBMF94ZllLQnNPNmVRRzVSTGhfLTR4Q1RPX3kxZzloa2xkdEdONmdfeXRjVjhsU3l3Z3AtUjU2Qk5MeXlGU3NtTzZiYmVLcWpkYTB3ckNzM3hTa1d4ellmV0E",
-          "author": null,
-          "description": "Red Hat Enterprise Linux 9.5 gains security, networking upgrades  Network World",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkxza2ZsMFVnbnN5TURBdXJCUkpsNkhSeTlSV210SmQxYlkteUlVSDNYVlZ5S3kzMm51aFJvR254dk5vUEZKUVJhcDh2czFIbVBUZFUwbFBPUzREc2lCbnh0YjB0TVowQS1JbzJKZDFYZzNIV01mYXhPYnNSZ0txMl9Oc2JVbndyTWtDRms1aXBEdUYwTVVNZXp6Yl9lUXplLWRGVEZmc0NicEtzaVZJcE5od9IBugFBVV95cUxNTkFIYVRtQV93UFJmOXJ0ZkZpRlI5N0d6NHltX2ZBTW03Sm1BcWhvRm5RaUc3NW0teUxjZG5XYmJMakl3ek5MT29zT251S3BmOEdaNUY5b0dqZTRqY0pSSXBBMF94ZllLQnNPNmVRRzVSTGhfLTR4Q1RPX3kxZzloa2xkdEdONmdfeXRjVjhsU3l3Z3AtUjU2Qk5MeXlGU3NtTzZiYmVLcWpkYTB3ckNzM3hTa1d4ellmV0E?oc=5",
-          "publishedOn": "2024-11-15T16:30:00.000Z",
-          "wordCount": 12600,
-          "title": "Red Hat Enterprise Linux 9.5 gains security, networking upgrades - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFBVV95cUxPTkpEU2hjT1pwc25HcVY2Q19meWRCcjRVT1dsMGdvUElQbjBOaDZXR09uWUgzOHZrc0o0RnRzYVJ0bW91cG9aNUFzVG40TjQ5NUN4VDBIN1hqVmhiVWwzNXJLTmdIV3hWREtaaTRobWlhVVFaVkNpTFVFLW9CSDdDdzlUTXBuQU1yWXVhZWlVWQ",
-          "author": null,
-          "description": "Automotive Grade Linux introduces Toyota-led open source initiative  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkpEU2hjT1pwc25HcVY2Q19meWRCcjRVT1dsMGdvUElQbjBOaDZXR09uWUgzOHZrc0o0RnRzYVJ0bW91cG9aNUFzVG40TjQ5NUN4VDBIN1hqVmhiVWwzNXJLTmdIV3hWREtaaTRobWlhVVFaVkNpTFVFLW9CSDdDdzlUTXBuQU1yWXVhZWlVWQ?oc=5",
-          "publishedOn": "2024-11-15T16:28:04.000Z",
-          "wordCount": 12601,
-          "title": "Automotive Grade Linux introduces Toyota-led open source initiative - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTFBBQTFmeW82dmp5SWJXRnN2djNJR205aUJ6LVVEcFZaM1BBaVE0YUstc1lDaWx5QjN5U3l6U1NuMGZITUMxd3I1NTUxSHdtalJzQTl2MWZqUnNBTk3SAWBBVV95cUxOdEFVQUtlWHM0eHd5UWVIS1c2SVU0OU9VS3MxVE91bXdIMV9kc01Ib09BSmRSSllmQkZFak1nMXl3ZGNDa2tfQnd1djM2TUZadG5nUm9VbHZfQjlRU2JDeEQ",
-          "author": null,
-          "description": "LXQt packs Wayland punch with 2.1 release  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBQTFmeW82dmp5SWJXRnN2djNJR205aUJ6LVVEcFZaM1BBaVE0YUstc1lDaWx5QjN5U3l6U1NuMGZITUMxd3I1NTUxSHdtalJzQTl2MWZqUnNBTk3SAWBBVV95cUxOdEFVQUtlWHM0eHd5UWVIS1c2SVU0OU9VS3MxVE91bXdIMV9kc01Ib09BSmRSSllmQkZFak1nMXl3ZGNDa2tfQnd1djM2TUZadG5nUm9VbHZfQjlRU2JDeEQ?oc=5",
-          "publishedOn": "2024-11-15T16:26:00.000Z",
-          "wordCount": 12600,
-          "title": "LXQt packs Wayland punch with 2.1 release - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE5lTzEzcElYUnJ0UHNEc05qMTlVS29ZM2lic2tCdWprZjNsTm8tajlBeHp0bHR5SWlZcklLd092WjdTUmNES2ZrUkFtNEl3MzZnVFlHM05UV0ZrMWdiSER3VnBMRGFaUQ",
-          "author": null,
-          "description": "Linux 6.13 Very Exciting With New Feature Code For AMD EPYC Zen 5, Intel Panther Lake  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lTzEzcElYUnJ0UHNEc05qMTlVS29ZM2lic2tCdWprZjNsTm8tajlBeHp0bHR5SWlZcklLd092WjdTUmNES2ZrUkFtNEl3MzZnVFlHM05UV0ZrMWdiSER3VnBMRGFaUQ?oc=5",
-          "publishedOn": "2024-11-15T15:49:00.000Z",
-          "wordCount": 12600,
-          "title": "Linux 6.13 Very Exciting With New Feature Code For AMD EPYC Zen 5, Intel Panther Lake - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic0FVX3lxTE9nUGtOU0VNQm9xRGQxSjdlRFFuUWV6ck5YS21wYVg2MlVnTDFtQ1BFX1d1LTV5d3FZTFJZLTU4bGxEOTVFU0RrWTk1U1pTVjhhTzAwZHFDWlo4SF9paVZWT2F2RW5BSTFDRmFibW9JT0h0cHM",
-          "author": null,
-          "description": "open source program office launch  just-auto.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nUGtOU0VNQm9xRGQxSjdlRFFuUWV6ck5YS21wYVg2MlVnTDFtQ1BFX1d1LTV5d3FZTFJZLTU4bGxEOTVFU0RrWTk1U1pTVjhhTzAwZHFDWlo4SF9paVZWT2F2RW5BSTFDRmFibW9JT0h0cHM?oc=5",
-          "publishedOn": "2024-11-15T15:30:21.000Z",
-          "wordCount": 12600,
-          "title": "open source program office launch - just-auto.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE11QVVuTE15QnVvVlpZQlJjYUpMamEzZ0ZNMG1fbXVFaEpkUWdvQ3NWcFRJQ1NuZTl4a2R2bHY2QlNxUjFrMVU1LVBsZUNKUEI2TmZZOTdRZFZvazRKTlFxdEMyLUNQbnBE",
-          "author": null,
-          "description": "Linux 6.12 Preps For Release With Real-Time, Sched_Ext, Stable Xe2 & Raspberry Pi 5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11QVVuTE15QnVvVlpZQlJjYUpMamEzZ0ZNMG1fbXVFaEpkUWdvQ3NWcFRJQ1NuZTl4a2R2bHY2QlNxUjFrMVU1LVBsZUNKUEI2TmZZOTdRZFZvazRKTlFxdEMyLUNQbnBE?oc=5",
-          "publishedOn": "2024-11-15T14:30:00.000Z",
-          "wordCount": 12600,
-          "title": "Linux 6.12 Preps For Release With Real-Time, Sched_Ext, Stable Xe2 & Raspberry Pi 5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxQcWdpTUxZV1FyQXk1bmtwanRRS0VfRzFTMnNpdFJhdGtoM2k1WEtrOEVjQUotdVNac2RiUG5qUndnNjFENk1WR09QQ1lnd3k5Z3NUSm9xb0tDVl9XWjdlUVlmYmx5NWxxT09GempVazhBVFVvTno2ZHJrNEhjeERxeTlpWQ",
-          "author": null,
-          "description": "How to use the W diff command  Network World",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWdpTUxZV1FyQXk1bmtwanRRS0VfRzFTMnNpdFJhdGtoM2k1WEtrOEVjQUotdVNac2RiUG5qUndnNjFENk1WR09QQ1lnd3k5Z3NUSm9xb0tDVl9XWjdlUVlmYmx5NWxxT09GempVazhBVFVvTno2ZHJrNEhjeERxeTlpWQ?oc=5",
-          "publishedOn": "2024-11-15T14:29:56.000Z",
-          "wordCount": 12600,
-          "title": "How to use the W diff command - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9679,6 +9609,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "675ca1db0e7ab2ab9bd66a40",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/",
+          "publishedOn": "2024-12-13T21:06:35.000Z",
+          "wordCount": 1157,
+          "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734122680496/979fd4c5-3558-4e24-89c2-9a314afa7523.png"
+        },
+        {
           "id": "675b1981cc99415a548dbe6c",
           "author": "David Asaolu",
           "description": "Modern software applications often rely on email communication to engage with users. They may send authentication codes during sign in attempts, marketing emails, or newsletters, for example. This means that email notifications are typically the most...",
@@ -10157,36 +10097,6 @@
           "wordCount": 2765,
           "title": "Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731400068976/3c951db9-929a-4d13-ba77-759932833a9a.jpeg"
-        },
-        {
-          "id": "6737abf27f9bd5ad3f21cfd7",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Tim Ruscica, the software engineer and prolific programming teacher behind the Tech with Tim YouTube channel. He's also developed courses on freeCodeCamp's YouTube channel. We talk about: How Tim ma...",
-          "link": "https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/",
-          "publishedOn": "2024-11-15T20:15:46.000Z",
-          "wordCount": 1099,
-          "title": "To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731701715881/82f74a0d-6735-421c-b40d-e1c396393405.png"
-        },
-        {
-          "id": "67378578138bc8b1c027a1e8",
-          "author": "Viviana Yanez",
-          "description": "In this article, I’ll guide you through an overview of what happens when you navigate to a website using your browser. Whether you’re new to web development or have some experience, this post will help you gain a better understanding of how the web a...",
-          "link": "https://www.freecodecamp.org/news/what-happens-when-you-visit-a-website/",
-          "publishedOn": "2024-11-15T17:31:36.000Z",
-          "wordCount": 4985,
-          "title": "What Happens When You Visit a Website? How the Web Works Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731682843488/32065460-190d-472f-9268-5b181430eef6.jpeg"
-        },
-        {
-          "id": "673783bb1fb7eac514af465b",
-          "author": "Tomer",
-          "description": "When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...",
-          "link": "https://www.freecodecamp.org/news/how-to-support-multiple-languages-in-flutter/",
-          "publishedOn": "2024-11-15T17:24:11.000Z",
-          "wordCount": 1989,
-          "title": "How to Support Multiple Languages In Your Flutter Application",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YeO44yVTl20/upload/2ec70e1bfce727903fecba0c2f9b6b8b.jpeg"
         }
       ]
     }
