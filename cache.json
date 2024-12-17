@@ -29,6 +29,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195257",
+          "author": "Content Operations",
+          "description": "Install Arch Linux without the hassle! This guide simplifies the process with step-by-step instructions, perfect for beginners and enthusiasts alike.\nThe post How to Install Arch Linux: A Beginner’s Practical Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-arch-linux-a-beginners-practical-guide/",
+          "publishedOn": "2024-12-16T22:34:06.000Z",
+          "wordCount": 10852,
+          "title": "How to Install Arch Linux: A Beginner’s Practical Guide",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195486",
+          "author": "Content Operations",
+          "description": "Say goodbye to i386 support in the new Kali Linux 2024.4. Python 3.12, Raspberry Pi customizations, 14 new security tools, and GNOME 47.\nThe post Kali Linux 2024.4 Released, Bids Farewell to 32-Bit Systems appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/kali-linux-2024-4-released-bids-farewell-to-32-bit-systems/",
+          "publishedOn": "2024-12-16T21:10:00.000Z",
+          "wordCount": 10858,
+          "title": "Kali Linux 2024.4 Released, Bids Farewell to 32-Bit Systems",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195475",
+          "author": "Content Operations",
+          "description": "Rspamd 3.11 spam filtering system introduces Elasticsearch 8/OpenSearch 2 support, smarter ratelimiting, key security fixes, and more.\nThe post Rspamd 3.11 Brings Modernized Elasticsearch Integration appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/rspamd-3-11-brings-modernized-elasticsearch-integration/",
+          "publishedOn": "2024-12-16T20:53:11.000Z",
+          "wordCount": 10838,
+          "title": "Rspamd 3.11 Brings Modernized Elasticsearch Integration",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195472",
+          "author": "Content Operations",
+          "description": "While major distros like Arch Linux, openSUSE Tumbleweed, or Fedora Linux are still packaging the Xfce 4.20 desktop environment for their users, PorteuX 1.8 already ships it for those interested in taking it for a spin on their computers to discover the new features and improvements.\nThe post Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/slackware-based-porteux-1-8-is-one-of-the-first-distros-to-ship-with-xfce-4-20/",
+          "publishedOn": "2024-12-16T20:50:39.000Z",
+          "wordCount": 10912,
+          "title": "Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195471",
+          "author": "Content Operations",
+          "description": "This week we got some cool news starting with the Raspberry Pi 500 computer and the Xfce 4.20 desktop environment. Check out this week’s hottest news and access all the distro and package downloads released this past week in the 9to5Linux weekly roundup for December 15th, 2024.\nThe post 9to5Linux Weekly Roundup: December 15th, 2024 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/9to5linux-weekly-roundup-december-15th-2024/",
+          "publishedOn": "2024-12-16T20:49:04.000Z",
+          "wordCount": 10940,
+          "title": "9to5Linux Weekly Roundup: December 15th, 2024",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195466",
+          "author": "Content Operations",
+          "description": "Xfce 4.20 is packed with lots of new features and improvements like experimental support for Wayland with support for the Labwc and Wayfire compositors, improved support for HiDPI displays, and libxfce4windowing as a new abstraction library to present windowing concepts in a windowing-system-independent manner.\nThe post Xfce 4.20 Desktop Environment Released with Experimental Wayland Support appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/xfce-4-20-desktop-environment-released-with-experimental-wayland-support/",
+          "publishedOn": "2024-12-16T20:37:02.000Z",
+          "wordCount": 10890,
+          "title": "Xfce 4.20 Desktop Environment Released with Experimental Wayland Support",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195462",
+          "author": "Content Operations",
+          "description": "Incus 6.8 introduces live VM migration between storage pools, improved OpenFGA access models, and updates to custom storage volume configurations.\nThe post Incus 6.8 Container & Virtual Machine Manager Released appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/incus-6-8-container-virtual-machine-manager-released/",
+          "publishedOn": "2024-12-16T20:35:49.000Z",
+          "wordCount": 10851,
+          "title": "Incus 6.8 Container & Virtual Machine Manager Released",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195458",
+          "author": "Content Operations",
+          "description": "Powered by Linux kernel 6.12 LTS, CentOS Stream 10 introduces Valkey (v7.2) as a replacement for Redis, drops XOrg Server support as Wayland is now used as the default display stack with Xwayland as a compatibility layer for running legacy X11 apps, and GNOME 47 “Denver” as the default desktop environment.\nThe post CentOS Stream 10 Released with Linux Kernel 6.12 LTS, GNOME 47, and DNF 4.20 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/centos-stream-10-released-with-linux-kernel-6-12-lts-gnome-47-and-dnf-4-20/",
+          "publishedOn": "2024-12-16T20:33:31.000Z",
+          "wordCount": 10925,
+          "title": "CentOS Stream 10 Released with Linux Kernel 6.12 LTS, GNOME 47, and DNF 4.20",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195395",
+          "author": "Content Operations",
+          "description": "kew supports gapless playback, 24-bit/192khz audio, MPRIS and now rivals musikcube and tap as the finest open source terminal music player.\nThe post Revisited: kew – Terminal-Based Music Player appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/revisited-kew-terminal-based-music-player/",
+          "publishedOn": "2024-12-16T17:04:31.000Z",
+          "wordCount": 10842,
+          "title": "Revisited: kew – Terminal-Based Music Player",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195396",
+          "author": "Content Operations",
+          "description": "Fedora (probably) goes COSMIC! There is an official proposal about Fedora 42 Spin, featuring System76's innovative desktop with powerful features.\nThe post COSMIC Desktop Proposed as Official Spin for Fedora 42 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/cosmic-desktop-proposed-as-official-spin-for-fedora-42/",
+          "publishedOn": "2024-12-16T16:04:32.000Z",
+          "wordCount": 10852,
+          "title": "COSMIC Desktop Proposed as Official Spin for Fedora 42",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195261",
           "author": "Content Operations",
           "description": "Note-taking app is indispensable in every computing system. Here are some of the more useful note-taking apps that you can use on Linux today.\nThe post 5 of the More Useful Note-taking Apps in Linux appeared first on Linux Today.",
@@ -1937,16 +2037,6 @@
           "wordCount": 8995,
           "title": "How To Create Aliases In Linux: A Beginners Guide",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194260",
-          "author": "Content Operations",
-          "description": "This guide teaches you how to install Mattermost on the Rocky Linux 9 server. Mattermost is an open-source and self-hosted messaging system for your organization. It is an alternative to services like Slack and Microsoft Teams. \nThe post How to Install Mattermost on Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-mattermost-on-rocky-linux-9/",
-          "publishedOn": "2024-11-16T15:00:03.000Z",
-          "wordCount": 8987,
-          "title": "How to Install Mattermost on Rocky Linux 9",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1955,6 +2045,276 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibkFVX3lxTE5YU3ZYb3N1Nm5maFNvNW81cUs0a3d5SFBwV3o4WlZZcEpaUFRDY3FqbGo0RTlyeWlKMjVtX3Z6MUhFWmdES3BLUnIxaU9kYUpNd1JsSUdIRDdIMlZmN3pabTJjMUFFUlJUVll2V013",
+          "author": null,
+          "description": "Fedora Linux Grappling With New vs. Old Intel Hardware Support For Compute Stack  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YU3ZYb3N1Nm5maFNvNW81cUs0a3d5SFBwV3o4WlZZcEpaUFRDY3FqbGo0RTlyeWlKMjVtX3Z6MUhFWmdES3BLUnIxaU9kYUpNd1JsSUdIRDdIMlZmN3pabTJjMUFFUlJUVll2V013?oc=5",
+          "publishedOn": "2024-12-17T01:45:00.000Z",
+          "wordCount": 12592,
+          "title": "Fedora Linux Grappling With New vs. Old Intel Hardware Support For Compute Stack - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiyAFBVV95cUxPSW8xSUlidnBLY0JVLVdUOWZiXzQ5R2VQTENHUGFxV1ZKQkFBRW5pY2YwOTVmZFZHdzQzTEk1VFVMZ3U0TUNLdUtXRURQbEZFaDctNEo4Q2xNNVpDN2F0Rnlvc2F4WThvdHgxcmdxaWk1VXhkTXpnQzQzTVVFc1I4MWRjRU5fRHlESXMtUExqNzQ4TUNJVENOdTVpUFR3WWxEd3MwS2QzN2hSbDc1c1FWbFY3Rkpyd05qX1dOX0M5eElGWHRMcFlzVA",
+          "author": null,
+          "description": "Android 15 QPR2 Beta 2 is here with our first look at the working Linux Terminal app  Android Central",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW8xSUlidnBLY0JVLVdUOWZiXzQ5R2VQTENHUGFxV1ZKQkFBRW5pY2YwOTVmZFZHdzQzTEk1VFVMZ3U0TUNLdUtXRURQbEZFaDctNEo4Q2xNNVpDN2F0Rnlvc2F4WThvdHgxcmdxaWk1VXhkTXpnQzQzTVVFc1I4MWRjRU5fRHlESXMtUExqNzQ4TUNJVENOdTVpUFR3WWxEd3MwS2QzN2hSbDc1c1FWbFY3Rkpyd05qX1dOX0M5eElGWHRMcFlzVA?oc=5",
+          "publishedOn": "2024-12-17T01:33:43.000Z",
+          "wordCount": 12592,
+          "title": "Android 15 QPR2 Beta 2 is here with our first look at the working Linux Terminal app - Android Central",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxOa21iQkQ4aThmbXVsWnZ4eU9lNnBZbWRqd3RSYkhreThNanhxVFYzX3ZxNEVIY0JJdVUwbEdEYzRfVHAwTWNmWEpLb205bk1SV3NKRENBbG81VUFyX2EyOWJscFcwenBQV0FTVWxsMVhxSGVzX2hWZ0g5NWl2eUZrMlZLdFl0R2g1R0pKR2VlZ0QxSmkxNVlwUVFwMG9jQzdJaVd2aNIBqgFBVV95cUxOZmhIeVV1MFFMVm1ZNjJCZzlEYy12bC05UVVraVhaTjh6bXJ3SnZlbnBfazhuamZBY0gweWVsRVF3YV9haTNHN2E5NDQyMWVOV0hBMmNjMk5jQV9nR0gxczI3YnMtZDlOeXgwOEdDSWkxWnNsSFMwVFQwWWdKV2pheGk1T3VPUVVTRzZwQUUzZjRkdFBPdUtXQUEzOHhlc25jR0pnZnkzMkUwUQ",
+          "author": null,
+          "description": "Kali Linux 2024.4 Released with Linux Kernel 6.11, GNOME 47, and New Hacking Tools  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa21iQkQ4aThmbXVsWnZ4eU9lNnBZbWRqd3RSYkhreThNanhxVFYzX3ZxNEVIY0JJdVUwbEdEYzRfVHAwTWNmWEpLb205bk1SV3NKRENBbG81VUFyX2EyOWJscFcwenBQV0FTVWxsMVhxSGVzX2hWZ0g5NWl2eUZrMlZLdFl0R2g1R0pKR2VlZ0QxSmkxNVlwUVFwMG9jQzdJaVd2aNIBqgFBVV95cUxOZmhIeVV1MFFMVm1ZNjJCZzlEYy12bC05UVVraVhaTjh6bXJ3SnZlbnBfazhuamZBY0gweWVsRVF3YV9haTNHN2E5NDQyMWVOV0hBMmNjMk5jQV9nR0gxczI3YnMtZDlOeXgwOEdDSWkxWnNsSFMwVFQwWWdKV2pheGk1T3VPUVVTRzZwQUUzZjRkdFBPdUtXQUEzOHhlc25jR0pnZnkzMkUwUQ?oc=5",
+          "publishedOn": "2024-12-17T00:41:14.000Z",
+          "wordCount": 12592,
+          "title": "Kali Linux 2024.4 Released with Linux Kernel 6.11, GNOME 47, and New Hacking Tools - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTE5rNFFDUUQyX3pqcUxESWxzSEFFR29zTGpGbkpVN3NwTjFrSl9iWWZYSnpYRHM4bVRyNWdnN3YwNUlabFZVNF9BRE9MYlRvNWc1M25KR0dNWmxCdTEz0gFiQVVfeXFMT0U1VnlPSFczX1NiNjcxSzh2R2w5YXViOUNaRzZmb0RjUlktNXljMlBraHRRdkFmTm9mTXBYVnh3Zm1MbTRGUVR4RGxabWJyMno0Qi1FYndxeDAyZ3UySGlsV0E",
+          "author": null,
+          "description": "Kali Linux 2024.4 Released With New Hacking Tools – What’s Inside!  CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rNFFDUUQyX3pqcUxESWxzSEFFR29zTGpGbkpVN3NwTjFrSl9iWWZYSnpYRHM4bVRyNWdnN3YwNUlabFZVNF9BRE9MYlRvNWc1M25KR0dNWmxCdTEz0gFiQVVfeXFMT0U1VnlPSFczX1NiNjcxSzh2R2w5YXViOUNaRzZmb0RjUlktNXljMlBraHRRdkFmTm9mTXBYVnh3Zm1MbTRGUVR4RGxabWJyMno0Qi1FYndxeDAyZ3UySGlsV0E?oc=5",
+          "publishedOn": "2024-12-16T22:12:11.000Z",
+          "wordCount": 12592,
+          "title": "Kali Linux 2024.4 Released With New Hacking Tools – What’s Inside! - CybersecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitwFBVV95cUxPWlJ0eVczVERjcDNJcUJHb2x3QWVtdEdscnVZazkwdWNGTXZFdGI1bmZMbU1XaTBZdWdGWlVPYTJMRFN4dnN1UzZkR0tyVHpLalN2cHhuVlRzYzBDZE5PcGhkLUFSeEFXTDZQdm8zTWNzZUJlc25iZ1hhdVZ6NTFMc05YdHpxM0JIS3Jzc01LQ25PMnpmbnNjcWctQWF4RDVFejRzbjJHUHRwbTFINHFlMVF6SmlpRzjSAbwBQVVfeXFMUExmQjUtX1BxcS01cmpHcGdrRWdYSkJOLWN0bFhUd3g0YlJjanhRMmlkWTRHSmNDODlJOTBKUXZwYjR6elNiQXg0NGVVSnAzQUFHVUd4Tll3d1BqWWFESlF4M2d0djlwd180VGs1MV9hN1hSUkFJY3B5M3ZvcU4xRi1oVWV3MVB0T0hjUEpZMDNxaXNyWWFVNkJBQTNibXE1QkIxUXlVdjJEVktodnVlVVFrSEYyY0xjdllubk8",
+          "author": null,
+          "description": "Kali Linux 2024.4 released with 14 new tools, deprecates some features  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlJ0eVczVERjcDNJcUJHb2x3QWVtdEdscnVZazkwdWNGTXZFdGI1bmZMbU1XaTBZdWdGWlVPYTJMRFN4dnN1UzZkR0tyVHpLalN2cHhuVlRzYzBDZE5PcGhkLUFSeEFXTDZQdm8zTWNzZUJlc25iZ1hhdVZ6NTFMc05YdHpxM0JIS3Jzc01LQ25PMnpmbnNjcWctQWF4RDVFejRzbjJHUHRwbTFINHFlMVF6SmlpRzjSAbwBQVVfeXFMUExmQjUtX1BxcS01cmpHcGdrRWdYSkJOLWN0bFhUd3g0YlJjanhRMmlkWTRHSmNDODlJOTBKUXZwYjR6elNiQXg0NGVVSnAzQUFHVUd4Tll3d1BqWWFESlF4M2d0djlwd180VGs1MV9hN1hSUkFJY3B5M3ZvcU4xRi1oVWV3MVB0T0hjUEpZMDNxaXNyWWFVNkJBQTNibXE1QkIxUXlVdjJEVktodnVlVVFrSEYyY0xjdllubk8?oc=5",
+          "publishedOn": "2024-12-16T21:33:19.000Z",
+          "wordCount": 12592,
+          "title": "Kali Linux 2024.4 released with 14 new tools, deprecates some features - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxNVlQtdGI4d0xxUkhpbVVoMWxfR0pZajZvMnVZU0VILXI0U1ptZXRNcXp3OG5PWGV3NHZDX2ozZlNLQkdxZE5uLVI3YmhVWVljZzYwdFRDN0Z4UF91ZWx1ZlVSZVF2QjUwaTZ2MU1iT1czbHJkaldXck1fWTlIc2pNSWJR0gGHAUFVX3lxTE9aNHNQZ3c0VGtPdEs5emJqQTBkSGsyczIwR0lDYVNuek1rWi11WEdOektVNVZHRU15a1ljWWppZmFHTHRMM3l6SUdXc1hyN1ROUFRkY01tcmFLUGVsSk02LXNBM2VGTmdOdzdZbzR5UEd3ZHpyMXdhSHdCSGVudjYxQ2JGaWlhVQ",
+          "author": null,
+          "description": "Linux Mastodon App Tuba Adds Post Scheduling, Drafts + More  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlQtdGI4d0xxUkhpbVVoMWxfR0pZajZvMnVZU0VILXI0U1ptZXRNcXp3OG5PWGV3NHZDX2ozZlNLQkdxZE5uLVI3YmhVWVljZzYwdFRDN0Z4UF91ZWx1ZlVSZVF2QjUwaTZ2MU1iT1czbHJkaldXck1fWTlIc2pNSWJR0gGHAUFVX3lxTE9aNHNQZ3c0VGtPdEs5emJqQTBkSGsyczIwR0lDYVNuek1rWi11WEdOektVNVZHRU15a1ljWWppZmFHTHRMM3l6SUdXc1hyN1ROUFRkY01tcmFLUGVsSk02LXNBM2VGTmdOdzdZbzR5UEd3ZHpyMXdhSHdCSGVudjYxQ2JGaWlhVQ?oc=5",
+          "publishedOn": "2024-12-16T20:39:44.000Z",
+          "wordCount": 12592,
+          "title": "Linux Mastodon App Tuba Adds Post Scheduling, Drafts + More - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE1hVm1aRG9xT3EyX29jaHJYVmI3NUc1QUZFTlR5cEJyVHZham80eWtna2NYZ3JWdUVETjliX09BejNzOE9LVmRydDBYT2N5cFJVUEhWeFY5YWd0SkFXUXVQM2N5eUMtQl8y",
+          "author": null,
+          "description": "Xfce 4.20 Officially Released  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hVm1aRG9xT3EyX29jaHJYVmI3NUc1QUZFTlR5cEJyVHZham80eWtna2NYZ3JWdUVETjliX09BejNzOE9LVmRydDBYT2N5cFJVUEhWeFY5YWd0SkFXUXVQM2N5eUMtQl8y?oc=5",
+          "publishedOn": "2024-12-16T19:12:11.000Z",
+          "wordCount": 12592,
+          "title": "Xfce 4.20 Officially Released - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE05eVF1cm9XWDJoSGl6ZS1Cb2pXcW1yN29kRDZDTkhRMVpxRmdOOE1uRkxqX2hfa2xzQ0lTZUcwc0JjWnBvdzZVSmxmV3d0eEhzM2hLY3g2b1hYSkZwTXBjQU9ELTZuQQ",
+          "author": null,
+          "description": "Jumbo Data Packet Transmission & RACK-TLP Coming To Linux 6.14 Network Stack  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05eVF1cm9XWDJoSGl6ZS1Cb2pXcW1yN29kRDZDTkhRMVpxRmdOOE1uRkxqX2hfa2xzQ0lTZUcwc0JjWnBvdzZVSmxmV3d0eEhzM2hLY3g2b1hYSkZwTXBjQU9ELTZuQQ?oc=5",
+          "publishedOn": "2024-12-16T18:36:00.000Z",
+          "wordCount": 12592,
+          "title": "Jumbo Data Packet Transmission & RACK-TLP Coming To Linux 6.14 Network Stack - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwJBVV95cUxORlNtZ201SVBLcmZGZWwyNVUtYWxiNmoxQmM3SHo5aTNiRlVFWldyejBWYWNVWnZMUGNrMy1GbWpLWjFRSEF6dG5lME5XRTlVUi1vcTRLVWN5Y1dIODllcUdsVWlva2M5ZVA0LWtnbTljSWtETUdYT0luM1l2MkxWQmJwV2loMmtLMGVaN1o2a2tiMjhCcHR3VGd3TGdNWEphcm91ZDc0dmpEU1ByZ05kVUpWeEcyanl4UmJIcWhLYTk0UUNhek1iLXdSVUJGRTUwV2lRMzJJZklwTE1WU3RpbXpXbmZfSmtSMHkwckE3WFRoSHNkOWgtUF9WWk9kQ1p3cTNpdkl6UEFBd3lNREg2ekY5SVZhN3BlMW0yQS1Pdw",
+          "author": null,
+          "description": "Linux 6.13-rc3 fixes expensive CPUID handling on Sapphire Rapids CPUs — an issue resulting in Skylake CPUs being 4X faster for CPUID-related updates  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORlNtZ201SVBLcmZGZWwyNVUtYWxiNmoxQmM3SHo5aTNiRlVFWldyejBWYWNVWnZMUGNrMy1GbWpLWjFRSEF6dG5lME5XRTlVUi1vcTRLVWN5Y1dIODllcUdsVWlva2M5ZVA0LWtnbTljSWtETUdYT0luM1l2MkxWQmJwV2loMmtLMGVaN1o2a2tiMjhCcHR3VGd3TGdNWEphcm91ZDc0dmpEU1ByZ05kVUpWeEcyanl4UmJIcWhLYTk0UUNhek1iLXdSVUJGRTUwV2lRMzJJZklwTE1WU3RpbXpXbmZfSmtSMHkwckE3WFRoSHNkOWgtUF9WWk9kQ1p3cTNpdkl6UEFBd3lNREg2ekY5SVZhN3BlMW0yQS1Pdw?oc=5",
+          "publishedOn": "2024-12-16T18:20:43.000Z",
+          "wordCount": 12592,
+          "title": "Linux 6.13-rc3 fixes expensive CPUID handling on Sapphire Rapids CPUs — an issue resulting in Skylake CPUs being 4X faster for CPUID-related updates - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTFBxYmxOZWFEa242eVhWTlhmZmRJeXpHclVYbFlPLTVJUUwtQnBHMTRqQW9iYXR0QXhoNkdYbmdIRkxKNmNPd0YwcUstTXVNODBMZEp5NVFXTXZRYUtSTVlyLQ",
+          "author": null,
+          "description": "Red Hat Delivers Next Wave of Gen AI Innovation with New Red Hat Enterprise Linux AI Capabilities  WebWire",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxYmxOZWFEa242eVhWTlhmZmRJeXpHclVYbFlPLTVJUUwtQnBHMTRqQW9iYXR0QXhoNkdYbmdIRkxKNmNPd0YwcUstTXVNODBMZEp5NVFXTXZRYUtSTVlyLQ?oc=5",
+          "publishedOn": "2024-12-16T17:38:40.000Z",
+          "wordCount": 12592,
+          "title": "Red Hat Delivers Next Wave of Gen AI Innovation with New Red Hat Enterprise Linux AI Capabilities - WebWire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwAFBVV95cUxPdjNkczlvYktSYldWQVZyZGhOdlBDWmdXV1lxUDNhcWFrZ3kwb05WNzlUckE5QUxvVTBoUEFOdTQtUHFzWWpzc0VyeGxYNTh4WG1yZnp5aC1nSUpBd2M5cm1MRm9BQncwZFpnWjY3M3BqN1k2WmgtdzdQcUdtTklYUWxRTzFTVFZQczhINDBNLWo0dDZUbG5scUc4TW1PTzQyOEdrOHZuaUxxVHFidlZ1MlhUX3F3WnVYYlpEc0hqY3k",
+          "author": null,
+          "description": "Why PorteuX Linux 1.8 is a faster and lighter alternative to Microsoft’s bloated Windows 11  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjNkczlvYktSYldWQVZyZGhOdlBDWmdXV1lxUDNhcWFrZ3kwb05WNzlUckE5QUxvVTBoUEFOdTQtUHFzWWpzc0VyeGxYNTh4WG1yZnp5aC1nSUpBd2M5cm1MRm9BQncwZFpnWjY3M3BqN1k2WmgtdzdQcUdtTklYUWxRTzFTVFZQczhINDBNLWo0dDZUbG5scUc4TW1PTzQyOEdrOHZuaUxxVHFidlZ1MlhUX3F3WnVYYlpEc0hqY3k?oc=5",
+          "publishedOn": "2024-12-16T16:25:21.000Z",
+          "wordCount": 12592,
+          "title": "Why PorteuX Linux 1.8 is a faster and lighter alternative to Microsoft’s bloated Windows 11 - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE9jSkp0Z2FoTG5FdHdBU1pRMUk5ZWtjTlBZSzMtUWlJRWowcGFIcXhyWEJhd2F3MDdyMWM4X3pIUEExRlRaZExhUl9kOVZJb2FiMkdhRFR3c2tnRVAxZDhVTVNLdFEtdy1w",
+          "author": null,
+          "description": "Easily Run Windows Apps on Linux Using These Tools  Make Tech Easier",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jSkp0Z2FoTG5FdHdBU1pRMUk5ZWtjTlBZSzMtUWlJRWowcGFIcXhyWEJhd2F3MDdyMWM4X3pIUEExRlRaZExhUl9kOVZJb2FiMkdhRFR3c2tnRVAxZDhVTVNLdFEtdy1w?oc=5",
+          "publishedOn": "2024-12-16T16:25:00.000Z",
+          "wordCount": 12592,
+          "title": "Easily Run Windows Apps on Linux Using These Tools - Make Tech Easier",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitAFBVV95cUxNc2pDUnRTSlNGeWJjYW1DRUxoTmU0b0pVb1JSNXBFT0Y3SHBSeWRYVF9ncFluUHdVbVotalBrUzBUMlFuVmFhUEdsakM3YW8wMEtjM2duMWtwc01zRzI1YzdpS2s0ODk2RTJQRC1WeFhjT0VRdTlPRlI5VTRDYnh2MWx6VG1NMUlWcmxIdExtQWdtaElVQ0V4dTB3QV9ocjhCWG5yaWZHQVlMR242ekV2SlZvd1M",
+          "author": null,
+          "description": "Preventing Critical Server Security Issues With Linux Live Patching  LinuxInsider",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2pDUnRTSlNGeWJjYW1DRUxoTmU0b0pVb1JSNXBFT0Y3SHBSeWRYVF9ncFluUHdVbVotalBrUzBUMlFuVmFhUEdsakM3YW8wMEtjM2duMWtwc01zRzI1YzdpS2s0ODk2RTJQRC1WeFhjT0VRdTlPRlI5VTRDYnh2MWx6VG1NMUlWcmxIdExtQWdtaElVQ0V4dTB3QV9ocjhCWG5yaWZHQVlMR242ekV2SlZvd1M?oc=5",
+          "publishedOn": "2024-12-16T16:04:33.000Z",
+          "wordCount": 12592,
+          "title": "Preventing Critical Server Security Issues With Linux Live Patching - LinuxInsider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTFBWNjRVcjRSWV9oQXpWTTNSdlF1X3FDTTFqNnQtMnRUNjBrcHNQbFA0ZG5qOHdiRWROQkNKbzNOWExscldjWVo1S1BGUzc3X0c3bnBlZXlIMlFFRlJ3VHdVMnNMSUE0dw",
+          "author": null,
+          "description": "Red Hat Enterprise Linux 10 Beta Performance Looks Great - Initial RHEL 9 vs. RHEL 10 Benchmarks On AMD EPYC Turin Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNjRVcjRSWV9oQXpWTTNSdlF1X3FDTTFqNnQtMnRUNjBrcHNQbFA0ZG5qOHdiRWROQkNKbzNOWExscldjWVo1S1BGUzc3X0c3bnBlZXlIMlFFRlJ3VHdVMnNMSUE0dw?oc=5",
+          "publishedOn": "2024-12-16T15:45:00.000Z",
+          "wordCount": 12592,
+          "title": "Red Hat Enterprise Linux 10 Beta Performance Looks Great - Initial RHEL 9 vs. RHEL 10 Benchmarks On AMD EPYC Turin Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE5MMXo4emN1UXlxYmZXTjdZbjB2Z2tPV3hfMlhrMHRBRlhsZC1jTUs1R1NwUUhQeEJEbmJNM0xTX0JDU1ZjZzh2OGdOemF2bHhZVGlZanNHNG0",
+          "author": null,
+          "description": "I Don't See a Reason to Switch to Windows from Linux Anymore in 2025  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MMXo4emN1UXlxYmZXTjdZbjB2Z2tPV3hfMlhrMHRBRlhsZC1jTUs1R1NwUUhQeEJEbmJNM0xTX0JDU1ZjZzh2OGdOemF2bHhZVGlZanNHNG0?oc=5",
+          "publishedOn": "2024-12-16T15:22:08.000Z",
+          "wordCount": 12592,
+          "title": "I Don't See a Reason to Switch to Windows from Linux Anymore in 2025 - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqwFBVV95cUxPVE5udVlfa1lFWEhTMzQzU2VoUEJjS2htSDdVOHRwZzFGUjdzeHBzMG5RWlBGQXMzaHM0eVlrSXA0QU1XX0pXZ3RmTmlzRVB3eWNWdm5PaEJTRlV4YkpNRW5YVUlOaExTX3B4a2lZcFItTmRtVjJnM0hKY0NyWmR0d3BoaWNOUFZuRElaa0c3SU9lUWdQNjhyRnJHak9FaGMxb3MyWUhIVDJ2eXM",
+          "author": null,
+          "description": "Kali Linux 2024.4 Released, Bids Farewell to 32-Bit Systems  info-mods.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVE5udVlfa1lFWEhTMzQzU2VoUEJjS2htSDdVOHRwZzFGUjdzeHBzMG5RWlBGQXMzaHM0eVlrSXA0QU1XX0pXZ3RmTmlzRVB3eWNWdm5PaEJTRlV4YkpNRW5YVUlOaExTX3B4a2lZcFItTmRtVjJnM0hKY0NyWmR0d3BoaWNOUFZuRElaa0c3SU9lUWdQNjhyRnJHak9FaGMxb3MyWUhIVDJ2eXM?oc=5",
+          "publishedOn": "2024-12-16T15:10:00.000Z",
+          "wordCount": 12592,
+          "title": "Kali Linux 2024.4 Released, Bids Farewell to 32-Bit Systems - info-mods.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidkFVX3lxTE5ydTNRVm0tU0FGN2hkUG1KZEVNMV93QmhSQjY5YkRoUFdIYjBYTW1mMWNXaWptWXhNUExBekZaYW85MlBGOHFBbl9ST0RoMWJSV183TXlzWURmaER6NnlWeHJuRWNxQzR3OVlxZC0zY2pPZmtUYXc",
+          "author": null,
+          "description": "How to Share Files Between Mac and Linux  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ydTNRVm0tU0FGN2hkUG1KZEVNMV93QmhSQjY5YkRoUFdIYjBYTW1mMWNXaWptWXhNUExBekZaYW85MlBGOHFBbl9ST0RoMWJSV183TXlzWURmaER6NnlWeHJuRWNxQzR3OVlxZC0zY2pPZmtUYXc?oc=5",
+          "publishedOn": "2024-12-16T15:00:00.000Z",
+          "wordCount": 12592,
+          "title": "How to Share Files Between Mac and Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxQaEpEb3JxYWMzc1FUbzdROWZrbEh3RTdHSDZBM1B4ZXdXeTRoVzJwREpYZnY4QlF3SEh3RUpzX0dISnhHRDhOa2RYbFVabGhFM2RTczR1S2FjY3ZwN3FVeXRjYlhYbHZrRjhmb2pZemxpeE9kdDBHT05SQ0ZrVjduVEtDQlpwZExvdDJDdmNLRjlyOW1rYS1j",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: December 15th, 2024  info-mods.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEpEb3JxYWMzc1FUbzdROWZrbEh3RTdHSDZBM1B4ZXdXeTRoVzJwREpYZnY4QlF3SEh3RUpzX0dISnhHRDhOa2RYbFVabGhFM2RTczR1S2FjY3ZwN3FVeXRjYlhYbHZrRjhmb2pZemxpeE9kdDBHT05SQ0ZrVjduVEtDQlpwZExvdDJDdmNLRjlyOW1rYS1j?oc=5",
+          "publishedOn": "2024-12-16T14:49:04.000Z",
+          "wordCount": 12592,
+          "title": "9to5Linux Weekly Roundup: December 15th, 2024 - info-mods.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxOcF9iRDdYR00yekxGSGtaVjcwN19DcW1PX2RaZmJ6eEl1bGxBamwyOFBvU0RuUm5Xd09oMVNlaGw3ZUEyV3dnN3dHTmlVeVUwVzhEQkpHMkJBUWg3Ymh2aldZMllDZFlGMnpwd3BmN1ZaZHJOMGZ3ZGFkOHhmRVRxV1FBdW5YLXhQVG95c3dNdkQ2T05VWnljeWxBRjJ2MDlyMHdnQWRtbG0",
+          "author": null,
+          "description": "I converted this Mini PC from Windows to Linux, and it came alive. Here's how  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcF9iRDdYR00yekxGSGtaVjcwN19DcW1PX2RaZmJ6eEl1bGxBamwyOFBvU0RuUm5Xd09oMVNlaGw3ZUEyV3dnN3dHTmlVeVUwVzhEQkpHMkJBUWg3Ymh2aldZMllDZFlGMnpwd3BmN1ZaZHJOMGZ3ZGFkOHhmRVRxV1FBdW5YLXhQVG95c3dNdkQ2T05VWnljeWxBRjJ2MDlyMHdnQWRtbG0?oc=5",
+          "publishedOn": "2024-12-16T14:39:00.000Z",
+          "wordCount": 12592,
+          "title": "I converted this Mini PC from Windows to Linux, and it came alive. Here's how - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTE5zT3BYWEtFZVFpX0g5Ml84R2pVS3BKeGhMWlV3RzJjRDlhX0hybW01RkRHRmp3QXUwSVRXdkhQU0FwSzl3RVphZkNnX1F2TjQ2S19Sb0ZqWXB2WWdPRVhwbkd3",
+          "author": null,
+          "description": "Linux 6.14 Looks To Support AMD's Zen 5 RMPREAD Instruction & Segmented RMP Mode  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zT3BYWEtFZVFpX0g5Ml84R2pVS3BKeGhMWlV3RzJjRDlhX0hybW01RkRHRmp3QXUwSVRXdkhQU0FwSzl3RVphZkNnX1F2TjQ2S19Sb0ZqWXB2WWdPRVhwbkd3?oc=5",
+          "publishedOn": "2024-12-16T14:03:00.000Z",
+          "wordCount": 12592,
+          "title": "Linux 6.14 Looks To Support AMD's Zen 5 RMPREAD Instruction & Segmented RMP Mode - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTFBvRlYyUE84Vzh2bXQ4RlRvQ1ZhbG1fd0tjS29TdWxfWS1sZHBCUElwRVNQZmpROXMweHZNSmRNSlhueE80SF9EQ3FyQUR3djhCOHlXQ2FDeDlPQzFPdTVmaXFLWjNDQkU",
+          "author": null,
+          "description": "Blaize BLZP1600 SoC Support Coming To Linux 6.14 For AI Edge Processing  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvRlYyUE84Vzh2bXQ4RlRvQ1ZhbG1fd0tjS29TdWxfWS1sZHBCUElwRVNQZmpROXMweHZNSmRNSlhueE80SF9EQ3FyQUR3djhCOHlXQ2FDeDlPQzFPdTVmaXFLWjNDQkU?oc=5",
+          "publishedOn": "2024-12-16T13:00:00.000Z",
+          "wordCount": 12592,
+          "title": "Blaize BLZP1600 SoC Support Coming To Linux 6.14 For AI Edge Processing - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiogFBVV95cUxOUlNwai11M2VydDA2NXc5bi0xZ2VKM3QzSHRwbV9zaFcyVi1PWUFpcXBKcDAwOGxIbF9aVTNsV3lveEQtUkU0a0FISWJKdjM0YnlUZ1JjR3h5WEkxcnlzVG9NZW9LamFvMkgtVEhnYnVYWS1aYl82azFxT1ljbU1hN19VWWgzNlg1NkxlLUxkR3dQd0hMY3ZiNWFRWkEtZTZBUkHSAacBQVVfeXFMTkxwTnJOYWpRd1c4X3BLTFc3RmNSWHllNHRDaGE4b1JsWnJqRTNTLS0zd25YS1JvdjZqbTFjNFE3OURzWG5RSC1LcUtGd3JNeXNEMWZMcUp1OFhvc1VuNEdNS2QtOXkxQzhoVzVvQS1PenZLVUJJdzl0bExOVnF1ZFpiV3VlX1BfOGFzc3dReTFUbjhIaDZzd1F1VWNaM0ZBRXdJNF9FazA",
+          "author": null,
+          "description": "Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlNwai11M2VydDA2NXc5bi0xZ2VKM3QzSHRwbV9zaFcyVi1PWUFpcXBKcDAwOGxIbF9aVTNsV3lveEQtUkU0a0FISWJKdjM0YnlUZ1JjR3h5WEkxcnlzVG9NZW9LamFvMkgtVEhnYnVYWS1aYl82azFxT1ljbU1hN19VWWgzNlg1NkxlLUxkR3dQd0hMY3ZiNWFRWkEtZTZBUkHSAacBQVVfeXFMTkxwTnJOYWpRd1c4X3BLTFc3RmNSWHllNHRDaGE4b1JsWnJqRTNTLS0zd25YS1JvdjZqbTFjNFE3OURzWG5RSC1LcUtGd3JNeXNEMWZMcUp1OFhvc1VuNEdNS2QtOXkxQzhoVzVvQS1PenZLVUJJdzl0bExOVnF1ZFpiV3VlX1BfOGFzc3dReTFUbjhIaDZzd1F1VWNaM0ZBRXdJNF9FazA?oc=5",
+          "publishedOn": "2024-12-16T11:46:02.000Z",
+          "wordCount": 12592,
+          "title": "Slackware-Based PorteuX 1.8 Is One of the First Distros to Ship with Xfce 4.20 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE9YMlBQWGhZMkpsLWM0NzFGS1A2X19uakYyYXluSXBFLWhldjBKX1VaZE94dUJneWdJVUhXdHFXaC1tdkZ5RlJpN0NCemlWUGVEdm5WbkNRM2Q2aVhWNWdfazlwaw",
+          "author": null,
+          "description": "Linux 6.14 To Introduce New DRM Boot Logger For Kernel Messages  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YMlBQWGhZMkpsLWM0NzFGS1A2X19uakYyYXluSXBFLWhldjBKX1VaZE94dUJneWdJVUhXdHFXaC1tdkZ5RlJpN0NCemlWUGVEdm5WbkNRM2Q2aVhWNWdfazlwaw?oc=5",
+          "publishedOn": "2024-12-16T11:34:00.000Z",
+          "wordCount": 12592,
+          "title": "Linux 6.14 To Introduce New DRM Boot Logger For Kernel Messages - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTFBYaW9XQ0xmNjUxTkV0b0xuRm5INTdpeEVLN0tZTTVuaU5nbHdfRk9RYktmUS1DZm5pZzZoOGxUUXNSUE1XTVIyVkRkR295QktuTWRrckwtb3BXTHNKcXpuTnI1WXZiZw",
+          "author": null,
+          "description": "Better Linux Support For The Samsung Galaxy Book Laptops With New Driver Coming  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYaW9XQ0xmNjUxTkV0b0xuRm5INTdpeEVLN0tZTTVuaU5nbHdfRk9RYktmUS1DZm5pZzZoOGxUUXNSUE1XTVIyVkRkR295QktuTWRrckwtb3BXTHNKcXpuTnI1WXZiZw?oc=5",
+          "publishedOn": "2024-12-16T11:16:00.000Z",
+          "wordCount": 12592,
+          "title": "Better Linux Support For The Samsung Galaxy Book Laptops With New Driver Coming - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE5hUDZiTHJLNWJLRDk2X2RGZGZmRk5tOWt3cHlHZ19xN1FIWG9neVVHU2djOEdBQ2pzeUUtSnJSTTlIeTVJUnpwSFZCQ18wb0g0N3BESXpjejlUSVFQc3FGQzYwOGpGSXo0SWZ1ZjdxeXJySknSAXhBVV95cUxNeDBYNzhTSVpCV1Y4c0pGWnlOamdNSXdDYmZJWWFCUE01UEQtc1oxYThkT1JiMkRVd0ExNElKTnllWC11M0ZQamZRdlduZUhiQzhnT1o0NGJnMmtsTktsUXNfTTJ3aFhSX0t6TVl3Q1N3Q2pVaXNWb3M",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: December 15th, 2024  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hUDZiTHJLNWJLRDk2X2RGZGZmRk5tOWt3cHlHZ19xN1FIWG9neVVHU2djOEdBQ2pzeUUtSnJSTTlIeTVJUnpwSFZCQ18wb0g0N3BESXpjejlUSVFQc3FGQzYwOGpGSXo0SWZ1ZjdxeXJySknSAXhBVV95cUxNeDBYNzhTSVpCV1Y4c0pGWnlOamdNSXdDYmZJWWFCUE01UEQtc1oxYThkT1JiMkRVd0ExNElKTnllWC11M0ZQamZRdlduZUhiQzhnT1o0NGJnMmtsTktsUXNfTTJ3aFhSX0t6TVl3Q1N3Q2pVaXNWb3M?oc=5",
+          "publishedOn": "2024-12-16T10:21:47.000Z",
+          "wordCount": 12592,
+          "title": "9to5Linux Weekly Roundup: December 15th, 2024 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixgFBVV95cUxNTVU1TDFLYkc3TVVtc0tONkRSZ3NxVDFWelU1SEtaUUJodVNwS3NvUEVReWRPZ0p6RFFtUWJYSGJYbE9QSmwwUjcyWklaVm54ZEJTS3VJX0ZDZy1qV2R3anBCUWpicjVDaWRyS1BpWXdGZlgyZmpWZkV1azkzMzR0YXdieXFVOVN1YjZ1LXBPTFRnamtPdG9PRFV4cU9pTndkVWtXRDU1SUt6WlBnOHp2S2g3WGRxT1Q5ZVFab1pBQmpQeHViY1E",
+          "author": null,
+          "description": "Linux Mint 22.1 Beta released with Cinnamon 6.4 desktop and lots of Wayland improvements  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVU1TDFLYkc3TVVtc0tONkRSZ3NxVDFWelU1SEtaUUJodVNwS3NvUEVReWRPZ0p6RFFtUWJYSGJYbE9QSmwwUjcyWklaVm54ZEJTS3VJX0ZDZy1qV2R3anBCUWpicjVDaWRyS1BpWXdGZlgyZmpWZkV1azkzMzR0YXdieXFVOVN1YjZ1LXBPTFRnamtPdG9PRFV4cU9pTndkVWtXRDU1SUt6WlBnOHp2S2g3WGRxT1Q5ZVFab1pBQmpQeHViY1E?oc=5",
+          "publishedOn": "2024-12-16T09:35:44.000Z",
+          "wordCount": 12592,
+          "title": "Linux Mint 22.1 Beta released with Cinnamon 6.4 desktop and lots of Wayland improvements - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE9USW1hVDRlTWgwRVBMMUctM0Z2STlydWMtanl4NGlocVJUOGpkQ2FVcGREbm82bWFwbXBoZzVtSldzeTRBb295WEZjOFl3OUVkYU9Eal9lNHNzeXdQNVYzeVFPMA",
+          "author": null,
+          "description": "Linux 6.13-rc3 Released With KVM Caching For \"Wildly Expensive\" Intel CPUID Handling  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USW1hVDRlTWgwRVBMMUctM0Z2STlydWMtanl4NGlocVJUOGpkQ2FVcGREbm82bWFwbXBoZzVtSldzeTRBb295WEZjOFl3OUVkYU9Eal9lNHNzeXdQNVYzeVFPMA?oc=5",
+          "publishedOn": "2024-12-16T00:22:00.000Z",
+          "wordCount": 12592,
+          "title": "Linux 6.13-rc3 Released With KVM Caching For \"Wildly Expensive\" Intel CPUID Handling - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYkFVX3lxTE82SlhVNUg0d0c5ZUZfOEJDMVhHdDduZ3ZBSEphY0F5aFpHNTVoQldWNmdScUlZOTVPYmthOVlrTHZDc29sQ1dnTjdXd1EzWG5zNHlNZ01OUFktNHhoOWVpUXR3",
           "author": null,
@@ -7054,116 +7414,6 @@
           "wordCount": 12600,
           "title": "Linux Fixes Hosts Randomly Rebooting During Virtualization With Ryzen 7000/8000 CPUs - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE8tcXBjVVFYWjIzNkFmb212QVdIZk9LVlhrTWhVamtkemJWZ1B3LWRfZHBiV1VEWTNxcFZMLUo4T25vdFRLTUhoWHhEOXNIWVhTaVhWSlhrQXZOelkxM2hQNGczZlhiRTVOWFExZHp3",
-          "author": null,
-          "description": "Missing MS Paint on Linux? Here's 5 Alternatives to Try  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcXBjVVFYWjIzNkFmb212QVdIZk9LVlhrTWhVamtkemJWZ1B3LWRfZHBiV1VEWTNxcFZMLUo4T25vdFRLTUhoWHhEOXNIWVhTaVhWSlhrQXZOelkxM2hQNGczZlhiRTVOWFExZHp3?oc=5",
-          "publishedOn": "2024-11-17T13:30:00.000Z",
-          "wordCount": 12600,
-          "title": "Missing MS Paint on Linux? Here's 5 Alternatives to Try - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFBVV95cUxOVWNVRnk2R0dnLVlrUEZZQi1CT1R1MnpVUUFXbmhPeWR6bXpUSjN5c25vT0F1MW55dEFrVTVvSVhWMWJCZVNpVzI2Wm5yd2xMbjc0azZNX1dHenhjTUlFTEh5elVXeGllM3N3Qzh5LUNwRnRHTVBsd3RvbDV1Z294cXRB",
-          "author": null,
-          "description": "Does Gaming on Linux Have a Cheating Problem?  Yahoo! Voices",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWNVRnk2R0dnLVlrUEZZQi1CT1R1MnpVUUFXbmhPeWR6bXpUSjN5c25vT0F1MW55dEFrVTVvSVhWMWJCZVNpVzI2Wm5yd2xMbjc0azZNX1dHenhjTUlFTEh5elVXeGllM3N3Qzh5LUNwRnRHTVBsd3RvbDV1Z294cXRB?oc=5",
-          "publishedOn": "2024-11-17T13:15:12.000Z",
-          "wordCount": 12601,
-          "title": "Does Gaming on Linux Have a Cheating Problem? - Yahoo! Voices",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMie0FVX3lxTE5laEI2cnp0YzI1Y1otVUlmZHRuamQ5WU53SC1mSkRhN0F2bTA0OUMtVXZyVkRnUDhtVnVfMDFsWWY1ZmEwLTZ5eU50eGhsanQ5ZFd4WFZSRWU4M1ROTVZ3aDB4OGJfZTYwZVhlektQOXgyZ1Y2amw2c1BqNA",
-          "author": null,
-          "description": "Does Gaming on Linux Have a Cheating Problem?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5laEI2cnp0YzI1Y1otVUlmZHRuamQ5WU53SC1mSkRhN0F2bTA0OUMtVXZyVkRnUDhtVnVfMDFsWWY1ZmEwLTZ5eU50eGhsanQ5ZFd4WFZSRWU4M1ROTVZ3aDB4OGJfZTYwZVhlektQOXgyZ1Y2amw2c1BqNA?oc=5",
-          "publishedOn": "2024-11-17T13:15:00.000Z",
-          "wordCount": 12600,
-          "title": "Does Gaming on Linux Have a Cheating Problem? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilAFBVV95cUxNQThVZHNpZjVZOXNQTFM2dWZkOEdNV2FUTjhSWFlqN2VJY1BZY3RjekJsV05TeDdHdnROMmYwOTZwY2haUnZEYmlKUHQ0czZwT2RFaTdhOGVtTlRHQm5pNTg4Z1VNWGtkWnJUdk9oNnZZdWFLOG1BYmJMdnlUSU1NcDlldWRCcXRudGUwNEdxN3paak0x0gGaAUFVX3lxTE5UbElpNlpCZFh2VE1DcnFIQUFUM3lGT2gyWkR2RzNtSE9XY3QwX1Rfckx6Z25CYzJYS0pTajgyUjI5TVp4TVBFY0RUQXB4VXFsazZLZmFPTVlJU0JRRHdoNmZDa2ZrazJoUVZiYVp1aWs4bGFtT1J2aWEzOUUzeWphOVpyYnQ4cVdrcmNRYWxkTnNSbGJLVHBDX3c",
-          "author": null,
-          "description": "Archinstall 3.0 Arch Linux Menu-Based Installer Is Here with a Revamped Interface  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQThVZHNpZjVZOXNQTFM2dWZkOEdNV2FUTjhSWFlqN2VJY1BZY3RjekJsV05TeDdHdnROMmYwOTZwY2haUnZEYmlKUHQ0czZwT2RFaTdhOGVtTlRHQm5pNTg4Z1VNWGtkWnJUdk9oNnZZdWFLOG1BYmJMdnlUSU1NcDlldWRCcXRudGUwNEdxN3paak0x0gGaAUFVX3lxTE5UbElpNlpCZFh2VE1DcnFIQUFUM3lGT2gyWkR2RzNtSE9XY3QwX1Rfckx6Z25CYzJYS0pTajgyUjI5TVp4TVBFY0RUQXB4VXFsazZLZmFPTVlJU0JRRHdoNmZDa2ZrazJoUVZiYVp1aWs4bGFtT1J2aWEzOUUzeWphOVpyYnQ4cVdrcmNRYWxkTnNSbGJLVHBDX3c?oc=5",
-          "publishedOn": "2024-11-17T11:20:06.000Z",
-          "wordCount": 12600,
-          "title": "Archinstall 3.0 Arch Linux Menu-Based Installer Is Here with a Revamped Interface - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTFBwc1ZWVk9vZ3daei1VeVFtWml5Zm9GS1V2OUNGUWRSQ3BhcGFHMThONDlsQ3FTY1JrRnltX00wdDlnbjJwdWtIb0kxUlU0M0VONjZIN1hKVFNfaTZqXzVKc0pQcFU",
-          "author": null,
-          "description": "Archinstall 3.0 Overhauls The Text-Based Arch Linux Installer  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwc1ZWVk9vZ3daei1VeVFtWml5Zm9GS1V2OUNGUWRSQ3BhcGFHMThONDlsQ3FTY1JrRnltX00wdDlnbjJwdWtIb0kxUlU0M0VONjZIN1hKVFNfaTZqXzVKc0pQcFU?oc=5",
-          "publishedOn": "2024-11-17T10:33:00.000Z",
-          "wordCount": 12600,
-          "title": "Archinstall 3.0 Overhauls The Text-Based Arch Linux Installer - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE5LcUtPQTVYYkNDUXBibHc3SHpiMjM4ZHJmWUlnNGE1aHQxOV9sNTRQTjRpMkkyX0xXSW9XZ2pzaENiZHpuWHlmdXdFLTlwWDRkOTBSMUx1X0pDX3A2SWZfYW81VldtMFk",
-          "author": null,
-          "description": "SimRacing on Linux: A New Reality  BoxThisLap",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LcUtPQTVYYkNDUXBibHc3SHpiMjM4ZHJmWUlnNGE1aHQxOV9sNTRQTjRpMkkyX0xXSW9XZ2pzaENiZHpuWHlmdXdFLTlwWDRkOTBSMUx1X0pDX3A2SWZfYW81VldtMFk?oc=5",
-          "publishedOn": "2024-11-17T07:54:08.000Z",
-          "wordCount": 12600,
-          "title": "SimRacing on Linux: A New Reality - BoxThisLap",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTFBUTmNmQTF0ZHdDMkluVzVpa051bEZCejdLblBBVGdSSF84VHdsMUxmcjR5NExLVDBrVXVJd25GMjJyQXdpUzZ5ejB4YU14blF1YmxrY2E0R0taMUxtcHlEeDd3QTcyMTQ2Z2dGZm52ZEIzZ2s0VnZjRw",
-          "author": null,
-          "description": "5 Ways to Make Linux Commands Work the Way You Want  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUTmNmQTF0ZHdDMkluVzVpa051bEZCejdLblBBVGdSSF84VHdsMUxmcjR5NExLVDBrVXVJd25GMjJyQXdpUzZ5ejB4YU14blF1YmxrY2E0R0taMUxtcHlEeDd3QTcyMTQ2Z2dGZm52ZEIzZ2s0VnZjRw?oc=5",
-          "publishedOn": "2024-11-16T20:00:00.000Z",
-          "wordCount": 12601,
-          "title": "5 Ways to Make Linux Commands Work the Way You Want - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTE5XMmZpcjU2b0RyVXIzY1ZINWFxRXM5aFEtWlpWSUdPbjRpMElJS0RGUGRGNlNiSDJXQTFGU1ZCWTA5X0doRGNfb0hEd0drT1FXenQ1ZTlnVmtmdXdBaXBaeHdobXk",
-          "author": null,
-          "description": "Google Engineer Proposes \"Page Detective\" As New Kernel Debugging Tool  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMmZpcjU2b0RyVXIzY1ZINWFxRXM5aFEtWlpWSUdPbjRpMElJS0RGUGRGNlNiSDJXQTFGU1ZCWTA5X0doRGNfb0hEd0drT1FXenQ1ZTlnVmtmdXdBaXBaeHdobXk?oc=5",
-          "publishedOn": "2024-11-16T18:21:00.000Z",
-          "wordCount": 12600,
-          "title": "Google Engineer Proposes \"Page Detective\" As New Kernel Debugging Tool - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTFBUeHJGRXlaMDZhWENDTkVVNWtNTmtQOERUVXhMUW1DSTNLWHNZdGJfVVFWT29YdFpqRlR6UF9xUVc0Wm5LX0d4SXo3OFNqMkpvNGNCNVl1a1l6SXkzTldEYkpzbmsteFJua0dmN2FoS2lMUXY3M0VIZkkwaC1mQQ",
-          "author": null,
-          "description": "How to Batch Edit Photos in the Linux Terminal  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUeHJGRXlaMDZhWENDTkVVNWtNTmtQOERUVXhMUW1DSTNLWHNZdGJfVVFWT29YdFpqRlR6UF9xUVc0Wm5LX0d4SXo3OFNqMkpvNGNCNVl1a1l6SXkzTldEYkpzbmsteFJua0dmN2FoS2lMUXY3M0VIZkkwaC1mQQ?oc=5",
-          "publishedOn": "2024-11-16T17:00:00.000Z",
-          "wordCount": 12600,
-          "title": "How to Batch Edit Photos in the Linux Terminal - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTE8tNklUWFlPaENGY1hwUWUyUEg5WE8xWkhEbVAzN2IwcWVEbDNITGxEam03T1pYc3BwejBqVUZHS3RWeDFQTThmTTJMTnljQVR3VE56Z1NwTTlIM1dRR2JvT1J6SDdodw",
-          "author": null,
-          "description": "TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tNklUWFlPaENGY1hwUWUyUEg5WE8xWkhEbVAzN2IwcWVEbDNITGxEam03T1pYc3BwejBqVUZHS3RWeDFQTThmTTJMTnljQVR3VE56Z1NwTTlIM1dRR2JvT1J6SDdodw?oc=5",
-          "publishedOn": "2024-11-16T14:51:00.000Z",
-          "wordCount": 12600,
-          "title": "TUXEDO Computers Relicenses Some Of Their Drivers To GPLv2 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFBVV95cUxQOVR0QWtQVzBGMjRQOGhPMGwteHlXbUpPaXRMMnUwMEpRSXhCOC1rRXQ4VzV4STl6bHFmR3NHMHptcVZ4eWQtQWpSdkZhWWs5eHljNEpHbFozOGMyS3ZKdTI0bURjTWc3eWlxNDBDaENFWW1HdG12UGZjNEdaM2ZKaENXWHViNFIxclkw",
-          "author": null,
-          "description": "First Look at GenBook RK3588, a Modular ARM-Powered Linux Laptop That Can Easily be Upgraded  TechEBlog",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVR0QWtQVzBGMjRQOGhPMGwteHlXbUpPaXRMMnUwMEpRSXhCOC1rRXQ4VzV4STl6bHFmR3NHMHptcVZ4eWQtQWpSdkZhWWs5eHljNEpHbFozOGMyS3ZKdTI0bURjTWc3eWlxNDBDaENFWW1HdG12UGZjNEdaM2ZKaENXWHViNFIxclkw?oc=5",
-          "publishedOn": "2024-11-16T14:42:35.000Z",
-          "wordCount": 12600,
-          "title": "First Look at GenBook RK3588, a Modular ARM-Powered Linux Laptop That Can Easily be Upgraded - TechEBlog",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9608,6 +9858,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "676081a802767316a74098de",
+          "author": "Ben",
+          "description": "In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/",
+          "publishedOn": "2024-12-16T19:38:16.000Z",
+          "wordCount": 3369,
+          "title": "How to Write User Stories for Beginners: Agile in Practice",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733997369281/da5556e8-8d3f-40ef-97eb-c140f984e5b3.jpeg"
+        },
+        {
+          "id": "67606d5e81f45e690a86fe00",
+          "author": "David Jaja",
+          "description": "If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/",
+          "publishedOn": "2024-12-16T18:11:42.000Z",
+          "wordCount": 3748,
+          "title": "How to Build a Reusable Keyboard Shortcut Listener Component in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733895763796/17684457-fb85-48d4-b049-ddbaf0b5281e.png"
+        },
+        {
+          "id": "6760688b00f110abd3d0f655",
+          "author": "Francis Ihejirika",
+          "description": "When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/",
+          "publishedOn": "2024-12-16T17:51:07.000Z",
+          "wordCount": 3414,
+          "title": "How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733871988108/cde4ea9b-705c-40e0-9730-09dbeebdfbae.png"
+        },
         {
           "id": "675ca1db0e7ab2ab9bd66a40",
           "author": "Quincy Larson",
