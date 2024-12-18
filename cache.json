@@ -10,24 +10,113 @@
       "title": null,
       "feedUrl": "https://linuxhint.com/feed/",
       "siteUrl": "https://linuxhint.com",
-      "articles": [
-        {
-          "id": "https://linuxhint.com/?p=416885",
-          "author": "Linux Wolfman",
-          "description": "Debian vs Ubuntu: The ultimate guide to choosing the right Linux distribution for enterprise or personal use. Discover key differences in philosophy, setup, compatibility, and support to find your perfect fit.",
-          "link": "https://linuxhint.com/ubuntu-vs-debian-linux-distributions-compared-deep-dive/",
-          "publishedOn": "2024-11-17T20:23:32.000Z",
-          "wordCount": 5759,
-          "title": "Ubuntu vs Debian: Linux Distributions Compared Deep Dive",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Linux Today",
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195538",
+          "author": "Content Operations",
+          "description": "Microsoft Photos is an image viewer and image organizer. In this article we recommend the best free and open source Windows Photos alternatives for Linux.\nThe post Best Free and Open Source Alternatives to Microsoft Photos appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-alternatives-to-microsoft-photos/",
+          "publishedOn": "2024-12-17T21:38:08.000Z",
+          "wordCount": 10858,
+          "title": "Best Free and Open Source Alternatives to Microsoft Photos",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195526",
+          "author": "Content Operations",
+          "description": "In this guide, you will learn the process of installing and configuring Zabbix Server on Ubuntu 24.04 (Noble Numbat).\nThe post How to Install Zabbix Server on Ubuntu 24.04 (Noble Numbat) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-zabbix-server-on-ubuntu-24-04-noble-numbat/",
+          "publishedOn": "2024-12-17T21:35:19.000Z",
+          "wordCount": 10856,
+          "title": "How to Install Zabbix Server on Ubuntu 24.04 (Noble Numbat)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195525",
+          "author": "Content Operations",
+          "description": "Learn how to install the RetroArch emulator on Ubuntu and other Linux distributions and play your favorite classic games on your PC.\nThe post Play Classic Video Games With RetroArch on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/play-classic-video-games-with-retroarch-on-ubuntu-24-04-2/",
+          "publishedOn": "2024-12-17T21:34:37.000Z",
+          "wordCount": 10857,
+          "title": "Play Classic Video Games With RetroArch on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195524",
+          "author": "Content Operations",
+          "description": "Python is one of the most popular programming languages for beginners and professionals alike, as it is simple, easy to learn, and versatile. This guide will explain the types of operators in Python with examples so you can follow along easily.\nThe post The Ultimate Guide to Python Operators with Examples appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/the-ultimate-guide-to-python-operators-with-examples/",
+          "publishedOn": "2024-12-17T21:34:07.000Z",
+          "wordCount": 10937,
+          "title": "The Ultimate Guide to Python Operators with Examples",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195523",
+          "author": "Content Operations",
+          "description": "Here are some simple ways of running Windows applications and games on Linux without dealing with the command line.\nThe post Easily Run Windows Apps on Linux Using These Tools appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/easily-run-windows-apps-on-linux-using-these-tools/",
+          "publishedOn": "2024-12-17T21:32:52.000Z",
+          "wordCount": 10851,
+          "title": "Easily Run Windows Apps on Linux Using These Tools",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195539",
+          "author": "Content Operations",
+          "description": "It’s been ten months since the AMD-only Pangolin laptop received an update, in February 2023, which added an AMD Ryzen 7 6800U processor with AMD Radeon 680M integrated graphics, a 144Hz Full HD display, DDR5 RAM options, and PCIe 4.0 NVMe SSD storage.\nThe post System76 Refreshes Their AMD-Powered Pangolin Linux Laptop with 2K Display appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/system76-refreshes-their-amd-powered-pangolin-linux-laptop-with-2k-display/",
+          "publishedOn": "2024-12-17T21:31:54.000Z",
+          "wordCount": 10898,
+          "title": "System76 Refreshes Their AMD-Powered Pangolin Linux Laptop with 2K Display",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195537",
+          "author": "Content Operations",
+          "description": "Based on the Fedora Linux 41 operating system series and using the KDE Plasma 6.2 desktop environment by default, Fedora Asahi Remix 41 is here to introduce x86/x86-64 emulation integration including support for AAA games to Apple Silicon based on the new conformant Vulkan 1.4 driver.\nThe post Fedora Asahi Remix 41 Released for Apple Silicon Macs with KDE Plasma 6.2 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fedora-asahi-remix-41-released-for-apple-silicon-macs-with-kde-plasma-6-2/",
+          "publishedOn": "2024-12-17T21:30:53.000Z",
+          "wordCount": 10902,
+          "title": "Fedora Asahi Remix 41 Released for Apple Silicon Macs with KDE Plasma 6.2",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195463",
+          "author": "Content Operations",
+          "description": "Say Goodbye to blurry screens. KWin 6.3 brings crystal-clear fractional scaling to KDE Plasma desktop environment.\nThe post KWin 6.3 Brings Crystal-Clear Fractional Scaling To KDE Plasma appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/kwin-6-3-brings-crystal-clear-fractional-scaling-to-kde-plasma/",
+          "publishedOn": "2024-12-17T17:19:14.000Z",
+          "wordCount": 10849,
+          "title": "KWin 6.3 Brings Crystal-Clear Fractional Scaling To KDE Plasma",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195408",
+          "author": "Content Operations",
+          "description": "pgAdmin4 is an easy-to-use free and open-source graphical administration tool for PostgreSQL. In this tutorial, you'll learn how to install pgAdmin4 server mode on Ubuntu 24.04.\nThe post How to Install pgAdmin 4 PostgreSQL Admin Tool on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-pgadmin-4-postgresql-admin-tool-on-ubuntu-24-04/",
+          "publishedOn": "2024-12-17T16:27:28.000Z",
+          "wordCount": 10874,
+          "title": "How to Install pgAdmin 4 PostgreSQL Admin Tool on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195407",
+          "author": "Content Operations",
+          "description": "OpenSearch is a community-driven project by Amazon and a fork of Elasticsearch and Kibana. It's a fully open-source search engine and analytics suite with rich features and innovative functionality. This guide will show you how to install OpenSearch and OpenSearch Dashboard on the Ubuntu 24.04 server.\nThe post How to Install OpenSearch on Ubuntu 24.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-opensearch-on-ubuntu-24-04/",
+          "publishedOn": "2024-12-17T15:23:18.000Z",
+          "wordCount": 10894,
+          "title": "How to Install OpenSearch on Ubuntu 24.04",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195257",
           "author": "Content Operations",
@@ -2007,36 +2096,6 @@
           "wordCount": 9015,
           "title": "How Intel is Making Open Source Accessible to All Developers",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194524",
-          "author": "Content Operations",
-          "description": "The digiKam team announced the release and general availability of digiKam 8.5 as a new maintenance update to this open-source, free, and cross-platform professional photo management software.\nThe post digiKam 8.5 Released with Face Management Improvements, Color Label Usability appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/digikam-8-5-released-with-face-management-improvements-color-label-usability/",
-          "publishedOn": "2024-11-18T12:06:23.000Z",
-          "wordCount": 9022,
-          "title": "digiKam 8.5 Released with Face Management Improvements, Color Label Usability",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194288",
-          "author": "Content Operations",
-          "description": "In this guide, you'll learn how to install Vuls Vulnerability Scanner on the Debian 12 server. You'll install Vuls, set up CVE databases, and then scan the local system and remote machine Vuls.\nThe post How to Install and Use Vuls Vulnerability Scanner on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-and-use-vuls-vulnerability-scanner-on-debian-12/",
-          "publishedOn": "2024-11-17T18:56:01.000Z",
-          "wordCount": 9020,
-          "title": "How to Install and Use Vuls Vulnerability Scanner on Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194290",
-          "author": "Content Operations",
-          "description": "Creating aliases in Linux is a great way to save time and make your command line experience more efficient. Whether you're using Bash, Zsh, or Fish, this guide will show you how to create and manage aliases easily.\nThe post How To Create Aliases In Linux: A Beginners Guide appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-create-aliases-in-linux-a-beginners-guide/",
-          "publishedOn": "2024-11-17T16:58:02.000Z",
-          "wordCount": 8995,
-          "title": "How To Create Aliases In Linux: A Beginners Guide",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2045,6 +2104,266 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiW0FVX3lxTFBlcDNWTmxOV2xPTkdaUloyclpOVnhScjNPeXpMMmlhNVdtRkdVRENSZ3Q5SmFHQndvR3JVcG1LenlFQWdzYTRmanExU2kzdHJkVkM5VDR0ZlpYd2M",
+          "author": null,
+          "description": "Linux Patched For Unsafe Xen Behavior Around CPU Speculative Attack Protections  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcDNWTmxOV2xPTkdaUloyclpOVnhScjNPeXpMMmlhNVdtRkdVRENSZ3Q5SmFHQndvR3JVcG1LenlFQWdzYTRmanExU2kzdHJkVkM5VDR0ZlpYd2M?oc=5",
+          "publishedOn": "2024-12-17T21:36:00.000Z",
+          "wordCount": 12591,
+          "title": "Linux Patched For Unsafe Xen Behavior Around CPU Speculative Attack Protections - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxObk5XM0g3dGl6b3Y1YWRRaWFnaXl3YXhTdmZfbXg1OHdtMDFJQ1JlZ2w5TDhfLWFWYXd2RF8zOWxyTXQxUE1VTDMtdkE3bDFYLWtGR01aeGtMZDB6YXFkNkVObGJJOVlFbjlqWTN1R19DcWNZM1NlMDBvaW1kN2hwQnkzNGJ5VUs1TU4wclNKalFaUk9hVDhr0gGcAUFVX3lxTFBXdzAxMmNHbGJUYnA2TUlwcVRPSTFERHBVT1BQS21wemhWelBuSDhWdXctRkV4NHAtNTdKbGZDSEZuaEZvV2R5NUtOWVY4Y0UtMFh3RVJqNnJlcTB0SmJiM3ktLWV1U2EtWmZIZkl3b0xBal9nZTlwNG5Bb3hJMzVZc2g5X3NKSWFaajZhR3h1RlJqSnNFZDhlWWI5eA",
+          "author": null,
+          "description": "New DDoS Malware “cShell” Exploit Linux Tools to Attack SSH Servers  CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObk5XM0g3dGl6b3Y1YWRRaWFnaXl3YXhTdmZfbXg1OHdtMDFJQ1JlZ2w5TDhfLWFWYXd2RF8zOWxyTXQxUE1VTDMtdkE3bDFYLWtGR01aeGtMZDB6YXFkNkVObGJJOVlFbjlqWTN1R19DcWNZM1NlMDBvaW1kN2hwQnkzNGJ5VUs1TU4wclNKalFaUk9hVDhr0gGcAUFVX3lxTFBXdzAxMmNHbGJUYnA2TUlwcVRPSTFERHBVT1BQS21wemhWelBuSDhWdXctRkV4NHAtNTdKbGZDSEZuaEZvV2R5NUtOWVY4Y0UtMFh3RVJqNnJlcTB0SmJiM3ktLWV1U2EtWmZIZkl3b0xBal9nZTlwNG5Bb3hJMzVZc2g5X3NKSWFaajZhR3h1RlJqSnNFZDhlWWI5eA?oc=5",
+          "publishedOn": "2024-12-17T20:15:50.000Z",
+          "wordCount": 12591,
+          "title": "New DDoS Malware “cShell” Exploit Linux Tools to Attack SSH Servers - CybersecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE9VRXhDWGYwTy1ZMm5fNGhlVU92eDFGdUZFRWZYakoxRUM4cXkta1J3N3p3ZVZ6SzdtU2thMFJ2R3hvX3cyY0lwbkZJc29ZVy0zVHN3QlJlMmVBUE9CaTl4YTdaYVR1NWY3LTRNdURLQUY",
+          "author": null,
+          "description": "System76 Pangolin Linux laptop gets aluminum body and 2K display upgrade  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRXhDWGYwTy1ZMm5fNGhlVU92eDFGdUZFRWZYakoxRUM4cXkta1J3N3p3ZVZ6SzdtU2thMFJ2R3hvX3cyY0lwbkZJc29ZVy0zVHN3QlJlMmVBUE9CaTl4YTdaYVR1NWY3LTRNdURLQUY?oc=5",
+          "publishedOn": "2024-12-17T20:09:09.000Z",
+          "wordCount": 12591,
+          "title": "System76 Pangolin Linux laptop gets aluminum body and 2K display upgrade - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixwFBVV95cUxOLWF0RFdOZDFKN1otUHlGLXBHWUdXeTc1WDZCZThhaWZkQzJuM3llT1NJOXIxUlBRTlRFZ3o2T2hOakdLanAxZDhHSHByUXJNSWNOQmUwTGV2clI0UWhxS29HUDJxY0psN3hzTFVLbkZtX2V6Q2tPWmRCa2FlWmhuLXE5YUJjY0xiUnhqbEt1QlVyZ01sTW9ZMVJZOUdkS3JfSzVCbGIxUWFwamR2TDdXMzhlZUo0V1N2c3k1bXVFdDhRMGNFOUxn",
+          "author": null,
+          "description": "Kali Linux 2024.4 launches with GNOME 47 and Python 3.12, drops 32-bit kernel support  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWF0RFdOZDFKN1otUHlGLXBHWUdXeTc1WDZCZThhaWZkQzJuM3llT1NJOXIxUlBRTlRFZ3o2T2hOakdLanAxZDhHSHByUXJNSWNOQmUwTGV2clI0UWhxS29HUDJxY0psN3hzTFVLbkZtX2V6Q2tPWmRCa2FlWmhuLXE5YUJjY0xiUnhqbEt1QlVyZ01sTW9ZMVJZOUdkS3JfSzVCbGIxUWFwamR2TDdXMzhlZUo0V1N2c3k1bXVFdDhRMGNFOUxn?oc=5",
+          "publishedOn": "2024-12-17T19:49:00.000Z",
+          "wordCount": 12591,
+          "title": "Kali Linux 2024.4 launches with GNOME 47 and Python 3.12, drops 32-bit kernel support - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi5wFBVV95cUxQb2tPUlI1SFVWM01SQlU2WjJpQXJYSnFTY0paTXZ0T29iRGdSeDJUdjE0REVxYVBuQW90WUs1aktxM2l0QmI0b0Y5SmpQdnk3SHVXeTZweEs2TzMwemp1Q1RPRVoxeHFyN1pfLWlBVExUR2tfeEYteEhNNHllenNfUXlwM2dMaExxdzRNS3ZiWHpGQlpiRm9XTXNqd2l4bVA2LXBraWlhR2hQbHZqRnE5Ni11a2w2UWo2MkdKV2xIc0xfMVBHUWlEUWdHcklrVl9hbXdvT3lTWHZjOWJfSGJFVWN6c0RfWEk",
+          "author": null,
+          "description": "Nexus Mods new cross-platform app v0.7.1 released finally supporting upgrades - better modding for Linux / Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2tPUlI1SFVWM01SQlU2WjJpQXJYSnFTY0paTXZ0T29iRGdSeDJUdjE0REVxYVBuQW90WUs1aktxM2l0QmI0b0Y5SmpQdnk3SHVXeTZweEs2TzMwemp1Q1RPRVoxeHFyN1pfLWlBVExUR2tfeEYteEhNNHllenNfUXlwM2dMaExxdzRNS3ZiWHpGQlpiRm9XTXNqd2l4bVA2LXBraWlhR2hQbHZqRnE5Ni11a2w2UWo2MkdKV2xIc0xfMVBHUWlEUWdHcklrVl9hbXdvT3lTWHZjOWJfSGJFVWN6c0RfWEk?oc=5",
+          "publishedOn": "2024-12-17T19:36:28.000Z",
+          "wordCount": 12591,
+          "title": "Nexus Mods new cross-platform app v0.7.1 released finally supporting upgrades - better modding for Linux / Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFBVV95cUxPbnVSOUlxN1hvTFlGaDRrQUNFQjBDNnBJNDZyWGstVGpPVE5PT0U5bjc5N19mZmV0bWhNMkNIUDdvVmoxM2Q5eFptR2swaERCcGJ3NHoyZFVLZVQxa0ZWNzlFM2dEQkdBU3pYRG9ubmxhV1JEcnM4WFdsLWswVnpiQ0hndlNNYjYwakZReE9ldHhSalNlNEZ4OHVPX1rSAaIBQVVfeXFMUGlSTWFmbmpHX3JWaWs2d2VEWFRZbVhiek5ZSmpCeHFLMDRfTTd2WXlydlAydTVCRVlKdzZDd2dFLVNFOFp1cEFNOGZadGpYX3hHN3dJQXZ2Uy11R216M2FzSlc0cUJUOHh3NGZUcEFweFU4NUhQTE53UFJid0xKaUFldGlNQUtLbElaWUVfNWxxTzAzUm1Gcms5aEREN0V3ZEtR",
+          "author": null,
+          "description": "System76 Refreshes Their AMD-Powered Pangolin Linux Laptop with 2K Display  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnVSOUlxN1hvTFlGaDRrQUNFQjBDNnBJNDZyWGstVGpPVE5PT0U5bjc5N19mZmV0bWhNMkNIUDdvVmoxM2Q5eFptR2swaERCcGJ3NHoyZFVLZVQxa0ZWNzlFM2dEQkdBU3pYRG9ubmxhV1JEcnM4WFdsLWswVnpiQ0hndlNNYjYwakZReE9ldHhSalNlNEZ4OHVPX1rSAaIBQVVfeXFMUGlSTWFmbmpHX3JWaWs2d2VEWFRZbVhiek5ZSmpCeHFLMDRfTTd2WXlydlAydTVCRVlKdzZDd2dFLVNFOFp1cEFNOGZadGpYX3hHN3dJQXZ2Uy11R216M2FzSlc0cUJUOHh3NGZUcEFweFU4NUhQTE53UFJid0xKaUFldGlNQUtLbElaWUVfNWxxTzAzUm1Gcms5aEREN0V3ZEtR?oc=5",
+          "publishedOn": "2024-12-17T19:10:21.000Z",
+          "wordCount": 12591,
+          "title": "System76 Refreshes Their AMD-Powered Pangolin Linux Laptop with 2K Display - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFBDLUE5M0tRTnFyS29oeDEyM08wSGtNTG04ZDRBWmNyRHdReWlUbjVTeTM0eW5zM2d2NzRKLUJHamgtSDc0S205U3ZFaG5UMTgyeS1QTG9KeXBFc3U4MjBvTTdGMnJtTDFIQ2UxMQ",
+          "author": null,
+          "description": "System76 Releases Updated AMD Ryzen Linux Laptop  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDLUE5M0tRTnFyS29oeDEyM08wSGtNTG04ZDRBWmNyRHdReWlUbjVTeTM0eW5zM2d2NzRKLUJHamgtSDc0S205U3ZFaG5UMTgyeS1QTG9KeXBFc3U4MjBvTTdGMnJtTDFIQ2UxMQ?oc=5",
+          "publishedOn": "2024-12-17T19:05:00.000Z",
+          "wordCount": 12591,
+          "title": "System76 Releases Updated AMD Ryzen Linux Laptop - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiugFBVV95cUxPQUVuSGVyaUhRMUJZM3NIMEtkc0cyZWNrUjNid2RMaHN1TDdjQk96VmU1NW9xQ1pJdy1admJsMlZzQ0tvVGhMdmZoS0pKOG53cFg0TU9aSTNXdmk5TjZUVGgtZ2lzQzM5V1RXNl93U0N5ZkNJb2Zaa1ZWdU9XOGlMMGtmMkY0Y2RCQjVqZzVLMkQ0X0ZhTmVWN05ON1pPWGVtcnNRV01LekpydXN6bUNUYl9xOGxiWEY3R1E",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 Released: Linux On Your Apple Silicon Mac  Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUVuSGVyaUhRMUJZM3NIMEtkc0cyZWNrUjNid2RMaHN1TDdjQk96VmU1NW9xQ1pJdy1admJsMlZzQ0tvVGhMdmZoS0pKOG53cFg0TU9aSTNXdmk5TjZUVGgtZ2lzQzM5V1RXNl93U0N5ZkNJb2Zaa1ZWdU9XOGlMMGtmMkY0Y2RCQjVqZzVLMkQ0X0ZhTmVWN05ON1pPWGVtcnNRV01LekpydXN6bUNUYl9xOGxiWEY3R1E?oc=5",
+          "publishedOn": "2024-12-17T18:06:06.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 Released: Linux On Your Apple Silicon Mac - Forbes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxPMzR5UWQ3MndSc05ZU3p6ZTFzNWxSQjg1UXVaaWw1YU1fZ1pNRUhXa250bnlLdlZ0VFpoVlBaa1BJMWx4all2RGhvU1dSMjdVdjRDOENGMkRvUklNRXFSNnRlcVBwTDROUnhyNi1XSHE3ZGVYdVcwNzdQLWtfbDBfTG96QQ",
+          "author": null,
+          "description": "6 ways modern Linux distros are less infuriating  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzR5UWQ3MndSc05ZU3p6ZTFzNWxSQjg1UXVaaWw1YU1fZ1pNRUhXa250bnlLdlZ0VFpoVlBaa1BJMWx4all2RGhvU1dSMjdVdjRDOENGMkRvUklNRXFSNnRlcVBwTDROUnhyNi1XSHE3ZGVYdVcwNzdQLWtfbDBfTG96QQ?oc=5",
+          "publishedOn": "2024-12-17T18:00:00.000Z",
+          "wordCount": 12591,
+          "title": "6 ways modern Linux distros are less infuriating - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTE1WX3N4YnlLcXhmUmlDRTFURm5nTEZCelAtYmdycEloNno4ZVNZV0lqM2NaeV9VTEpUSTBBcUhEYWdvMmR5VlhDRG1RcGlfRDJEZmM5M2k0ZkV4MndZRFlocFA2OUFuTTlsSkpaWg",
+          "author": null,
+          "description": "Unpacking the Diicot Malware Targeting Linux Environments  Wiz",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX3N4YnlLcXhmUmlDRTFURm5nTEZCelAtYmdycEloNno4ZVNZV0lqM2NaeV9VTEpUSTBBcUhEYWdvMmR5VlhDRG1RcGlfRDJEZmM5M2k0ZkV4MndZRFlocFA2OUFuTTlsSkpaWg?oc=5",
+          "publishedOn": "2024-12-17T17:31:22.000Z",
+          "wordCount": 12591,
+          "title": "Unpacking the Diicot Malware Targeting Linux Environments - Wiz",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidkFVX3lxTFBjUHpZX2Z0STVTbkZYdFpjb21sZHl6OTg1M3NUX01RR0F2UVVqWjVyX1B1Uk1uYjFONHE5aU1UX1h5emNhZEJxbzc0djkwNHA1LW5DaFFuTXplV1NHMVJCei04dnFvRzJWYkdWb3FzS21aV3Frc2c",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 Brings Better Gaming to Apple Silicon Macs  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjUHpZX2Z0STVTbkZYdFpjb21sZHl6OTg1M3NUX01RR0F2UVVqWjVyX1B1Uk1uYjFONHE5aU1UX1h5emNhZEJxbzc0djkwNHA1LW5DaFFuTXplV1NHMVJCei04dnFvRzJWYkdWb3FzS21aV3Frc2c?oc=5",
+          "publishedOn": "2024-12-17T17:16:00.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 Brings Better Gaming to Apple Silicon Macs - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqgFBVV95cUxON2V1ZDF5eEdabjlyRFVhRnlvYUphY3lFOHJsdEdGdDNTWTFtR0FsY05DSG11TWlpLTAxOFlXMklfZF9Id1p5b0JUWUFSZVc2bGlxSzA4UEJ5QkZnR1E5U3V4QkxnTnNNWWo5elBIQWZ5Sl9zUjJFYzVEV2p3R2Zrc0lENzdwU1BGTjRkS2lyT1lfbThVd2RTYzNta0FHSHFWZkVrcXU1SnFyQQ",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 brings AAA gaming to Apple Silicon with Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2V1ZDF5eEdabjlyRFVhRnlvYUphY3lFOHJsdEdGdDNTWTFtR0FsY05DSG11TWlpLTAxOFlXMklfZF9Id1p5b0JUWUFSZVc2bGlxSzA4UEJ5QkZnR1E5U3V4QkxnTnNNWWo5elBIQWZ5Sl9zUjJFYzVEV2p3R2Zrc0lENzdwU1BGTjRkS2lyT1lfbThVd2RTYzNta0FHSHFWZkVrcXU1SnFyQQ?oc=5",
+          "publishedOn": "2024-12-17T16:46:09.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 brings AAA gaming to Apple Silicon with Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiogFBVV95cUxOTXMtc0V0LXNPSGFyYjcwb20tYjloUkxwWERzTDZSanB0Vy1jRGtKNnl1dGp3STZOOENlVW82dGlWVWlUdVZUNmZacU15V1RaLUhkdENIRW5qNEZtRnhaTkMtaFlVZ3lHM1VDbUh4dnd6VXRWVWN0YktONXVzQnhrODJIWlFFTjZqNGFIelhuQ3BmaF95UkVLWTE3dUx4WFlRUWc",
+          "author": null,
+          "description": "Leaving Windows 10 for Linux? 5 security differences to consider first  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXMtc0V0LXNPSGFyYjcwb20tYjloUkxwWERzTDZSanB0Vy1jRGtKNnl1dGp3STZOOENlVW82dGlWVWlUdVZUNmZacU15V1RaLUhkdENIRW5qNEZtRnhaTkMtaFlVZ3lHM1VDbUh4dnd6VXRWVWN0YktONXVzQnhrODJIWlFFTjZqNGFIelhuQ3BmaF95UkVLWTE3dUx4WFlRUWc?oc=5",
+          "publishedOn": "2024-12-17T16:32:00.000Z",
+          "wordCount": 12591,
+          "title": "Leaving Windows 10 for Linux? 5 security differences to consider first - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxNbTdCY3MxUXppclFLSkctNng3YWtaT0h5QkhkdnB1ZVVfN21TRVlKcWJUV1dEV1VqMzVKcXQ1YzJUdk54bjM5clo3b0g4eFZFOWt1ZFZVQ2VTS2lsVTdEZ0xkNUs2emZjZU5aeE1lYTdlRWFEcURJdEt5MzJhZi11bmg2eGQ1VTFBdVM3ZDRuSzM4Ti1pLWEwMWtvSdIBoAFBVV95cUxPdU9nRTJLTFRUZXI4ZjVOQm9Fbjcwd3EyUFk0TnhybnNjOGdHa1ZKRGpadEFTN1pLczhRbXlYbVVyOVc0ek1MNHBJaUw0eG9ERTBxTmYwU20yZE8yOXFjci1lWUJPcWRaTFg4eUc5ZjBvbW9leUFpQ2lDUm9tTTJ3QXVwZGowYVdGRmFMd0Ryc1J4a1hpV0hwTkp1TG44M1Q0",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 Released for Apple Silicon Macs with KDE Plasma 6.2  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTdCY3MxUXppclFLSkctNng3YWtaT0h5QkhkdnB1ZVVfN21TRVlKcWJUV1dEV1VqMzVKcXQ1YzJUdk54bjM5clo3b0g4eFZFOWt1ZFZVQ2VTS2lsVTdEZ0xkNUs2emZjZU5aeE1lYTdlRWFEcURJdEt5MzJhZi11bmg2eGQ1VTFBdVM3ZDRuSzM4Ti1pLWEwMWtvSdIBoAFBVV95cUxPdU9nRTJLTFRUZXI4ZjVOQm9Fbjcwd3EyUFk0TnhybnNjOGdHa1ZKRGpadEFTN1pLczhRbXlYbVVyOVc0ek1MNHBJaUw0eG9ERTBxTmYwU20yZE8yOXFjci1lWUJPcWRaTFg4eUc5ZjBvbW9leUFpQ2lDUm9tTTJ3QXVwZGowYVdGRmFMd0Ryc1J4a1hpV0hwTkp1TG44M1Q0?oc=5",
+          "publishedOn": "2024-12-17T16:21:43.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 Released for Apple Silicon Macs with KDE Plasma 6.2 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib0FVX3lxTFBfZ3hPOTFsVk1fZWQzNDRIbzVqZ0FSck9QTUlBX3pzNzNEMlg5YnBzbllQTnd3LXhqYjlELWZnS083QkgwRjhQMEV1ZmN5dmRFUnpLMmJfZXU2SXRzTTV6OGF6bGhzQlhheWg5SHl5SQ",
+          "author": null,
+          "description": "Windows 11 vs. Linux Benchmarks For Intel Arc B-Series \"Battlemage\" Shows Strengths & Weaknesses Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfZ3hPOTFsVk1fZWQzNDRIbzVqZ0FSck9QTUlBX3pzNzNEMlg5YnBzbllQTnd3LXhqYjlELWZnS083QkgwRjhQMEV1ZmN5dmRFUnpLMmJfZXU2SXRzTTV6OGF6bGhzQlhheWg5SHl5SQ?oc=5",
+          "publishedOn": "2024-12-17T16:03:00.000Z",
+          "wordCount": 12591,
+          "title": "Windows 11 vs. Linux Benchmarks For Intel Arc B-Series \"Battlemage\" Shows Strengths & Weaknesses Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxQQVgyNkIzaW5JMVRValluOVAxcVJVeElrbVU0RGlyRm1ST1hFSUZoUHJIal9qWjdlcHBPYzJpRkhqa0dTaHZFUC15cE5ZS2VyaWVrUXZDX3oxSmlSYTZWV3lMT19Nbnl4cVAxWXkxX2NVcWFfaVdIQ25jQ1hDamNWa09BWQ",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 brings Fedora Linux to Apple Silicon Macs with Vulkan 1.4 and x86 emulation  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVgyNkIzaW5JMVRValluOVAxcVJVeElrbVU0RGlyRm1ST1hFSUZoUHJIal9qWjdlcHBPYzJpRkhqa0dTaHZFUC15cE5ZS2VyaWVrUXZDX3oxSmlSYTZWV3lMT19Nbnl4cVAxWXkxX2NVcWFfaVdIQ25jQ1hDamNWa09BWQ?oc=5",
+          "publishedOn": "2024-12-17T15:29:47.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 brings Fedora Linux to Apple Silicon Macs with Vulkan 1.4 and x86 emulation - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTE1NTnRKZ3d0MUJ4YnBtZXAxNFBXQ1VNZEhGMjFFRmRHX25tcmF4SF80WnY4RTctS2V5REtreUd3cGhiWVB3TXM3UU1QSXZCLTNMSXhSMy04a2Y2YWU2SE5OYQ",
+          "author": null,
+          "description": "Fedora Asahi Remix 41 Now Ready For Apple Silicon Devices  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NTnRKZ3d0MUJ4YnBtZXAxNFBXQ1VNZEhGMjFFRmRHX25tcmF4SF80WnY4RTctS2V5REtreUd3cGhiWVB3TXM3UU1QSXZCLTNMSXhSMy04a2Y2YWU2SE5OYQ?oc=5",
+          "publishedOn": "2024-12-17T15:09:00.000Z",
+          "wordCount": 12591,
+          "title": "Fedora Asahi Remix 41 Now Ready For Apple Silicon Devices - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMirgFBVV95cUxOcHpMMUlEZ0R4TjRhZzF1U1FDQ2hyY2NTTnh2S1p3UWNWbzRJU0J3SzhzWlUyc1Vac2pYMm1TTEM0ZHVDcVNMNUsxVkYxdklJZDVOQ3VHREt3b0ZXMS1HNkJtUEFHbk44bTlUcUZCWk9wMTQyUjNHVk9DSTdTd2FkR29UX195cjJRalVlSkZyZDlmWDlqQVRzSHRleGxZX2cycGRXcUswbm9wZjdCQXc",
+          "author": null,
+          "description": "I'm a Linux power user, and I recommend this distro to newbies and experts alike  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHpMMUlEZ0R4TjRhZzF1U1FDQ2hyY2NTTnh2S1p3UWNWbzRJU0J3SzhzWlUyc1Vac2pYMm1TTEM0ZHVDcVNMNUsxVkYxdklJZDVOQ3VHREt3b0ZXMS1HNkJtUEFHbk44bTlUcUZCWk9wMTQyUjNHVk9DSTdTd2FkR29UX195cjJRalVlSkZyZDlmWDlqQVRzSHRleGxZX2cycGRXcUswbm9wZjdCQXc?oc=5",
+          "publishedOn": "2024-12-17T15:01:00.000Z",
+          "wordCount": 12591,
+          "title": "I'm a Linux power user, and I recommend this distro to newbies and experts alike - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipgFBVV95cUxPdTFoZlhGTFNRWjAtU2tSSlVLeThKT1lCelJwMWsxWGlSemxDbnVoaXJXVGFaalJwTUtmSTIzZkZwLWl0S2VacndiaW1jbjdfNDA4Z09ua2w1UXJQS0hrc3hJcWtTelR2LVFjTVpJNGM0UkZpbkhCS1pjRWpneXlLdXNkYl9YVUQwdWkwemVxZ0N4c1M1YkRNOGNJZlRsMTY0bjVZcThB",
+          "author": null,
+          "description": "The 3 most Windows-like Linux distros you can try because change is hard  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTFoZlhGTFNRWjAtU2tSSlVLeThKT1lCelJwMWsxWGlSemxDbnVoaXJXVGFaalJwTUtmSTIzZkZwLWl0S2VacndiaW1jbjdfNDA4Z09ua2w1UXJQS0hrc3hJcWtTelR2LVFjTVpJNGM0UkZpbkhCS1pjRWpneXlLdXNkYl9YVUQwdWkwemVxZ0N4c1M1YkRNOGNJZlRsMTY0bjVZcThB?oc=5",
+          "publishedOn": "2024-12-17T13:54:00.000Z",
+          "wordCount": 12591,
+          "title": "The 3 most Windows-like Linux distros you can try because change is hard - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxQWXJPN3NHR3p1TENYZnJsQzkzdzdOMkVnZmkyZU9KUVlpLWUxZWpJUV9OOHQ4dnJSSm1IMFdUV3BBUVJCR3lvWmVZM1VEWWM4dGJ4ZUpPVzFna01VN0hobHdoZS1NcTdxSGhxR2dwU0F5T2R6TlZHQW9nZ19JcHlhVDNmWDdhMUFPLVdtR3l6NnJ0Y1hCOFBtWUo4akhJSlU4YVFWNVlwdFY",
+          "author": null,
+          "description": "New version Kali Linux adds tooling and also removes features  Techzine Europe",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXJPN3NHR3p1TENYZnJsQzkzdzdOMkVnZmkyZU9KUVlpLWUxZWpJUV9OOHQ4dnJSSm1IMFdUV3BBUVJCR3lvWmVZM1VEWWM4dGJ4ZUpPVzFna01VN0hobHdoZS1NcTdxSGhxR2dwU0F5T2R6TlZHQW9nZ19JcHlhVDNmWDdhMUFPLVdtR3l6NnJ0Y1hCOFBtWUo4akhJSlU4YVFWNVlwdFY?oc=5",
+          "publishedOn": "2024-12-17T12:35:35.000Z",
+          "wordCount": 12591,
+          "title": "New version Kali Linux adds tooling and also removes features - Techzine Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE1KMTFyQWV4alBaZkdDY3BGeTVaM2JSQTBOZnQ4NXNTTDVvSmxlU2ZuX0lQajliTlRYMmlFV2tLSUh1UlBxdF9NdkNLV1Q3dmx2YUJNMGQxZjUzZl9ScnFJY2VaTXQwREXSAWxBVV95cUxORE1jNG9FY0lIYm5mSl9WbWtLbEpQZ3VUdnFhMTlTYk5CcDhzU3l4N2tNNzZfXzdqaTJ2WUUySDd0cFZQMWFFTWJnYUF4UzlLYXpCMW9IdHVjenZ2b0NVQkV1dDh6NndjNmpQOUQ",
+          "author": null,
+          "description": "Alpine Linux 3.21: Lean, mean, and LoongArch-ready  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMTFyQWV4alBaZkdDY3BGeTVaM2JSQTBOZnQ4NXNTTDVvSmxlU2ZuX0lQajliTlRYMmlFV2tLSUh1UlBxdF9NdkNLV1Q3dmx2YUJNMGQxZjUzZl9ScnFJY2VaTXQwREXSAWxBVV95cUxORE1jNG9FY0lIYm5mSl9WbWtLbEpQZ3VUdnFhMTlTYk5CcDhzU3l4N2tNNzZfXzdqaTJ2WUUySDd0cFZQMWFFTWJnYUF4UzlLYXpCMW9IdHVjenZ2b0NVQkV1dDh6NndjNmpQOUQ?oc=5",
+          "publishedOn": "2024-12-17T12:33:00.000Z",
+          "wordCount": 12591,
+          "title": "Alpine Linux 3.21: Lean, mean, and LoongArch-ready - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYEFVX3lxTE9qTHIway03WkFjaUhfb294alNoN1V2ZnFST3hTMmVBR3B3dWQ0OFBaVWdHR1ZzZG5iX0xtZTZubTUxZDRpeWo0eTl6S0NqLXJBRGNoSEVaYlhRSU52MVVldg",
+          "author": null,
+          "description": "Kali Linux 2024.4 Release Disables Pip for Pipx, Adds GNOME 47 and 14 New Tools  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qTHIway03WkFjaUhfb294alNoN1V2ZnFST3hTMmVBR3B3dWQ0OFBaVWdHR1ZzZG5iX0xtZTZubTUxZDRpeWo0eTl6S0NqLXJBRGNoSEVaYlhRSU52MVVldg?oc=5",
+          "publishedOn": "2024-12-17T11:15:39.000Z",
+          "wordCount": 12591,
+          "title": "Kali Linux 2024.4 Release Disables Pip for Pipx, Adds GNOME 47 and 14 New Tools - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE5xbnUzVU91WFk5RXg0dE42djluYTcwVTVaa3Z6ejhaSktFeS1yZ0h5cUxTTWhobnpWSmVCSHQ1T2k2OE02MzdTNjIzbG54MXRuRlhYQy1GTk1DUVdTQVpnSGNEVTdfX2d0VHc",
+          "author": null,
+          "description": "Intel IFS For Clearwater Forest & VSEC For Panther Lake Land In Linux 6.13  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xbnUzVU91WFk5RXg0dE42djluYTcwVTVaa3Z6ejhaSktFeS1yZ0h5cUxTTWhobnpWSmVCSHQ1T2k2OE02MzdTNjIzbG54MXRuRlhYQy1GTk1DUVdTQVpnSGNEVTdfX2d0VHc?oc=5",
+          "publishedOn": "2024-12-17T11:14:00.000Z",
+          "wordCount": 12591,
+          "title": "Intel IFS For Clearwater Forest & VSEC For Panther Lake Land In Linux 6.13 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid0FVX3lxTE9pcEhodDZtbTRHVTVtTGc3Uk55YXcxSENWbkhFRnZqbFNzc1h4YnVWSkF3WXJGYmwzMXQyLU16d1kwbDQ1RGZRN25NcjBqT0hhMkFuRzNwbHdFSTZ4dWliNGRKSXNLRHNHbGF4VDhMdmV0Z2J2Nmh30gF8QVVfeXFMT2pMLUttVWREZnl2UkZuUWhoZHE2Q0RIR2YyeGM4NGNfb0JHaW1EaGNSQWZVZE5VN2JVRkphTUpHVUFfT0dOOENXa25BVG9OVWs2dFpwdmh1TTd4NDZ4eHNWRVJ2SnJwMkNKWGsyV2pzTUNDZ2pKckNJSXBmVA",
+          "author": null,
+          "description": "How to Run Linux on Your Chromebook?  About Chromebooks",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pcEhodDZtbTRHVTVtTGc3Uk55YXcxSENWbkhFRnZqbFNzc1h4YnVWSkF3WXJGYmwzMXQyLU16d1kwbDQ1RGZRN25NcjBqT0hhMkFuRzNwbHdFSTZ4dWliNGRKSXNLRHNHbGF4VDhMdmV0Z2J2Nmh30gF8QVVfeXFMT2pMLUttVWREZnl2UkZuUWhoZHE2Q0RIR2YyeGM4NGNfb0JHaW1EaGNSQWZVZE5VN2JVRkphTUpHVUFfT0dOOENXa25BVG9OVWs2dFpwdmh1TTd4NDZ4eHNWRVJ2SnJwMkNKWGsyV2pzTUNDZ2pKckNJSXBmVA?oc=5",
+          "publishedOn": "2024-12-17T10:46:13.000Z",
+          "wordCount": 12591,
+          "title": "How to Run Linux on Your Chromebook? - About Chromebooks",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE9uUjVUNEhycDJ4Mkdacl9LYVctdUlGb0lQUDZWRTRRY25NTHBLck12RG4xLTl3bnNQbWhEY01VR1dwMFRNdlJWTVVFN3NZUHcxbDQ2N3Z4N2tOT0RIQWN6SGdyR1lvbEVKZmN3cXJlOVUyY1NiMmRBNnpn",
+          "author": null,
+          "description": "Kali Linux 2024.4 released! 14 new shiny tools added  Help Net Security",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUjVUNEhycDJ4Mkdacl9LYVctdUlGb0lQUDZWRTRRY25NTHBLck12RG4xLTl3bnNQbWhEY01VR1dwMFRNdlJWTVVFN3NZUHcxbDQ2N3Z4N2tOT0RIQWN6SGdyR1lvbEVKZmN3cXJlOVUyY1NiMmRBNnpn?oc=5",
+          "publishedOn": "2024-12-17T09:12:36.000Z",
+          "wordCount": 12591,
+          "title": "Kali Linux 2024.4 released! 14 new shiny tools added - Help Net Security",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipwFBVV95cUxPV1dWTkp0X2J2WGlFOHA5THF5NmxVVE5sWHJkbVE0ekhSOGh0YzR5c0hYN241YnhRd3VwaWtxbV8xUXU1eW1kVUpMbWtPdWswZjNVRHdEQzdnZHJDV0JKTnhVaVVKblFHU0hkM3U4WWk3Z29CdjV5ZDVyTXVEeVhrU05pM2ZGNE9MdmRXMXFEY3ZyZUYxZm94ZUFSZzREZUd6Z2d6cURtVdIBpwFBVV95cUxPV1dWTkp0X2J2WGlFOHA5THF5NmxVVE5sWHJkbVE0ekhSOGh0YzR5c0hYN241YnhRd3VwaWtxbV8xUXU1eW1kVUpMbWtPdWswZjNVRHdEQzdnZHJDV0JKTnhVaVVKblFHU0hkM3U4WWk3Z29CdjV5ZDVyTXVEeVhrU05pM2ZGNE9MdmRXMXFEY3ZyZUYxZm94ZUFSZzREZUd6Z2d6cURtVQ",
+          "author": null,
+          "description": "Driving Open-Source Innovation: Linux Foundation's Global Vision  DATAQUEST",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1dWTkp0X2J2WGlFOHA5THF5NmxVVE5sWHJkbVE0ekhSOGh0YzR5c0hYN241YnhRd3VwaWtxbV8xUXU1eW1kVUpMbWtPdWswZjNVRHdEQzdnZHJDV0JKTnhVaVVKblFHU0hkM3U4WWk3Z29CdjV5ZDVyTXVEeVhrU05pM2ZGNE9MdmRXMXFEY3ZyZUYxZm94ZUFSZzREZUd6Z2d6cURtVdIBpwFBVV95cUxPV1dWTkp0X2J2WGlFOHA5THF5NmxVVE5sWHJkbVE0ekhSOGh0YzR5c0hYN241YnhRd3VwaWtxbV8xUXU1eW1kVUpMbWtPdWswZjNVRHdEQzdnZHJDV0JKTnhVaVVKblFHU0hkM3U4WWk3Z29CdjV5ZDVyTXVEeVhrU05pM2ZGNE9MdmRXMXFEY3ZyZUYxZm94ZUFSZzREZUd6Z2d6cURtVQ?oc=5",
+          "publishedOn": "2024-12-17T05:56:46.000Z",
+          "wordCount": 12591,
+          "title": "Driving Open-Source Innovation: Linux Foundation's Global Vision - DATAQUEST",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMibkFVX3lxTE5YU3ZYb3N1Nm5maFNvNW81cUs0a3d5SFBwV3o4WlZZcEpaUFRDY3FqbGo0RTlyeWlKMjVtX3Z6MUhFWmdES3BLUnIxaU9kYUpNd1JsSUdIRDdIMlZmN3pabTJjMUFFUlJUVll2V013",
           "author": null,
@@ -2113,6 +2432,16 @@
           "publishedOn": "2024-12-16T19:12:11.000Z",
           "wordCount": 12592,
           "title": "Xfce 4.20 Officially Released - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVEFVX3lxTE5QNThUaWFuRGdsNXBZY29uVEF6cHJTVGM0dHVHS0lRcGRPVHk4Qi1rNEpWWE1NTGtJQ05DTzFtWkpiODJsbXJoaWtLR1Jzc1h5OU5TZA",
+          "author": null,
+          "description": "How to Kill a Process by Port in MacOS and More  Built In",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QNThUaWFuRGdsNXBZY29uVEF6cHJTVGM0dHVHS0lRcGRPVHk4Qi1rNEpWWE1NTGtJQ05DTzFtWkpiODJsbXJoaWtLR1Jzc1h5OU5TZA?oc=5",
+          "publishedOn": "2024-12-16T19:07:59.000Z",
+          "wordCount": 12591,
+          "title": "How to Kill a Process by Port in MacOS and More - Built In",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7244,176 +7573,6 @@
           "wordCount": 12601,
           "title": "New version of Linux kernel gives users even more control - Techzine Europe",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTE5aRW5WclRFVmV3cklLbm5mNm8taHIwcVc5M0VtNVluYWVHcjdVNUxPMGFqNWJpckZOZUktWDJIaEJRVjVDMG95YkMtNnVqLXFMdzZUYmV1dVVuM00xVGE5VXFMN1Y",
-          "author": null,
-          "description": "Raspberry Pi OS Now Defaults To 512MB Swap, Updates Labwc Compositor  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRW5WclRFVmV3cklLbm5mNm8taHIwcVc5M0VtNVluYWVHcjdVNUxPMGFqNWJpckZOZUktWDJIaEJRVjVDMG95YkMtNnVqLXFMdzZUYmV1dVVuM00xVGE5VXFMN1Y?oc=5",
-          "publishedOn": "2024-11-18T12:02:00.000Z",
-          "wordCount": 12601,
-          "title": "Raspberry Pi OS Now Defaults To 512MB Swap, Updates Labwc Compositor - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWkFVX3lxTE5ic2NsYUI4NUNJLTN1cm43dkFybTR5a3Y2c2dFQ0JVdy1hazFvempWWmNkd1JEVHlKOFJpckJPNjNyNXpkclg1RXFsYWFsajk4WVVmZVZvb1ZSZw",
-          "author": null,
-          "description": "Btrfs With Linux 6.13 Delivers Performance Improvements & Other Features  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ic2NsYUI4NUNJLTN1cm43dkFybTR5a3Y2c2dFQ0JVdy1hazFvempWWmNkd1JEVHlKOFJpckJPNjNyNXpkclg1RXFsYWFsajk4WVVmZVZvb1ZSZw?oc=5",
-          "publishedOn": "2024-11-18T11:18:00.000Z",
-          "wordCount": 12601,
-          "title": "Btrfs With Linux 6.13 Delivers Performance Improvements & Other Features - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxNdEx3dE5nZWtZczFvYjBGNGNNamNZZy1fWjBKemRHcFcteFI0TDFHMmJHS1Y0dzVEU1Ayc3NOeDBpMUdleEV2d3FiZ2F0U0JjVUVITmlQa3V2X2ZJSXp6V0pXa2tKaGptY29NVmhDTWd4RVBEWTVpTTdFaWRiVnBwM05PcG5xVy1lOUVGcmdYR1g5R29sMnI1MWZMNThuTF81Tm5ycjhEUEx2TVNKOFU4dGlVQkR6Ny1PZEJwVl9samtlUQ",
-          "author": null,
-          "description": "Linux kernel 6.12 is out now with real-time capabilities, more gaming handheld support  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEx3dE5nZWtZczFvYjBGNGNNamNZZy1fWjBKemRHcFcteFI0TDFHMmJHS1Y0dzVEU1Ayc3NOeDBpMUdleEV2d3FiZ2F0U0JjVUVITmlQa3V2X2ZJSXp6V0pXa2tKaGptY29NVmhDTWd4RVBEWTVpTTdFaWRiVnBwM05PcG5xVy1lOUVGcmdYR1g5R29sMnI1MWZMNThuTF81Tm5ycjhEUEx2TVNKOFU4dGlVQkR6Ny1PZEJwVl9samtlUQ?oc=5",
-          "publishedOn": "2024-11-18T10:51:59.000Z",
-          "wordCount": 12601,
-          "title": "Linux kernel 6.12 is out now with real-time capabilities, more gaming handheld support - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZkFVX3lxTFAyNldLUmxJR1lLV19OV0wwbTJZWEZOYm0xYXhwODdiVUdJMzdVN1RVNGM4a1duZXJ2czFEY3lkMTRKMF8yTC0yOWl6U2ZPVUZvemxnRXowOGdmNVlON25LWHNNcndxQQ",
-          "author": null,
-          "description": "Linux 6.13 For ARM64 Brings GCS Support & Protected VMs With Arm CCA  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNldLUmxJR1lLV19OV0wwbTJZWEZOYm0xYXhwODdiVUdJMzdVN1RVNGM4a1duZXJ2czFEY3lkMTRKMF8yTC0yOWl6U2ZPVUZvemxnRXowOGdmNVlON25LWHNNcndxQQ?oc=5",
-          "publishedOn": "2024-11-18T10:48:00.000Z",
-          "wordCount": 12601,
-          "title": "Linux 6.13 For ARM64 Brings GCS Support & Protected VMs With Arm CCA - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic0FVX3lxTE5nZDVDbno3MGFMVlJzYVhFNkNRbi1lZ0FDdlBiUU9yUTM3b2JMb2ZtUEJJSjZaQzVkdVJNaWRmajBwblh0UkN6bWp6MFlURzhya0toX0ZDSVJTTjB2M0pwd2xSUnZTWlNBd1RiMnJnUXkxS2_SAXhBVV95cUxOamc1TlZhTXVGWVFMb1hEZDZ0MnJLQXoxRGg4VVFBeGRreGM0ci1WTDk3UWtpM2s5T3BGZTEwcmxSVzZubUl3enBiMTNxekhkVktUNkUwY09HclBOSjd2WUUteW40RUoxeDdVeXB2VlpfTFFKS3ZMZ3o",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: November 17th, 2024  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nZDVDbno3MGFMVlJzYVhFNkNRbi1lZ0FDdlBiUU9yUTM3b2JMb2ZtUEJJSjZaQzVkdVJNaWRmajBwblh0UkN6bWp6MFlURzhya0toX0ZDSVJTTjB2M0pwd2xSUnZTWlNBd1RiMnJnUXkxS2_SAXhBVV95cUxOamc1TlZhTXVGWVFMb1hEZDZ0MnJLQXoxRGg4VVFBeGRreGM0ci1WTDk3UWtpM2s5T3BGZTEwcmxSVzZubUl3enBiMTNxekhkVktUNkUwY09HclBOSjd2WUUteW40RUoxeDdVeXB2VlpfTFFKS3ZMZ3o?oc=5",
-          "publishedOn": "2024-11-18T08:57:31.000Z",
-          "wordCount": 12601,
-          "title": "9to5Linux Weekly Roundup: November 17th, 2024 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic0FVX3lxTE44RS12NVVXaG9TSF9zWThyTmlyalV2LTRtNFpaRFhWMllGVTZDWUFkX0ZSTk5oSjNTeE1YQVNSbmpxUEpBS1VKUTFlRnk1eTQ5RWx0X0s1VTkxRjktWWVlZG5kM3NoZmdUZmhGbVJwY2liTG8",
-          "author": null,
-          "description": "Best Linux distro for privacy and security of 2024  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44RS12NVVXaG9TSF9zWThyTmlyalV2LTRtNFpaRFhWMllGVTZDWUFkX0ZSTk5oSjNTeE1YQVNSbmpxUEpBS1VKUTFlRnk1eTQ5RWx0X0s1VTkxRjktWWVlZG5kM3NoZmdUZmhGbVJwY2liTG8?oc=5",
-          "publishedOn": "2024-11-18T08:43:49.000Z",
-          "wordCount": 12617,
-          "title": "Best Linux distro for privacy and security of 2024 - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTkFVX3lxTE93WHZGTnM2Y3VraXpXTGowc1RQQ1BKNzVuQ2w0ZkpQS2pxT2NYWm1XVG1acmN5MHJ5OG9UN203X0gydkp5YjRaVEFOeXVxZw",
-          "author": null,
-          "description": "Installing the Much Hyped Hyprland on Linux  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93WHZGTnM2Y3VraXpXTGowc1RQQ1BKNzVuQ2w0ZkpQS2pxT2NYWm1XVG1acmN5MHJ5OG9UN203X0gydkp5YjRaVEFOeXVxZw?oc=5",
-          "publishedOn": "2024-11-18T08:00:00.000Z",
-          "wordCount": 12580,
-          "title": "Installing the Much Hyped Hyprland on Linux - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVkFVX3lxTE9nN0JEUlpqall2bFFKSlZrTlVIdEpLeTVTQ1BBMVNDMS1UYU5EQjZEa0txUmhWcEN1emE0VHhQblpwLXRWckNVSDVEemp2QnQxcEpiMFZR",
-          "author": null,
-          "description": "Linux Kernel 6.12 Release Adds Real-Time Capability and Initial Raspberry Pi 5 Support  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nN0JEUlpqall2bFFKSlZrTlVIdEpLeTVTQ1BBMVNDMS1UYU5EQjZEa0txUmhWcEN1emE0VHhQblpwLXRWckNVSDVEemp2QnQxcEpiMFZR?oc=5",
-          "publishedOn": "2024-11-18T07:07:30.000Z",
-          "wordCount": 12601,
-          "title": "Linux Kernel 6.12 Release Adds Real-Time Capability and Initial Raspberry Pi 5 Support - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVEFVX3lxTFB1NnZ5VmpRd3RJN1p2ZGJRd1pLRW1GdDlkRGt6U01hMGgxWldvdl8zdGM0WlY3Q09KeVZad1lldXZPZ2FRRVF3SzA4MlUxMHUzWGhyVA",
-          "author": null,
-          "description": "Linux 6.12 officially released  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1NnZ5VmpRd3RJN1p2ZGJRd1pLRW1GdDlkRGt6U01hMGgxWldvdl8zdGM0WlY3Q09KeVZad1lldXZPZ2FRRVF3SzA4MlUxMHUzWGhyVA?oc=5",
-          "publishedOn": "2024-11-18T05:53:25.000Z",
-          "wordCount": 12601,
-          "title": "Linux 6.12 officially released - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiigFBVV95cUxNaXhoUkZldHd1aDk0Qnp2a0JyX3RyM0pQeGEtNHVKbmVjU0JPa2c4MkxHZmZHYlhvWlFYZ3pPdnlKVjBBU1g2ZXF5d1YweTg4THBzdGc2YWVQNHh4YWhGTHFncXhiSjA5Wk9yeXh4SU1UMHFYWHMzZlRjN0VPVlUxdXoxaUF6M093OVHSAY8BQVVfeXFMTU1tU1VaemM2c3ZqOWNmRi1lMjhVQWs4alVQX1hqdjZIcU45VXpMemFjdFgtZmNsQ0NKUXRZNThNTnFjZFgxdmFDSnlsSXE4Um5MWnR3eHJMRGFhZEo1ZEF6ZWV1cEdIbkdnQ05GYkplWVVtaVUyZGZmRFFUR1piQ3gwWUM2X2lsZlpNNk9iak0",
-          "author": null,
-          "description": "Linux Kernel 6.12 Has Landed – And It’s a Big One  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXhoUkZldHd1aDk0Qnp2a0JyX3RyM0pQeGEtNHVKbmVjU0JPa2c4MkxHZmZHYlhvWlFYZ3pPdnlKVjBBU1g2ZXF5d1YweTg4THBzdGc2YWVQNHh4YWhGTHFncXhiSjA5Wk9yeXh4SU1UMHFYWHMzZlRjN0VPVlUxdXoxaUF6M093OVHSAY8BQVVfeXFMTU1tU1VaemM2c3ZqOWNmRi1lMjhVQWs4alVQX1hqdjZIcU45VXpMemFjdFgtZmNsQ0NKUXRZNThNTnFjZFgxdmFDSnlsSXE4Um5MWnR3eHJMRGFhZEo1ZEF6ZWV1cEdIbkdnQ05GYkplWVVtaVUyZGZmRFFUR1piQ3gwWUM2X2lsZlpNNk9iak0?oc=5",
-          "publishedOn": "2024-11-17T23:18:44.000Z",
-          "wordCount": 12600,
-          "title": "Linux Kernel 6.12 Has Landed – And It’s a Big One - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigwFBVV95cUxNdVEtSmU2djFaYW45d0h5a0RQaHpERE5DazZJQWZqQmV6RnI0Skd2OS1uR21qdzc5R1Y5aHE4X3RpSzY5Vk9UenlZc1dtNmlIdl8zZGRoSTdzNVo4VF9NLWFtQ3ZrOC1nWEl1NHNvOWxKMFJGZ1ZWZ2J6Q1ZvMHc5X1hJWdIBiAFBVV95cUxQREY5RWstbC1oelV1UEZRUmYxZ1FUQVNneGJUejhCb1otTVRDWk1weE5TdDNvMWc4NExicmM4Z2Y3V1pjSGpOakdtNmFqLUowX3JBWGVab2c4cy02VEcyVkJYOEZob1hlcjBHTGllYVZXRThBbFlrV0I2UmQ5MVNJMnpNdmlUN2JZ",
-          "author": null,
-          "description": "Linux Kernel 6.12 Officially Released, This Is What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVEtSmU2djFaYW45d0h5a0RQaHpERE5DazZJQWZqQmV6RnI0Skd2OS1uR21qdzc5R1Y5aHE4X3RpSzY5Vk9UenlZc1dtNmlIdl8zZGRoSTdzNVo4VF9NLWFtQ3ZrOC1nWEl1NHNvOWxKMFJGZ1ZWZ2J6Q1ZvMHc5X1hJWdIBiAFBVV95cUxQREY5RWstbC1oelV1UEZRUmYxZ1FUQVNneGJUejhCb1otTVRDWk1weE5TdDNvMWc4NExicmM4Z2Y3V1pjSGpOakdtNmFqLUowX3JBWGVab2c4cy02VEcyVkJYOEZob1hlcjBHTGllYVZXRThBbFlrV0I2UmQ5MVNJMnpNdmlUN2JZ?oc=5",
-          "publishedOn": "2024-11-17T22:27:20.000Z",
-          "wordCount": 12600,
-          "title": "Linux Kernel 6.12 Officially Released, This Is What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTFAxREdSb2FvcWpLb2FSTU1MUW9fOE5MRzJGNnN5elljdjFzNG4xazJkWEVHZkhzZFRMWnN5bVFKWG9SZy14dGw5VGZEZ3M3eWx3bGp2dG9mbndwa3V2Nnc",
-          "author": null,
-          "description": "Linux 6.12 Released With Real-Time Capabilities, Sched_Ext, More AMD RDNA4 & More  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxREdSb2FvcWpLb2FSTU1MUW9fOE5MRzJGNnN5elljdjFzNG4xazJkWEVHZkhzZFRMWnN5bVFKWG9SZy14dGw5VGZEZ3M3eWx3bGp2dG9mbndwa3V2Nnc?oc=5",
-          "publishedOn": "2024-11-17T22:22:00.000Z",
-          "wordCount": 12600,
-          "title": "Linux 6.12 Released With Real-Time Capabilities, Sched_Ext, More AMD RDNA4 & More - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxQVnhXQzRoY1ZhaXByRFp1TER5RXR1aENDNWMzMjZHa2R0Y1VhQ1RBcDBPdEZCNEFDQXhtUS1DTWVYWTFLU18xYWpHT3hTc3NaR0JQZkNKY2g2UGNkV21JSVR5b0R3YVFxX0EtM2I0MF90Q3pMazZjRGJTYVVlRzY2dmF1dHc5NDQ",
-          "author": null,
-          "description": "How to Manage Linux Processes Using ps, kill, and pkill  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnhXQzRoY1ZhaXByRFp1TER5RXR1aENDNWMzMjZHa2R0Y1VhQ1RBcDBPdEZCNEFDQXhtUS1DTWVYWTFLU18xYWpHT3hTc3NaR0JQZkNKY2g2UGNkV21JSVR5b0R3YVFxX0EtM2I0MF90Q3pMazZjRGJTYVVlRzY2dmF1dHc5NDQ?oc=5",
-          "publishedOn": "2024-11-17T19:30:00.000Z",
-          "wordCount": 12600,
-          "title": "How to Manage Linux Processes Using ps, kill, and pkill - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizgFBVV95cUxOa0lhQVktV2VtR3JVMWx5aUxkT2YwYV9CZFc5eG40WU1VbEQ3OThkM0otT2hFS1ZYVFAzNC1HWm1BSWUtTm51V2xKY2JPcDlvWUhvSV9UaWtiajN1UDQ4bDktOFVYbThVZVJZUEota3hqbHRwVTR0SF9vcUN3S2VDM0lnLXFDUFJNM1JZNFlmSnJvcHprZ1dFZVJQeDJUUTYtYk16NnV0Q0FHMElRR1dzN00ta0dKVnBzMXdVMGxzNHhzZHRvWlZVMzRnZXRXUQ",
-          "author": null,
-          "description": "Ryzen 7000 / 8000 random reboot virtualization issues fixed in last-minute Linux 6.12 patch  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0lhQVktV2VtR3JVMWx5aUxkT2YwYV9CZFc5eG40WU1VbEQ3OThkM0otT2hFS1ZYVFAzNC1HWm1BSWUtTm51V2xKY2JPcDlvWUhvSV9UaWtiajN1UDQ4bDktOFVYbThVZVJZUEota3hqbHRwVTR0SF9vcUN3S2VDM0lnLXFDUFJNM1JZNFlmSnJvcHprZ1dFZVJQeDJUUTYtYk16NnV0Q0FHMElRR1dzN00ta0dKVnBzMXdVMGxzNHhzZHRvWlZVMzRnZXRXUQ?oc=5",
-          "publishedOn": "2024-11-17T18:04:00.000Z",
-          "wordCount": 12600,
-          "title": "Ryzen 7000 / 8000 random reboot virtualization issues fixed in last-minute Linux 6.12 patch - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid0FVX3lxTE9VUVU3Z0FvdldCVC1IcmdHMzNjdmF2blk0UUJVcGd2blBLOFd1OEp6TG1rWGZYSlA4TUxtWEU5WFlNVEdSc3Z5MnpHSTljVUtCd3ljVlpqLVdTc201ZjFUU0p0amwydXlGWTQwVlVWN3JnRWpoR0FB",
-          "author": null,
-          "description": "10 Linux Commands to Know for Managing Files  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VUVU3Z0FvdldCVC1IcmdHMzNjdmF2blk0UUJVcGd2blBLOFd1OEp6TG1rWGZYSlA4TUxtWEU5WFlNVEdSc3Z5MnpHSTljVUtCd3ljVlpqLVdTc201ZjFUU0p0amwydXlGWTQwVlVWN3JnRWpoR0FB?oc=5",
-          "publishedOn": "2024-11-17T17:15:00.000Z",
-          "wordCount": 12600,
-          "title": "10 Linux Commands to Know for Managing Files - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTFBERHBqaWxyckg0Y1VOQVhjMDdpVnN3Z20wSUJ4dkRra2ZxVzVpQzJqWUlpV05YUm5SS1RGS2l3UWhwd2hySEVSemJCbHo2SjAxczhjQWhhTDBGUDhKR1dVOWJXeFMtU1VwSDhlTnNkY2dOUGpnZk84WnExTzM",
-          "author": null,
-          "description": "How to Bulk-Convert Audio Files in the Linux Terminal  Yahoo! Voices",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBERHBqaWxyckg0Y1VOQVhjMDdpVnN3Z20wSUJ4dkRra2ZxVzVpQzJqWUlpV05YUm5SS1RGS2l3UWhwd2hySEVSemJCbHo2SjAxczhjQWhhTDBGUDhKR1dVOWJXeFMtU1VwSDhlTnNkY2dOUGpnZk84WnExTzM?oc=5",
-          "publishedOn": "2024-11-17T15:30:13.000Z",
-          "wordCount": 12601,
-          "title": "How to Bulk-Convert Audio Files in the Linux Terminal - Yahoo! Voices",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE5Db0d0M1dWVjQtY1dnX0o1aHFCdmRYV3RSZ1F6S1JoSFVZVXhWSlhZUllJM2NiM1JqZU1XT20wdmxZSXotMU5jd0tDY0JyQXZWYzM1MkZoN3o5VzdORXhmQmtGcTgtVFV3VkZqSA",
-          "author": null,
-          "description": "Linux Fixes Hosts Randomly Rebooting During Virtualization With Ryzen 7000/8000 CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Db0d0M1dWVjQtY1dnX0o1aHFCdmRYV3RSZ1F6S1JoSFVZVXhWSlhZUllJM2NiM1JqZU1XT20wdmxZSXotMU5jd0tDY0JyQXZWYzM1MkZoN3o5VzdORXhmQmtGcTgtVFV3VkZqSA?oc=5",
-          "publishedOn": "2024-11-17T14:56:00.000Z",
-          "wordCount": 12600,
-          "title": "Linux Fixes Hosts Randomly Rebooting During Virtualization With Ryzen 7000/8000 CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9560,6 +9719,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383250",
+          "author": "Geoff Graham",
+          "description": "What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!\nWhat ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-else-is-on-your-css-wishlist/",
+          "publishedOn": "2024-12-17T20:07:30.000Z",
+          "wordCount": 2136,
+          "title": "What ELSE is on your CSS wishlist?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383250"
+        },
+        {
           "id": "https://css-tricks.com/?p=382867",
           "author": "Lorenz Wöehr",
           "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -9716,6 +9885,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
+          "author": "hello@smashingmagazine.com (Olivia De Alba)",
+          "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
+          "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
+          "publishedOn": "2024-12-17T10:00:00.000Z",
+          "wordCount": 5842,
+          "title": "Three Approaches To Amplify Your Design Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "author": "hello@smashingmagazine.com (Mariana Beldi)",
