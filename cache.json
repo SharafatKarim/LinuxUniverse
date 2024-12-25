@@ -20,6 +20,16 @@
           "wordCount": 4823,
           "title": "NGINX vs Apache; Web Server Comparison",
           "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=416287",
+          "author": "Linux Wolfman",
+          "description": "data duplicator or dd command is a versatile utility famous for its disk manipulation features.",
+          "link": "https://linuxhint.com/dd-command-examples-on-linux/",
+          "publishedOn": "2024-12-20T08:07:46.000Z",
+          "wordCount": 4096,
+          "title": "dd Command Examples on Linux",
+          "imageUrl": null
         }
       ]
     },
@@ -28,6 +38,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195705",
+          "author": "Content Operations",
+          "description": "The clocks featured in this article are more sophisticated than the basic tray clock.\nThe post 13 Best Free and Open Source Linux Clocks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/13-best-free-and-open-source-linux-clocks/",
+          "publishedOn": "2024-12-24T20:13:23.000Z",
+          "wordCount": 10501,
+          "title": "13 Best Free and Open Source Linux Clocks",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195598",
+          "author": "Content Operations",
+          "description": "Learn how to set up Navidrome with Docker in minutes with this step-by-step guide, perfect for streaming your music collection effortlessly.\nThe post How to Install Navidrome with Docker: A Step-by-Step Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-navidrome-with-docker-a-step-by-step-guide/",
+          "publishedOn": "2024-12-24T16:25:16.000Z",
+          "wordCount": 10520,
+          "title": "How to Install Navidrome with Docker: A Step-by-Step Guide",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195703",
+          "author": "Content Operations",
+          "description": "ScyllaDB NoSQL database transitions to a source available license, unifying streams and offering a free tier of ScyllaDB Enterprise.\nThe post ScyllaDB Transitions to Source Available License appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/scylladb-transitions-to-source-available-license/",
+          "publishedOn": "2024-12-24T16:13:22.000Z",
+          "wordCount": 10511,
+          "title": "ScyllaDB Transitions to Source Available License",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195597",
+          "author": "Content Operations",
+          "description": "This article examines the best Java micro-frameworks. Micro means the framework is small, with little or no tools and libraries.\nThe post 13 Best Free and Open Source Java Micro-Frameworks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/13-best-free-and-open-source-java-micro-frameworks/",
+          "publishedOn": "2024-12-24T15:25:14.000Z",
+          "wordCount": 10523,
+          "title": "13 Best Free and Open Source Java Micro-Frameworks",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195702",
+          "author": "Content Operations",
+          "description": "Here’s our verdict of the tools succinctly summarized in a LinuxLinks styled ratings chart. Only free and open source software is eligible for inclusion.\nThe post 4 Best Free and Open Source Shutdown Timers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/4-best-free-and-open-source-shutdown-timers/",
+          "publishedOn": "2024-12-24T15:13:19.000Z",
+          "wordCount": 10521,
+          "title": "4 Best Free and Open Source Shutdown Timers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195593",
+          "author": "Content Operations",
+          "description": "One of the strengths of Linux is the vast number of small, niche utilities that are made available under an open source license. Digital Clock 5 is billed as a very customizable and beautiful clock. For this article we evaluated Digital Clock 5 using Manjaro, an Arch-based distro.\nThe post Digital Clock 5 – modern digital clock application appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/digital-clock-5-modern-digital-clock-application/",
+          "publishedOn": "2024-12-24T14:25:13.000Z",
+          "wordCount": 10542,
+          "title": "Digital Clock 5 – modern digital clock application",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195706",
+          "author": "Content Operations",
+          "description": "Meet Home Assistant Voice Preview Edition – a private, open-source voice assistant designed for your home, offering sleek hardware and great customization.\nThe post Home Assistant Launches New Voice Assistant Hardware appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/home-assistant-launches-new-voice-assistant-hardware/",
+          "publishedOn": "2024-12-24T14:13:26.000Z",
+          "wordCount": 10513,
+          "title": "Home Assistant Launches New Voice Assistant Hardware",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195719",
+          "author": "Content Operations",
+          "description": "The community around Puppet, a popular Infrastructure as Code (IaC) tool, is forking the program. Some Puppet developers say license changes by Perforce have forced them to fork the project to ensure it remains available to open source users.\nThe post Puppet’s Open Source Community Plans to Fork the Program appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/puppets-open-source-community-plans-to-fork-the-program/",
+          "publishedOn": "2024-12-24T13:57:06.000Z",
+          "wordCount": 10545,
+          "title": "Puppet’s Open Source Community Plans to Fork the Program",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195589",
+          "author": "Content Operations",
+          "description": "Learn how to install, configure, and use the Hoarder All-in-One bookmarking app on Windows, macOS, and Linux using Docker.\nThe post Hoarder: A Bookmark and Note Taking App (Install via Docker) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/hoarder-a-bookmark-and-note-taking-app-install-via-docker/",
+          "publishedOn": "2024-12-24T13:42:25.000Z",
+          "wordCount": 10532,
+          "title": "Hoarder: A Bookmark and Note Taking App (Install via Docker)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195782",
           "author": "Content Operations",
@@ -1987,36 +2087,6 @@
           "wordCount": 8953,
           "title": "ReiserFS Reaches Its Final Chapter",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194629",
-          "author": "Content Operations",
-          "description": "To provide an insight into the quality of software that is available, we have compiled a list of 13 impressive remote desktop clients.\nThe post 13 Best Free and Open Source Remote Desktop Clients appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/13-best-free-and-open-source-remote-desktop-clients/",
-          "publishedOn": "2024-11-24T19:48:34.000Z",
-          "wordCount": 8976,
-          "title": "13 Best Free and Open Source Remote Desktop Clients",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194538",
-          "author": "Content Operations",
-          "description": "CAST-text is billed as a zero latency, easy-to-use full-text RSS terminal reader. This is free and open source software written in Go.\nThe post CAST-net – full-text rss terminal reader appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/cast-net-full-text-rss-terminal-reader/",
-          "publishedOn": "2024-11-24T18:49:21.000Z",
-          "wordCount": 8958,
-          "title": "CAST-net – full-text rss terminal reader",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194529",
-          "author": "Content Operations",
-          "description": "Learn what Warp Terminal with integrated AI features is, and then learn step-by-step how to install it on your Linux system.\nThe post What is Warp Terminal? How to Install It on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/what-is-warp-terminal-how-to-install-it-on-ubuntu/",
-          "publishedOn": "2024-11-24T16:55:50.000Z",
-          "wordCount": 8972,
-          "title": "What is Warp Terminal? How to Install It on Ubuntu",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2025,6 +2095,136 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMioAFBVV95cUxPWmQ4Y25VbS1SN0Z3MFczQmg5bndHZWVWVnBRSndGYUlraFotYTdqZk1tQ2xIS0RQTW0zZ25nWWl4U2VhbU9TWGd0eGtQX09nbnlReGRhTUFaRDNVSlluS0ZkdXhHRWc4dm5IV1dhaC1kUTBxUzBLOHAzZ2FnRGxsUUE1cXVxUERDY09aU2RSdEt5Zklua1NjVTFsNENkZzRf0gGmAUFVX3lxTFBpZFRENVVNc3R2WlNrMEhiZVh4czJyVW5rQl9YUlVQQUVhZFZrYnEzM0MxUkZER2wwUHlCb19yOUpGZE14S212STEtb0d4cGpZSUpkZjMzTXZiOHFHbDZ5dHliWnNWUmNvZTB1RmF3RzIzT2VGdHlBR2l0RDF4ZG5CcThjZjJMWkU2STc2ZWw4QnVhTmxWcDc4Z1dyTmNYMTdBZW5wWFE",
+          "author": null,
+          "description": "4MLinux 47.0 Released with Installation Support for Virtual (KVM) Block Devices  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmQ4Y25VbS1SN0Z3MFczQmg5bndHZWVWVnBRSndGYUlraFotYTdqZk1tQ2xIS0RQTW0zZ25nWWl4U2VhbU9TWGd0eGtQX09nbnlReGRhTUFaRDNVSlluS0ZkdXhHRWc4dm5IV1dhaC1kUTBxUzBLOHAzZ2FnRGxsUUE1cXVxUERDY09aU2RSdEt5Zklua1NjVTFsNENkZzRf0gGmAUFVX3lxTFBpZFRENVVNc3R2WlNrMEhiZVh4czJyVW5rQl9YUlVQQUVhZFZrYnEzM0MxUkZER2wwUHlCb19yOUpGZE14S212STEtb0d4cGpZSUpkZjMzTXZiOHFHbDZ5dHliWnNWUmNvZTB1RmF3RzIzT2VGdHlBR2l0RDF4ZG5CcThjZjJMWkU2STc2ZWw4QnVhTmxWcDc4Z1dyTmNYMTdBZW5wWFE?oc=5",
+          "publishedOn": "2024-12-25T00:17:40.000Z",
+          "wordCount": 12580,
+          "title": "4MLinux 47.0 Released with Installation Support for Virtual (KVM) Block Devices - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE1uN1U3bVZ1bWxKWlFzWWtxbDlPdDd4aUhWRmpnOVo4MFlrZDRpM1J1MHB1UHRLZzJkSEJUS2J5QTFfR0NKUmRiYmVDNk9wRGRyM3JzeGhPN0g4RU15RFhBX1dXMnRvWG04eDM5cUhvbFYzTWR1MGdSM1h3",
+          "author": null,
+          "description": "3 reasons you get more viruses on Windows than on Mac or Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uN1U3bVZ1bWxKWlFzWWtxbDlPdDd4aUhWRmpnOVo4MFlrZDRpM1J1MHB1UHRLZzJkSEJUS2J5QTFfR0NKUmRiYmVDNk9wRGRyM3JzeGhPN0g4RU15RFhBX1dXMnRvWG04eDM5cUhvbFYzTWR1MGdSM1h3?oc=5",
+          "publishedOn": "2024-12-24T23:00:00.000Z",
+          "wordCount": 12580,
+          "title": "3 reasons you get more viruses on Windows than on Mac or Linux - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikgFBVV95cUxNSmZmempzM2NPamRKQXNtbHNLYmZycG4xMHFnS3UwYW1UUml4alBqbkJydV9SZVhFNFJTSDc3c0RiMnBadE1NOW5xOXZHbXhLU0xQTE9WX0ZpOXdxeldqdm5wRkZSZFVHV3l2N3p5OTNMRUJsUDJQLVpNMVhvYnpXLTI2dGExdTRDZl90eDlIY2lzUQ",
+          "author": null,
+          "description": "AMD RX 7000 GPU support is finally solid on Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZmempzM2NPamRKQXNtbHNLYmZycG4xMHFnS3UwYW1UUml4alBqbkJydV9SZVhFNFJTSDc3c0RiMnBadE1NOW5xOXZHbXhLU0xQTE9WX0ZpOXdxeldqdm5wRkZSZFVHV3l2N3p5OTNMRUJsUDJQLVpNMVhvYnpXLTI2dGExdTRDZl90eDlIY2lzUQ?oc=5",
+          "publishedOn": "2024-12-24T22:34:31.000Z",
+          "wordCount": 12580,
+          "title": "AMD RX 7000 GPU support is finally solid on Linux - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiekFVX3lxTE9WVUpTektvZkpGdTZyM2R5QVExMGcwY2VVTnlwUEdhNmZjOFBUT0xTeUo1bG9vZnN4ZVZwU2FLNXhGNWtoU0RYd2Y0OG14YzJxM1gtdEtTeklBMEZMbFZKZkVEODA0S2xIZnp3aEg2YUlPMS1RclN0T2V3",
+          "author": null,
+          "description": "What Is Wine for Linux, and How Does It Work?  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WVUpTektvZkpGdTZyM2R5QVExMGcwY2VVTnlwUEdhNmZjOFBUT0xTeUo1bG9vZnN4ZVZwU2FLNXhGNWtoU0RYd2Y0OG14YzJxM1gtdEtTeklBMEZMbFZKZkVEODA0S2xIZnp3aEg2YUlPMS1RclN0T2V3?oc=5",
+          "publishedOn": "2024-12-24T20:00:00.000Z",
+          "wordCount": 12580,
+          "title": "What Is Wine for Linux, and How Does It Work? - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxPTGhpR2Y2azM4RDBZeTBGeTBUOEdmX3dkUmNGTkpIcmpCZjA1UVBDbVpwY2F2dnpFLUdkM0ROdHFNMHpubzc5V05BRWNEX1pSWTBzUHJyc29ObWlSR2lxNHpLVHJncTdQaG04Q21pU1hxNmtCQUZ2bUZ6TldoRnhnOVBmVjNLLXVFRkl0eDFLZWFFMGx0bzJPejBjNFJMekk",
+          "author": null,
+          "description": "The 3 most Windows-like Linux distros to try because change is hard  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGhpR2Y2azM4RDBZeTBGeTBUOEdmX3dkUmNGTkpIcmpCZjA1UVBDbVpwY2F2dnpFLUdkM0ROdHFNMHpubzc5V05BRWNEX1pSWTBzUHJyc29ObWlSR2lxNHpLVHJncTdQaG04Q21pU1hxNmtCQUZ2bUZ6TldoRnhnOVBmVjNLLXVFRkl0eDFLZWFFMGx0bzJPejBjNFJMekk?oc=5",
+          "publishedOn": "2024-12-24T19:56:00.000Z",
+          "wordCount": 12580,
+          "title": "The 3 most Windows-like Linux distros to try because change is hard - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE9rMDA4Q0NjaTZKVnI5RVk5WnZ2VUhTT3EwX1pTV0VxNHlDS3l6T3ZCM29GQ0pjV0JpaUJRQ0ljLS1hd3lNRDk0a1dBMmZqb0pFTzlDWE1fOS0tem5ibEp5RkpzUQ",
+          "author": null,
+          "description": "SDL3 Adds Cross-Platform System Tray Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rMDA4Q0NjaTZKVnI5RVk5WnZ2VUhTT3EwX1pTV0VxNHlDS3l6T3ZCM29GQ0pjV0JpaUJRQ0ljLS1hd3lNRDk0a1dBMmZqb0pFTzlDWE1fOS0tem5ibEp5RkpzUQ?oc=5",
+          "publishedOn": "2024-12-24T18:56:00.000Z",
+          "wordCount": 12580,
+          "title": "SDL3 Adds Cross-Platform System Tray Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxQZnJvNjh0ZC1FYVo2N1JWc0UyRU5SWW5yUHNnQ09sNXBkYU0tN3ExelhHWWZ6aklVRHNMRXZDbzFWRTlUOVU1V2t5elVyeEEwdkRHb1l6bUFJOUVsNEd3RGRYZDBNeXRZdU5ldWgwUjJ5Vk5xNzBxVE1TY3FSbGpmSF9kZw",
+          "author": null,
+          "description": "Kubernetes, Rust, Linux and DOS? The Year in Open Source  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnJvNjh0ZC1FYVo2N1JWc0UyRU5SWW5yUHNnQ09sNXBkYU0tN3ExelhHWWZ6aklVRHNMRXZDbzFWRTlUOVU1V2t5elVyeEEwdkRHb1l6bUFJOUVsNEd3RGRYZDBNeXRZdU5ldWgwUjJ5Vk5xNzBxVE1TY3FSbGpmSF9kZw?oc=5",
+          "publishedOn": "2024-12-24T16:27:14.000Z",
+          "wordCount": 12580,
+          "title": "Kubernetes, Rust, Linux and DOS? The Year in Open Source - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikAFBVV95cUxNUmNZb0FfMnJ1SklTS2VvSFlyWkFoak1uSkxfcGdzbC1sMy1WOWdac3E4ODR5c1pFclpRaGV3VlFmS1hWaTJUNzlMYUc1dFEyeGpCZURndlBWOF81V2RzSlVmVldPWFlIcUpvdWgyVThpMG1KbndqUFBYRHVFUHJqZGtXQkN4cWN2WjdSeVBsWnQ",
+          "author": null,
+          "description": "Why I no longer recommend this Windows-like Linux distro  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmNZb0FfMnJ1SklTS2VvSFlyWkFoak1uSkxfcGdzbC1sMy1WOWdac3E4ODR5c1pFclpRaGV3VlFmS1hWaTJUNzlMYUc1dFEyeGpCZURndlBWOF81V2RzSlVmVldPWFlIcUpvdWgyVThpMG1KbndqUFBYRHVFUHJqZGtXQkN4cWN2WjdSeVBsWnQ?oc=5",
+          "publishedOn": "2024-12-24T15:00:00.000Z",
+          "wordCount": 12580,
+          "title": "Why I no longer recommend this Windows-like Linux distro - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxQSVRmZVY5NTJwcjBQa2poRWgzNEwzSEZVOTc4T2x6eEpHaEVpVkVVYTRGME1HUTV3Q01hSHVHV1A2TXFPRFd1Znl3Rzl6RjZ4RWRmeS0tVzYyWXVOXzdNa252MG52NmRaT0JNbHF2OGx5VmhzQXAyN1otWXNiQjMyc01kTWpoUFYtcHBZNzMtMF9fMF9zby1BT05IZm1PekE4bFZGMA",
+          "author": null,
+          "description": "The best Linux distribution of 2024 is MacOS-like but accessible to all  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVRmZVY5NTJwcjBQa2poRWgzNEwzSEZVOTc4T2x6eEpHaEVpVkVVYTRGME1HUTV3Q01hSHVHV1A2TXFPRFd1Znl3Rzl6RjZ4RWRmeS0tVzYyWXVOXzdNa252MG52NmRaT0JNbHF2OGx5VmhzQXAyN1otWXNiQjMyc01kTWpoUFYtcHBZNzMtMF9fMF9zby1BT05IZm1PekE4bFZGMA?oc=5",
+          "publishedOn": "2024-12-24T14:40:00.000Z",
+          "wordCount": 12580,
+          "title": "The best Linux distribution of 2024 is MacOS-like but accessible to all - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTFA1SFNlODRzVjY1Y2FFU0dEajhzV2xJM0Q5QWlEWGl2aTU4bkFmNTJTajRPakVEdE5sVVhkbmRKZ3hJRnk0WnRuU2I3eHVDSlV5QVFxLVhzdDdjOHVIaWR3UGpR",
+          "author": null,
+          "description": "Intel Compute Runtime Now Advertises Production Support For Battlemage GPUs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SFNlODRzVjY1Y2FFU0dEajhzV2xJM0Q5QWlEWGl2aTU4bkFmNTJTajRPakVEdE5sVVhkbmRKZ3hJRnk0WnRuU2I3eHVDSlV5QVFxLVhzdDdjOHVIaWR3UGpR?oc=5",
+          "publishedOn": "2024-12-24T13:40:00.000Z",
+          "wordCount": 12580,
+          "title": "Intel Compute Runtime Now Advertises Production Support For Battlemage GPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi1AFBVV95cUxQb2laZ21IZjFiczBOa3VfVlpOREl4RzVMQjFTNXdWOVYzWXBsVUlvdnZlMzIzd3VIZ2V3MS1TN25KZWdmMXo3dlFvd2NoOVlhYlh3NlExUWRwcHZZZ1Z4T3pfYm16NkZLMWZ3ckdqSFhfb2JGTUsyMUo1MmltTC1BMU81WEJ2OFVmQ1F6czhacXdndVpMcko5SDdrSUtVeDZ0N3RfTHk0Wk1QOHFtNWdDMnhudktNejM5NVFfdGN6Uk9EZnR4eXgzMDJpYVM5aS04OTZwXw",
+          "author": null,
+          "description": "Sid-based siduction 2024.1.0 launches with KDE Plasma 6 while dropping GNOME, MATE, and Cinnamon  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb2laZ21IZjFiczBOa3VfVlpOREl4RzVMQjFTNXdWOVYzWXBsVUlvdnZlMzIzd3VIZ2V3MS1TN25KZWdmMXo3dlFvd2NoOVlhYlh3NlExUWRwcHZZZ1Z4T3pfYm16NkZLMWZ3ckdqSFhfb2JGTUsyMUo1MmltTC1BMU81WEJ2OFVmQ1F6czhacXdndVpMcko5SDdrSUtVeDZ0N3RfTHk0Wk1QOHFtNWdDMnhudktNejM5NVFfdGN6Uk9EZnR4eXgzMDJpYVM5aS04OTZwXw?oc=5",
+          "publishedOn": "2024-12-24T12:40:00.000Z",
+          "wordCount": 12580,
+          "title": "Sid-based siduction 2024.1.0 launches with KDE Plasma 6 while dropping GNOME, MATE, and Cinnamon - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisAFBVV95cUxNNlhwbW9KT0ZmZEFyXzBOb3NNNnNCWWJMSFVOYzhLS21ReHVuUU5ISGduMDljeEpOYTFRSlpkVlFaWWR1bEVWYzhwd3JvbFdoUmdiYVNqRG4zNnZsMjgtNjE4bnJfMWRxdlV3WVYyb29YRk9uZzFfR3IxVGtpckQzY2hNajBUaW03UTQ0QnRRbkM5LWxHSTctX3B1cnhPdVZtVUdpSURtN2ZRQzBhNFNheg",
+          "author": null,
+          "description": "This Linux laptop has a brilliant display and performance that rivals my MacBook  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlhwbW9KT0ZmZEFyXzBOb3NNNnNCWWJMSFVOYzhLS21ReHVuUU5ISGduMDljeEpOYTFRSlpkVlFaWWR1bEVWYzhwd3JvbFdoUmdiYVNqRG4zNnZsMjgtNjE4bnJfMWRxdlV3WVYyb29YRk9uZzFfR3IxVGtpckQzY2hNajBUaW03UTQ0QnRRbkM5LWxHSTctX3B1cnhPdVZtVUdpSURtN2ZRQzBhNFNheg?oc=5",
+          "publishedOn": "2024-12-24T12:00:00.000Z",
+          "wordCount": 12580,
+          "title": "This Linux laptop has a brilliant display and performance that rivals my MacBook - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXkFVX3lxTFBEVExlQjJmNkpVdDdGMnJQdTMxMkRIREptcnd5aFU3aU5KazM1aEE4YlB5STRMd0FoWXhJcWJhcnpUWjFubHpHQS1KZHBmT0ZBU2kzQV9yMThnM1dnTWc",
+          "author": null,
+          "description": "What do I want to see in the Linux ecosystem in 2025?  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEVExlQjJmNkpVdDdGMnJQdTMxMkRIREptcnd5aFU3aU5KazM1aEE4YlB5STRMd0FoWXhJcWJhcnpUWjFubHpHQS1KZHBmT0ZBU2kzQV9yMThnM1dnTWc?oc=5",
+          "publishedOn": "2024-12-24T04:09:05.000Z",
+          "wordCount": 12580,
+          "title": "What do I want to see in the Linux ecosystem in 2025? - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMinwFBVV95cUxQOFJLOUtpYjlwOHhRemxOblNPZG1QMUZMemstWng0Q3ZwaG9RVXZOUWl4ekE0MHg2bkdVaXNndzd2Nmp1eHZmemk2dEFiRjFWWE1xWEZLc3BSMklBX01SbTJPWVd0RHpqNF9sXzI2M2w4TGxrYTZ2cjIwenNobFBUcFpxOHhyQnZ2RXBTSEtmUGwtczRXNnBEZUpJejJVblXSAaQBQVVfeXFMUEZaYmZTQUxzTWRnSlBTUVdnZkhqYllJT1lGRHVrZF85U3doR3hwbVRnTUNuQ2RxMFUySDZ2MDRqdE0zU1NJajNJSWhVNWJxQ01yNEZJU3NPYzhodWNjY1BucG5JTk5HSEQ2eTM3dWNVanZnUkFaa216dTQ4SEZteUh2WS04dEFaQTVFS1pQSlJsNUI5aGRKcG1tMFlYTzB3cGJfdjk",
           "author": null,
@@ -7154,136 +7354,6 @@
           "wordCount": 12612,
           "title": "Large Folio Patches For EXT4 Show Some Nice Performance Gains - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiqwFBVV95cUxPSjRGcktPdlJJaUpCVi1hT1p0cEtrODNrcmV1WFBEdmQxZEd1RUlPbUNXRUwxWFFtYUpuM1ZrbzRBMDZpaHlUeVhRT0JNV2tIdGtHR0lNWkNTbzNKU2o3Wk5rb1g5OTlJclVfN1J1UDI2WmMyOWlHUjR6eW82ZHVNNFBoN3dHNGdDOW4tLTA1VENQdTZHeGVvTXJ5U1FsOVp6T216SkNsRWx0UFE",
-          "author": null,
-          "description": "Perfctl Campaign Exploits Millions of Linux Servers for Crypto Mining and Proxyjacking  SOCRadar",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjRGcktPdlJJaUpCVi1hT1p0cEtrODNrcmV1WFBEdmQxZEd1RUlPbUNXRUwxWFFtYUpuM1ZrbzRBMDZpaHlUeVhRT0JNV2tIdGtHR0lNWkNTbzNKU2o3Wk5rb1g5OTlJclVfN1J1UDI2WmMyOWlHUjR6eW82ZHVNNFBoN3dHNGdDOW4tLTA1VENQdTZHeGVvTXJ5U1FsOVp6T216SkNsRWx0UFE?oc=5",
-          "publishedOn": "2024-11-25T13:06:25.000Z",
-          "wordCount": 12612,
-          "title": "Perfctl Campaign Exploits Millions of Linux Servers for Crypto Mining and Proxyjacking - SOCRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFBVV95cUxOTFowQktBVlEyV3NOZmNGbWQ1enRpcUNWejB0ZjA2aGlvOGVvUUlJYjlzX1BlWlRrWHN1Tjhxam9IeTdXUlF1WmJSaTh0YnR4eTJ4TGszcGJEdVZVczlLak00dHBuQnlZdVpXdWYwODBPaHZFQ2M0MDI0X2E5VVotSndJaFRFX3M",
-          "author": null,
-          "description": "7 Tricks to Make Learning the Linux Command Line Easier  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFowQktBVlEyV3NOZmNGbWQ1enRpcUNWejB0ZjA2aGlvOGVvUUlJYjlzX1BlWlRrWHN1Tjhxam9IeTdXUlF1WmJSaTh0YnR4eTJ4TGszcGJEdVZVczlLak00dHBuQnlZdVpXdWYwODBPaHZFQ2M0MDI0X2E5VVotSndJaFRFX3M?oc=5",
-          "publishedOn": "2024-11-25T13:00:00.000Z",
-          "wordCount": 12612,
-          "title": "7 Tricks to Make Learning the Linux Command Line Easier - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE9UWE5sRDVrRzBxUW81QzNEaUhqVFNPQy1uaThQOUFZVkZWbXFYVlJVWDU3SVFxbG96SUVxQjRGZmhhMlZTSjBzUktHUHNnUGtURW9TTTlSZm9XQXVuZTlsN0d0ckZJX2RWS05IcW5B",
-          "author": null,
-          "description": "New AMD Zen 5 Perf Events Going Into Linux 6.13  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UWE5sRDVrRzBxUW81QzNEaUhqVFNPQy1uaThQOUFZVkZWbXFYVlJVWDU3SVFxbG96SUVxQjRGZmhhMlZTSjBzUktHUHNnUGtURW9TTTlSZm9XQXVuZTlsN0d0ckZJX2RWS05IcW5B?oc=5",
-          "publishedOn": "2024-11-25T12:01:00.000Z",
-          "wordCount": 12612,
-          "title": "New AMD Zen 5 Perf Events Going Into Linux 6.13 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE95dDZPWXVmdGItYk12WnZ5UmdwTDVwb0hZSmN5QzVqYTk1UTQ2eHhZTjNkWnJRR1Rickl5LWZwQWpNcGJaTFVxQjNZSzVyRV9RTWlGR2E0dE5MSFdOTVZJ",
-          "author": null,
-          "description": "Fwupd 2.0.2 Allows Updating Firmware On Many More Devices  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dDZPWXVmdGItYk12WnZ5UmdwTDVwb0hZSmN5QzVqYTk1UTQ2eHhZTjNkWnJRR1Rickl5LWZwQWpNcGJaTFVxQjNZSzVyRV9RTWlGR2E0dE5MSFdOTVZJ?oc=5",
-          "publishedOn": "2024-11-25T11:15:00.000Z",
-          "wordCount": 12612,
-          "title": "Fwupd 2.0.2 Allows Updating Firmware On Many More Devices - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxNcHFDNERpOFFhbXZwaFlBUXhzX2ZrQkZSazdUM0pkLWdRNFlvZk95SjVlaUMtTW5rN3N1SkhGOXNzUjV0TUxiTXVvWEtaVDJQU21xa0dGaUdvUmFUczVFN3Y2UzJXZjNBWTJGaXk2X0pRbGtNQktMaWVrSmxfWmpqNDlBRmU5UUNmY1ZERHk1ZEppREl0Uk9jTE1kc2ZDUEx20gGmAUFVX3lxTFBQczRDdkxCM19iMktUNlBuTmlPR1FOQ0ZXdzhULUtLVm04NTE0eVhZOHFPWThQRjNnU05YVDYtcmdETks2YVVvUW1WeG9ta3JITWdSdzhVeWl0SVlHczZULUUtVzNBdG9jbGNYbHRoMEdwbnNfRzk3ODlORXVhT1RlcWV6ZGFYaVYtWXp3RE5Sd0dSRDhlbkRpdTlxbzhUVGg3QXZNMEE",
-          "author": null,
-          "description": "Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHFDNERpOFFhbXZwaFlBUXhzX2ZrQkZSazdUM0pkLWdRNFlvZk95SjVlaUMtTW5rN3N1SkhGOXNzUjV0TUxiTXVvWEtaVDJQU21xa0dGaUdvUmFUczVFN3Y2UzJXZjNBWTJGaXk2X0pRbGtNQktMaWVrSmxfWmpqNDlBRmU5UUNmY1ZERHk1ZEppREl0Uk9jTE1kc2ZDUEx20gGmAUFVX3lxTFBQczRDdkxCM19iMktUNlBuTmlPR1FOQ0ZXdzhULUtLVm04NTE0eVhZOHFPWThQRjNnU05YVDYtcmdETks2YVVvUW1WeG9ta3JITWdSdzhVeWl0SVlHczZULUUtVzNBdG9jbGNYbHRoMEdwbnNfRzk3ODlORXVhT1RlcWV6ZGFYaVYtWXp3RE5Sd0dSRDhlbkRpdTlxbzhUVGg3QXZNMEE?oc=5",
-          "publishedOn": "2024-11-25T10:51:33.000Z",
-          "wordCount": 12612,
-          "title": "Fwupd 2.0.2 Firmware Updater Adds Support for ASUS ROG Ally, Raspberry Pi Pico - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE5maHJIa29aSl9YNXlMcm1tTzhteEk5OTRZN0xORUZONzItdHgyd3BwMG9xVzBwenptZWJ2cjRWSS1DV1U3bjVXRHFmNzd6LXFWZmZlZ1RwTzMwcjJsZlJwSExIV3lmU0E",
-          "author": null,
-          "description": "Deploy a SOC using Kali Linux in AWS  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maHJIa29aSl9YNXlMcm1tTzhteEk5OTRZN0xORUZONzItdHgyd3BwMG9xVzBwenptZWJ2cjRWSS1DV1U3bjVXRHFmNzd6LXFWZmZlZ1RwTzMwcjJsZlJwSExIV3lmU0E?oc=5",
-          "publishedOn": "2024-11-25T05:00:17.000Z",
-          "wordCount": 12612,
-          "title": "Deploy a SOC using Kali Linux in AWS - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiekFVX3lxTE52aWlRUHNkbFVfVUo3WXdGdjVNb0hIRXNNVzU5T0x5cUVmNXg2SmRUQXJqbGhUQ0FWXzdNU3dzRkNMMVdVTGZSRWcyd21ONXBXbks5aXl6akc2aEFfZldxR1NicUkyYk0xa1VQb3dBd2NNdXBMbVVWOFRn0gF_QVVfeXFMTTd1blVZUmMzWlV1UUVYajNQTzBzbEdWa3VGSkNyUkw1V1dLU25RdGJxR1FTbEdWamRLYWg5elhWSkQzLVoxWXRfSW9KNEFsZ3kzdmdfaVA2LTYwMi00a3VZQzBhTFhxdU5Ib0NtY080VThscWhjb1JFVml2MTd3Zw",
-          "author": null,
-          "description": "Want to Install Snap Apps in Linux Mint? Here’s How  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52aWlRUHNkbFVfVUo3WXdGdjVNb0hIRXNNVzU5T0x5cUVmNXg2SmRUQXJqbGhUQ0FWXzdNU3dzRkNMMVdVTGZSRWcyd21ONXBXbks5aXl6akc2aEFfZldxR1NicUkyYk0xa1VQb3dBd2NNdXBMbVVWOFRn0gF_QVVfeXFMTTd1blVZUmMzWlV1UUVYajNQTzBzbEdWa3VGSkNyUkw1V1dLU25RdGJxR1FTbEdWamRLYWg5elhWSkQzLVoxWXRfSW9KNEFsZ3kzdmdfaVA2LTYwMi00a3VZQzBhTFhxdU5Ib0NtY080VThscWhjb1JFVml2MTd3Zw?oc=5",
-          "publishedOn": "2024-11-24T22:45:21.000Z",
-          "wordCount": 12612,
-          "title": "Want to Install Snap Apps in Linux Mint? Here’s How - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFBVV95cUxPTm9sMUw5dDM0aEQwUFlma3lhMmo2QkZ0b3Y1cUNXLXZ6QVZOZG1yTkpSZFQ0Yjl2a0JrdlhITkdDd2NDVmYtMHhYa01TNEE2THdqUVpVYTZ4VW1iZUhzZExSMC1kUENVb1FpNmZXRXVOVVRILUQ2U3NrLTVzQXRnQkcxbDl2U0xwRTMtTw",
-          "author": null,
-          "description": "6 Commands to Clean Up Your Ubuntu System From the Terminal  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm9sMUw5dDM0aEQwUFlma3lhMmo2QkZ0b3Y1cUNXLXZ6QVZOZG1yTkpSZFQ0Yjl2a0JrdlhITkdDd2NDVmYtMHhYa01TNEE2THdqUVpVYTZ4VW1iZUhzZExSMC1kUENVb1FpNmZXRXVOVVRILUQ2U3NrLTVzQXRnQkcxbDl2U0xwRTMtTw?oc=5",
-          "publishedOn": "2024-11-24T20:30:00.000Z",
-          "wordCount": 12612,
-          "title": "6 Commands to Clean Up Your Ubuntu System From the Terminal - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE51WDZUM1BoQmRHU3J5Z09mMW9ZSkE5RE0wOVhRaFJET3otc1pDWE5EMmVhRDZDNnU3THRuWWxGNnJwWU5EVFNoTDYtbEl3elFnNUlkY2JZVWV3Vm5CdmtPVXlUYU40V0U",
-          "author": null,
-          "description": "How to Install Slack on Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51WDZUM1BoQmRHU3J5Z09mMW9ZSkE5RE0wOVhRaFJET3otc1pDWE5EMmVhRDZDNnU3THRuWWxGNnJwWU5EVFNoTDYtbEl3elFnNUlkY2JZVWV3Vm5CdmtPVXlUYU40V0U?oc=5",
-          "publishedOn": "2024-11-24T19:00:00.000Z",
-          "wordCount": 12612,
-          "title": "How to Install Slack on Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikgFBVV95cUxQb2pqTE1SS0hWRGhuMVNSUHR4T01hU2pyNzVDcDZJNG5hVnh1ZlZoUEYxdHFMcC1tS2lYQ3NydkpoMDMya2tPUGFKUVpwOXBjV05ESkpia0VzWVpmcW50MlNrOXRYMTlQaTNWVDB4dDhPdF9fRGxVUDY0aGpoUzFoUGducW9jdjRaam1pbVEwYWNndw",
-          "author": null,
-          "description": "The Linux Concept Journey — Zero Device (/dev/zero) | by Shlomi Boutnaru, Ph.D. | Nov, 2024  Medium",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2pqTE1SS0hWRGhuMVNSUHR4T01hU2pyNzVDcDZJNG5hVnh1ZlZoUEYxdHFMcC1tS2lYQ3NydkpoMDMya2tPUGFKUVpwOXBjV05ESkpia0VzWVpmcW50MlNrOXRYMTlQaTNWVDB4dDhPdF9fRGxVUDY0aGpoUzFoUGducW9jdjRaam1pbVEwYWNndw?oc=5",
-          "publishedOn": "2024-11-24T18:05:00.000Z",
-          "wordCount": 12612,
-          "title": "The Linux Concept Journey — Zero Device (/dev/zero) | by Shlomi Boutnaru, Ph.D. | Nov, 2024 - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE1RaEluSGxtMmhKaXpqYXZSak9UUVV2a2pHcUp4bTVocXZNelM1Ml9SeEpmcTlLSVhvSmNTUHViMXFVRzRRaVIxQzRFTWptNTQtOGFhRGVZM0UyZ295NTJ0N0JEdlV0Y255czNqeg",
-          "author": null,
-          "description": "Red Hat Officially Coming to WSL  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RaEluSGxtMmhKaXpqYXZSak9UUVV2a2pHcUp4bTVocXZNelM1Ml9SeEpmcTlLSVhvSmNTUHViMXFVRzRRaVIxQzRFTWptNTQtOGFhRGVZM0UyZ295NTJ0N0JEdlV0Y255czNqeg?oc=5",
-          "publishedOn": "2024-11-24T15:24:19.000Z",
-          "wordCount": 12612,
-          "title": "Red Hat Officially Coming to WSL - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYEFVX3lxTFBCRDR3U1B5TTZ1YU5uUXlSblBOZVZRdU1fd3A3QjZoOWpyTm5nbUR3Vkx6SlhmZ0dTLTJPeWUyX0dIUzlpOUxneUdWM0ZYVGdoVmdNYmE3WE00emRwTnpMaw",
-          "author": null,
-          "description": "AMDXDNA Driver For Ryzen AI Now Ready To Appear In The Linux Kernel  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRDR3U1B5TTZ1YU5uUXlSblBOZVZRdU1fd3A3QjZoOWpyTm5nbUR3Vkx6SlhmZ0dTLTJPeWUyX0dIUzlpOUxneUdWM0ZYVGdoVmdNYmE3WE00emRwTnpMaw?oc=5",
-          "publishedOn": "2024-11-24T14:22:00.000Z",
-          "wordCount": 12612,
-          "title": "AMDXDNA Driver For Ryzen AI Now Ready To Appear In The Linux Kernel - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi1AFBVV95cUxQOEU5SjJQcDdNRi0xN0R4RXp1aF9XVnhHVlhQMnVjRDBXWXlkOFhYdzVtWGxxUmx1OEZzOUM0SVd0Sy1jZTI5TDhBUGVMd013aXEzMXJ6ODI5R21JYVJSTXRDRzh5eEtpMEgxMEI5ekhyTmZ0bFh3WWR5N1ZZSnNheGo1LVBkUUlyMVVEcEtGakRhT3BUSzM0WnREQUJXeXZsemI0ZzN2UkFPNXlMNV9nWWg5Si1sM3MweXgzSHN5d3hucVNZSlJDS1YtMFBWR1NrYjVqcA",
-          "author": null,
-          "description": "Linux update adds support for 128 terabyte SD cards— SDUC and UHS-II SD cards are now supported  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEU5SjJQcDdNRi0xN0R4RXp1aF9XVnhHVlhQMnVjRDBXWXlkOFhYdzVtWGxxUmx1OEZzOUM0SVd0Sy1jZTI5TDhBUGVMd013aXEzMXJ6ODI5R21JYVJSTXRDRzh5eEtpMEgxMEI5ekhyTmZ0bFh3WWR5N1ZZSnNheGo1LVBkUUlyMVVEcEtGakRhT3BUSzM0WnREQUJXeXZsemI0ZzN2UkFPNXlMNV9nWWg5Si1sM3MweXgzSHN5d3hucVNZSlJDS1YtMFBWR1NrYjVqcA?oc=5",
-          "publishedOn": "2024-11-24T14:14:48.000Z",
-          "wordCount": 12612,
-          "title": "Linux update adds support for 128 terabyte SD cards— SDUC and UHS-II SD cards are now supported - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9738,6 +9808,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "676a0ca777f09ac78ed9802d",
+          "author": "Quincy Larson",
+          "description": "Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...",
+          "link": "https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/",
+          "publishedOn": "2024-12-24T01:21:43.000Z",
+          "wordCount": 1417,
+          "title": "Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735001839858/19f1c48b-0d23-4bdf-882b-9f008e288719.png"
+        },
         {
           "id": "676884d7626250532f8a0785",
           "author": "Kunal Nalawade",
