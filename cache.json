@@ -49,6 +49,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195791",
+          "author": "Content Operations",
+          "description": "In this guide, we’ll walk you through the process of setting up an AI development environment on your Ubuntu system.\nThe post How to Set Up an AI Development Environment on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-set-up-an-ai-development-environment-on-ubuntu/",
+          "publishedOn": "2024-12-28T16:54:03.000Z",
+          "wordCount": 10605,
+          "title": "How to Set Up an AI Development Environment on Ubuntu",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195798",
+          "author": "Content Operations",
+          "description": "The sed command, short for Stream Editor, is a powerful text processing tool in Linux, which is widely used for text manipulation tasks, including searching, finding and replacing text, and even performing advanced scripting. This article will guide you through the basics of sed, explain how to use it for dynamic number replacement, and provide practical examples for beginners.\nThe post How to Use sed for Dynamic Number Replacement in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-use-sed-for-dynamic-number-replacement-in-linux/",
+          "publishedOn": "2024-12-28T12:41:19.000Z",
+          "wordCount": 10595,
+          "title": "How to Use sed for Dynamic Number Replacement in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=195849",
           "author": "Content Operations",
           "description": "Meet Ghostty 1.0: The GPU-accelerated terminal emulator exits beta after two years, challenging Kitty and Alacritty with its speed and features.\nThe post Ghostty 1.0 Released, A New GPU-Accelerated Terminal Emulator appeared first on Linux Today.",
@@ -1937,86 +1957,6 @@
           "wordCount": 10897,
           "title": "17 Best Free and Open Source Python Static Site Generators",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194902",
-          "author": "Content Operations",
-          "description": "Designed as a modular version of the Raspberry Pi 5 single-board computer, the Raspberry Pi Compute Module 5 is powered by a 2.4GHz Quad-Core 64-bit ARM Cortex-A76 processor and it's available with 2GB, 4GB, or 8GB of LPDDR4X-4267 SDRAM memory, as well as with 16GB, 32GB, or 64GB of MLC eMMC storage.\nThe post Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5/",
-          "publishedOn": "2024-11-28T21:46:17.000Z",
-          "wordCount": 10935,
-          "title": "Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194879",
-          "author": "Content Operations",
-          "description": "QScanner is a Linux command-line utility tailored for scanning container images and performing Software Composition Analysis (SCA). It is compatible with diverse container orchestration systems, container runtimes, and operating systems.\nThe post Qscanner: Linux Command-Line Utility for Scanning Container Images, Conducting SCA appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/qscanner-linux-command-line-utility-for-scanning-container-images-conducting-sca/",
-          "publishedOn": "2024-11-28T20:45:06.000Z",
-          "wordCount": 10873,
-          "title": "Qscanner: Linux Command-Line Utility for Scanning Container Images, Conducting SCA",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194747",
-          "author": "Content Operations",
-          "description": "Security is paramount. Security involves defence in depth. Approaching security one step at a time, with consistency and rigour, you can mitigate threats, and keep intruders at bay.\nThe post 9 Useful Free and Open Source Reverse Vulnerability Analysis Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/9-useful-free-and-open-source-reverse-vulnerability-analysis-tools/",
-          "publishedOn": "2024-11-28T20:17:40.000Z",
-          "wordCount": 10882,
-          "title": "9 Useful Free and Open Source Reverse Vulnerability Analysis Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194745",
-          "author": "Content Operations",
-          "description": "Bcachefs developer Kent Overstreet banned from Linux Kernel development for violation of the project's Code of Conduct following email exchange.\nThe post Bcachefs Developer Kent Overstreet Banned From Linux Kernel Development appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/bcachefs-developer-kent-overstreet-banned-from-linux-kernel-development/",
-          "publishedOn": "2024-11-28T19:16:27.000Z",
-          "wordCount": 10859,
-          "title": "Bcachefs Developer Kent Overstreet Banned From Linux Kernel Development",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194737",
-          "author": "Content Operations",
-          "description": "Additional sessions from this year’s conference are now available on All Things Open‘s YouTube Channel, and December’s Meetup will feature a Red Hatter who’ll talk about AI.\nThe post More ATO Sessions Available Online; December RTP Meetup Speaker Announced; ATO AI Call for Papers appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/more-ato-sessions-available-online-december-rtp-meetup-speaker-announced-ato-ai-call-for-papers/",
-          "publishedOn": "2024-11-28T18:07:38.000Z",
-          "wordCount": 10889,
-          "title": "More ATO Sessions Available Online; December RTP Meetup Speaker Announced; ATO AI Call for Papers",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194742",
-          "author": "Content Operations",
-          "description": "Discover the simplest way to access your webhost files and directories via a file manager named Tiny File Manager, built on PHP.\nThe post Tiny File Manager for Your Web Host, Built on PHP appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/tiny-file-manager-for-your-web-host-built-on-php/",
-          "publishedOn": "2024-11-28T16:14:54.000Z",
-          "wordCount": 10878,
-          "title": "Tiny File Manager for Your Web Host, Built on PHP",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194743",
-          "author": "Content Operations",
-          "description": "Learn about the LineSelect tool that allows you to interactively select single or multiple lines from stdin and output them to stdout.  In this article you'll learn how to install LineSelect on Linux with command-line usage.\nThe post LineSelect: Interactively Select Single or Multiple Lines from Stdin appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/lineselect-interactively-select-single-or-multiple-lines-from-stdin/",
-          "publishedOn": "2024-11-28T15:12:12.000Z",
-          "wordCount": 10894,
-          "title": "LineSelect: Interactively Select Single or Multiple Lines from Stdin",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=194739",
-          "author": "Content Operations",
-          "description": "Wireguard is an open-source VPN protocol alternative to IPSec, IKEv2, and OpenVPN. This guide will show you how to install Wireguard VPN on the Debian 12 server and configure the Wireguard client on a Linux machine.\nThe post Install WireGuard VPN on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/install-wireguard-vpn-on-debian-12/",
-          "publishedOn": "2024-11-28T14:06:23.000Z",
-          "wordCount": 10882,
-          "title": "Install WireGuard VPN on Debian 12",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2025,6 +1965,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiZ0FVX3lxTE9TeURHLVhhLXFEN2kwYlM5TU5qNTBXbjFEeHJkNFZrT1otaUJKVEN3V2dldC05V2RSbl93ZUZBRDVfNHQ4TkpnU2htcWxvWjdWRVJoY09kNGRKU1pxcUpKVkY5bTBXNEk",
+          "author": null,
+          "description": "Command Line Email With Mutt: Manage Your Inbox in the Terminal  Review Geek",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TeURHLVhhLXFEN2kwYlM5TU5qNTBXbjFEeHJkNFZrT1otaUJKVEN3V2dldC05V2RSbl93ZUZBRDVfNHQ4TkpnU2htcWxvWjdWRVJoY09kNGRKU1pxcUpKVkY5bTBXNEk?oc=5",
+          "publishedOn": "2024-12-28T20:30:00.000Z",
+          "wordCount": 12580,
+          "title": "Command Line Email With Mutt: Manage Your Inbox in the Terminal - Review Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE1UU0ZqaTNqNjd1cWUza1poVS1FdWlMWmdYYVplUV9Zd3planNIUEdqMTBFUTBQd0tQekRnbmVXaGZQSnB6Y19yZnN3S2NyS1AwXzNyVTFlUlhJV0N6N0Q1Y1ZuaENWb2pKQmc",
+          "author": null,
+          "description": "NVIDIA Made Great Strides With Their Open-Source Kernel Code & Wayland Support In 2024  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UU0ZqaTNqNjd1cWUza1poVS1FdWlMWmdYYVplUV9Zd3planNIUEdqMTBFUTBQd0tQekRnbmVXaGZQSnB6Y19yZnN3S2NyS1AwXzNyVTFlUlhJV0N6N0Q1Y1ZuaENWb2pKQmc?oc=5",
+          "publishedOn": "2024-12-28T16:37:00.000Z",
+          "wordCount": 12580,
+          "title": "NVIDIA Made Great Strides With Their Open-Source Kernel Code & Wayland Support In 2024 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE1yYmtHcG9UOWtPNjk4MlJBTENtVGFEbmdrWmJjRkQtbTM5S0lPZVktZEZBR1RKQmZ1TnhmalNkNUJ6YTU0T3EwbGtCX2JmbUxLelJLQkFIcXBUVzRyT3VCWThzSGw4dXNfT25KMUg0RE54REc3M29QaGpYNVQ",
+          "author": null,
+          "description": "What Is Ubuntu \"LTS\", and When Should You Use It?  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yYmtHcG9UOWtPNjk4MlJBTENtVGFEbmdrWmJjRkQtbTM5S0lPZVktZEZBR1RKQmZ1TnhmalNkNUJ6YTU0T3EwbGtCX2JmbUxLelJLQkFIcXBUVzRyT3VCWThzSGw4dXNfT25KMUg0RE54REc3M29QaGpYNVQ?oc=5",
+          "publishedOn": "2024-12-28T16:15:00.000Z",
+          "wordCount": 12580,
+          "title": "What Is Ubuntu \"LTS\", and When Should You Use It? - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigwFBVV95cUxPdWxxS2ptN2JtUHZ0cVh0aTRvSkE4eURObmZYU045Uld2NndoYy0wYUlXcDA3RmlZdzJTeDlYbGQ4cGFqdG5Kb0k3dmRSalRwR1VjcjZRNEg2M0o3ME5MVmVUcWVneC1BRkFUdDdlOElZT1k1eGVFSWdsLTVzR24xbTJuNA",
+          "author": null,
+          "description": "Linux: How to Run VirtualBox VMs from the Command Line  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWxxS2ptN2JtUHZ0cVh0aTRvSkE4eURObmZYU045Uld2NndoYy0wYUlXcDA3RmlZdzJTeDlYbGQ4cGFqdG5Kb0k3dmRSalRwR1VjcjZRNEg2M0o3ME5MVmVUcWVneC1BRkFUdDdlOElZT1k1eGVFSWdsLTVzR24xbTJuNA?oc=5",
+          "publishedOn": "2024-12-28T15:07:50.000Z",
+          "wordCount": 12580,
+          "title": "Linux: How to Run VirtualBox VMs from the Command Line - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAJBVV95cUxOdEIxR19BZWpCR0R2NzhNRjM2cVhlYUtlTmFadFhGYTVzVEVwTTNYZWUxVTNsMHRTR3draFkwTkVpWWVXeGJhejdsODRObUFlNWxIak1CWkRQZGFRVHZ0Y0NGek1uMFF0TmNUME13MndsQ25fTkh6bGRiZGNVcmRrbExIWmE2ek56bjRJbFVWUy1jM0M2cEV6bjlHX2tXNTFKY3VEbk9vdk9DaE15TlZGX2dfRWhnNmhBdzZlQTRtbHFodWR6S29CSG5LMHJFdzlMLWtmR2lsdGttSW5uNHlGTk5zRDFZRjNiUURGNjFRTlN2aWFLUFRGeTFYTXljdW50",
+          "author": null,
+          "description": "This is probably the best value 16-inch Linux laptop right now; just make sure you don't try to upgrade it to 8TB SSD or you'll double its price  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdEIxR19BZWpCR0R2NzhNRjM2cVhlYUtlTmFadFhGYTVzVEVwTTNYZWUxVTNsMHRTR3draFkwTkVpWWVXeGJhejdsODRObUFlNWxIak1CWkRQZGFRVHZ0Y0NGek1uMFF0TmNUME13MndsQ25fTkh6bGRiZGNVcmRrbExIWmE2ek56bjRJbFVWUy1jM0M2cEV6bjlHX2tXNTFKY3VEbk9vdk9DaE15TlZGX2dfRWhnNmhBdzZlQTRtbHFodWR6S29CSG5LMHJFdzlMLWtmR2lsdGttSW5uNHlGTk5zRDFZRjNiUURGNjFRTlN2aWFLUFRGeTFYTXljdW50?oc=5",
+          "publishedOn": "2024-12-28T11:49:00.000Z",
+          "wordCount": 12580,
+          "title": "This is probably the best value 16-inch Linux laptop right now; just make sure you don't try to upgrade it to 8TB SSD or you'll double its price - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE5GN1pjWkdYMlFyQlhlUDNVZ19pdFJDRFd3WmhYWGgwazUyY0RnVFA3YmNqdmk0QU1BUjc1OVBTZG9MazNoU2Zjbnc4MklpX3NLanJ3UFU0SE52WEdnWXd1empPUQ",
+          "author": null,
+          "description": "Fedora's Captivating 2024 With Many New Features & Leading Innovations  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GN1pjWkdYMlFyQlhlUDNVZ19pdFJDRFd3WmhYWGgwazUyY0RnVFA3YmNqdmk0QU1BUjc1OVBTZG9MazNoU2Zjbnc4MklpX3NLanJ3UFU0SE52WEdnWXd1empPUQ?oc=5",
+          "publishedOn": "2024-12-28T11:41:00.000Z",
+          "wordCount": 12580,
+          "title": "Fedora's Captivating 2024 With Many New Features & Leading Innovations - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMi_gFBVV95cUxOQUxfZmxOeFE2R25wU09QZmliWmhRUFpqeUFNak9ITDdKUGcwX21BcWFaX3BLQV9Rdm9SWFdkLVoxU00tWml5NFhjN0YzdTFjVDE4OEpVMFF3RUpxaEtDVWdwMGFuUWxNbUhnX3k0ZTN0Qi04ZlVLRmMyRnQtNW13QnhGZmxOdzBpdzd4Vk43NUl1SFVvZGRMcDRhRFpkNThPNTRxZlNKU3pPX0lsT1RJMWxHVW1WT2UxTHVtTDdVNlRzRTBHc3FaZE80eTlEQnBaSk9kRkx2T0E1SUhuVGFHOW0tNlZjdm9XbFBsVklnQzJYM2dQUGd4dV94aWFTUQ",
           "author": null,
@@ -6834,116 +6834,6 @@
           "wordCount": 12612,
           "title": "Arch Linux installer now slightly less masochistic - The Register",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipAFBVV95cUxNRU1Va2t3NWNuQW1ZbXhycVVnbXlIQVRZYi1sSy1BaGVtVFBFaG9vN1d5NkxCd09vMjhJLUVXN29LaVdHOG8yRjR4MDF5MEN5MlFCWmg3OVhzZlhsd0plNlRYVkZHb2xnWUNnR3ktcllCVFpMaGlPNU5nTzZJUm5PVnRpTEZaOV84UlBxT2M0aFVFVnRZMjJqMWtBUHJvYmZLLWwyaQ",
-          "author": null,
-          "description": "Best cheap Steam Deck / Linux games in the Steam Autumn Sale 2024  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRU1Va2t3NWNuQW1ZbXhycVVnbXlIQVRZYi1sSy1BaGVtVFBFaG9vN1d5NkxCd09vMjhJLUVXN29LaVdHOG8yRjR4MDF5MEN5MlFCWmg3OVhzZlhsd0plNlRYVkZHb2xnWUNnR3ktcllCVFpMaGlPNU5nTzZJUm5PVnRpTEZaOV84UlBxT2M0aFVFVnRZMjJqMWtBUHJvYmZLLWwyaQ?oc=5",
-          "publishedOn": "2024-11-29T13:45:44.000Z",
-          "wordCount": 12612,
-          "title": "Best cheap Steam Deck / Linux games in the Steam Autumn Sale 2024 - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxPaDA2ZEhDczVZcmR6cEdaaTNZZ1FzMWxpdk5ucWc0MEFoRmU0N2xNVlFHajlCY19GZjV2MjVzZ2pfcXR4Y25fUWNtQnZqWUJKWEtYd2hQRndqTHpzZF80STJLR2RvNmozQ1lpaVNsZkxWT0FGR19LLVBJbGFHMUVETWF3RzFWQUMyMEpqUXV0UUg3allNaXNlcWwzWGxBX3N4ZmFwaVNITDFzcm5TWXlHRzRWaw",
-          "author": null,
-          "description": "The latest from Prime Gaming - November 29 edition - more for Steam Deck / Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDA2ZEhDczVZcmR6cEdaaTNZZ1FzMWxpdk5ucWc0MEFoRmU0N2xNVlFHajlCY19GZjV2MjVzZ2pfcXR4Y25fUWNtQnZqWUJKWEtYd2hQRndqTHpzZF80STJLR2RvNmozQ1lpaVNsZkxWT0FGR19LLVBJbGFHMUVETWF3RzFWQUMyMEpqUXV0UUg3allNaXNlcWwzWGxBX3N4ZmFwaVNITDFzcm5TWXlHRzRWaw?oc=5",
-          "publishedOn": "2024-11-29T13:13:19.000Z",
-          "wordCount": 12612,
-          "title": "The latest from Prime Gaming - November 29 edition - more for Steam Deck / Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXEFVX3lxTE54c3dENlFfU1otZGVab1kwTWVuSmJKUDgtSThNR0RMOVVfNWJraGFnT1JSVC1QQnhOdjFGWlJOeGxOY3NvSlhpcDBIMHRCd0lPbnZsQlBnaXJRLWNP",
-          "author": null,
-          "description": "Linux 6.13 Staging Clears Out 107k Lines Of Code From Old & Unmaintained Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54c3dENlFfU1otZGVab1kwTWVuSmJKUDgtSThNR0RMOVVfNWJraGFnT1JSVC1QQnhOdjFGWlJOeGxOY3NvSlhpcDBIMHRCd0lPbnZsQlBnaXJRLWNP?oc=5",
-          "publishedOn": "2024-11-29T11:43:00.000Z",
-          "wordCount": 12612,
-          "title": "Linux 6.13 Staging Clears Out 107k Lines Of Code From Old & Unmaintained Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxObnVxSVFxMklfWTZobFFiMVFsaWk3Q3BBWkpsejRUQ19EV0YyS0lFUVIzeVk3ajVnWi1OcEg0emQ2aHNja082RGZwc0hXQ0tXNnU1a0xLUXFVUjNOcHlTd043ODN1V3ltM1JBZnRhR18tTkF4M192ZmdrYWVoS3paWFl3cnczVDQxQzNXN1ZlUkZHTm5KSHZpV001bGFGZlVBX2ZtR3lfeTR1eXVhNzQ4LThDeHdLSHdyRDhzRmdjaXNxdw",
-          "author": null,
-          "description": "Proving Linux is not a safe sanctuary, ESET finds first Linux-targeting UEFI bootkit malware  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnVxSVFxMklfWTZobFFiMVFsaWk3Q3BBWkpsejRUQ19EV0YyS0lFUVIzeVk3ajVnWi1OcEg0emQ2aHNja082RGZwc0hXQ0tXNnU1a0xLUXFVUjNOcHlTd043ODN1V3ltM1JBZnRhR18tTkF4M192ZmdrYWVoS3paWFl3cnczVDQxQzNXN1ZlUkZHTm5KSHZpV001bGFGZlVBX2ZtR3lfeTR1eXVhNzQ4LThDeHdLSHdyRDhzRmdjaXNxdw?oc=5",
-          "publishedOn": "2024-11-29T09:30:30.000Z",
-          "wordCount": 12612,
-          "title": "Proving Linux is not a safe sanctuary, ESET finds first Linux-targeting UEFI bootkit malware - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMingFBVV95cUxOUGZJWkFWb0ZISDFSb3dGMVNGQmNxR0FBUDJmdUY3elJndF96S0dnRjRFQk1qSHhYN043ZkhONzU1TkJyYXpfTFpBYWg1NktzUUNPdXJQb2d5T0dMelV4NHVYNHpuVFN6ZWxtMlJPcFNOUUNGeEhqYThvWHcxMEdqcDVIbnZSd29kYjNhdVJDSTVtQmJKQzdXX0V5bFo1d9IBowFBVV95cUxQQUNvcTBoSFlSZ1ZBLWNtRU02ZE9KeXNpNGdYTzFRcG9LLW1hWWJPS1ZhSGJuelc0TTduVG8tLWZ1Tk5PNnJuVnpKX3pNZTBFWkljeTlDLTZiX1MzSXlQczNHS3JMQ2tOS0VnZFFmT0ZiSndQc1N3X3Ayd2doNzZtTmdQeUFBbmNicXJ0SFB0Rlk2T0FuUWRsZjRlZDdDdHJvQTg4",
-          "author": null,
-          "description": "Ubuntu Touch OTA-7 Released for Linux Phones with PulseAudio Security Fixes  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZJWkFWb0ZISDFSb3dGMVNGQmNxR0FBUDJmdUY3elJndF96S0dnRjRFQk1qSHhYN043ZkhONzU1TkJyYXpfTFpBYWg1NktzUUNPdXJQb2d5T0dMelV4NHVYNHpuVFN6ZWxtMlJPcFNOUUNGeEhqYThvWHcxMEdqcDVIbnZSd29kYjNhdVJDSTVtQmJKQzdXX0V5bFo1d9IBowFBVV95cUxQQUNvcTBoSFlSZ1ZBLWNtRU02ZE9KeXNpNGdYTzFRcG9LLW1hWWJPS1ZhSGJuelc0TTduVG8tLWZ1Tk5PNnJuVnpKX3pNZTBFWkljeTlDLTZiX1MzSXlQczNHS3JMQ2tOS0VnZFFmT0ZiSndQc1N3X3Ayd2doNzZtTmdQeUFBbmNicXJ0SFB0Rlk2T0FuUWRsZjRlZDdDdHJvQTg4?oc=5",
-          "publishedOn": "2024-11-29T08:38:31.000Z",
-          "wordCount": 12612,
-          "title": "Ubuntu Touch OTA-7 Released for Linux Phones with PulseAudio Security Fixes - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicEFVX3lxTE43T0x3Wnd0VktqREFtMjB5YXJtRUExX0JESkhRSkREcy16Vi1mcHNyU05WdzJVbVp3OWFra1BLMW8zaUtRajU2U0VFWGFzcjdJMTlXTzhsd04yZEM4U1VoQzFSNkpvNnYzbVJwVWRwejfSAXZBVV95cUxNUkVVaDlEUENrQ0YyQWxvMGRqX1p0ZXFKWFM0cWNEeUJYQVBZbXdVZ3ljckR5R0lHaHl5YlVVWnB4MTNBRGlTY19HTW81cUxEdDNSVHNmNlI5U0dJcU5ZWHpGNC1Od3pBMHdEc2xDUXFnQlR6d1Z3",
-          "author": null,
-          "description": "Mozilla Announce Smaller, Faster Firefox Downloads For Linux  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43T0x3Wnd0VktqREFtMjB5YXJtRUExX0JESkhRSkREcy16Vi1mcHNyU05WdzJVbVp3OWFra1BLMW8zaUtRajU2U0VFWGFzcjdJMTlXTzhsd04yZEM4U1VoQzFSNkpvNnYzbVJwVWRwejfSAXZBVV95cUxNUkVVaDlEUENrQ0YyQWxvMGRqX1p0ZXFKWFM0cWNEeUJYQVBZbXdVZ3ljckR5R0lHaHl5YlVVWnB4MTNBRGlTY19HTW81cUxEdDNSVHNmNlI5U0dJcU5ZWHpGNC1Od3pBMHdEc2xDUXFnQlR6d1Z3?oc=5",
-          "publishedOn": "2024-11-28T23:50:41.000Z",
-          "wordCount": 12617,
-          "title": "Mozilla Announce Smaller, Faster Firefox Downloads For Linux - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE1ISUJDSEtFdVdwWlEycUZkMEFPUmkzNTE3MnhCaTQyZnJpeElndzU4Vk9kWDBzWC10YmFYZWtBTVhXXzZuaGVUOFV1ak13Z3pnaWFxRjFUQ0RfT2pERC1QSVl3Tm9kdTR3SXpya081UFZqLWZBOHc",
-          "author": null,
-          "description": "Firefox for Linux switches to .tar.xz packaging for smaller downloads and faster installation  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ISUJDSEtFdVdwWlEycUZkMEFPUmkzNTE3MnhCaTQyZnJpeElndzU4Vk9kWDBzWC10YmFYZWtBTVhXXzZuaGVUOFV1ak13Z3pnaWFxRjFUQ0RfT2pERC1QSVl3Tm9kdTR3SXpya081UFZqLWZBOHc?oc=5",
-          "publishedOn": "2024-11-28T21:19:16.000Z",
-          "wordCount": 12617,
-          "title": "Firefox for Linux switches to .tar.xz packaging for smaller downloads and faster installation - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxPc0lyYzM4V2wwYnc4SEVyVUptVE9yQ291STR4M2lzaTk3NlZoeGNxclE1MnVzeG5uYi1hVU5JcDVZcldHZnFFSG41YmFsSVZiSWlhM2tpYlEzNU9EOG94VGs3YVIwSXFxTlprLWp3bG54SFR2dTludnpMb1BRVW0tY1Nwbm5meDQxRzB2cG04NWdwb0tEdllKZkVLRW9nQXlJWUFsQ2ZPLTBYbkF6NzdzSVlzSQ",
-          "author": null,
-          "description": "The first UEFI bootkit malware for Linux has been detected, so users beware  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lyYzM4V2wwYnc4SEVyVUptVE9yQ291STR4M2lzaTk3NlZoeGNxclE1MnVzeG5uYi1hVU5JcDVZcldHZnFFSG41YmFsSVZiSWlhM2tpYlEzNU9EOG94VGs3YVIwSXFxTlprLWp3bG54SFR2dTludnpMb1BRVW0tY1Nwbm5meDQxRzB2cG04NWdwb0tEdllKZkVLRW9nQXlJWUFsQ2ZPLTBYbkF6NzdzSVlzSQ?oc=5",
-          "publishedOn": "2024-11-28T21:10:00.000Z",
-          "wordCount": 12612,
-          "title": "The first UEFI bootkit malware for Linux has been detected, so users beware - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimwFBVV95cUxNZWpTYXN3TG90LTM3YXM3anRLODdoSmJjZV9ndnBMMGE2NEVUd0U1TEgyZTVZQVlyMUZ6QTA3UGxDTU5NbVJIQ2t3RHZ6TTQwOElKYW1SUlFFUkpVVjd6c2thSXFSVTQyUXJfeDAzQjdhYkRldkRhWkdUZ3czdmI0Mzdib3BkYnpoWkp0LTZsUXdDVDh2YU1vRnlWdw",
-          "author": null,
-          "description": "Just Like Windows: Linux Targeted by First-Ever Bootkit  BankInfoSecurity.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWpTYXN3TG90LTM3YXM3anRLODdoSmJjZV9ndnBMMGE2NEVUd0U1TEgyZTVZQVlyMUZ6QTA3UGxDTU5NbVJIQ2t3RHZ6TTQwOElKYW1SUlFFUkpVVjd6c2thSXFSVTQyUXJfeDAzQjdhYkRldkRhWkdUZ3czdmI0Mzdib3BkYnpoWkp0LTZsUXdDVDh2YU1vRnlWdw?oc=5",
-          "publishedOn": "2024-11-28T18:01:52.000Z",
-          "wordCount": 12617,
-          "title": "Just Like Windows: Linux Targeted by First-Ever Bootkit - BankInfoSecurity.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivgFBVV95cUxOODc1ZUJST2Q0dHZOV0ExNjZ3MzlldHh2bVk4aXhtdUZuSEdkM29MMEFkN1A2VlFMUFNQODZjNGJVRnVNdW04SFU5X21kNHRLU21iM2pUY2NOUGsxZE1tXzZUM2VqTWpkSFFpTkpJVVoxdFVTNUZKb2RhelZlTDZrSUI4ZE9pbmM0QkxqRVppVWNnZVpHRGdTeXozTGVnalFHVFdmcURFZ19TTTVoTjl0TGRkejdZRklrQ2lYVkF3",
-          "author": null,
-          "description": "Ubuntu-based elementary OS 8 launches with new dock, refined security, and more  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODc1ZUJST2Q0dHZOV0ExNjZ3MzlldHh2bVk4aXhtdUZuSEdkM29MMEFkN1A2VlFMUFNQODZjNGJVRnVNdW04SFU5X21kNHRLU21iM2pUY2NOUGsxZE1tXzZUM2VqTWpkSFFpTkpJVVoxdFVTNUZKb2RhelZlTDZrSUI4ZE9pbmM0QkxqRVppVWNnZVpHRGdTeXozTGVnalFHVFdmcURFZ19TTTVoTjl0TGRkejdZRklrQ2lYVkF3?oc=5",
-          "publishedOn": "2024-11-28T18:01:00.000Z",
-          "wordCount": 12612,
-          "title": "Ubuntu-based elementary OS 8 launches with new dock, refined security, and more - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib0FVX3lxTE1UUjJieGhkR2tJWGVVZmVPaFJmUzhIbUpOZktJOTBsc2FjT0RnZVFFYmFaVE12Qy14bG9abHNvVEtpMnRFMzlaRlhHVUFtNzBmSWZnQzI2Uk40SUxfa09FelNHSTUzbkFHWmVONHU5RQ",
-          "author": null,
-          "description": "Windows 11 needs to change, or it will lose PC gaming to Linux forever  PCGamesN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UUjJieGhkR2tJWGVVZmVPaFJmUzhIbUpOZktJOTBsc2FjT0RnZVFFYmFaVE12Qy14bG9abHNvVEtpMnRFMzlaRlhHVUFtNzBmSWZnQzI2Uk40SUxfa09FelNHSTUzbkFHWmVONHU5RQ?oc=5",
-          "publishedOn": "2024-11-28T15:09:09.000Z",
-          "wordCount": 12617,
-          "title": "Windows 11 needs to change, or it will lose PC gaming to Linux forever - PCGamesN",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9717,16 +9607,6 @@
           "wordCount": 10605,
           "title": "How to Create a Minimal API in .NET Core – A Step By Step Handbook",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733158500882/9af04a12-2121-4efd-a66f-00330896e358.png"
-        },
-        {
-          "id": "67488780f60a357b6cecd459",
-          "author": "Adekola Olawale",
-          "description": "In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...",
-          "link": "https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/",
-          "publishedOn": "2024-11-28T15:08:48.000Z",
-          "wordCount": 31747,
-          "title": "The Microservices Book – Learn How to Build and Manage Services in the Cloud",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732028836710/aedce669-1e41-4bb1-8619-6994ed741b5c.png"
         }
       ]
     }
