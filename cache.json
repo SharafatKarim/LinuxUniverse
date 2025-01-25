@@ -29,6 +29,56 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196653",
+          "author": "Content Operations",
+          "description": "In this guide, we will explain different methods to change directories and list files in one command using Fish Shell on Linux.\nThe post How To Change Directory And List Files In One Command In Fish Shell appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-change-directory-and-list-files-in-one-command-in-fish-shell/",
+          "publishedOn": "2025-01-24T18:23:26.000Z",
+          "wordCount": 10538,
+          "title": "How To Change Directory And List Files In One Command In Fish Shell",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196485",
+          "author": "Content Operations",
+          "description": "Neo4j is a high-performance graph database management system for graph storage, data science, ML, analytics, and visualization. In this tutorial, we'll show you step-by-step instructions on installing and using the Neo4j Graph Database on the Debian 12 server.\nThe post How to Install and Use Neo4j Graph Database on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-and-use-neo4j-graph-database-on-debian-12/",
+          "publishedOn": "2025-01-24T16:40:09.000Z",
+          "wordCount": 10572,
+          "title": "How to Install and Use Neo4j Graph Database on Debian 12",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196484",
+          "author": "Content Operations",
+          "description": "Odoo (formerly known as OpenERP) is a self-hosted suite of over 10,000 open Odoo is a free and open-source ERP solution for multiple types of businesses. In this tutorial, you will install the Odoo open-source ERP on the Ubuntu 24.04 server.\nThe post How to Install Odoo ERP Software on Ubuntu 24.04 Server appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-odoo-erp-software-on-ubuntu-24-04-server/",
+          "publishedOn": "2025-01-24T15:40:07.000Z",
+          "wordCount": 10574,
+          "title": "How to Install Odoo ERP Software on Ubuntu 24.04 Server",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196481",
+          "author": "Content Operations",
+          "description": "Learn about the /proc/cpuinfo file in Linux, the different sections inside it, more about its flags, and how to use it to write shell scripts.\nThe post Understanding the /proc/cpuinfo File in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/understanding-the-proc-cpuinfo-file-in-linux/",
+          "publishedOn": "2025-01-24T14:40:03.000Z",
+          "wordCount": 10527,
+          "title": "Understanding the /proc/cpuinfo File in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196480",
+          "author": "Content Operations",
+          "description": "Discover a step-by-step guide to install Ryujinx Emuator on Ubuntu and other Linux distributions with practical usage examples.\nThe post How to install the Ryujinx Emulator on Ubuntu and Other Distros appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-the-ryujinx-emulator-on-ubuntu-and-other-distros/",
+          "publishedOn": "2025-01-24T13:40:02.000Z",
+          "wordCount": 10532,
+          "title": "How to install the Ryujinx Emulator on Ubuntu and Other Distros",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=196671",
           "author": "Content Operations",
           "description": "One of the popular forum software NodeBB, is joining the fediverse. Starting with NodeBB v4.0.0, federation is a core feature.\nThe post Opensource Forum Software NodeBB Joins the Fediverse appeared first on Linux Today.",
@@ -1557,116 +1607,6 @@
           "wordCount": 10589,
           "title": "Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195789",
-          "author": "Content Operations",
-          "description": "AI-generated code is vulnerable to attack. Craig McLuckie, co-creator of Kubernetes, shared news about his company's newly open sourced project, a locally hosted layer of security for AI workflows.\nThe post CodeGate: Open Source Tool Secures AI Coding Assistants appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/codegate-open-source-tool-secures-ai-coding-assistants/",
-          "publishedOn": "2024-12-26T13:00:48.000Z",
-          "wordCount": 10543,
-          "title": "CodeGate: Open Source Tool Secures AI Coding Assistants",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195795",
-          "author": "Content Operations",
-          "description": "4MLinux 47.0 is here almost four months after 4MLinux 46.0 with support for installing the distro on virtual KVM (Kernel-based Virtual Machine) block devices (e.g. /dev/vda1, /dev/vda2, etc.), as well as support for hundreds of old image formats via RECOIL (Retro Computer Image Library) with its GIMP plugin.\nThe post 4MLinux 47.0 Released with Installation Support for Virtual (KVM) Block Devices appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/4mlinux-47-0-released-with-installation-support-for-virtual-kvm-block-devices/",
-          "publishedOn": "2024-12-26T12:38:27.000Z",
-          "wordCount": 10587,
-          "title": "4MLinux 47.0 Released with Installation Support for Virtual (KVM) Block Devices",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195793",
-          "author": "Content Operations",
-          "description": "DietPi is a lightweight Debian based Linux distribution for SBCs and server systems, with the option to install desktop environments, too. The project released the new version DietPi v9.9 on December 23th, 2024.\nThe post DietPi released a new version 9.9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/dietpi-released-a-new-version-9-9/",
-          "publishedOn": "2024-12-26T12:36:27.000Z",
-          "wordCount": 10663,
-          "title": "DietPi released a new version 9.9",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195792",
-          "author": "Content Operations",
-          "description": "FreshRSS 1.25 self-hosted RSS feed aggregator, now requiring PHP 8.1+, brings advanced regex searches, new article policies, UI updates, and more.\nThe post FreshRSS 1.25: Enhanced UI, Improved Search, and Better Database Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/freshrss-1-25-enhanced-ui-improved-search-and-better-database-support/",
-          "publishedOn": "2024-12-26T12:29:11.000Z",
-          "wordCount": 10528,
-          "title": "FreshRSS 1.25: Enhanced UI, Improved Search, and Better Database Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195788",
-          "author": "Content Operations",
-          "description": "Dubbed “Shine on…”, powered by the latest Linux 6.12 LTS kernel series, and synced with the Debian Sid (Unstable) repositories as of December 23rd, 2024, siduction 2024.1.0 ships with the KDE Plasma 6.2, the recently released Xfce 4.20, and the LXQt 2.1 desktop environments.\nThe post siduction Linux 2024.1.0 Released with Xfce 4.20, KDE Plasma 6.2, and LXQt 2.1 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/siduction-linux-2024-1-0-released-with-xfce-4-20-kde-plasma-6-2-and-lxqt-2-1/",
-          "publishedOn": "2024-12-26T12:27:48.000Z",
-          "wordCount": 10574,
-          "title": "siduction Linux 2024.1.0 Released with Xfce 4.20, KDE Plasma 6.2, and LXQt 2.1",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195708",
-          "author": "Content Operations",
-          "description": "Discover a step-by-step guide to list all the open ports in your system and stop the services responsible for managing them.\nThe post List All Open Ports and Stop the Services Behind Them appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/list-all-open-ports-and-stop-the-services-behind-them/",
-          "publishedOn": "2024-12-25T19:24:02.000Z",
-          "wordCount": 10527,
-          "title": "List All Open Ports and Stop the Services Behind Them",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195709",
-          "author": "Content Operations",
-          "description": "Discover an amazing free and open-source cross-platform GUI front-end of FFmpeg for basic editing tasks on your laptop or desktop with fewer system resources.\nThe post LosslessCut: A GUI Front-End for FFmpeg for Audio/Video Editing appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/losslesscut-a-gui-front-end-for-ffmpeg-for-audio-video-editing/",
-          "publishedOn": "2024-12-25T18:24:04.000Z",
-          "wordCount": 10530,
-          "title": "LosslessCut: A GUI Front-End for FFmpeg for Audio/Video Editing",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195710",
-          "author": "Content Operations",
-          "description": "Restic is a fast, secure, and easy-to-use backup tool that supports encryption and deduplication. It allows you to back up your data to various storage locations, such as local drives, network shares, or cloud services such as Amazon S3, Google Cloud Storage, and Backblaze B2.\nThe post How to Set Up and Use Restic for Linux Backups appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-set-up-and-use-restic-for-linux-backups/",
-          "publishedOn": "2024-12-25T17:24:05.000Z",
-          "wordCount": 10621,
-          "title": "How to Set Up and Use Restic for Linux Backups",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195711",
-          "author": "Content Operations",
-          "description": "Evilginx is an open-source man-in-the-middle attack framework designed to phish login credentials and session cookies, enabling attackers to bypass 2FA safeguards. The author of Evilginx emphasizes that the project demonstrates the techniques skilled attackers may employ. The author asserts that it is the responsibility of defenders to consider such threats and develop strategies to protect users from these types of phishing attacks. \nThe post Evilginx: Open-source man-in-the-middle attack framework appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/evilginx-open-source-man-in-the-middle-attack-framework/",
-          "publishedOn": "2024-12-25T16:24:07.000Z",
-          "wordCount": 10591,
-          "title": "Evilginx: Open-source man-in-the-middle attack framework",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195712",
-          "author": "Content Operations",
-          "description": "In this article, we will guide you through the process of syncing your web server with a backup server using rsync. We will also set up passwordless login to automate the synchronization process using cron for scheduled backups.\nThe post How to Sync Two Web Servers Using Rsync appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-sync-two-web-servers-using-rsync/",
-          "publishedOn": "2024-12-25T15:24:09.000Z",
-          "wordCount": 10623,
-          "title": "How to Sync Two Web Servers Using Rsync",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195464",
-          "author": "Content Operations",
-          "description": "The purpose of this article is to list the finest open source lightweight frameworks to kick start CSS and HTML projects. They help to save precious time by saving designers from writing base CSS styles, and solving problematic layout issues.\nThe post 10 Best Free and Open Source Lightweight Front-End Frameworks appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/10-best-free-and-open-source-lightweight-front-end-frameworks/",
-          "publishedOn": "2024-12-25T14:19:17.000Z",
-          "wordCount": 10567,
-          "title": "10 Best Free and Open Source Lightweight Front-End Frameworks",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1675,6 +1615,126 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMihAFBVV95cUxQNVlqOEZHLU1qYmh5LWk0WDI2aWVyQlAtWTVybEhYMFJFUVpIX1dYc1VyMG9QNmR1NUo4T0ZZZEd5elgteXM2ZlRJdXpfZ0R0cXJFY21qQlF4bGNhRmRVYkJPX1ROWkJWYVBZd1RoTHZZZS1rSDlzMjM2NXFHUThUcXVMYkY",
+          "author": null,
+          "description": "How to use the Whereis command  Network World",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVlqOEZHLU1qYmh5LWk0WDI2aWVyQlAtWTVybEhYMFJFUVpIX1dYc1VyMG9QNmR1NUo4T0ZZZEd5elgteXM2ZlRJdXpfZ0R0cXJFY21qQlF4bGNhRmRVYkJPX1ROWkJWYVBZd1RoTHZZZS1rSDlzMjM2NXFHUThUcXVMYkY?oc=5",
+          "publishedOn": "2025-01-24T21:29:35.000Z",
+          "wordCount": 12563,
+          "title": "How to use the Whereis command - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxPZ3VWWUFNaEVMeC1Md3hwc0Q5STBDcXRGZjZ6NnJmaTd6SFpzMktBQmtjaHdsR0VHRGtrY1c5UmdzUTJhRGYySDVYTUIzMXB0cEpoWC1jSGFCckRsZUh2S3pfOVRMNURiWHlVWDNqTzBqaDhWWDNoZWs3dHM5bnMxb3g2NzdwYXQ3dnFBVDAwd1luVDhSWDVLVE1uTVhtc2ZfSGtVbA",
+          "author": null,
+          "description": "How to create infinite loops in the Linux command line  Network World",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3VWWUFNaEVMeC1Md3hwc0Q5STBDcXRGZjZ6NnJmaTd6SFpzMktBQmtjaHdsR0VHRGtrY1c5UmdzUTJhRGYySDVYTUIzMXB0cEpoWC1jSGFCckRsZUh2S3pfOVRMNURiWHlVWDNqTzBqaDhWWDNoZWs3dHM5bnMxb3g2NzdwYXQ3dnFBVDAwd1luVDhSWDVLVE1uTVhtc2ZfSGtVbA?oc=5",
+          "publishedOn": "2025-01-24T21:07:30.000Z",
+          "wordCount": 12563,
+          "title": "How to create infinite loops in the Linux command line - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTFBPYnpWcDFhWV9zX21EV0t0UWpYXzR0T3pJLXJjSlBXTjU4NWRuZWM2bTRndmltSnVtb2JGR0RWVzdpdlVHZi1lNHZvcElMeGtCSGktV2NwU2RDeTJGbFBGYVB2R3dtNXVR0gFuQVVfeXFMUEhyTFl5cVNZcUhSbDhfc2Z1MkFtRHdUMnB2ZHdDY09jNzJ0SlUyU0JtZmM1cXZWMEkzRzh2bjJpMFV6T3hiaFVkYy01XzV2MElzR19qY2paOG1mSEFlTGdwZERDWmRRMS1vdWVNWnc",
+          "author": null,
+          "description": "Linux rolls out the welcome mat for Microsoft's Copilot key  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPYnpWcDFhWV9zX21EV0t0UWpYXzR0T3pJLXJjSlBXTjU4NWRuZWM2bTRndmltSnVtb2JGR0RWVzdpdlVHZi1lNHZvcElMeGtCSGktV2NwU2RDeTJGbFBGYVB2R3dtNXVR0gFuQVVfeXFMUEhyTFl5cVNZcUhSbDhfc2Z1MkFtRHdUMnB2ZHdDY09jNzJ0SlUyU0JtZmM1cXZWMEkzRzh2bjJpMFV6T3hiaFVkYy01XzV2MElzR19qY2paOG1mSEFlTGdwZERDWmRRMS1vdWVNWnc?oc=5",
+          "publishedOn": "2025-01-24T19:35:00.000Z",
+          "wordCount": 12563,
+          "title": "Linux rolls out the welcome mat for Microsoft's Copilot key - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE9WbUdqR0RHaC1fUjg2WFlCdGhrbUVoQVgtSFhCUmJiWkNzQk85VVpqQWd2Yk5pNnJRRWFiUlhfUl90RnZ2dV9xWER5WXk1dFZVVXByLVdTMXY",
+          "author": null,
+          "description": "Linux 6.14 Adds Support For Blaize BLZP1600, SpacemiT K1 & Snapdragon 8 Elite SoCs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WbUdqR0RHaC1fUjg2WFlCdGhrbUVoQVgtSFhCUmJiWkNzQk85VVpqQWd2Yk5pNnJRRWFiUlhfUl90RnZ2dV9xWER5WXk1dFZVVXByLVdTMXY?oc=5",
+          "publishedOn": "2025-01-24T18:52:00.000Z",
+          "wordCount": 12563,
+          "title": "Linux 6.14 Adds Support For Blaize BLZP1600, SpacemiT K1 & Snapdragon 8 Elite SoCs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE9fZEtMLTVlanVacmNYMFpFRmF3dWQ3cEVYSDk2MV9XZURra21uN1MtdUs4dzgyVlpFSUUzNjVrNjJrUzZRbUJSNUhBUXJMeThYUk5nczlyZGZlSFIxOEZOS0lmanJSRDdrY3dSbVBaU0XSAXZBVV95cUxORk1rOUFobDF1b3Z1Z1ZHYUt2cTFrZXJtOTFiUHU1d1kyYmE0bVhXNUdiZWFlS3VOY3IybVB5MXdCUWtDRW1fWEs5MXpMZXMxV09RYkFWdFNnaGdCTE4tME85LWV1QTUtSVZ6VHRBQmk5UUNHOVhR",
+          "author": null,
+          "description": "Ubuntu 24.04.2 Arrives Feb 13 with Linux Kernel 6.11  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZEtMLTVlanVacmNYMFpFRmF3dWQ3cEVYSDk2MV9XZURra21uN1MtdUs4dzgyVlpFSUUzNjVrNjJrUzZRbUJSNUhBUXJMeThYUk5nczlyZGZlSFIxOEZOS0lmanJSRDdrY3dSbVBaU0XSAXZBVV95cUxORk1rOUFobDF1b3Z1Z1ZHYUt2cTFrZXJtOTFiUHU1d1kyYmE0bVhXNUdiZWFlS3VOY3IybVB5MXdCUWtDRW1fWEs5MXpMZXMxV09RYkFWdFNnaGdCTE4tME85LWV1QTUtSVZ6VHRBQmk5UUNHOVhR?oc=5",
+          "publishedOn": "2025-01-24T16:38:20.000Z",
+          "wordCount": 12563,
+          "title": "Ubuntu 24.04.2 Arrives Feb 13 with Linux Kernel 6.11 - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibEFVX3lxTFBkNS1zZnhJOTdQQTZheE9qLTdoYWoweC1EbEIxNFlJRWo2Rml4WFZnTElZZEYyMjBRaFFRLVBSZF9UWGp5Y2NMX2JmZTdHbnJULW56N2RBaTNDR3M4S1ozWEFYSmhudzRKVVpfQw",
+          "author": null,
+          "description": "NVIDIA GeForce RTX 5090 Linux GPU Compute Performance Benchmarks Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkNS1zZnhJOTdQQTZheE9qLTdoYWoweC1EbEIxNFlJRWo2Rml4WFZnTElZZEYyMjBRaFFRLVBSZF9UWGp5Y2NMX2JmZTdHbnJULW56N2RBaTNDR3M4S1ozWEFYSmhudzRKVVpfQw?oc=5",
+          "publishedOn": "2025-01-24T16:36:00.000Z",
+          "wordCount": 12563,
+          "title": "NVIDIA GeForce RTX 5090 Linux GPU Compute Performance Benchmarks Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTFAxTHpycVhzZ0xWTkpSTDVqeTYzTnFqdzJ3YXEtN3I1YkRwMmpzVGZjVTQ2M1VQNTdvNjVoeTJXSExMazlodDRGQ0I2UFBTR0lFcnVONXdtWE52U25OWGpxMTczUWhvS0FPUlE",
+          "author": null,
+          "description": "Linux 6.14 Delivering Better Read Performance For CIFS  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxTHpycVhzZ0xWTkpSTDVqeTYzTnFqdzJ3YXEtN3I1YkRwMmpzVGZjVTQ2M1VQNTdvNjVoeTJXSExMazlodDRGQ0I2UFBTR0lFcnVONXdtWE52U25OWGpxMTczUWhvS0FPUlE?oc=5",
+          "publishedOn": "2025-01-24T13:57:00.000Z",
+          "wordCount": 12563,
+          "title": "Linux 6.14 Delivering Better Read Performance For CIFS - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixwFBVV95cUxOLXhwc0tKV2JyT1dxTHp5cVRlTDcwM0lrc0ZzOFlZNlU0dTNnaWExd0MtbFlxRngxM3dkYlNPN3RUN1hDWDZRRS1Rd1lEX2ZPbC00RHA3VUhfV2RKaWJqSGdsMEtVdmhEM3U5anJjeXlpc2h3WXlVMzhaVlVaZDhfbzRaTEYtRDZjMzBEMFBkUWxWcFF2a0YyNE5YWi1VMlppd3dUY2lfUjRHSkgwRGNublhaMlhqZm90eF9ERG8tY09JVTl4SDln",
+          "author": null,
+          "description": "Games to claim from Prime Gaming, Jan 24 edition round-up for SteamOS Linux and Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLXhwc0tKV2JyT1dxTHp5cVRlTDcwM0lrc0ZzOFlZNlU0dTNnaWExd0MtbFlxRngxM3dkYlNPN3RUN1hDWDZRRS1Rd1lEX2ZPbC00RHA3VUhfV2RKaWJqSGdsMEtVdmhEM3U5anJjeXlpc2h3WXlVMzhaVlVaZDhfbzRaTEYtRDZjMzBEMFBkUWxWcFF2a0YyNE5YWi1VMlppd3dUY2lfUjRHSkgwRGNublhaMlhqZm90eF9ERG8tY09JVTl4SDln?oc=5",
+          "publishedOn": "2025-01-24T12:18:48.000Z",
+          "wordCount": 12563,
+          "title": "Games to claim from Prime Gaming, Jan 24 edition round-up for SteamOS Linux and Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE1Ia1hHV2JlSVdzMkNPRGxTeHBXMzVOc2thOVdZd3Z5UnFBX3FBTWU1cjNmYlc1dDdvc3NzMVRtTEQ1ZnhoemRQbm9nbUVEcUJuWDdRZHV1V3JPUUdwT2VTRmF4VG9UUQ",
+          "author": null,
+          "description": "Don't Miss Out The Linux Foundation Certification Deal Before The Price Hike!  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ia1hHV2JlSVdzMkNPRGxTeHBXMzVOc2thOVdZd3Z5UnFBX3FBTWU1cjNmYlc1dDdvc3NzMVRtTEQ1ZnhoemRQbm9nbUVEcUJuWDdRZHV1V3JPUUdwT2VTRmF4VG9UUQ?oc=5",
+          "publishedOn": "2025-01-24T11:44:23.000Z",
+          "wordCount": 12563,
+          "title": "Don't Miss Out The Linux Foundation Certification Deal Before The Price Hike! - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi0wFBVV95cUxNR2gteUJZNkJOY1YyZGJ0Y3pTaHh2eXlYTU9vMEhYRzl3cW9CN0lxU2FCd0xUMUFxLWlobGJtYjE3ZUwtRDRiaTRIajFDM0JKeU5iLTdwZy1fbnV2ZFNiOU5XMnlIZFhqaXQ4bGNfUERTWTVZVEhJSTVodkdqY2FDVTQ1cDFpRng5Ml9yaEhWQ3o2QmZUTWV1N2tJQ3hiUnk0SEVFUTJiNGJKS2ZVRWluVTJvWkZSQU9Ba2w3d3NRWmFBYlhlNnBXaVg0dWlSRGtHQnVR",
+          "author": null,
+          "description": "FINAL FANTASY VII REBIRTH broken on Linux with NVIDIA GPUs but works with AMD GPUs like Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR2gteUJZNkJOY1YyZGJ0Y3pTaHh2eXlYTU9vMEhYRzl3cW9CN0lxU2FCd0xUMUFxLWlobGJtYjE3ZUwtRDRiaTRIajFDM0JKeU5iLTdwZy1fbnV2ZFNiOU5XMnlIZFhqaXQ4bGNfUERTWTVZVEhJSTVodkdqY2FDVTQ1cDFpRng5Ml9yaEhWQ3o2QmZUTWV1N2tJQ3hiUnk0SEVFUTJiNGJKS2ZVRWluVTJvWkZSQU9Ba2w3d3NRWmFBYlhlNnBXaVg0dWlSRGtHQnVR?oc=5",
+          "publishedOn": "2025-01-24T10:38:04.000Z",
+          "wordCount": 12563,
+          "title": "FINAL FANTASY VII REBIRTH broken on Linux with NVIDIA GPUs but works with AMD GPUs like Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisgFBVV95cUxPc2NRVlM2eXJJcWNNR3VHOTZmaGxDc2ZXNHBhek9DWEE3eEJEeDVLWDk4MjZpNkVaSXg4Z0d4eWMxUWZrUjIzcHRPUU9QaDV2N3JqZjMzM3dnLXlFcmJmbjRDWFg0TzJJOVFsNnhfUnRmOC02dXNxNDFIb0xMUXFnU2xYbzFyUDgyRGNSZ0xQUjZhNHhza1dNQ0NQRzBSUXE2WFgxelVVbXZST05lSVc3Mldn",
+          "author": null,
+          "description": "Proton Hotfix updated to get THE FINALS working again on Linux / Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2NRVlM2eXJJcWNNR3VHOTZmaGxDc2ZXNHBhek9DWEE3eEJEeDVLWDk4MjZpNkVaSXg4Z0d4eWMxUWZrUjIzcHRPUU9QaDV2N3JqZjMzM3dnLXlFcmJmbjRDWFg0TzJJOVFsNnhfUnRmOC02dXNxNDFIb0xMUXFnU2xYbzFyUDgyRGNSZ0xQUjZhNHhza1dNQ0NQRzBSUXE2WFgxelVVbXZST05lSVc3Mldn?oc=5",
+          "publishedOn": "2025-01-24T10:23:39.000Z",
+          "wordCount": 12563,
+          "title": "Proton Hotfix updated to get THE FINALS working again on Linux / Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTFBfeVVXX2x4TFpELUh2T1VqZDVqTFJtT2hlbGdVOTJpWTlBQktQU0czZ0l2R0NtekhFeFZ4SkFNMjI4eEd4SUFlWk90dUJVM3N3RTBFZDlmOEJDMjAy",
+          "author": null,
+          "description": "Oracle Linux 10 Developer Preview Released With UEK-Next Based On Linux 6.12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfeVVXX2x4TFpELUh2T1VqZDVqTFJtT2hlbGdVOTJpWTlBQktQU0czZ0l2R0NtekhFeFZ4SkFNMjI4eEd4SUFlWk90dUJVM3N3RTBFZDlmOEJDMjAy?oc=5",
+          "publishedOn": "2025-01-24T01:33:00.000Z",
+          "wordCount": 12563,
+          "title": "Oracle Linux 10 Developer Preview Released With UEK-Next Based On Linux 6.12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMieEFVX3lxTFBLLUZhMl9EU3ZMY0poQ3oxYlVZMkJaRlVfTnA3UTNlZzN4bWpIYnhldjBvX2ZuTExkcW5wLVBXVEZKS3I1emQxOWk1X1pEZ2R3ZWRIWUVyaldscnE4Yk5YNFZrSkRXbEV4Tjk5ejh3U2RHN1h1aFByYg",
           "author": null,
@@ -1833,6 +1893,16 @@
           "publishedOn": "2025-01-23T11:08:00.000Z",
           "wordCount": 12563,
           "title": "Linux kernel 6.13 is out now - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic0FVX3lxTE5oWlRfTFdDWkJCMjBLOHFBNXpaYkdRQnJ0UURsUURWaURsMHlmNkRLLS0zTEZCMXp6Yl9PREtfOVFVOHNTZ2RtVHpld2syZFRYTzIxbmJ4QmExbzFsUFJQZGFKWUNGb0RaY0lITWtUbDd5c1HSAXhBVV95cUxOcUlMWno0SXBNdHFIN05UWFZKT0ZPSEg3eXJ2Y0N2TTBtRWZMYklVelJsM3lVNWN3RDBtQmFzLW02TTk0Y3l4c0d3a203eVdfa3VQWEhxNzZwSWdPajJTWGpiRDhXcDZtaDBOcXFIalRJT3VSdDhMV1A",
+          "author": null,
+          "description": "OpenZFS 2.3 is here, with RAID expansion and faster dedup  The Register",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oWlRfTFdDWkJCMjBLOHFBNXpaYkdRQnJ0UURsUURWaURsMHlmNkRLLS0zTEZCMXp6Yl9PREtfOVFVOHNTZ2RtVHpld2syZFRYTzIxbmJ4QmExbzFsUFJQZGFKWUNGb0RaY0lITWtUbDd5c1HSAXhBVV95cUxOcUlMWno0SXBNdHFIN05UWFZKT0ZPSEg3eXJ2Y0N2TTBtRWZMYklVelJsM3lVNWN3RDBtQmFzLW02TTk0Y3l4c0d3a203eVdfa3VQWEhxNzZwSWdPajJTWGpiRDhXcDZtaDBOcXFIalRJT3VSdDhMV1A?oc=5",
+          "publishedOn": "2025-01-23T11:05:00.000Z",
+          "wordCount": 12563,
+          "title": "OpenZFS 2.3 is here, with RAID expansion and faster dedup - The Register",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2033,6 +2103,16 @@
           "publishedOn": "2025-01-22T12:06:00.000Z",
           "wordCount": 12563,
           "title": "This lightweight Linux distro is the easiest way to revive your old computer. How it works - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU0FVX3lxTE5lcVdNalBnZnVoRHhaTXZNVHJGbTJXbWpfM0IxbXFvYU50M2FPRHpHSTJialNPSjItZFlZWWRjSVlzenlwSXA1TXdsWGVNSnRCaXhV",
+          "author": null,
+          "description": "Wine 10.0 Arrives With Powerful Upgrades  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lcVdNalBnZnVoRHhaTXZNVHJGbTJXbWpfM0IxbXFvYU50M2FPRHpHSTJialNPSjItZFlZWWRjSVlzenlwSXA1TXdsWGVNSnRCaXhV?oc=5",
+          "publishedOn": "2025-01-22T11:48:45.000Z",
+          "wordCount": 12563,
+          "title": "Wine 10.0 Arrives With Powerful Upgrades - It's FOSS News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5964,96 +6044,6 @@
           "wordCount": 12580,
           "title": "Intel Linux Performance Optimizations & Intel's Other Open-Source Wins From 2024 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTE5nQlhEdVBVOVdDQkJUVXNjZnV6bFo0UDhMV2lsbm1WR1UwWjl4czJaRGViMUxRUXByajMtcDNTNnQ0UjlwcmFNUjF0VWtvSkhxVFBpMmZuRzZQS0Q1bTBn",
-          "author": null,
-          "description": "Serpent OS Gets an Alpha Release Right Before 2024 Ends  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQlhEdVBVOVdDQkJUVXNjZnV6bFo0UDhMV2lsbm1WR1UwWjl4czJaRGViMUxRUXByajMtcDNTNnQ0UjlwcmFNUjF0VWtvSkhxVFBpMmZuRzZQS0Q1bTBn?oc=5",
-          "publishedOn": "2024-12-26T12:56:44.000Z",
-          "wordCount": 12580,
-          "title": "Serpent OS Gets an Alpha Release Right Before 2024 Ends - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifEFVX3lxTE9Sa0gzTldvUDRLVkdoTVFqMldPcVlaY1B3eV82blhpT1ZQdGxfSUdnVHBZTDdldWNUQVo5RDljY3hYaVZpdkN5aTRJdHlDdF9oZi1EWjQ3NW5NakRsandhLXBySFF4VS1QOUZ3ZlNSQ1BzQ05PTDNHVGo4bVY",
-          "author": null,
-          "description": "Linux Mint vs. Ubuntu: How Different Are They, Really?  Yahoo! Voices",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sa0gzTldvUDRLVkdoTVFqMldPcVlaY1B3eV82blhpT1ZQdGxfSUdnVHBZTDdldWNUQVo5RDljY3hYaVZpdkN5aTRJdHlDdF9oZi1EWjQ3NW5NakRsandhLXBySFF4VS1QOUZ3ZlNSQ1BzQ05PTDNHVGo4bVY?oc=5",
-          "publishedOn": "2024-12-26T12:00:16.000Z",
-          "wordCount": 12580,
-          "title": "Linux Mint vs. Ubuntu: How Different Are They, Really? - Yahoo! Voices",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTE80d2Mwc0pGejYxZmdfQmVFekc3emplaWtOcHZZeFlmX0NVeXNfcmtYM2FEa2FGblcybFFYNWRDa19BY2Z0ajdIT1F3RnRuMVhmWV9yMW9ZQXVXYkk",
-          "author": null,
-          "description": "Linux Mint vs. Ubuntu: How Different Are They, Really?  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80d2Mwc0pGejYxZmdfQmVFekc3emplaWtOcHZZeFlmX0NVeXNfcmtYM2FEa2FGblcybFFYNWRDa19BY2Z0ajdIT1F3RnRuMVhmWV9yMW9ZQXVXYkk?oc=5",
-          "publishedOn": "2024-12-26T12:00:00.000Z",
-          "wordCount": 12580,
-          "title": "Linux Mint vs. Ubuntu: How Different Are They, Really? - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTFBnZUt6Vk5PUHF6YVN6N1p4X1RFNnVJMFlndkJrN1l4SGszOUpVRTNoWGpOOGVkRlNaUVAxX2xJX2ZaYWJsMzR5c1dIZkhhTW1ad2ViNVplbGpsVktHQzhxYlBXeDIwRVVSbmc",
-          "author": null,
-          "description": "AMD Ryzen PCs May See More Power Savings Out-Of-The-Box With Linux 6.14  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZUt6Vk5PUHF6YVN6N1p4X1RFNnVJMFlndkJrN1l4SGszOUpVRTNoWGpOOGVkRlNaUVAxX2xJX2ZaYWJsMzR5c1dIZkhhTW1ad2ViNVplbGpsVktHQzhxYlBXeDIwRVVSbmc?oc=5",
-          "publishedOn": "2024-12-26T11:55:00.000Z",
-          "wordCount": 12580,
-          "title": "AMD Ryzen PCs May See More Power Savings Out-Of-The-Box With Linux 6.14 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXkFVX3lxTE1aX19DYTlwNFUyNkxNWVhPTUpsQnFfcEhlRExUQ0ZWeDJwQzZ4OXAtb3VZYXA5cWVITjVIeVlvVGhHMTBWakZXUV9vQlpzSjE5Uk1qdE52dHdYTXhOcHc",
-          "author": null,
-          "description": "FOSS Weekly #24.52: Holiday Special Tuxmas Days  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aX19DYTlwNFUyNkxNWVhPTUpsQnFfcEhlRExUQ0ZWeDJwQzZ4OXAtb3VZYXA5cWVITjVIeVlvVGhHMTBWakZXUV9vQlpzSjE5Uk1qdE52dHdYTXhOcHc?oc=5",
-          "publishedOn": "2024-12-26T11:34:12.000Z",
-          "wordCount": 12580,
-          "title": "FOSS Weekly #24.52: Holiday Special Tuxmas Days - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVEFVX3lxTE5vTW9iaEY0bTllSHVtbjVLbVFQVlNBWVZJWlFWTnc4TTQwZGVIWUtkaXBHZzVrel90SnVYY1JOQzhRR1dJOEFIaHpfeGpXYW1qSzR0NA",
-          "author": null,
-          "description": "9 Major Annoyances With Linux That Look Like a Thing of the Past in 2025  It's FOSS",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vTW9iaEY0bTllSHVtbjVLbVFQVlNBWVZJWlFWTnc4TTQwZGVIWUtkaXBHZzVrel90SnVYY1JOQzhRR1dJOEFIaHpfeGpXYW1qSzR0NA?oc=5",
-          "publishedOn": "2024-12-26T10:12:50.000Z",
-          "wordCount": 12580,
-          "title": "9 Major Annoyances With Linux That Look Like a Thing of the Past in 2025 - It's FOSS",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaEFVX3lxTE9VQ3JhRjBVTEc2Q090U0xMMVB6OWM5Sl8yVjFZbk1ud1RHYUtnTG15ZUN2cEJKRDJvTmpaYmZVZGhQZ2ZLVEQwcUdrN1dHYzBOQU9SRUpMdG9oVUlkNzZsbmE2aFZTN09i",
-          "author": null,
-          "description": "Linux RNDIS Removal Branch Updated For Disabling Microsoft RNDIS Protocol Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VQ3JhRjBVTEc2Q090U0xMMVB6OWM5Sl8yVjFZbk1ud1RHYUtnTG15ZUN2cEJKRDJvTmpaYmZVZGhQZ2ZLVEQwcUdrN1dHYzBOQU9SRUpMdG9oVUlkNzZsbmE2aFZTN09i?oc=5",
-          "publishedOn": "2024-12-25T17:33:00.000Z",
-          "wordCount": 12580,
-          "title": "Linux RNDIS Removal Branch Updated For Disabling Microsoft RNDIS Protocol Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxNdlRhRnkxOTVlazM3NFVqek5SbVNtSkU4N0MtaWVwVkEtbGN5X0tQc0NaWGNkR3ZKeWlMUWRJUVR5ZWdtSkdZQnRDRlVKc2o4aXVxQ3RVSWZXQTJvSDRoUS1iMWcxMWlPc2NSaUVrV2ZVOG5sTFVNcU5kN01fck12Q0UwTEwyNjZzMXcyenJn",
-          "author": null,
-          "description": "Nobara Linux Takes on Fedora With a Custom KDE Plasma Desktop  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlRhRnkxOTVlazM3NFVqek5SbVNtSkU4N0MtaWVwVkEtbGN5X0tQc0NaWGNkR3ZKeWlMUWRJUVR5ZWdtSkdZQnRDRlVKc2o4aXVxQ3RVSWZXQTJvSDRoUS1iMWcxMWlPc2NSaUVrV2ZVOG5sTFVNcU5kN01fck12Q0UwTEwyNjZzMXcyenJn?oc=5",
-          "publishedOn": "2024-12-25T17:05:43.000Z",
-          "wordCount": 12580,
-          "title": "Nobara Linux Takes on Fedora With a Custom KDE Plasma Desktop - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFBVV95cUxPMDEtYng0VXdDd0dLMDdLTEw3cXhQTi1haGtrazB1Ul9ZYWVCOFNTTXNhRmdxYm1FTm41dTVLc240YmRrZXQ4MUZ2eXVkdUxkT3oweG9HU0NQRlhJUF90YXVSUG1DamdHYjBydTV0SUlwUEtxQXR1SFpILVFDbmJ1aDVHNVBfdw",
-          "author": null,
-          "description": "What will 2025 bring for Linux PCs?  PCWorld",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDEtYng0VXdDd0dLMDdLTEw3cXhQTi1haGtrazB1Ul9ZYWVCOFNTTXNhRmdxYm1FTm41dTVLc240YmRrZXQ4MUZ2eXVkdUxkT3oweG9HU0NQRlhJUF90YXVSUG1DamdHYjBydTV0SUlwUEtxQXR1SFpILVFDbmJ1aDVHNVBfdw?oc=5",
-          "publishedOn": "2024-12-25T15:31:45.000Z",
-          "wordCount": 12580,
-          "title": "What will 2025 bring for Linux PCs? - PCWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8200,6 +8190,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383506",
+          "author": "Preethi",
+          "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
+          "publishedOn": "2025-01-24T14:59:25.000Z",
+          "wordCount": 2761,
+          "title": "Positioning Text Around Elements With CSS Offset",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
+        },
+        {
           "id": "https://css-tricks.com/?p=383776",
           "author": "Geoff Graham",
           "description": "I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …\nSome Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -8463,6 +8463,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6793a90ea69c4db6e76c194a",
+          "author": "Grant Riordan",
+          "description": "One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-collections-in-csharp/",
+          "publishedOn": "2025-01-24T14:51:58.000Z",
+          "wordCount": 3640,
+          "title": "How to Use Collections in C# – Lists, Arrays, Dictionaries, and More",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737729136643/4cc12d37-da1c-45f0-928f-fbe02d7fdf52.png"
+        },
+        {
+          "id": "6793a7b71b1cdac77474f13a",
+          "author": "valentine Gatwiri",
+          "description": "CodeIgniter is a popular open-source PHP framework you can use to build dynamic and robust web applications. It’s simple to use, fast, and flexible. This makes it a good option for any developer who wants to have a light yet powerful framework that w...",
+          "link": "https://www.freecodecamp.org/news/how-to-develop-with-codeigniter-on-ubuntu-environment-setup/",
+          "publishedOn": "2025-01-24T14:46:15.000Z",
+          "wordCount": 2429,
+          "title": "How to Develop with CodeIgniter on Ubuntu – Step-by-Step Environment Setup",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640002689/7c78cd9c-40ef-45b3-82f6-97bc33f713d7.png"
+        },
+        {
+          "id": "6793a775498f1e108e0ba05d",
+          "author": "Oluwatobi",
+          "description": "Over the years, applications and tools have become more complex to keep up with people’s changing requirements and expectations. But this can create issues of code compatibility and remote access. For example, a codebase that functions properly on Wi...",
+          "link": "https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/",
+          "publishedOn": "2025-01-24T14:45:09.000Z",
+          "wordCount": 3101,
+          "title": "How to Containerize a Node.js Application Using Docker – A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681497302/0540f730-f1c3-496c-bd47-912fdc95d468.png"
+        },
+        {
+          "id": "6793a744fc2bd29e0ece1253",
+          "author": "Kayode Adeniyi",
+          "description": "These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-granular-segmentation-with-feature-flags/",
+          "publishedOn": "2025-01-24T14:44:20.000Z",
+          "wordCount": 3253,
+          "title": "How to Use Granular Segmentation with Feature Flags",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681693640/2cd6aa99-94bf-48c6-b657-4cc0743312e3.png"
+        },
+        {
+          "id": "6792ea9437616d62ca07fe03",
+          "author": "Akande Olalekan Toheeb",
+          "description": "JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages. JavaScript was originally designed as a simple scripting language. Its loo...",
+          "link": "https://www.freecodecamp.org/news/start-learning-typescript-beginners-guide/",
+          "publishedOn": "2025-01-24T01:19:16.000Z",
+          "wordCount": 5549,
+          "title": "How to Start Learning TypeScript – A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681395105/19aeca8f-e763-4833-9ac3-5c4db7d12fe7.png"
+        },
         {
           "id": "67924b2d0a4e059db2a7577f",
           "author": "David Clinton",
