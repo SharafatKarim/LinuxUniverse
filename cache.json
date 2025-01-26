@@ -29,6 +29,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196711",
+          "author": "Content Operations",
+          "description": "In this article, you will learn how to enable AI-powered document editing on Ubuntu through the example of ONLYOFFICE Desktop Editors, an open-source office package for Linux, and GPT4All, an open-source platform designed to run local AI models.\nThe post AI Document Editing: Connect GPT4All to ONLYOFFICE on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/ai-document-editing-connect-gpt4all-to-onlyoffice-on-ubuntu/",
+          "publishedOn": "2025-01-25T14:38:04.000Z",
+          "wordCount": 10658,
+          "title": "AI Document Editing: Connect GPT4All to ONLYOFFICE on Ubuntu",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196709",
+          "author": "Content Operations",
+          "description": "Discover a step-by-step guide to install the latest version of NeoVim on your Ubuntu and other Linux distributions with multiple methods.\nThe post How to Install NeoVim on Ubuntu and Other Linux Distros appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-neovim-on-ubuntu-and-other-linux-distros/",
+          "publishedOn": "2025-01-25T13:38:00.000Z",
+          "wordCount": 10535,
+          "title": "How to Install NeoVim on Ubuntu and Other Linux Distros",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=196653",
           "author": "Content Operations",
           "description": "In this guide, we will explain different methods to change directories and list files in one command using Fish Shell on Linux.\nThe post How To Change Directory And List Files In One Command In Fish Shell appeared first on Linux Today.",
@@ -1547,66 +1567,6 @@
           "wordCount": 10541,
           "title": "How to Install FreshRSS with Docker: A Step-by-Step Guide",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195841",
-          "author": "Content Operations",
-          "description": "Stacklok’s new CodeGate software removes many of the pain points and security traps for those developing using AI tools.\nThe post StackLok Is Making Security ‘Boring’ for Open-Source AI-Assisted Devs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/stacklok-is-making-security-boring-for-open-source-ai-assisted-devs/",
-          "publishedOn": "2024-12-27T13:39:12.000Z",
-          "wordCount": 10530,
-          "title": "StackLok Is Making Security ‘Boring’ for Open-Source AI-Assisted Devs",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195799",
-          "author": "Content Operations",
-          "description": "Discover the biggest Linux updates, top FOSS breakthroughs, and community-driven innovations shaping the open-source landscape in 2024.\nThe post 2024 Recap: Linux & FOSS Ecosystem’s Highlights appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/2024-recap-linux-foss-ecosystems-highlights/",
-          "publishedOn": "2024-12-26T18:41:15.000Z",
-          "wordCount": 10516,
-          "title": "2024 Recap: Linux & FOSS Ecosystem’s Highlights",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195797",
-          "author": "Content Operations",
-          "description": "awk is a scripting language designed for text processing and data extraction, which reads input line by line, splits each line into fields, and allows you to perform operations on those fields. It’s commonly used for tasks like pattern matching, arithmetic calculations, and generating formatted reports.\nThe post How to Use awk to Perform Arithmetic Operations in Loops appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-use-awk-to-perform-arithmetic-operations-in-loops/",
-          "publishedOn": "2024-12-26T17:41:22.000Z",
-          "wordCount": 10585,
-          "title": "How to Use awk to Perform Arithmetic Operations in Loops",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195794",
-          "author": "Content Operations",
-          "description": "Parabolic is a Qt and GTK-based utility which is a frontend for yt-dlp, a feature-rich audio/video downloader. For this article we evaluated Parabolic using Manjaro, an Arch-based distro, as well as the wonderful Ubuntu 24.10 distro.\nThe post Parabolic – Tool To Download Web Video And Audio appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/parabolic-tool-to-download-web-video-and-audio/",
-          "publishedOn": "2024-12-26T16:41:30.000Z",
-          "wordCount": 10561,
-          "title": "Parabolic – Tool To Download Web Video And Audio",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195796",
-          "author": "Content Operations",
-          "description": "Let's find out which is better for running apps or games on Linux: wine and its wrappers or virtual machine's compatibility?\nThe post Wine vs. VMs: Which Is Better for Running Windows Apps on Linux? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/wine-vs-vms-which-is-better-for-running-windows-apps-on-linux/",
-          "publishedOn": "2024-12-26T15:41:26.000Z",
-          "wordCount": 10529,
-          "title": "Wine vs. VMs: Which Is Better for Running Windows Apps on Linux?",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=195800",
-          "author": "Content Operations",
-          "description": "Coming just a month after Mixxx 2.4.2, which was the last update in the 2.4 series, Mixxx 2.5 is here to port the application to the latest Qt 6 open-source application framework to provide users with a more modern and stylish graphical user interface, improved performance, and enhanced compatibility on modern systems.\nThe post Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/mixxx-2-5-open-source-dj-app-released-with-qt-6-port-improved-controller-support/",
-          "publishedOn": "2024-12-26T14:26:52.000Z",
-          "wordCount": 10589,
-          "title": "Mixxx 2.5 Open-Source DJ App Released with Qt 6 Port, Improved Controller Support",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1615,6 +1575,116 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMingFBVV95cUxNdUo0bGpOVUdja1dFSU9LZUFCNkhlZmN2ZTI5UEFSNTNMZWdHU1BRdGo1N0xRcFBqVkpHelVMWmtudkpTQUNwWlM4OFhrTzNQUkd5bXh4eE03eXhzMEZYRmFYV3B2TE9LX284YjJnZkVrX1gwd3hIOTZWLXZxZThjNGZnYXJiSXV4Q3JWS1dxTFJBZXFfVG9kcHNGNF9XQdIBowFBVV95cUxOTmVTQzA1aWpxd3U0VERVWWFkQjBTdjZNam9oMzZ2U1NIVVdLUTlWb2l5MTZwelE3SVhNSmtiYUNWaElsWjJkY05uaWJ2aS1ZTFlMallPQzB4Q1ljbkwzeGRram5kUVhuQnRNNi10QTFYMzFacklEZVdMSkszVFl6dF9RZnlXSXVPTFRKTGpaTUdBYi1UaWw5SGV4RUlRbjJwbFNN",
+          "author": null,
+          "description": "Shotcut 25.01 Video Editor Adds Native Wayland Support on Flatpak for Linux  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUo0bGpOVUdja1dFSU9LZUFCNkhlZmN2ZTI5UEFSNTNMZWdHU1BRdGo1N0xRcFBqVkpHelVMWmtudkpTQUNwWlM4OFhrTzNQUkd5bXh4eE03eXhzMEZYRmFYV3B2TE9LX284YjJnZkVrX1gwd3hIOTZWLXZxZThjNGZnYXJiSXV4Q3JWS1dxTFJBZXFfVG9kcHNGNF9XQdIBowFBVV95cUxOTmVTQzA1aWpxd3U0VERVWWFkQjBTdjZNam9oMzZ2U1NIVVdLUTlWb2l5MTZwelE3SVhNSmtiYUNWaElsWjJkY05uaWJ2aS1ZTFlMallPQzB4Q1ljbkwzeGRram5kUVhuQnRNNi10QTFYMzFacklEZVdMSkszVFl6dF9RZnlXSXVPTFRKTGpaTUdBYi1UaWw5SGV4RUlRbjJwbFNN?oc=5",
+          "publishedOn": "2025-01-25T23:24:04.000Z",
+          "wordCount": 12563,
+          "title": "Shotcut 25.01 Video Editor Adds Native Wayland Support on Flatpak for Linux - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikgFBVV95cUxQWUZaSGZuM09rNG1TZWdMOVBGOWtCeTd3RndmUVFNZVJJeTc4X2Mtbkg0cWZZd2pyaXlrX1BEcmRKS05oX1pLLXlLbVZrOHgweHV4M3BLdWZLWGpiZkVMbXZzVjg2dGQ4MTFUNTEyT0wycmV1VE42c09MdUtwT0psakttSXhTZVA1ZnJ2dFNnN21Bdw",
+          "author": null,
+          "description": "The Best Free Software to Install on Ubuntu Right After Setup  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUZaSGZuM09rNG1TZWdMOVBGOWtCeTd3RndmUVFNZVJJeTc4X2Mtbkg0cWZZd2pyaXlrX1BEcmRKS05oX1pLLXlLbVZrOHgweHV4M3BLdWZLWGpiZkVMbXZzVjg2dGQ4MTFUNTEyT0wycmV1VE42c09MdUtwT0psakttSXhTZVA1ZnJ2dFNnN21Bdw?oc=5",
+          "publishedOn": "2025-01-25T20:15:00.000Z",
+          "wordCount": 12563,
+          "title": "The Best Free Software to Install on Ubuntu Right After Setup - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuwFBVV95cUxNUVBfUmZ2Y0ZqbVJWd3A4WUZYWW8tTksxU3Blc3ZxZW1pclRobjFpUWRGMTJacjVMdnRiaUFYek0tVTBYTVJzQkpaenpaZFFHZXAyeHhIVGR3b29mZURhcFlJeG50Q1BrZVZadThiR3FzeWpCZm5WMjZFN05SODFTWng3aG1rLVBwNE9RNmlZSWg5eGRzc3hrQWRpbWRiN0dTZzFTU094MkdjZ2FFS3VXM29JVnFBQko5OXc0",
+          "author": null,
+          "description": "anyon_e is a DIY Linux laptop with an RK3588 processor, OLED display, and custom aluminum chassis  Liliputing",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVBfUmZ2Y0ZqbVJWd3A4WUZYWW8tTksxU3Blc3ZxZW1pclRobjFpUWRGMTJacjVMdnRiaUFYek0tVTBYTVJzQkpaenpaZFFHZXAyeHhIVGR3b29mZURhcFlJeG50Q1BrZVZadThiR3FzeWpCZm5WMjZFN05SODFTWng3aG1rLVBwNE9RNmlZSWg5eGRzc3hrQWRpbWRiN0dTZzFTU094MkdjZ2FFS3VXM29JVnFBQko5OXc0?oc=5",
+          "publishedOn": "2025-01-25T17:53:17.000Z",
+          "wordCount": 12563,
+          "title": "anyon_e is a DIY Linux laptop with an RK3588 processor, OLED display, and custom aluminum chassis - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiAFBVV95cUxQZ0RNTlo5d0o1bHVicnpvXzY4Y2tfRGxyd0ExemFteENOSWpFLWpTWGVnXzE3X0pPaEZfbzdvZE54YUxfTzdObWx5SWRlYS1zZkdLaW9RdzlWQ0hvVEpialRaSko3R2ZIRHk5NExEYkdzclRnQzdpejRLYl9UWGc4b2hkOGdZLTQ4",
+          "author": null,
+          "description": "5 of the Best Tools for Syncing Files Between Linux and Windows  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RNTlo5d0o1bHVicnpvXzY4Y2tfRGxyd0ExemFteENOSWpFLWpTWGVnXzE3X0pPaEZfbzdvZE54YUxfTzdObWx5SWRlYS1zZkdLaW9RdzlWQ0hvVEpialRaSko3R2ZIRHk5NExEYkdzclRnQzdpejRLYl9UWGc4b2hkOGdZLTQ4?oc=5",
+          "publishedOn": "2025-01-25T17:00:00.000Z",
+          "wordCount": 12563,
+          "title": "5 of the Best Tools for Syncing Files Between Linux and Windows - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxPa2R0UmpoNXJneDJLZ3NMbkx5ZnZESXZPd2poOVBOUl9teWd5UW5VRU5yWGFsZF9yOGRWcjdJb0xGNFh3LW5rOFBGeE9fOHg5d0pLb25uNjNGcjU4czBnNWdSVU1oeFVnUjkyZmVUOXB6bXNhTWlWVlhSNHFGYW13MFBGR0E1Zw",
+          "author": null,
+          "description": "Linux: Zentyal Is the Small Business Server You May Need  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2R0UmpoNXJneDJLZ3NMbkx5ZnZESXZPd2poOVBOUl9teWd5UW5VRU5yWGFsZF9yOGRWcjdJb0xGNFh3LW5rOFBGeE9fOHg5d0pLb25uNjNGcjU4czBnNWdSVU1oeFVnUjkyZmVUOXB6bXNhTWlWVlhSNHFGYW13MFBGR0E1Zw?oc=5",
+          "publishedOn": "2025-01-25T15:09:29.000Z",
+          "wordCount": 12563,
+          "title": "Linux: Zentyal Is the Small Business Server You May Need - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE1YeTNBMFZtX2xTUXR6Wl9ocFJ5Y082WnhnX1RzMXQ5R3V1RjQyQzhab2l5X3ltQS1lNEZxNWVEWkdWUWNFQ3dfZFh0MTI0UTB6MkphdnlaVC04VlNBWGRZUzhsRQ",
+          "author": null,
+          "description": "ISD: A New Interactive Way For systemd Management  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YeTNBMFZtX2xTUXR6Wl9ocFJ5Y082WnhnX1RzMXQ5R3V1RjQyQzhab2l5X3ltQS1lNEZxNWVEWkdWUWNFQ3dfZFh0MTI0UTB6MkphdnlaVC04VlNBWGRZUzhsRQ?oc=5",
+          "publishedOn": "2025-01-25T14:28:00.000Z",
+          "wordCount": 12563,
+          "title": "ISD: A New Interactive Way For systemd Management - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxPOTdPb3pqdVhmVU9ITmk1blNnRmlfNHE3bUdFakF6UW1zdzI1bXh0WkNaeDY5NEdpMVVKZGlPT3pjeHpLMkpJOUpyS1pWd3Z3YUs0eVJBSVgtQVNLMGsyVEtBZXZDclloZzFWWDNJM0xPMk0zVzViM1VEVmNXd2tQcHlWODEwSEtpV1NseWViWlJQN0JRMHpDVQ",
+          "author": null,
+          "description": "War Thunder gets BattlEye anti-cheat enabled for Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTdPb3pqdVhmVU9ITmk1blNnRmlfNHE3bUdFakF6UW1zdzI1bXh0WkNaeDY5NEdpMVVKZGlPT3pjeHpLMkpJOUpyS1pWd3Z3YUs0eVJBSVgtQVNLMGsyVEtBZXZDclloZzFWWDNJM0xPMk0zVzViM1VEVmNXd2tQcHlWODEwSEtpV1NseWViWlJQN0JRMHpDVQ?oc=5",
+          "publishedOn": "2025-01-25T12:20:24.000Z",
+          "wordCount": 12563,
+          "title": "War Thunder gets BattlEye anti-cheat enabled for Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWEFVX3lxTE1ZT3VFbEZKQ094el9VZVRlWlE4R0haejZZbU1IcHlHT2pjT2FXOWpqejNEcDhZX3pIRlAySjZUdUNnOXVxVTVkRkE5b3BNMl80Y2Vra3VveHE",
+          "author": null,
+          "description": "Much Faster Suspend & Resume For Some Systems With Linux 6.14  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZT3VFbEZKQ094el9VZVRlWlE4R0haejZZbU1IcHlHT2pjT2FXOWpqejNEcDhZX3pIRlAySjZUdUNnOXVxVTVkRkE5b3BNMl80Y2Vra3VveHE?oc=5",
+          "publishedOn": "2025-01-25T12:19:00.000Z",
+          "wordCount": 12563,
+          "title": "Much Faster Suspend & Resume For Some Systems With Linux 6.14 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV0FVX3lxTFBPb2c5Qm1WbGRoOWRicFJWYlFMTVM4UmNJYTczS0ZoRWMzelFBUFBnWjc5Q0xvcHI0alN2X0cxT3dmcUJ3U2ZUa2xkX2dlNVVPVVJBN3FrQQ",
+          "author": null,
+          "description": "Intel THC, Wacom PCI Device & SteelSeries Arctis 9 Support Land In Linux 6.14  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPb2c5Qm1WbGRoOWRicFJWYlFMTVM4UmNJYTczS0ZoRWMzelFBUFBnWjc5Q0xvcHI0alN2X0cxT3dmcUJ3U2ZUa2xkX2dlNVVPVVJBN3FrQQ?oc=5",
+          "publishedOn": "2025-01-25T12:01:00.000Z",
+          "wordCount": 12563,
+          "title": "Intel THC, Wacom PCI Device & SteelSeries Arctis 9 Support Land In Linux 6.14 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxNbjdYTVJLUkZ4QmlHaGpybkxkZGNpN09FSWdBRkNqaDRjR0tTZlI1V1N5Mlk5OFdfaHVHYTBoUTBSSU5MTGRGR0NISFZqbThkOGZ1MXdISFlhWVRrdkZ6cUdsMi1oYnJ2c1BWZVFyLXNYMm5QZGdXRkU0WjNxU3VEWUxaTERxRlVDVENoZHJXc3FFNl9OSDl6U1Z1NFRiOEgt",
+          "author": null,
+          "description": "Optimize Battery Life on an Ubuntu Laptop With These 6 Power Saving Tweaks  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjdYTVJLUkZ4QmlHaGpybkxkZGNpN09FSWdBRkNqaDRjR0tTZlI1V1N5Mlk5OFdfaHVHYTBoUTBSSU5MTGRGR0NISFZqbThkOGZ1MXdISFlhWVRrdkZ6cUdsMi1oYnJ2c1BWZVFyLXNYMm5QZGdXRkU0WjNxU3VEWUxaTERxRlVDVENoZHJXc3FFNl9OSDl6U1Z1NFRiOEgt?oc=5",
+          "publishedOn": "2025-01-25T12:00:00.000Z",
+          "wordCount": 12563,
+          "title": "Optimize Battery Life on an Ubuntu Laptop With These 6 Power Saving Tweaks - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTE0zc3FTZ0hpTDIxU194OHZYaG5nZU1lalFXeHRkSXNWejkwaWZ1c1pGYTN6dWZQal9EZ0w2NHdUbEFFc29pYWJCdGhNLVhFRUlJOWlDb2sySTZKU3lucF9DVUpUcw",
+          "author": null,
+          "description": "SUSE's New \"Agama 11\" Installer Preps For SLES 16 Beta / openSUSE Leap 16  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zc3FTZ0hpTDIxU194OHZYaG5nZU1lalFXeHRkSXNWejkwaWZ1c1pGYTN6dWZQal9EZ0w2NHdUbEFFc29pYWJCdGhNLVhFRUlJOWlDb2sySTZKU3lucF9DVUpUcw?oc=5",
+          "publishedOn": "2025-01-25T11:46:00.000Z",
+          "wordCount": 12563,
+          "title": "SUSE's New \"Agama 11\" Installer Preps For SLES 16 Beta / openSUSE Leap 16 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMihAFBVV95cUxQNVlqOEZHLU1qYmh5LWk0WDI2aWVyQlAtWTVybEhYMFJFUVpIX1dYc1VyMG9QNmR1NUo4T0ZZZEd5elgteXM2ZlRJdXpfZ0R0cXJFY21qQlF4bGNhRmRVYkJPX1ROWkJWYVBZd1RoTHZZZS1rSDlzMjM2NXFHUThUcXVMYkY",
           "author": null,
@@ -1673,6 +1743,16 @@
           "publishedOn": "2025-01-24T16:36:00.000Z",
           "wordCount": 12563,
           "title": "NVIDIA GeForce RTX 5090 Linux GPU Compute Performance Benchmarks Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikgFBVV95cUxQbHFnb3FPSWpoeUlEMFpFRVBxYTNoTWYxUk5NN0xfd3pYY0RJT3RXdnRVQ3hVOWlabFl3NWxfS1ZVa1JObVdRcWlBREZlZFdfTC0wbDUyVTRodl94MXdoR01fWWlPaEtiUl9JY0NXNnpSOHpLd21ya0lWUUVDRlVGWXhLTmNMMkowZEFzakdxTmJFQQ",
+          "author": null,
+          "description": "Liberux Nexx: Linux smartphone with special features  digitec magazine",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFnb3FPSWpoeUlEMFpFRVBxYTNoTWYxUk5NN0xfd3pYY0RJT3RXdnRVQ3hVOWlabFl3NWxfS1ZVa1JObVdRcWlBREZlZFdfTC0wbDUyVTRodl94MXdoR01fWWlPaEtiUl9JY0NXNnpSOHpLd21ya0lWUUVDRlVGWXhLTmNMMkowZEFzakdxTmJFQQ?oc=5",
+          "publishedOn": "2025-01-24T14:49:41.000Z",
+          "wordCount": 12563,
+          "title": "Liberux Nexx: Linux smartphone with special features - digitec magazine",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5964,86 +6044,6 @@
           "wordCount": 12580,
           "title": "AMD Continued Ramping Up Their Linux & Open-Source Investments In 2024 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizAFBVV95cUxPV2MxYlNhTFZZa1h0a0hfc21kOUtRbVI2T0xIQ2xscmFHUmFoU3ByclpWNjBHYlVTX2ZUcU9UTFZxTVA4U19aUzZJR0M1b0UwckxZQ0V1NW11Y3hLZHp1Q0sxb2JjZ2k5UEZQVng3TUpsdzlCNkljdkQ4UG0xYm0wb3BjNlFSU0NPSmNyYmdMcl9NMWN1QzVBa3B3N3ZIbmM5TW1lcm9zNHFLSzVBcHMzeDJQaGNYZjFzVm1tTkRmaFU3NFp4WFZ6dzZFNEI",
-          "author": null,
-          "description": "Sophos detects 100% of adversary behaviors in attack scenarios targeting Windows, Linux  manilastandard.net",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2MxYlNhTFZZa1h0a0hfc21kOUtRbVI2T0xIQ2xscmFHUmFoU3ByclpWNjBHYlVTX2ZUcU9UTFZxTVA4U19aUzZJR0M1b0UwckxZQ0V1NW11Y3hLZHp1Q0sxb2JjZ2k5UEZQVng3TUpsdzlCNkljdkQ4UG0xYm0wb3BjNlFSU0NPSmNyYmdMcl9NMWN1QzVBa3B3N3ZIbmM5TW1lcm9zNHFLSzVBcHMzeDJQaGNYZjFzVm1tTkRmaFU3NFp4WFZ6dzZFNEI?oc=5",
-          "publishedOn": "2024-12-27T12:38:17.000Z",
-          "wordCount": 12580,
-          "title": "Sophos detects 100% of adversary behaviors in attack scenarios targeting Windows, Linux - manilastandard.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYkFVX3lxTFBSU3ZaLW1rNnYzUjZGSVQtM09lVnNPTEl2SllEbTlHakgtWHRoUDh4dmVUUVJyLXR4SjV3WExXb29DQW5CSEdyQmgyUDBlZWJFTktBTGFDLV9jdFZMdWZMT0x3",
-          "author": null,
-          "description": "My Favorite Linux Distro for 2024 is Not Ubuntu, Not Mint, It's This  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSU3ZaLW1rNnYzUjZGSVQtM09lVnNPTEl2SllEbTlHakgtWHRoUDh4dmVUUVJyLXR4SjV3WExXb29DQW5CSEdyQmgyUDBlZWJFTktBTGFDLV9jdFZMdWZMT0x3?oc=5",
-          "publishedOn": "2024-12-27T12:07:02.000Z",
-          "wordCount": 12580,
-          "title": "My Favorite Linux Distro for 2024 is Not Ubuntu, Not Mint, It's This - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTE9jNVJkSmwtUmdwYlZ1TkxBbFNLT1NVc2Q4Uk1RSV9LVWxUdUNYYjh4RDNaWjE4NkE4anN5Tms4eGxUY0JtUTVqRTc1WF80eGNQZlpYRFJqcC1FSExaWHpqN3VONlJwMTgwbXpyZ1dB",
-          "author": null,
-          "description": "OneXPlayer Linux Driver Being Brought To Parity With Windows Driver For These Handhelds  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jNVJkSmwtUmdwYlZ1TkxBbFNLT1NVc2Q4Uk1RSV9LVWxUdUNYYjh4RDNaWjE4NkE4anN5Tms4eGxUY0JtUTVqRTc1WF80eGNQZlpYRFJqcC1FSExaWHpqN3VONlJwMTgwbXpyZ1dB?oc=5",
-          "publishedOn": "2024-12-27T11:48:00.000Z",
-          "wordCount": 12580,
-          "title": "OneXPlayer Linux Driver Being Brought To Parity With Windows Driver For These Handhelds - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia0FVX3lxTE1LM3pmUlFuQXVLUXRWRTV5ZGt3N1otVjRXUnBnLXlWcnQ3TURWLXJrb2xZYXIxWDludUg2TEduUHB3Q2JqVHdWYXF5UEJOMzktX2dUS0FoMndwVHliS1F1TkRYLUhKYTZqTUJV",
-          "author": null,
-          "description": "Linux's Preempt Lazy Support Coming To POWER CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LM3pmUlFuQXVLUXRWRTV5ZGt3N1otVjRXUnBnLXlWcnQ3TURWLXJrb2xZYXIxWDludUg2TEduUHB3Q2JqVHdWYXF5UEJOMzktX2dUS0FoMndwVHliS1F1TkRYLUhKYTZqTUJV?oc=5",
-          "publishedOn": "2024-12-27T11:13:00.000Z",
-          "wordCount": 12580,
-          "title": "Linux's Preempt Lazy Support Coming To POWER CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi2wFBVV95cUxQNTBqdy01NHIyZ1pCQXY2MHNZbV9DbkRDWkctMGszNVIzU2xGbWFKcEVnQUNFR3BlTjZqejhncnFKM3huMUtiV19QR2ZsVjRfcktVUGlpNjRKMXM0VVg1RVpqQlhuQ0k0RjZXbGFUUHdoT1IzX19zbUVNUXdzbVFla1BOXzY0ODBkWU83Z2F3Vk02eDM1ZkZzLWJEdHlhS3hsMTdTX2Y2SDdVcTR6RzNZYS1zOEhTSU5iSDItWEVTYXdxak1TdTNqSTc1R1dmdUdZM3Y3V2NSdWdmU2c",
-          "author": null,
-          "description": "Proton Experimental updated with fixes for Marvel Rivals on Steam Deck / Linux and other game improvements  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTBqdy01NHIyZ1pCQXY2MHNZbV9DbkRDWkctMGszNVIzU2xGbWFKcEVnQUNFR3BlTjZqejhncnFKM3huMUtiV19QR2ZsVjRfcktVUGlpNjRKMXM0VVg1RVpqQlhuQ0k0RjZXbGFUUHdoT1IzX19zbUVNUXdzbVFla1BOXzY0ODBkWU83Z2F3Vk02eDM1ZkZzLWJEdHlhS3hsMTdTX2Y2SDdVcTR6RzNZYS1zOEhTSU5iSDItWEVTYXdxak1TdTNqSTc1R1dmdUdZM3Y3V2NSdWdmU2c?oc=5",
-          "publishedOn": "2024-12-26T20:00:21.000Z",
-          "wordCount": 12580,
-          "title": "Proton Experimental updated with fixes for Marvel Rivals on Steam Deck / Linux and other game improvements - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXEFVX3lxTE5VZEFBN05XdHBvN2FoUmN2N1ZhUGVqRS1hTTVHdmJoYUxBa19TMUJoVmt6RndLUEhHSGs3al9tSDZaMEd5ZFlVTXNUTWNtRE1CUFUzWnFVYS1iVllw",
-          "author": null,
-          "description": "The Performance Benefits Of Linux 6.12 LTS Over Linux 6.6 LTS  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VZEFBN05XdHBvN2FoUmN2N1ZhUGVqRS1hTTVHdmJoYUxBa19TMUJoVmt6RndLUEhHSGs3al9tSDZaMEd5ZFlVTXNUTWNtRE1CUFUzWnFVYS1iVllw?oc=5",
-          "publishedOn": "2024-12-26T16:30:00.000Z",
-          "wordCount": 12580,
-          "title": "The Performance Benefits Of Linux 6.12 LTS Over Linux 6.6 LTS - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFBVV95cUxPWF9YanV6dWduZUdGSmNKbE5EZzc2YWRqQmJ0OG82Y3BJRk40VmJDYVQ0a21pVEY1REFPd3VWM2Q0a2pvR3hub0NvakxfT1dHTjloMTB5MGppUGtKX0ZBenp0R2NNVDBTcFlfbDhIaXFJM3BxWmhJWUhNenRaSDlYMlQ2aTMxY2Nq",
-          "author": null,
-          "description": "AI, Hardware and Open Models: Headed in the Linux Direction  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWF9YanV6dWduZUdGSmNKbE5EZzc2YWRqQmJ0OG82Y3BJRk40VmJDYVQ0a21pVEY1REFPd3VWM2Q0a2pvR3hub0NvakxfT1dHTjloMTB5MGppUGtKX0ZBenp0R2NNVDBTcFlfbDhIaXFJM3BxWmhJWUhNenRaSDlYMlQ2aTMxY2Nq?oc=5",
-          "publishedOn": "2024-12-26T15:44:52.000Z",
-          "wordCount": 12580,
-          "title": "AI, Hardware and Open Models: Headed in the Linux Direction - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE42Z2pJSUtXQi03WG1aWTM3S1JIa2ZWQzlZZjg2SzZDTzZiZGZxSHhVZEZfR2ZYWVNJdmZPNTJKLTNFR19XZDZYXzJCNVQ2RkRpV2N3Tk9uYWxpeEZHay1Ld3VTNlZoSm9VX2c",
-          "author": null,
-          "description": "Intel Linux Performance Optimizations & Intel's Other Open-Source Wins From 2024  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Z2pJSUtXQi03WG1aWTM3S1JIa2ZWQzlZZjg2SzZDTzZiZGZxSHhVZEZfR2ZYWVNJdmZPNTJKLTNFR19XZDZYXzJCNVQ2RkRpV2N3Tk9uYWxpeEZHay1Ld3VTNlZoSm9VX2c?oc=5",
-          "publishedOn": "2024-12-26T13:55:00.000Z",
-          "wordCount": 12580,
-          "title": "Intel Linux Performance Optimizations & Intel's Other Open-Source Wins From 2024 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8463,6 +8463,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67943609f67368a6fc69bdb4",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Lane Wagner. He's a software engineer, prolific contributor to freeCodeCamp, and founder of the Boot.dev online learning platform. We talk about: Lanes thoughts on college and computer science degre...",
+          "link": "https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/",
+          "publishedOn": "2025-01-25T00:53:29.000Z",
+          "wordCount": 1148,
+          "title": "Getting a developer job in 2025 with Lane Wagner [Podcast #157]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737766278527/f41b773c-a742-43a6-b4b0-e423966f4e52.png"
+        },
         {
           "id": "6793a90ea69c4db6e76c194a",
           "author": "Grant Riordan",
