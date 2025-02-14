@@ -18,6 +18,106 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197115",
+          "author": "Content Operations",
+          "description": "In the world of Linux, terminal multiplexers are essential tools for developers, system administrators, and power users, as they allow you to manage multiple terminal sessions within a single window, making your workflow more efficient and organized.\nThe post Zellij: A Modern Terminal Multiplexer for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/zellij-a-modern-terminal-multiplexer-for-linux/",
+          "publishedOn": "2025-02-13T22:51:54.000Z",
+          "wordCount": 10635,
+          "title": "Zellij: A Modern Terminal Multiplexer for Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197114",
+          "author": "Content Operations",
+          "description": "Chezmoi is an incredible CLI tool that makes it easier to manage your system and software configuration dotfiles across multiple systems.\nThe post Chezmoi: Manage Your Dotfiles Across Multiple Linux Systems appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/chezmoi-manage-your-dotfiles-across-multiple-linux-systems/",
+          "publishedOn": "2025-02-13T21:51:53.000Z",
+          "wordCount": 10526,
+          "title": "Chezmoi: Manage Your Dotfiles Across Multiple Linux Systems",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197113",
+          "author": "Content Operations",
+          "description": "Discover a step-by-step guide to change the default version of Java using the CLI and GUI methods on the Ubuntu system.\nThe post How to Change Java Version on Ubuntu (CLI and GUI) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-change-java-version-on-ubuntu-cli-and-gui/",
+          "publishedOn": "2025-02-13T20:51:50.000Z",
+          "wordCount": 10529,
+          "title": "How to Change Java Version on Ubuntu (CLI and GUI)",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197112",
+          "author": "Content Operations",
+          "description": "Arch may soon become an officially offered distro on Microsoft's Windows Subsystem for Linux, expanding its reach to Windows users.\nThe post Microsoft’s WSL May Soon Embrace Arch Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/microsofts-wsl-may-soon-embrace-arch-linux/",
+          "publishedOn": "2025-02-13T20:51:49.000Z",
+          "wordCount": 10516,
+          "title": "Microsoft’s WSL May Soon Embrace Arch Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197111",
+          "author": "Content Operations",
+          "description": "To provide an insight into the quality of software that is available, we have compiled a list of 15 console email clients. Hopefully, there will be something of interest for anyone who wants to efficiently manage their mailbox from the terminal.\nThe post 15 Best Free and Open Source Console Email Clients appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/15-best-free-and-open-source-console-email-clients/",
+          "publishedOn": "2025-02-13T19:51:47.000Z",
+          "wordCount": 10569,
+          "title": "15 Best Free and Open Source Console Email Clients",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197086",
+          "author": "Content Operations",
+          "description": "Starting from WSL version 2.4.8, we can install Ubuntu on WSL from a tar file, without using the Microsoft Store on Windows.\nThe post You Can Now Install Ubuntu on WSL Using the New Tar-Based Format appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/you-can-now-install-ubuntu-on-wsl-using-the-new-tar-based-format/",
+          "publishedOn": "2025-02-13T18:38:39.000Z",
+          "wordCount": 10528,
+          "title": "You Can Now Install Ubuntu on WSL Using the New Tar-Based Format",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197109",
+          "author": "Content Operations",
+          "description": "Stirling PDF is a self-hosted, open source web application for managing and manipulating your PDFs. It allows you to perform more than 50 operations on your PDF files.\nThe post Stirling PDF: The Best Opensource, Self-hosted PDF Manipulation Tool appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/stirling-pdf-the-best-opensource-self-hosted-pdf-manipulation-tool/",
+          "publishedOn": "2025-02-13T17:44:44.000Z",
+          "wordCount": 10535,
+          "title": "Stirling PDF: The Best Opensource, Self-hosted PDF Manipulation Tool",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197094",
+          "author": "Content Operations",
+          "description": "Setting up your first Linux server might feel overwhelming at first, especially if you’re new to server management. However, the process is much simpler than it seems, and with the right guidance, you can have your Ubuntu server up and running in no time.\nThe post How to Install and Configure Ubuntu Server in 30 Minutes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-and-configure-ubuntu-server-in-30-minutes/",
+          "publishedOn": "2025-02-13T16:44:41.000Z",
+          "wordCount": 10649,
+          "title": "How to Install and Configure Ubuntu Server in 30 Minutes",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197093",
+          "author": "Content Operations",
+          "description": "Learn how to install Waterfox, a privacy-oriented web browser, on your Linux system and enjoy enhanced security and data privacy compared to traditional browsers like Firefox.\nThe post Install Waterfox on Linux: A Step-by-Step Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/install-waterfox-on-linux-a-step-by-step-guide/",
+          "publishedOn": "2025-02-13T15:44:38.000Z",
+          "wordCount": 10523,
+          "title": "Install Waterfox on Linux: A Step-by-Step Guide",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=197092",
+          "author": "Content Operations",
+          "description": "Learn how to grant sudo privileges to regular users in Linux, ensuring security by allowing specific commands execution without revealing the root password.\nThe post Granting and Revoking Sudo Privileges in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/granting-and-revoking-sudo-privileges-in-linux/",
+          "publishedOn": "2025-02-13T14:44:36.000Z",
+          "wordCount": 10516,
+          "title": "Granting and Revoking Sudo Privileges in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=197080",
           "author": "Content Operations",
           "description": "In this article, we’ll explore the top 10 CLI tools for developers in 2025, with a focus on tools like tmux, htop, fzf, bat, exa, and ripgrep that are designed to make your workflow more efficient.\nThe post 13 Linux CLI Tools Every Developer Should Master in 2025 appeared first on Linux Today.",
@@ -1406,66 +1506,6 @@
           "wordCount": 10523,
           "title": "How To Check Debian Version: Simple Methods For Beginners",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196255",
-          "author": "Content Operations",
-          "description": "From where we sit, Google’s “giveaway” of its open source Chromium assets is basically a ruse to convince the feds that the company isn’t an intentional monopolist… or that it’s changed its ways.\nThe post Google Kinda Gives Chromium Away Because… Antitrust appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/google-kinda-gives-chromium-away-because-antitrust/",
-          "publishedOn": "2025-01-14T20:07:21.000Z",
-          "wordCount": 10541,
-          "title": "Google Kinda Gives Chromium Away Because… Antitrust",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196246",
-          "author": "Content Operations",
-          "description": "A download manager is a type of software that manages the downloading of files from the Internet. The best download managers help make the process easier and quicker.\nThe post 11 Best Free and Open Source Graphical Download Managers appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/11-best-free-and-open-source-graphical-download-managers/",
-          "publishedOn": "2025-01-14T19:01:16.000Z",
-          "wordCount": 10543,
-          "title": "11 Best Free and Open Source Graphical Download Managers",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196268",
-          "author": "Content Operations",
-          "description": "Cisco Modeling Labs is an on-premises network simulation tool. In this article, we recommend the best free and open source Linux alternatives.\nThe post Best Free and Open Source Alternatives to Cisco Modeling Labs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/best-free-and-open-source-alternatives-to-cisco-modeling-labs/",
-          "publishedOn": "2025-01-14T17:55:54.000Z",
-          "wordCount": 10528,
-          "title": "Best Free and Open Source Alternatives to Cisco Modeling Labs",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196237",
-          "author": "Content Operations",
-          "description": "ntopng (short for next-generation ntop) is an open-source network traffic monitoring tool that provides a user-friendly web interface to monitor network activity in real-time. In this post, we’ll walk through how to install and use ntopng to monitor your network in a simple and beginner-friendly way.\nThe post ntopng – Web-Based Network Traffic and Security Monitoring Tool appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/ntopng-web-based-network-traffic-and-security-monitoring-tool/",
-          "publishedOn": "2025-01-14T15:47:58.000Z",
-          "wordCount": 10576,
-          "title": "ntopng – Web-Based Network Traffic and Security Monitoring Tool",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196238",
-          "author": "Content Operations",
-          "description": "A Web hosting control panel is a web-based interface that enables users to manage hosted services in a single location. We recommend the best open source solutions.\nThe post 11 Best Free and Open Source Web Hosting Control Panels appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/11-best-free-and-open-source-web-hosting-control-panels/",
-          "publishedOn": "2025-01-14T14:48:00.000Z",
-          "wordCount": 10541,
-          "title": "11 Best Free and Open Source Web Hosting Control Panels",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=196236",
-          "author": "Content Operations",
-          "description": "In this guide, we’ll walk you through the simple steps to set up your Debian system so it takes care of security updates for you, automatically!\nThe post How to Make Debian Automatically Run Security Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-make-debian-automatically-run-security-updates/",
-          "publishedOn": "2025-01-14T13:47:55.000Z",
-          "wordCount": 10633,
-          "title": "How to Make Debian Automatically Run Security Updates",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1474,6 +1514,206 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMi1AFBVV95cUxPTERPdEw5c3lRVkFSODVBVFhlWFgyXzFJMnV1dUpLdVY5MXZmd3NXS0tkSWlTdmhvNURXUWJSZ21NeDZDZ0Y5RG5vTy11Y3k0cE10RlpqdGF6YUdYOFg0U0VrVnBNcFloX1dyZ21PZjdCY2dUNThsZmxxVmZTS3FlZFQzNVpJRWNiRmV4WWZWdWdJZTFhZFkwWmd5emJFTVFDLU1QdlJ1SFRDVTRFNTNLZkt1YzZYeXdMTkxHT19IWUZCQjViR1RUM1J0cjNNVktpbHZwUQ",
+          "author": null,
+          "description": "Lilbits: New Apple hardware, Asahi Linux shakeup, Android 16 Beta 2, and Amazon makes backing up Kindle eBooks tougher  Liliputing",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTERPdEw5c3lRVkFSODVBVFhlWFgyXzFJMnV1dUpLdVY5MXZmd3NXS0tkSWlTdmhvNURXUWJSZ21NeDZDZ0Y5RG5vTy11Y3k0cE10RlpqdGF6YUdYOFg0U0VrVnBNcFloX1dyZ21PZjdCY2dUNThsZmxxVmZTS3FlZFQzNVpJRWNiRmV4WWZWdWdJZTFhZFkwWmd5emJFTVFDLU1QdlJ1SFRDVTRFNTNLZkt1YzZYeXdMTkxHT19IWUZCQjViR1RUM1J0cjNNVktpbHZwUQ?oc=5",
+          "publishedOn": "2025-02-13T22:32:59.000Z",
+          "wordCount": 12547,
+          "title": "Lilbits: New Apple hardware, Asahi Linux shakeup, Android 16 Beta 2, and Amazon makes backing up Kindle eBooks tougher - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib0FVX3lxTFBtZU1Ncmo2VXk4YVpBTUFWc1BUQmxuemZUS245RGl5RUsyQk91V3QxZ0tha2ZTUVFOSnA2YWJPYUJBRnc5N3k5amtqTEhFNndfX091dXE4eE5UQURYSTZ6b1lKdXgyU2JfQVZ0NFpta9IBdEFVX3lxTFB6aXVOT29JbFZLWUpXZnBZVm9Gc0M4NEsyakxsOHo5bGpVbEptbjV4Ri1uSUFvMmpjR05Rd3psVExESWR3SGtCdUdHUXlnTTY0ckRzRG1WdG56Q3RlbjBka0EwQVVrVjZtS3M3VnQ1b3BHOW94",
+          "author": null,
+          "description": "After clash over Rust in Linux, now Asahi lead quits distro, slams Linus' kernel leadership  The Register",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtZU1Ncmo2VXk4YVpBTUFWc1BUQmxuemZUS245RGl5RUsyQk91V3QxZ0tha2ZTUVFOSnA2YWJPYUJBRnc5N3k5amtqTEhFNndfX091dXE4eE5UQURYSTZ6b1lKdXgyU2JfQVZ0NFpta9IBdEFVX3lxTFB6aXVOT29JbFZLWUpXZnBZVm9Gc0M4NEsyakxsOHo5bGpVbEptbjV4Ri1uSUFvMmpjR05Rd3psVExESWR3SGtCdUdHUXlnTTY0ckRzRG1WdG56Q3RlbjBka0EwQVVrVjZtS3M3VnQ1b3BHOW94?oc=5",
+          "publishedOn": "2025-02-13T22:12:00.000Z",
+          "wordCount": 12547,
+          "title": "After clash over Rust in Linux, now Asahi lead quits distro, slams Linus' kernel leadership - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie0FVX3lxTE9DaUFmTGFUWXpXbVJuX2g5bk1TOHplUWRoeExMM2tYQk4wYVZQdm9vdUdoNExzdU9xLUV2R3hyUXBSV1JUV3VEeUtpN1ZEVlpKaFlGX3BpaVdBbm5yM256dkpYZWV2dFN5NFQ0Undfdm0xNzhiaUVQUUpFVQ",
+          "author": null,
+          "description": "Asahi Linux Gets a Reboot, Still Working On M3 & M4 Mac Support  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaUFmTGFUWXpXbVJuX2g5bk1TOHplUWRoeExMM2tYQk4wYVZQdm9vdUdoNExzdU9xLUV2R3hyUXBSV1JUV3VEeUtpN1ZEVlpKaFlGX3BpaVdBbm5yM256dkpYZWV2dFN5NFQ0Undfdm0xNzhiaUVQUUpFVQ?oc=5",
+          "publishedOn": "2025-02-13T20:28:00.000Z",
+          "wordCount": 12547,
+          "title": "Asahi Linux Gets a Reboot, Still Working On M3 & M4 Mac Support - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFBVV95cUxOOThPUnlmXzBhXzcwcUFQZjVrX1N5Y0VESjdtNXpxQlg3RE8wSVExSTFPQjdCV2t0RHJpT002cWwxYlhpOUo1NHU2RE9ZRVpEd0s1VHJheERIckM5RDgtX0x3TjZDZU9ZdjZ4YWt6Z2ZoU2RYSEpVQ1l5RkMzVW9QTHpHc0d1azhTNFZvdw",
+          "author": null,
+          "description": "Why you should quit MacOS and Windows | by Chris Langley | Feb, 2025  Medium",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOThPUnlmXzBhXzcwcUFQZjVrX1N5Y0VESjdtNXpxQlg3RE8wSVExSTFPQjdCV2t0RHJpT002cWwxYlhpOUo1NHU2RE9ZRVpEd0s1VHJheERIckM5RDgtX0x3TjZDZU9ZdjZ4YWt6Z2ZoU2RYSEpVQ1l5RkMzVW9QTHpHc0d1azhTNFZvdw?oc=5",
+          "publishedOn": "2025-02-13T19:05:39.000Z",
+          "wordCount": 12547,
+          "title": "Why you should quit MacOS and Windows | by Chris Langley | Feb, 2025 - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuAFBVV95cUxOajZwV2lYbzBadmhUa3BoR3h4YTRSYUdoa2E2WFc1R3ZGY1dPeFhXRnAyOVZFOXhhRjhWSlVyM045NHFHdXFqUzQtcG9RaWoxU2hCaXJSdS1HdHhvUFVLb2liamIzdzBHdmVGRDE0dV9VTFM2OEZCWUNNbHRTRTJaS3FjcVllUkRSNk8yUDVwYnJFTHk1c1ZGLUhCQ0xpdHpoamtiZWNGNXZTc2hkNDdpMzFCN1hoV2lk",
+          "author": null,
+          "description": "Increased Linux kernel timer frequency delivers big boost in AI workloads  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajZwV2lYbzBadmhUa3BoR3h4YTRSYUdoa2E2WFc1R3ZGY1dPeFhXRnAyOVZFOXhhRjhWSlVyM045NHFHdXFqUzQtcG9RaWoxU2hCaXJSdS1HdHhvUFVLb2liamIzdzBHdmVGRDE0dV9VTFM2OEZCWUNNbHRTRTJaS3FjcVllUkRSNk8yUDVwYnJFTHk1c1ZGLUhCQ0xpdHpoamtiZWNGNXZTc2hkNDdpMzFCN1hoV2lk?oc=5",
+          "publishedOn": "2025-02-13T15:59:58.000Z",
+          "wordCount": 12547,
+          "title": "Increased Linux kernel timer frequency delivers big boost in AI workloads - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE5qNUFabXc3ZGx0Z2R1MFBRY3l3YzRZZ215elRQM0hCNWNDQ2YtWUpuZVJqYVJqNlJCazVScVVTeFpHLTF6eVBTOTdjbTlCZ0QzMlZfalFQRm01V0NLYndiLVB2U0hRZ09n",
+          "author": null,
+          "description": "Linux 6.14-rc3 To Fix Platform Profile Support For Newer AMD-Powered ThinkPads  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNUFabXc3ZGx0Z2R1MFBRY3l3YzRZZ215elRQM0hCNWNDQ2YtWUpuZVJqYVJqNlJCazVScVVTeFpHLTF6eVBTOTdjbTlCZ0QzMlZfalFQRm01V0NLYndiLVB2U0hRZ09n?oc=5",
+          "publishedOn": "2025-02-13T15:41:00.000Z",
+          "wordCount": 12547,
+          "title": "Linux 6.14-rc3 To Fix Platform Profile Support For Newer AMD-Powered ThinkPads - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxOTFIzSDVJSTY0WXpNSUs2YUhyWEtPWEdDbVlMampia2s5NFo5SG1rZWt5Tk1wSF9mNEJqand5TzIwa3I4NE1FMFpGNWRWekptQ0xFZGF4Skk3UWlkUWY0dFhoc295X1FQMGU0N2swM2VabFpXcS1LQWdQbnhRVVREU2hGVnlEQkJjX3U3dVdrU1c4bDhTX0xRNVhxdw",
+          "author": null,
+          "description": "Student turns PDF into functional Linux emulator  dev.ua",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFIzSDVJSTY0WXpNSUs2YUhyWEtPWEdDbVlMampia2s5NFo5SG1rZWt5Tk1wSF9mNEJqand5TzIwa3I4NE1FMFpGNWRWekptQ0xFZGF4Skk3UWlkUWY0dFhoc295X1FQMGU0N2swM2VabFpXcS1LQWdQbnhRVVREU2hGVnlEQkJjX3U3dVdrU1c4bDhTX0xRNVhxdw?oc=5",
+          "publishedOn": "2025-02-13T14:23:00.000Z",
+          "wordCount": 12547,
+          "title": "Student turns PDF into functional Linux emulator - dev.ua",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwAFBVV95cUxQRU9kR3BKTS16UHFnX0tYVTlFYjdST3VPMm9Oa3dQNXE4dDJtTEdReVFNT1MxQWdIVG4xX0h3b0RHMm5mVks5UEpuXzFPZi1Ga0hObXg2SllmODY1NG8yYkdsaV9oR3VRSlJzU0l0NEVDaDBRSEVxeFBDaml5RmNveHp2aG5SLVFSUkg0eHlRcmVjTkpWbHh2ZFBfaU9EQ3gySDZvbm1YX3dVTlBOc0J3UlN5bXoxVF9xQy03amx0MUQ",
+          "author": null,
+          "description": "Bluestar Linux 6.13.2 sports a new kernel, Firefox 135, Libreoffice 25.2, and more  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU9kR3BKTS16UHFnX0tYVTlFYjdST3VPMm9Oa3dQNXE4dDJtTEdReVFNT1MxQWdIVG4xX0h3b0RHMm5mVks5UEpuXzFPZi1Ga0hObXg2SllmODY1NG8yYkdsaV9oR3VRSlJzU0l0NEVDaDBRSEVxeFBDaml5RmNveHp2aG5SLVFSUkg0eHlRcmVjTkpWbHh2ZFBfaU9EQ3gySDZvbm1YX3dVTlBOc0J3UlN5bXoxVF9xQy03amx0MUQ?oc=5",
+          "publishedOn": "2025-02-13T14:22:00.000Z",
+          "wordCount": 12547,
+          "title": "Bluestar Linux 6.13.2 sports a new kernel, Firefox 135, Libreoffice 25.2, and more - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxPWWVyUEtNRzV3YUpzUUxoR05ZbjVTbUhHbVV3dVd4T1FfOUdVS2MzYllvNnQ0QkZPSjRRSXRubkFBY0czWEY3c0xtcVd6SENSMnRSOWtWUW84UFE1SzcxUV93VElvWDR6TnlDVHNEYWJ5U2NXZ3p0LURLNlRHLWVMQ19B",
+          "author": null,
+          "description": "How to use the lsblk command  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWVyUEtNRzV3YUpzUUxoR05ZbjVTbUhHbVV3dVd4T1FfOUdVS2MzYllvNnQ0QkZPSjRRSXRubkFBY0czWEY3c0xtcVd6SENSMnRSOWtWUW84UFE1SzcxUV93VElvWDR6TnlDVHNEYWJ5U2NXZ3p0LURLNlRHLWVMQ19B?oc=5",
+          "publishedOn": "2025-02-13T14:04:48.000Z",
+          "wordCount": 12547,
+          "title": "How to use the lsblk command - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipgFBVV95cUxQZUVUODhIeXdLNkE5RUZnSGQ0YlR0ZUJ1WFlpU1hGY1FxQnRUSzFQeXpTcjM0Qkxzc2ROd2N4N3dNQmZONF9mdThnd0dISXVBVVBQa1YwTGM1bXByTFdpazRvUVpROHhIR0swX1NwaFVLQnhxT2tKdEJuSGYtSl9yeFExaXRYR29FYmJaRUNIb3ExY0xxRkJIdHhQdmdPSkhsUzFIdWlR",
+          "author": null,
+          "description": "The glibc 2.41 update has been causing problems for Linux gaming  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUVUODhIeXdLNkE5RUZnSGQ0YlR0ZUJ1WFlpU1hGY1FxQnRUSzFQeXpTcjM0Qkxzc2ROd2N4N3dNQmZONF9mdThnd0dISXVBVVBQa1YwTGM1bXByTFdpazRvUVpROHhIR0swX1NwaFVLQnhxT2tKdEJuSGYtSl9yeFExaXRYR29FYmJaRUNIb3ExY0xxRkJIdHhQdmdPSkhsUzFIdWlR?oc=5",
+          "publishedOn": "2025-02-13T13:00:08.000Z",
+          "wordCount": 12547,
+          "title": "The glibc 2.41 update has been causing problems for Linux gaming - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgFBVV95cUxQNy03cWUwaEN4NVVpM2sycmtseDFvNk5HMW1EU29RaFZaQzIwd095ZDNzay1ONTcxa2Z0RzhEd1c3T0xLTXE1enFaeGpZcHItOGt5S2UxYjNCOERaaEFpb1JHTlF0Y0V6Z0pIbVhGTlpzMFQ2b0R1RFppWHVBMnNBVE1RZlVjQQ",
+          "author": null,
+          "description": "VirtualBox vs. UTM: Which Is Best for Linux VMs on Mac  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNy03cWUwaEN4NVVpM2sycmtseDFvNk5HMW1EU29RaFZaQzIwd095ZDNzay1ONTcxa2Z0RzhEd1c3T0xLTXE1enFaeGpZcHItOGt5S2UxYjNCOERaaEFpb1JHTlF0Y0V6Z0pIbVhGTlpzMFQ2b0R1RFppWHVBMnNBVE1RZlVjQQ?oc=5",
+          "publishedOn": "2025-02-13T13:00:00.000Z",
+          "wordCount": 12547,
+          "title": "VirtualBox vs. UTM: Which Is Best for Linux VMs on Mac - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFBVV95cUxNOGM3Nkp1ME9hXzdVUWtkcXJ0WnUtOXRKeG8zUFlZU2dFYloyQU4ydTg0Z19yai1jbGhmODBfT3puNDhZMnQxbExlVV9oR1pnalZSWDN5YjhCNl81MVhMc0otODdUZTFINU5mS3VkTFF4TWgyb0pOeGtYNEsxVFBKU2JWLUY4S25yWDI2UGR4YUl5LUhuZGY5M3ZQZUo",
+          "author": null,
+          "description": "Marvel Rivals gets a low-quality UI fix for Bazzite Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGM3Nkp1ME9hXzdVUWtkcXJ0WnUtOXRKeG8zUFlZU2dFYloyQU4ydTg0Z19yai1jbGhmODBfT3puNDhZMnQxbExlVV9oR1pnalZSWDN5YjhCNl81MVhMc0otODdUZTFINU5mS3VkTFF4TWgyb0pOeGtYNEsxVFBKU2JWLUY4S25yWDI2UGR4YUl5LUhuZGY5M3ZQZUo?oc=5",
+          "publishedOn": "2025-02-13T12:25:36.000Z",
+          "wordCount": 12547,
+          "title": "Marvel Rivals gets a low-quality UI fix for Bazzite Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxPOWw2RmtRaHFQb1dQRTl3S193RmJUVUhYRnQyTFVqa2laT1R0UWlaOElLb2ZTSnBOQ3B0MU5sd0JteTdpQ0ExMzVOdllnSUwxcjZaaU1OYmxqR0pZQ2cxNkJreXp3czJrT3FudjFTMmRtN25GVHdTaHQzUThsdnNyMG51MjVGMXc",
+          "author": null,
+          "description": "Which Linux Distro Do You Think Is the Fastest?  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWw2RmtRaHFQb1dQRTl3S193RmJUVUhYRnQyTFVqa2laT1R0UWlaOElLb2ZTSnBOQ3B0MU5sd0JteTdpQ0ExMzVOdllnSUwxcjZaaU1OYmxqR0pZQ2cxNkJreXp3czJrT3FudjFTMmRtN25GVHdTaHQzUThsdnNyMG51MjVGMXc?oc=5",
+          "publishedOn": "2025-02-13T12:23:11.000Z",
+          "wordCount": 12547,
+          "title": "Which Linux Distro Do You Think Is the Fastest? - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia0FVX3lxTE5La1dlYXhpcnpVSWVSc29oeTdYUVB5N2traFJTdF9hUGc0V2FNOGtrX2pNdUM4UkJkUW5DWURNYkJCX3N4eVZtWG80T2g3b1NHNG1aaldWU0QxSWtqQnlobGRQUDNFMWRwZzZV",
+          "author": null,
+          "description": "NVIDIA Wiring Up Autonomous Performance Level Selection To Linux CPPC CPUFreq Driver  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5La1dlYXhpcnpVSWVSc29oeTdYUVB5N2traFJTdF9hUGc0V2FNOGtrX2pNdUM4UkJkUW5DWURNYkJCX3N4eVZtWG80T2g3b1NHNG1aaldWU0QxSWtqQnlobGRQUDNFMWRwZzZV?oc=5",
+          "publishedOn": "2025-02-13T11:40:00.000Z",
+          "wordCount": 12547,
+          "title": "NVIDIA Wiring Up Autonomous Performance Level Selection To Linux CPPC CPUFreq Driver - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijgFBVV95cUxOYjdqSWFQeF96YjhPVGxqSFNpZkpQbXFnYjNtQWRudTFZb1pjUFhZY0NGVGdHTDh4TVBfaHpCX3g5QkYzMGdEYnZfTGFMX1RFcmZqUkJFcWE3UGs3QndhTkRSVFFvbUZOZl9PS210ckV1WlFPanN6ZGpTcnpwUFRadUFqQ0lyeERrd1R3aF9R",
+          "author": null,
+          "description": "Student turns a PDF into a functional Linux emulator  TechSpot",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdqSWFQeF96YjhPVGxqSFNpZkpQbXFnYjNtQWRudTFZb1pjUFhZY0NGVGdHTDh4TVBfaHpCX3g5QkYzMGdEYnZfTGFMX1RFcmZqUkJFcWE3UGs3QndhTkRSVFFvbUZOZl9PS210ckV1WlFPanN6ZGpTcnpwUFRadUFqQ0lyeERrd1R3aF9R?oc=5",
+          "publishedOn": "2025-02-13T11:15:00.000Z",
+          "wordCount": 12547,
+          "title": "Student turns a PDF into a functional Linux emulator - TechSpot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitwFBVV95cUxNSFJ1R01BaXBIeng5S2FVbUtHV0JicTdrRi1hRm9EUlNqaVY2TnNwWk13QkdlSEVoTnRaeVZnZEFVbkFUQ1VJUkN3dTRKVklwRHdyVy1pUW5KQnJNc3liNGVKUzh4eHJuQWl0UlM0dlI5N1Fhd3QwTlhuZXR5RC1oTUFWcXVjZXFVVTRkM0w3WFQ3QkdtWVQ4VFBGNzY5bmZobVBPU0RLVnlya2ZRX3F4VUJQRjIzWGM",
+          "author": null,
+          "description": "I brought my aging PC back to life with this lightweight Linux OS - and it's easy to use  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFJ1R01BaXBIeng5S2FVbUtHV0JicTdrRi1hRm9EUlNqaVY2TnNwWk13QkdlSEVoTnRaeVZnZEFVbkFUQ1VJUkN3dTRKVklwRHdyVy1pUW5KQnJNc3liNGVKUzh4eHJuQWl0UlM0dlI5N1Fhd3QwTlhuZXR5RC1oTUFWcXVjZXFVVTRkM0w3WFQ3QkdtWVQ4VFBGNzY5bmZobVBPU0RLVnlya2ZRX3F4VUJQRjIzWGM?oc=5",
+          "publishedOn": "2025-02-13T11:00:00.000Z",
+          "wordCount": 12547,
+          "title": "I brought my aging PC back to life with this lightweight Linux OS - and it's easy to use - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFBVV95cUxQT3VDZnBjeXhSbENHcFFJQmhjYk5zUThRTkc1MHg1QnVZTFUyWkMwbldpQTczRXRFZFhOSjF1OVFnN1liR2kyVWYwc2dYRE9IMG1qamQ4aEMwNjQtbV9kRF96alpaQS1pSXFzNFlyOUlyUnJVV2w5OUlnYkVEZE9GSW9B",
+          "author": null,
+          "description": "FINALDRAFT Malware Exploits Microsoft Graph API for Espionage on Windows and Linux  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3VDZnBjeXhSbENHcFFJQmhjYk5zUThRTkc1MHg1QnVZTFUyWkMwbldpQTczRXRFZFhOSjF1OVFnN1liR2kyVWYwc2dYRE9IMG1qamQ4aEMwNjQtbV9kRF96alpaQS1pSXFzNFlyOUlyUnJVV2w5OUlnYkVEZE9GSW9B?oc=5",
+          "publishedOn": "2025-02-13T09:11:00.000Z",
+          "wordCount": 12547,
+          "title": "FINALDRAFT Malware Exploits Microsoft Graph API for Espionage on Windows and Linux - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib0FVX3lxTE5SN25uNXJaYU80eW9GN2ttY0dmSjlOQ2JIS3l6U2pYcC1sWnhtOXRvOGpnUHRIMENNdFBWOWpYenFRRmFJWGMxN3RheWMwa0tjTFZsbDQxTUVMQU5aSXV1YXNzVFVaSEpvMFJCcXptUdIBdEFVX3lxTE1fZVZ0aXJ1NXAyOF9OMDRwQ2ZqQVBRWFh1N3RDc25RenlHai04UThHX2JXMVE2TjRVaUw2VENldGRNWm55TENraFp3RTUzNXBPcVRPdVNwM1M0Tmo0dlpIb1U3U1pSTU00MUJ0S0pLc1RFdWZY",
+          "author": null,
+          "description": "Crowdstrike Falcon Sensor for Linux Vulnerability Allows MiTM Attack  GBHackers",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN25uNXJaYU80eW9GN2ttY0dmSjlOQ2JIS3l6U2pYcC1sWnhtOXRvOGpnUHRIMENNdFBWOWpYenFRRmFJWGMxN3RheWMwa0tjTFZsbDQxTUVMQU5aSXV1YXNzVFVaSEpvMFJCcXptUdIBdEFVX3lxTE1fZVZ0aXJ1NXAyOF9OMDRwQ2ZqQVBRWFh1N3RDc25RenlHai04UThHX2JXMVE2TjRVaUw2VENldGRNWm55TENraFp3RTUzNXBPcVRPdVNwM1M0Tmo0dlpIb1U3U1pSTU00MUJ0S0pLc1RFdWZY?oc=5",
+          "publishedOn": "2025-02-13T08:48:15.000Z",
+          "wordCount": 12547,
+          "title": "Crowdstrike Falcon Sensor for Linux Vulnerability Allows MiTM Attack - GBHackers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi3AFBVV95cUxOM1czaGZBODJBM3E5UlZyUnhJVzRuVUcwOG5aajRkUEJuQWJWSDk4NHRtb1VsYlIzeDlhTFVwcTZCSkZaMm5Rc0V3MUphRGVpdWYyc2ZWNUN5cGpwZzRyXzg0a0JyYnprbG1lRW04RGFFNC1LNU9xNnZOSVdlUFlRWF94dnVpWm9XMHBuMGJqSTJzNXpwQTJyZXNOTmdtSDFNN3RyVFRHdTdfdG9mY0lUN1puWEY5dnppc0RZWjFvWmxrc3Y3V1c3RlZCYUlsX3ZZUzJYRF83VW5OSnBR0gHiAUFVX3lxTFB6dTBLUWdDaEpkbkpFNXFDU25XLVdHWFFrS2Nyc0JQWGc2d2RyRy1lQmg1SFYxUGwxaEJYVVlrZE91eG5NaW1SMC1hd2pqUndHUV9LbDZIaWtOTnhBZm1ydlh3VC1KZDJnZEFScWxBNXptbmZ4b3RaUjFHRUkzcGVNRll2QWQwcDRqYTVuVHpLQkhXOWRNM2pYS2NIQWtPcHVHM2U1d3kxWUVlLUpsd2tmSG5RamtJWWZTWkVGSmpSaTVnei1XMzBGTDJLR2NtdXNuSncxTFphRnBaR2lyQU9WNWc",
+          "author": null,
+          "description": "Linux Software Market: Rising Valuation to Reach $9,714.11 million by 2032, Fueled by Strong CAGR of 13.8%  EIN News",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1czaGZBODJBM3E5UlZyUnhJVzRuVUcwOG5aajRkUEJuQWJWSDk4NHRtb1VsYlIzeDlhTFVwcTZCSkZaMm5Rc0V3MUphRGVpdWYyc2ZWNUN5cGpwZzRyXzg0a0JyYnprbG1lRW04RGFFNC1LNU9xNnZOSVdlUFlRWF94dnVpWm9XMHBuMGJqSTJzNXpwQTJyZXNOTmdtSDFNN3RyVFRHdTdfdG9mY0lUN1puWEY5dnppc0RZWjFvWmxrc3Y3V1c3RlZCYUlsX3ZZUzJYRF83VW5OSnBR0gHiAUFVX3lxTFB6dTBLUWdDaEpkbkpFNXFDU25XLVdHWFFrS2Nyc0JQWGc2d2RyRy1lQmg1SFYxUGwxaEJYVVlrZE91eG5NaW1SMC1hd2pqUndHUV9LbDZIaWtOTnhBZm1ydlh3VC1KZDJnZEFScWxBNXptbmZ4b3RaUjFHRUkzcGVNRll2QWQwcDRqYTVuVHpLQkhXOWRNM2pYS2NIQWtPcHVHM2U1d3kxWUVlLUpsd2tmSG5RamtJWWZTWkVGSmpSaTVnei1XMzBGTDJLR2NtdXNuSncxTFphRnBaR2lyQU9WNWc?oc=5",
+          "publishedOn": "2025-02-13T06:08:00.000Z",
+          "wordCount": 12547,
+          "title": "Linux Software Market: Rising Valuation to Reach $9,714.11 million by 2032, Fueled by Strong CAGR of 13.8% - EIN News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxOMTktQWFXUVRLaU9la3dGalVxcTItZHVUdVdHYzQxREJITjJaSnZPQ2RKdVZGZHZpb2U2aElnNkV1Q1hfZFZMcjVmUHlEbnZ5R3ZZQXZGUmNMQWE4TjlTaHdLVF93bXJXd20yUTJKN0FlMlFweW9xUVpOMmVTaG9GLUhZSHRsN2vSAYwBQVVfeXFMTm1PcTV5MUVlSG9qR3UzTlhfb0NzWTJucE9fQUN4eWw2Q3pncGpBekQ2ZFYyNUo2WHd4S09KWTVQRE5JcWdTNDZsMEQ5VVlFQXlwdFB0S1JjbFRjdFJ1ME5VMjZoWXJPNHpYQmNVMldoOXFMbXZTUnpsTDVxSUNEdkIyY1VlYjZtNjhXRHM",
+          "author": null,
+          "description": "CrowdStrike Falcon Sensor for Linux TLS Vulnerability Enables MiTM Attack  CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTktQWFXUVRLaU9la3dGalVxcTItZHVUdVdHYzQxREJITjJaSnZPQ2RKdVZGZHZpb2U2aElnNkV1Q1hfZFZMcjVmUHlEbnZ5R3ZZQXZGUmNMQWE4TjlTaHdLVF93bXJXd20yUTJKN0FlMlFweW9xUVpOMmVTaG9GLUhZSHRsN2vSAYwBQVVfeXFMTm1PcTV5MUVlSG9qR3UzTlhfb0NzWTJucE9fQUN4eWw2Q3pncGpBekQ2ZFYyNUo2WHd4S09KWTVQRE5JcWdTNDZsMEQ5VVlFQXlwdFB0S1JjbFRjdFJ1ME5VMjZoWXJPNHpYQmNVMldoOXFMbXZTUnpsTDVxSUNEdkIyY1VlYjZtNjhXRHM?oc=5",
+          "publishedOn": "2025-02-13T04:22:04.000Z",
+          "wordCount": 12547,
+          "title": "CrowdStrike Falcon Sensor for Linux TLS Vulnerability Enables MiTM Attack - CybersecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMibkFVX3lxTFBvVHpUYTBIZERGRGd2ZkhRcTVLWmZxVUp6RHc3RF9Bb253RXBPNGhtM1NTWW1mWDE3TkdPNGdNSF9kNzY1SWhZTHhQOGdtZ2htZXRHVHBsSXEtb2t4YUxtemVLcmRTb3ZDWEpNT0Zn",
           "author": null,
@@ -1832,6 +2072,16 @@
           "publishedOn": "2025-02-11T08:47:00.000Z",
           "wordCount": 12543,
           "title": "Veecle’s Core now compatible with EB corbos Linux, advancing SDV development - MarkLines",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuwFBVV95cUxPZkxoX09XenVtNFNHeml6N2lTd2pVVllUcHp5S0YtdXNEajQ2Yi1UMk9wLXJGT05Wb1Bld3g5RGRBcFM2Z2MxbW8wczgtZldrbTRjcnI5cU1NMFk3UkhGbkRxQlFnN1hwUWtBRGk5YkxuRDFLeTRROVpTZmItVHQzRmhLUlJZSENNeW9hemZuT2toNWR2N3FBdGVzQXhLSDY5V21FRWFuSUgzd1pnTlBRTE1LVVQ5V2s3Y2Rn",
+          "author": null,
+          "description": "Wine vs. Bottles vs. Proton: Which Is Best for Windows Apps on Linux?  MSN",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkxoX09XenVtNFNHeml6N2lTd2pVVllUcHp5S0YtdXNEajQ2Yi1UMk9wLXJGT05Wb1Bld3g5RGRBcFM2Z2MxbW8wczgtZldrbTRjcnI5cU1NMFk3UkhGbkRxQlFnN1hwUWtBRGk5YkxuRDFLeTRROVpTZmItVHQzRmhLUlJZSENNeW9hemZuT2toNWR2N3FBdGVzQXhLSDY5V21FRWFuSUgzd1pnTlBRTE1LVVQ5V2s3Y2Rn?oc=5",
+          "publishedOn": "2025-02-11T08:04:35.000Z",
+          "wordCount": 12547,
+          "title": "Wine vs. Bottles vs. Proton: Which Is Best for Windows Apps on Linux? - MSN",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6613,206 +6863,6 @@
           "wordCount": 12540,
           "title": "Parallels Desktop 20.2 adds support for virtualizing x86 Windows and Linux systems for Macs with Apple Silicon processors - Mezha.Media",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxOV3hrYTJvd2RTc0xiOVRDRFNhanBxUWlBMHVaUlRvakc3bHAySUI2a3hzZndBX1dlekFTeVRFOFQ4Mkt2M0g0VXNfOHJJVzEzOTRONElQODFuQVVsbzBZSjBLUExFOGExMmpUZkhOaEtIVmFjdW84OXZkNktxSkNtcXZORkUwZ0U3bFUxZnVoVFNJRHcwQmRua1Z0dS1xX012M1NidEVwczUzeThQ",
-          "author": null,
-          "description": "Discord screen-sharing with audio on Linux Wayland is officially here  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3hrYTJvd2RTc0xiOVRDRFNhanBxUWlBMHVaUlRvakc3bHAySUI2a3hzZndBX1dlekFTeVRFOFQ4Mkt2M0g0VXNfOHJJVzEzOTRONElQODFuQVVsbzBZSjBLUExFOGExMmpUZkhOaEtIVmFjdW84OXZkNktxSkNtcXZORkUwZ0U3bFUxZnVoVFNJRHcwQmRua1Z0dS1xX012M1NidEVwczUzeThQ?oc=5",
-          "publishedOn": "2025-01-15T12:01:03.000Z",
-          "wordCount": 12540,
-          "title": "Discord screen-sharing with audio on Linux Wayland is officially here - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTFA4NmhlLU00Vm1MY1VfX1JsbE9pNUsyYXFvMTBCTWNZRHU3Tm5vRVlHYzk2aVZETXhlVlJxVXkyby1OTnRPd1AzWkF3UC1aZzVOVlJZQzlFNDUtUmZnY21JdWtRemF2SVh4eW5VMQ",
-          "author": null,
-          "description": "Linux 6.14 To Bring An Important Improvement For AMD Preferred Core  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NmhlLU00Vm1MY1VfX1JsbE9pNUsyYXFvMTBCTWNZRHU3Tm5vRVlHYzk2aVZETXhlVlJxVXkyby1OTnRPd1AzWkF3UC1aZzVOVlJZQzlFNDUtUmZnY21JdWtRemF2SVh4eW5VMQ?oc=5",
-          "publishedOn": "2025-01-15T12:00:00.000Z",
-          "wordCount": 12540,
-          "title": "Linux 6.14 To Bring An Important Improvement For AMD Preferred Core - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZEFVX3lxTFBZbm5KNFVEckNHbFQ5djNFN1hJU0tYOF9JUk1tOU1oUHF6MlNRTThoaHRSb3dDWHZUcUl6bmsyUFMxZG5MdHlBQTR3dHBVMTg3Zng3d0lTZXNrc2VsN2pjTjkyM0M",
-          "author": null,
-          "description": "Xen Hypervisor Support Being Worked On For RISC-V  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZbm5KNFVEckNHbFQ5djNFN1hJU0tYOF9JUk1tOU1oUHF6MlNRTThoaHRSb3dDWHZUcUl6bmsyUFMxZG5MdHlBQTR3dHBVMTg3Zng3d0lTZXNrc2VsN2pjTjkyM0M?oc=5",
-          "publishedOn": "2025-01-15T11:31:00.000Z",
-          "wordCount": 12540,
-          "title": "Xen Hypervisor Support Being Worked On For RISC-V - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVEFVX3lxTE5zSjc2a2hvdHlORGgyQUZrc3BrS21ZZzUybHUyMzVlMXZOVGV0NDhJRk13RWhXalBCWDdEYWx6ZFZOeFFhNGdRanBzVzRWSWt0S3k1MA",
-          "author": null,
-          "description": "libvirt 11.0 Released For Open-Source Virtualization API  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zSjc2a2hvdHlORGgyQUZrc3BrS21ZZzUybHUyMzVlMXZOVGV0NDhJRk13RWhXalBCWDdEYWx6ZFZOeFFhNGdRanBzVzRWSWt0S3k1MA?oc=5",
-          "publishedOn": "2025-01-15T11:11:00.000Z",
-          "wordCount": 12540,
-          "title": "libvirt 11.0 Released For Open-Source Virtualization API - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV0FVX3lxTE9DRldVcHJFMmQ4Q2pzcUsxY3M5bE9lUlFNV1h3V2tCS2FVVkxXak9UcFVBWFRraU5fWjkyU0p4aEJiakZvR0ZoTnZJTms0di10WjNTNUNldw",
-          "author": null,
-          "description": "Flatpak 1.16 Released With Better Wayland Experience and USB Device Support  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DRldVcHJFMmQ4Q2pzcUsxY3M5bE9lUlFNV1h3V2tCS2FVVkxXak9UcFVBWFRraU5fWjkyU0p4aEJiakZvR0ZoTnZJTms0di10WjNTNUNldw?oc=5",
-          "publishedOn": "2025-01-15T10:59:07.000Z",
-          "wordCount": 12540,
-          "title": "Flatpak 1.16 Released With Better Wayland Experience and USB Device Support - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxQaDRsU1RaeGx5UjdrUExhS1NUN2NQeDZwVC1yZzdNcHdORjlqajhRRURRSy1sRVR5bkZNUU81RlpZbVkwSW56TTgwMml2WGFMdTR2YTNFakVQRGl0X0tKVjg0Z3loN1lOam4tTWJBcWZoblZOdVIzV1dJX0p4ZzF0d9IBhgFBVV95cUxPVXFPa0x0R0liUW1nQ2dlRkhVdjNaTlhPLTFwTDNCUTF6THJMUVNJSXZlYWc5Y1JWcFJwWWpzN2REcE9xY2RvMWsyQlppcG02SzJLTHpnWF9JOUZLSFNvTHdUY2VnOFpObkl6UWgxc2h4UVd0dHFkQjNMUFR6TlIwb0J3Y1lFQQ",
-          "author": null,
-          "description": "Linux Rsync File Transfer Tool Vulnerability Let Attackers Execute Arbitrary Code  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDRsU1RaeGx5UjdrUExhS1NUN2NQeDZwVC1yZzdNcHdORjlqajhRRURRSy1sRVR5bkZNUU81RlpZbVkwSW56TTgwMml2WGFMdTR2YTNFakVQRGl0X0tKVjg0Z3loN1lOam4tTWJBcWZoblZOdVIzV1dJX0p4ZzF0d9IBhgFBVV95cUxPVXFPa0x0R0liUW1nQ2dlRkhVdjNaTlhPLTFwTDNCUTF6THJMUVNJSXZlYWc5Y1JWcFJwWWpzN2REcE9xY2RvMWsyQlppcG02SzJLTHpnWF9JOUZLSFNvTHdUY2VnOFpObkl6UWgxc2h4UVd0dHFkQjNMUFR6TlIwb0J3Y1lFQQ?oc=5",
-          "publishedOn": "2025-01-15T10:58:31.000Z",
-          "wordCount": 12540,
-          "title": "Linux Rsync File Transfer Tool Vulnerability Let Attackers Execute Arbitrary Code - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi2AFBVV95cUxNand1U0oyTWxWOWZtVFFfOWZiZ0R4cEEtSlN1ZGI1ZGl3NldnTC1SeWhycWtUQ3RkNE5YZnNkTE43WEtSZHQ0UU5uUXhtbVliM2hwTTZLZmVKUGRLemQ1WG1ZZTBiOHRNaUpXUjlHVURrV25oNVI4QXJnc1lGN1VrNHhBMEFQZWZGYWpXU3haamZ1WkY0MENIdnRHb2c4dHRhbHEwMnp6dm5ENUNxUjVZRHhBZ3V5LXA4ZFhLdEZCdjhRcFpuNkxxd19FaTRZM2NPZW4zYzA0MzE",
-          "author": null,
-          "description": "Jan 14th Steam Beta fixes Linux issues, a Steam Deck WiFi crash, View In Library added to Downloads page  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNand1U0oyTWxWOWZtVFFfOWZiZ0R4cEEtSlN1ZGI1ZGl3NldnTC1SeWhycWtUQ3RkNE5YZnNkTE43WEtSZHQ0UU5uUXhtbVliM2hwTTZLZmVKUGRLemQ1WG1ZZTBiOHRNaUpXUjlHVURrV25oNVI4QXJnc1lGN1VrNHhBMEFQZWZGYWpXU3haamZ1WkY0MENIdnRHb2c4dHRhbHEwMnp6dm5ENUNxUjVZRHhBZ3V5LXA4ZFhLdEZCdjhRcFpuNkxxd19FaTRZM2NPZW4zYzA0MzE?oc=5",
-          "publishedOn": "2025-01-15T10:57:02.000Z",
-          "wordCount": 12540,
-          "title": "Jan 14th Steam Beta fixes Linux issues, a Steam Deck WiFi crash, View In Library added to Downloads page - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijwFBVV95cUxQb1pJcW81aFFQaThZUWhDQ2MwTFo2Z2VZUUlOWkNHX2ZpdmFONWF4VmxDV2Q5alhlZDh2b1F6MlpHdWMtZllmVUVlZjZDdDUteWI3TFF5M0thaHZkTkNEcENqZTF5bmFrNUxKdEFrWmh1dGtRb1ZVSjhpTVJXTk9CYVh0NUh4RlVkTURXVGFuQdIBjgFBVV95cUxOVFZ1ZUQ0bXhvZFVVZWtldlh2T2dkZEtxdUJ2TndSc0ZKcG84TWs1US1BQUZIZlpJLXhndzNkR3kyeHRHdDlPTXBkTTBzY3dmTnYzWGNCanc2REtDMkxRS05VUUxUaXNaMGhyakJtNWd1Z3UxLW5oWUx6N1pzM3IyTl94UmdLMnVuNlVLSFJ3",
-          "author": null,
-          "description": "Linux Mint 22.1 ISOs approved, here's how to download them now  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1pJcW81aFFQaThZUWhDQ2MwTFo2Z2VZUUlOWkNHX2ZpdmFONWF4VmxDV2Q5alhlZDh2b1F6MlpHdWMtZllmVUVlZjZDdDUteWI3TFF5M0thaHZkTkNEcENqZTF5bmFrNUxKdEFrWmh1dGtRb1ZVSjhpTVJXTk9CYVh0NUh4RlVkTURXVGFuQdIBjgFBVV95cUxOVFZ1ZUQ0bXhvZFVVZWtldlh2T2dkZEtxdUJ2TndSc0ZKcG84TWs1US1BQUZIZlpJLXhndzNkR3kyeHRHdDlPTXBkTTBzY3dmTnYzWGNCanc2REtDMkxRS05VUUxUaXNaMGhyakJtNWd1Z3UxLW5oWUx6N1pzM3IyTl94UmdLMnVuNlVLSFJ3?oc=5",
-          "publishedOn": "2025-01-15T10:02:00.000Z",
-          "wordCount": 12540,
-          "title": "Linux Mint 22.1 ISOs approved, here's how to download them now - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTFBjblpSVFd6NDhULW44VXh1d2l4c0ZNU2VwdEtKb01oZXd5VmtBbG1xM1RvR1ZWZUpOeFVxd3ZDcU1tZGRDUTQwV1hNVF9mRTBOdUN0ZEdzWTBjcDEtNmRHM2lzYUUtSWs",
-          "author": null,
-          "description": "LACT Linux GPU Control Panel Adds Support For Intel Graphics  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjblpSVFd6NDhULW44VXh1d2l4c0ZNU2VwdEtKb01oZXd5VmtBbG1xM1RvR1ZWZUpOeFVxd3ZDcU1tZGRDUTQwV1hNVF9mRTBOdUN0ZEdzWTBjcDEtNmRHM2lzYUUtSWs?oc=5",
-          "publishedOn": "2025-01-15T08:00:00.000Z",
-          "wordCount": 12540,
-          "title": "LACT Linux GPU Control Panel Adds Support For Intel Graphics - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX0FVX3lxTFBYMUp6ZllZYVZWb0UtbFFyR2ZBa2F1OHhVUzlDMW93al9sX2hfbDlGYmlTLUZvTUpnTktVNzBZYkk4T1JzdlJ1ZUZJdUZTY0ZkdlZGT05MWlBHQTVjNE9J",
-          "author": null,
-          "description": "6 Exciting Features in Linux Mint 22.1 'Xia' Release  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYMUp6ZllZYVZWb0UtbFFyR2ZBa2F1OHhVUzlDMW93al9sX2hfbDlGYmlTLUZvTUpnTktVNzBZYkk4T1JzdlJ1ZUZJdUZTY0ZkdlZGT05MWlBHQTVjNE9J?oc=5",
-          "publishedOn": "2025-01-15T05:32:40.000Z",
-          "wordCount": 12540,
-          "title": "6 Exciting Features in Linux Mint 22.1 'Xia' Release - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE9ESjU0aUNzMHVxelhyOEdZMGVFZHpRN05QeWVkNUU5Vk0zMm5maDZVUjhfQXFVOHlsMm9SR0NvV3dLZkVaWVY4YjY5eXRHSEtqT3RfSWk1OW85bUk1YnlHUXpxOUlBNEZzdUd0Rg",
-          "author": null,
-          "description": "Intel \"Performance Tips\" Published For Optimal Linux Graphics  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESjU0aUNzMHVxelhyOEdZMGVFZHpRN05QeWVkNUU5Vk0zMm5maDZVUjhfQXFVOHlsMm9SR0NvV3dLZkVaWVY4YjY5eXRHSEtqT3RfSWk1OW85bUk1YnlHUXpxOUlBNEZzdUd0Rg?oc=5",
-          "publishedOn": "2025-01-15T05:00:00.000Z",
-          "wordCount": 12540,
-          "title": "Intel \"Performance Tips\" Published For Optimal Linux Graphics - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE56d3laM3dpUnlmMk1qV3Qybmo4ekFIWUl4S0lfTnAteTBWbmdRc2x2QlRWYW5ySmpDa1hCX0N1UlVUNzlob0pKS0ptR1daMWRFXzNnM3c1bUtMWjZhV1JJMTJ6dU5saFc3amJweQ",
-          "author": null,
-          "description": "Intel Arc B580 Linux Graphics Driver Performance One Month After Launch  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56d3laM3dpUnlmMk1qV3Qybmo4ekFIWUl4S0lfTnAteTBWbmdRc2x2QlRWYW5ySmpDa1hCX0N1UlVUNzlob0pKS0ptR1daMWRFXzNnM3c1bUtMWjZhV1JJMTJ6dU5saFc3amJweQ?oc=5",
-          "publishedOn": "2025-01-14T20:47:00.000Z",
-          "wordCount": 12540,
-          "title": "Intel Arc B580 Linux Graphics Driver Performance One Month After Launch - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxPZnc5V0FZUXY3OHZIMjZsQmNMbDVfQWlpTk5Iems0MXVSeEttdHRSdDNCN3RRZzRYUlBGNmxLdGM1RkU1TkxYcHNudFFCOVBzLVNibzJlSk9menltZTlzQnloZkQtTVQtUGNsangzLUR3MlhpeFFMR09pTVNkTVJ2eTd4Vlh5dWczeXg0VEtCTkHSAZYBQVVfeXFMTnhKNlJCLUZKMGVoTGlQV0x6V2JXZUNZdVB0MzYzQkxWWjBqLUdUTGV2WTlRaFZrUkNCQ3JvbUIxOGZwM2kxQS1ndTBNQ1pVZEhEak5vVG5QcENsTzRzWnM2RjVfelFEejN3emRvejlyWmdtUWo4cHA2OGpfbnFPNjBCRXEtRXBPZ2Y1S1hvZ3hpNzdtWDNn",
-          "author": null,
-          "description": "Linux Mint 22.1 “Xia” Is Now Available for Download, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnc5V0FZUXY3OHZIMjZsQmNMbDVfQWlpTk5Iems0MXVSeEttdHRSdDNCN3RRZzRYUlBGNmxLdGM1RkU1TkxYcHNudFFCOVBzLVNibzJlSk9menltZTlzQnloZkQtTVQtUGNsangzLUR3MlhpeFFMR09pTVNkTVJ2eTd4Vlh5dWczeXg0VEtCTkHSAZYBQVVfeXFMTnhKNlJCLUZKMGVoTGlQV0x6V2JXZUNZdVB0MzYzQkxWWjBqLUdUTGV2WTlRaFZrUkNCQ3JvbUIxOGZwM2kxQS1ndTBNQ1pVZEhEak5vVG5QcENsTzRzWnM2RjVfelFEejN3emRvejlyWmdtUWo4cHA2OGpfbnFPNjBCRXEtRXBPZ2Y1S1hvZ3hpNzdtWDNn?oc=5",
-          "publishedOn": "2025-01-14T20:22:12.000Z",
-          "wordCount": 12540,
-          "title": "Linux Mint 22.1 “Xia” Is Now Available for Download, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxPZnc5V0FZUXY3OHZIMjZsQmNMbDVfQWlpTk5Iems0MXVSeEttdHRSdDNCN3RRZzRYUlBGNmxLdGM1RkU1TkxYcHNudFFCOVBzLVNibzJlSk9menltZTlzQnloZkQtTVQtUGNsangzLUR3MlhpeFFMR09pTVNkTVJ2eTd4Vlh5dWczeXg0VEtCTkE",
-          "author": null,
-          "description": "Linux Mint 22.1 “Xia” Is Now Available for Download, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnc5V0FZUXY3OHZIMjZsQmNMbDVfQWlpTk5Iems0MXVSeEttdHRSdDNCN3RRZzRYUlBGNmxLdGM1RkU1TkxYcHNudFFCOVBzLVNibzJlSk9menltZTlzQnloZkQtTVQtUGNsangzLUR3MlhpeFFMR09pTVNkTVJ2eTd4Vlh5dWczeXg0VEtCTkE?oc=5",
-          "publishedOn": "2025-01-14T20:22:12.000Z",
-          "wordCount": 12540,
-          "title": "Linux Mint 22.1 “Xia” Is Now Available for Download, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi5wFBVV95cUxQU0t3ZEt6NzdHYy05QV9XZkxrMnZONm92Z1V6SVZQOXphaVBVY0lpWkFDMkpocFcyVHRmQ0J1MWliVGt2OEtVUjRGX2h5aW5wQS05OTB5UlE1ajJHXzh6R01GQmVNakJfMjBvckl2MkhpRldLNXktMTM1b21GQmtXZkJFVnppbnZKOXRSaldTUTVlWnc0M1psS0lKUTZLOFJ4VjJHVUEyQjRXckluRjJoaENYbUZnQko0M3o3U1dleFlHeTBQM2ZJa1RTZ09LQ1RmVEd0N3p4NUw5WTNoZmN2ZE9PalZWYzg",
-          "author": null,
-          "description": "Mecha Comet is a modular open source handheld computer that reminds me of the Indian PDA that may have inspired the iPhone  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0t3ZEt6NzdHYy05QV9XZkxrMnZONm92Z1V6SVZQOXphaVBVY0lpWkFDMkpocFcyVHRmQ0J1MWliVGt2OEtVUjRGX2h5aW5wQS05OTB5UlE1ajJHXzh6R01GQmVNakJfMjBvckl2MkhpRldLNXktMTM1b21GQmtXZkJFVnppbnZKOXRSaldTUTVlWnc0M1psS0lKUTZLOFJ4VjJHVUEyQjRXckluRjJoaENYbUZnQko0M3o3U1dleFlHeTBQM2ZJa1RTZ09LQ1RmVEd0N3p4NUw5WTNoZmN2ZE9PalZWYzg?oc=5",
-          "publishedOn": "2025-01-14T18:31:00.000Z",
-          "wordCount": 12544,
-          "title": "Mecha Comet is a modular open source handheld computer that reminds me of the Indian PDA that may have inspired the iPhone - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMitAFBVV95cUxOeC1HUXFUeC15My0wSlBXWm54Rzc3dTVOMVpLcFhQY2p6UFhfaUQycF9DYTVYaTJLcFEtQ0dEa1FyNk9KUV9SQlZ1SHYxZ2JoZjdZSmtJV2hSZTJJZXphZWk3LWVseE92SGJNd1pIUFFpNW0tT09VZm82ZURBUGlQVEFkQXp5OWkwcFhmaEp0akZ2ZTNaUmtQVjVoNGZUM2VDdUk3ZV9sTUZRQzRRdm9RUDB3UHQ",
-          "author": null,
-          "description": "Parallels can finally run x86 versions of Windows or Linux on Apple Silicon  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeC1HUXFUeC15My0wSlBXWm54Rzc3dTVOMVpLcFhQY2p6UFhfaUQycF9DYTVYaTJLcFEtQ0dEa1FyNk9KUV9SQlZ1SHYxZ2JoZjdZSmtJV2hSZTJJZXphZWk3LWVseE92SGJNd1pIUFFpNW0tT09VZm82ZURBUGlQVEFkQXp5OWkwcFhmaEp0akZ2ZTNaUmtQVjVoNGZUM2VDdUk3ZV9sTUZRQzRRdm9RUDB3UHQ?oc=5",
-          "publishedOn": "2025-01-14T17:34:40.000Z",
-          "wordCount": 12540,
-          "title": "Parallels can finally run x86 versions of Windows or Linux on Apple Silicon - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiswFBVV95cUxQcjhkazZBR0JPU0F5MVlFYTByelVUUjhQMlZRWlJQTXhPdnRuU2RVb3lXTzlPNWw1UF9fOFk0MEZ5aHliMGdJVWdta3EtUkFSOGs5RFpBVnF1WnhyZlowd1l1V0ozOUQydXZzNk5YNjM0QVFMN2RNcFhLelJjbFRxcnkxamw2UmU0SFhhX0hmWUVDUkJoZW9CNkJ5S2k0U2tkM01RTXljc3BnX1JCN1Q1ekM3SQ",
-          "author": null,
-          "description": "Android and Linux-based Smart TFT displays simplify embedded development  EE Journal",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjhkazZBR0JPU0F5MVlFYTByelVUUjhQMlZRWlJQTXhPdnRuU2RVb3lXTzlPNWw1UF9fOFk0MEZ5aHliMGdJVWdta3EtUkFSOGs5RFpBVnF1WnhyZlowd1l1V0ozOUQydXZzNk5YNjM0QVFMN2RNcFhLelJjbFRxcnkxamw2UmU0SFhhX0hmWUVDUkJoZW9CNkJ5S2k0U2tkM01RTXljc3BnX1JCN1Q1ekM3SQ?oc=5",
-          "publishedOn": "2025-01-14T17:13:13.000Z",
-          "wordCount": 12540,
-          "title": "Android and Linux-based Smart TFT displays simplify embedded development - EE Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigAFBVV95cUxNWklhSm9iWjk0VGNzQWVCWW9vY3hYUFA1X3JocU5mczJMOU5YanF3RThFRTlpb2dyR0JoNVYtSlAzYjlRU2ZLZlBLTTdnblNQSXRMQ2F2RWFfOVhmY3RKSzdBckhFM2Rua2JMNUd4dlg4em5IUnBwOVlkUmtrdnAzcg",
-          "author": null,
-          "description": "Android vs Linux for gaming handhelds: Here are my thoughts after trying both  Android Authority",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWklhSm9iWjk0VGNzQWVCWW9vY3hYUFA1X3JocU5mczJMOU5YanF3RThFRTlpb2dyR0JoNVYtSlAzYjlRU2ZLZlBLTTdnblNQSXRMQ2F2RWFfOVhmY3RKSzdBckhFM2Rua2JMNUd4dlg4em5IUnBwOVlkUmtrdnAzcg?oc=5",
-          "publishedOn": "2025-01-14T16:48:16.000Z",
-          "wordCount": 12540,
-          "title": "Android vs Linux for gaming handhelds: Here are my thoughts after trying both - Android Authority",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFBVV95cUxNZjg4Z3FZMFdHVEl6dWI2M2FNSmFBcnJ5SEgxcUlycWhJV1kzRkQ2M1ViYmJxc0g0dmRreTVnVWoxSmkycU1JZHNzaFcxZ2dDWFdWajYtNmJsSHVuVVlhaUdldmZuMnNzYVBxdmktcGtkaDl3TExqRjlCR3hXbldYSkEtZGcxNkhJZmtpREdCWXg2eVlLRjVZQWYzdXF3TmJaUWNpYV9VTEM4Mm94",
-          "author": null,
-          "description": "MX Linux 23.5 launches with Xfce 4.20 and updated kernel options  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjg4Z3FZMFdHVEl6dWI2M2FNSmFBcnJ5SEgxcUlycWhJV1kzRkQ2M1ViYmJxc0g0dmRreTVnVWoxSmkycU1JZHNzaFcxZ2dDWFdWajYtNmJsSHVuVVlhaUdldmZuMnNzYVBxdmktcGtkaDl3TExqRjlCR3hXbldYSkEtZGcxNkhJZmtpREdCWXg2eVlLRjVZQWYzdXF3TmJaUWNpYV9VTEM4Mm94?oc=5",
-          "publishedOn": "2025-01-14T14:55:00.000Z",
-          "wordCount": 12540,
-          "title": "MX Linux 23.5 launches with Xfce 4.20 and updated kernel options - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieEFVX3lxTFBFXzh2REhxZ2NWUWlsTlB5WmVjNnhGM095NTZZRk1kOWlXSUpXQnpUbzIyMDZDREVzTXFHT2tPQWVwOS1LQ2FnYlVRbHlOcW1rT2dGOENmS3ZOLURiX2JxUWdRVkl1S2FjOHNYMUlTc0xWVnBGOHZDZ9IBfkFVX3lxTE51blh0UXdrQUtDRFhWYkNzMzRfcXI2bm9wZlEzY2RrdzJvRE9tMkdveXZ0OVZkRmNmUEh2Y0lvV2dEaXpkOE1aR1FkeDIxWXhPaE84dmFFQnUwSzRRUG9ISGR0Q1UxRHVWY2FvX3d0eW1uM19rMDd3WGZrNEJBZw",
-          "author": null,
-          "description": "Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change  The Register",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFXzh2REhxZ2NWUWlsTlB5WmVjNnhGM095NTZZRk1kOWlXSUpXQnpUbzIyMDZDREVzTXFHT2tPQWVwOS1LQ2FnYlVRbHlOcW1rT2dGOENmS3ZOLURiX2JxUWdRVkl1S2FjOHNYMUlTc0xWVnBGOHZDZ9IBfkFVX3lxTE51blh0UXdrQUtDRFhWYkNzMzRfcXI2bm9wZlEzY2RrdzJvRE9tMkdveXZ0OVZkRmNmUEh2Y0lvV2dEaXpkOE1aR1FkeDIxWXhPaE84dmFFQnUwSzRRUG9ISGR0Q1UxRHVWY2FvX3d0eW1uM19rMDd3WGZrNEJBZw?oc=5",
-          "publishedOn": "2025-01-14T14:02:00.000Z",
-          "wordCount": 12540,
-          "title": "Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8959,6 +9009,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384634",
+          "author": "Geoff Graham",
+          "description": "Adam’s such a mad scientist with CSS. He’s been putting together a series of “notebooks” that make it easy for him to demo code. He’s got one for gradient text, one for a comparison slider, another for accordions…\nScroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-driven-animations-notebook/",
+          "publishedOn": "2025-02-13T13:24:29.000Z",
+          "wordCount": 1915,
+          "title": "Scroll Driven Animations Notebook",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384634"
+        },
+        {
           "id": "https://css-tricks.com/?p=384339",
           "author": "Juan Diego Rodríguez",
           "description": "We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …\nTypecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -9127,16 +9187,6 @@
           "wordCount": 2933,
           "title": "Web-Slinger.css: Across the Swiper-Verse",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382719",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/",
-          "publishedOn": "2025-01-14T14:49:10.000Z",
-          "wordCount": 2434,
-          "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
         }
       ]
     },
@@ -9145,6 +9195,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
+          "publishedOn": "2025-02-13T08:00:00.000Z",
+          "wordCount": 3531,
+          "title": "How To Test And Measure Content In UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
           "author": "hello@smashingmagazine.com (Matt Zeunert)",
@@ -9317,6 +9382,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ae2e50ada6ade0c6abd144",
+          "author": "Beau Carnes",
+          "description": "Building interactive and accessible web applications is a crucial skill for modern developers. React, one of the most popular JavaScript libraries, provides a powerful way to create dynamic user interfaces. A great way to deepen your understanding of...",
+          "link": "https://www.freecodecamp.org/news/build-a-memory-game-in-react/",
+          "publishedOn": "2025-02-13T17:39:28.000Z",
+          "wordCount": 1267,
+          "title": "Build a Memory Game in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739468350427/a0102079-c5ee-4eaa-8757-cf4d7740033c.png"
+        },
+        {
+          "id": "67ae2dae801148b110575d1c",
+          "author": "Beau Carnes",
+          "description": "Understanding fundamental programming concepts is crucial for success in computer science, especially for students preparing for the Cambridge A-Level Computer Science exam. Mastering these topics not only helps in exams but also builds a strong foun...",
+          "link": "https://www.freecodecamp.org/news/learn-a-level-computer-science-concepts/",
+          "publishedOn": "2025-02-13T17:36:46.000Z",
+          "wordCount": 1219,
+          "title": "Learn A-Level Computer Science Concepts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739468195162/489c4a7f-9e7d-406a-a618-2cde8f43eae4.png"
+        },
+        {
+          "id": "67ae1ed03cb7bcfa7a1a3530",
+          "author": "Orim Dominic Adah",
+          "description": "I recently migrated some tests from Jest to the Node.js test runner in two of my projects that use MongoDB. In one of those projects, test runtime was reduced from 107 seconds to 25 seconds (screenshot below). In the other project, test runtime was r...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-tests-using-the-nodejs-test-runner-and-mongodb-memory-server/",
+          "publishedOn": "2025-02-13T16:33:20.000Z",
+          "wordCount": 2653,
+          "title": "How to Write Tests Using the Node.js Test Runner and mongodb-memory-server",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739464298236/f5d6c959-4570-4813-bdd2-28c27dae4e1f.png"
+        },
         {
           "id": "66c4c80d6e4b60b5b844529e",
           "author": "Hunor Márton Borbély",
@@ -9896,36 +9991,6 @@
           "wordCount": 3422,
           "title": "How to Build a Dynamic Web Scraper App with Playwright and React: A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736952641440/0aa6255b-45eb-4ae8-b5cb-d87648590e18.png"
-        },
-        {
-          "id": "6789208ba535fc45fab6acd4",
-          "author": "Beau Carnes",
-          "description": "If you’ve ever wanted to explore a programming language that combines elegance, flexibility, and a rich history of innovation, Lisp is a perfect choice. With over six decades of influence on computer science, Lisp has played a foundational role in sh...",
-          "link": "https://www.freecodecamp.org/news/learn-the-lisp-programming-language/",
-          "publishedOn": "2025-01-15T05:00:00.000Z",
-          "wordCount": 1361,
-          "title": "Learn the Lisp Programming Language",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737039994775/ea8915b9-f1d4-404e-8d79-c9d706783f1d.png"
-        },
-        {
-          "id": "6786814ce75a85acb18f1d2d",
-          "author": "Ashimi0x",
-          "description": "Enhancing security is a critical aspect of every development process. But it’s crucial to make your apps accessible for users signing up for the application. So, creating a seamless experience for users while they sign up and maintaining security thr...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-social-authentication-with-strapi-and-nuxtjs/",
-          "publishedOn": "2025-01-14T15:22:52.000Z",
-          "wordCount": 2927,
-          "title": "How to Set Up Social Authentication with Strapi and Nuxt.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736865891246/8be87fdb-c57b-4ae1-91ea-00b6dbffe09b.png"
-        },
-        {
-          "id": "67867ea8a91f104f3f20e6a4",
-          "author": "Vahe Aslanyan",
-          "description": "Artificial intelligence is revolutionizing the agriculture industry, paving the way for a future of smarter, more efficient farming practices. Imagine a world where crops are grown with precision and care, maximizing yields like never before. With AI...",
-          "link": "https://www.freecodecamp.org/news/ai-in-agriculture-book/",
-          "publishedOn": "2025-01-14T15:11:36.000Z",
-          "wordCount": 22637,
-          "title": "AI in Agriculture: How AI-Enhanced Farming Can Increase Crop Yields [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736809244328/d4d5d757-b580-4c18-bc21-dad0bbd75f14.png"
         }
       ]
     }
